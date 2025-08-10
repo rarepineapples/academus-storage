@@ -1,4 +1,4 @@
-PWD /Users/jaspersun/Desktop/academus-storage/ISSUE ONE/humility
+PWD /Users/jaspersun/Desktop/academus-storage/ISSUE ONE/history of college board
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -397,10 +397,27 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-t1
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/fbb/fbb-Regular-tlf-t1.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-t1--base.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-t1.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Bold-tlf-t1.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/fbb/fbb-Bold-tlf-t1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Bold-tlf-t1--base.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_ivhnor.enc
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
 INPUT main.run.xml
 OUTPUT main.run.xml
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Bold.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  9 AUG 2025 19:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  9 AUG 2025 18:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -997,167 +997,53 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-(/usr/local/texlive/2024/texmf-dist/tex/latex/pgfplots/pgfplots.sty
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
-Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
-\t@pgfplots@toka=\toks35
-\t@pgfplots@tokb=\toks36
-\t@pgfplots@tokc=\toks37
-\pgfplots@tmpa=\dimen262
-\c@pgfplots@coordindex=\count431
-\c@pgfplots@scanlineindex=\count432
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
-.code.tex))
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.c
-ode.tex)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
-soldpgfsupp_loader.code.tex
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
-e.tex)
-Package pgfplots: loading complementary utilities for your pgf version...
-\t@pgf@toka=\toks38
-\t@pgf@tokb=\toks39
-\t@pgf@tokc=\toks40
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
-soldpgfsupp_pgfutil-common-lists.tex))
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
-.tex
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
-liststructure.code.tex)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
-liststructureext.code.tex)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
-array.code.tex
-\c@pgfplotsarray@tmp=\count433
-)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
-matrix.code.tex)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
-shared.code.tex
-\c@pgfplotstable@counta=\count434
-\t@pgfplotstable@a=\toks41
-)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
-deque.code.tex)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.co
-de.tex
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.da
-ta.code.tex))
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb
-.code.tex)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
-s.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count435
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
-.surfshading.pgfsys-pdftex.def)))
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.
-code.tex
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.cod
-e.tex))
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.c
-ode.tex)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.c
-ode.tex
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandle
-r.code.tex
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.
-code.tex)))
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.
-tex)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessin
-g.code.tex)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.cod
-e.tex)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.
-tex)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex
-)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.te
-x)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarydecorations.code.tex
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
-s.code.tex
-\pgfdecoratedcompleteddistance=\dimen263
-\pgfdecoratedremainingdistance=\dimen264
-\pgfdecoratedinputsegmentcompleteddistance=\dimen265
-\pgfdecoratedinputsegmentremainingdistance=\dimen266
-\pgf@decorate@distancetomove=\dimen267
-\pgf@decorate@repeatstate=\count436
-\pgfdecorationsegmentamplitude=\dimen268
-\pgfdecorationsegmentlength=\dimen269
-)
-\tikz@lib@dec@box=\box64
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarydecorations.pathmorphing.code.tex
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
-brarydecorations.pathmorphing.code.tex))
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarydecorations.pathreplacing.code.tex
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
-brarydecorations.pathreplacing.code.tex))
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplo
-ts.contourlua.code.tex)
-\pgfplots@numplots=\count437
-\pgfplots@xmin@reg=\dimen270
-\pgfplots@xmax@reg=\dimen271
-\pgfplots@ymin@reg=\dimen272
-\pgfplots@ymax@reg=\dimen273
-\pgfplots@zmin@reg=\dimen274
-\pgfplots@zmax@reg=\dimen275
+s/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibraryplotmarks.code.tex
-File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
-ks.code.tex
-File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
 LaTeX Font Info:    Trying to load font information for T1+fbb-TLF on input lin
-e 24.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/fbb/T1fbb-TLF.fd
+e 19.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fbb/T1fbb-TLF.fd
 File: T1fbb-TLF.fd 2020/07/01 (msharpe) Font definitions for T1/fbb-TLF.
 )
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 24.
-\@quotelevel=\count438
-\@quotereset=\count439
-
-(./main.aux)
+(Font)              scaled to size 12.0pt on input line 19.
+\@quotelevel=\count431
+\@quotereset=\count432
+ (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 24.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 2
-4.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/ly1/ly1ptm.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 19.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 1
+9.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1195,17 +1081,17 @@ LaTeX Font Info:    ... okay on input line 24.
 
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count440
-\scratchdimen=\dimen276
-\scratchbox=\box65
-\nofMPsegments=\count441
-\nofMParguments=\count442
-\everyMPshowfont=\toks42
-\MPscratchCnt=\count443
-\MPscratchDim=\dimen277
-\MPnumerator=\count444
-\makeMPintoPDFobject=\count445
-\everyMPtoPDFconversion=\toks43
+\scratchcounter=\count433
+\scratchdimen=\dimen262
+\scratchbox=\box64
+\nofMPsegments=\count434
+\nofMParguments=\count435
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count436
+\MPscratchDim=\dimen263
+\MPnumerator=\count437
+\makeMPintoPDFobject=\count438
+\everyMPtoPDFconversion=\toks36
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1215,27 +1101,27 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 24.
+Package hyperref Info: Link coloring ON on input line 19.
 
 (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-\c@mv@tabular=\count446
-\c@mv@boldtabular=\count447
-LaTeX Info: Redefining \microtypecontext on input line 24.
-Package microtype Info: Applying patch `item' on input line 24.
-Package microtype Info: Applying patch `toc' on input line 24.
-Package microtype Info: Applying patch `eqnum' on input line 24.
-Package microtype Info: Applying patch `footnote' on input line 24.
-Package microtype Info: Applying patch `verbatim' on input line 24.
+\c@mv@tabular=\count439
+\c@mv@boldtabular=\count440
+LaTeX Info: Redefining \microtypecontext on input line 19.
+Package microtype Info: Applying patch `item' on input line 19.
+Package microtype Info: Applying patch `toc' on input line 19.
+Package microtype Info: Applying patch `eqnum' on input line 19.
+Package microtype Info: Applying patch `footnote' on input line 19.
+Package microtype Info: Applying patch `verbatim' on input line 19.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 24.
+LaTeX Info: Redefining \showhyphens on input line 19.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1269,55 +1155,111 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
 (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 24.
-Package biblatex Info: Reference segment=0 on input line 24.
-
-Package pgfplots notification 'compat/show suggested version=true': document ha
-s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
-
+Package biblatex Info: Reference section=0 on input line 19.
+Package biblatex Info: Reference segment=0 on input line 19.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 26.
+(Font)              scaled to size 20.74pt on input line 21.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/sc' will be
-(Font)              scaled to size 20.74pt on input line 26.
+(Font)              scaled to size 20.74pt on input line 21.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 21.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 21.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 34.
-[1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
-ocal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc}
+(Font)              scaled to size 17.28pt on input line 23.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 23.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 35.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 35.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 41.
+ [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/
+local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc}
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_oiqgfb.enc}{/usr/lo
-cal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc}] [2]
+cal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_ivhnor.enc}{/usr/local/texl
+ive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc}]
+Underfull \vbox (badness 1173) has occurred while \output is active []
 
-LaTeX Warning: Empty bibliography on input line 46.
+ [2]
+[3] (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 83.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 83.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 83.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 83.
 
-[3] (./main.aux)
+[4] [5]
+LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 117.
+ [6]
+<lia_mwp-1.png, id=70, 910.602pt x 512.1534pt>
+File: lia_mwp-1.png Graphic file (type png)
+<use lia_mwp-1.png>
+Package pdftex.def Info: lia_mwp-1.png  used on input line 145.
+(pdftex.def)             Requested size: 407.66833pt x 229.28685pt.
+ [7 <./lia_mwp-1.png (PNG copy)>]
+<pnas.2108146119fig03.jpg, id=77, 243.7908pt x 340.03035pt>
+File: pnas.2108146119fig03.jpg Graphic file (type jpg)
+<use pnas.2108146119fig03.jpg>
+Package pdftex.def Info: pnas.2108146119fig03.jpg  used on input line 153.
+(pdftex.def)             Requested size: 407.66833pt x 568.61655pt.
+ [8 <./pnas.2108146119fig03.jpg>]
+Overfull \hbox (39.99527pt too wide) in paragraph at lines 162--162
+[]\T1/fbb-TLF/m/n/12 (-20) Chakraborty, Anu-jit. ``Present Bias''. \T1/fbb-TLF/
+m/it/12 (-20) Econo-met-rica\T1/fbb-TLF/m/n/12 (-20) , vol. 89, no. 4, 2021, pp
+. 1921^^U61. https://doi.org/[][]$10 .
+ []
+
+[9] [10]
+Overfull \hbox (10.83267pt too wide) in paragraph at lines 162--162
+\T1/fbb-TLF/m/n/12 (-20) around 1198--1196 BC''. \T1/fbb-TLF/m/it/12 (-20) Na-t
+ure\T1/fbb-TLF/m/n/12 (-20) , vol. 614, no. 7949, Feb. 2023, pp. 719^^U24. http
+s://doi.org/[][]$10 .
+ []
+
+
+Overfull \hbox (34.66524pt too wide) in paragraph at lines 162--162
+\T1/fbb-TLF/m/n/12 (-20) CO$[]$ dur-ing Eu-ro-pean Con-quest''. \T1/fbb-TLF/m/i
+t/12 (-20) The Holocene\T1/fbb-TLF/m/n/12 (-20) , vol. 21, July 2011, pp. 853^^
+U64. https://doi.org/[][]$10 .
+ []
+
+[11] [12] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: D7E957A5F63B4AD4B602FA0F13B7E304;985.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40170 strings out of 474116
- 913693 string characters out of 5743683
- 1945187 words of memory out of 5000000
- 61844 multiletter control sequences out of 15000+600000
- 608721 words of font info for 127 fonts, out of 8000000 for 9000
+ 31484 strings out of 474116
+ 612687 string characters out of 5743683
+ 1952187 words of memory out of 5000000
+ 53134 multiletter control sequences out of 15000+600000
+ 660292 words of font info for 216 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,12n,95p,1801b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb>
-Output written on main.pdf (3 pages, 92824 bytes).
+ 90i,12n,95p,1491b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Bold.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></usr/local
+/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb>
+Output written on main.pdf (12 pages, 1354597 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
- 22541 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 243 PDF objects out of 1000 (max. 8388607)
+ 214 compressed objects within 3 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 46679 words of extra memory for PDF output out of 51595 (max. 10000000)
 
