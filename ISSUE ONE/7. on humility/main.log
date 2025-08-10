@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  7 AUG 2025 23:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  9 AUG 2025 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1284,35 +1284,16 @@ LaTeX Font Info:    Font shape `T1/fbb-TLF/m/sc' will be
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 26.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 33.
+(Font)              scaled to size 10.0pt on input line 34.
 [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
 ocal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc}
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_oiqgfb.enc}{/usr/lo
-cal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc}]
-Underfull \vbox (badness 4291) has occurred while \output is active []
+cal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc}] [2]
 
- [2]
-Underfull \vbox (badness 4291) has occurred while \output is active []
+LaTeX Warning: Empty bibliography on input line 46.
 
- [3]
-LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 46.
-LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 46.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 46.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 46.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 46.
- [4{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_ivhnor.enc}] (./
-main.aux)
+[3] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1324,20 +1305,19 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40608 strings out of 474116
- 923177 string characters out of 5743683
- 1946187 words of memory out of 5000000
- 62229 multiletter control sequences out of 15000+600000
- 626501 words of font info for 161 fonts, out of 8000000 for 9000
+ 40170 strings out of 474116
+ 913693 string characters out of 5743683
+ 1945187 words of memory out of 5000000
+ 61844 multiletter control sequences out of 15000+600000
+ 608721 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,11n,95p,3067b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Bold.pfb></usr
-/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></usr/loca
-l/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb>
-Output written on main.pdf (4 pages, 128380 bytes).
+ 90i,12n,95p,1808b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb>
+Output written on main.pdf (3 pages, 92851 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 30221 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 40 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
+ 22541 words of extra memory for PDF output out of 24883 (max. 10000000)
 

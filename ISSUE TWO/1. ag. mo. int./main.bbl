@@ -724,6 +724,32 @@
     \field{year}{2014}
   \endentry
 
+  \entry{rutten2010parity}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RE}{%
+         family={Rutten},
+         familyi={R\bibinitperiod},
+         given={Emanuel},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RE1}
+    \strng{fullhash}{RE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.2139/ssrn.1876406
+    \endverb
+    \field{title}{On Cuneo’s Defence of The Parity Premise}
+    \verb{url}
+    \verb https://doi.org/10.2139/ssrn.1876406
+    \endverb
+    \field{year}{2010}
+  \endentry
+
   \entry{scholl2015defense}{misc}{}
     \name{author}{1}{}{%
       {{hash=SJA}{%
@@ -876,6 +902,33 @@
     \verb https://doi.org/10.1093/acprof:oso/9780199269914.003.0016
     \endverb
     \field{year}{2006}
+  \endentry
+
+  \entry{smith2010sinnott}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{number}{1}
+    \field{pages}{75\bibrangedash 88}
+    \field{title}{On Sinnott-Armstrong’s Case Against Moral Intuitionism}
+    \verb{url}
+    \verb https://www.jstor.org/stable/27764635
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{Ethical Theory and Moral Practice}
+    \field{year}{2010}
   \endentry
 
   \entry{stratton2014intuitionism}{misc}{}
