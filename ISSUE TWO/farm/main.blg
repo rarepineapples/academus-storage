@@ -1,0 +1,25 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[27] biber-darwin:340> INFO - === Thu Aug  7, 2025, 23:07:08
+[32] Biber.pm:419> INFO - Reading 'main.bcf'
+[64] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[70] Biber.pm:4419> INFO - Processing section 0
+[73] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
+[74] bibtex.pm:1713> INFO - LaTeX decoding ...
+[78] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
+[114] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[114] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[114] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[114] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[120] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[122] bbl.pm:763> INFO - Output to main.bbl
+[122] Biber.pm:131> WARN - legacy month field 'jun' in entry 'riedl2007harm' is not an integer - this will probably not sort properly.
+[122] Biber.pm:131> WARN - legacy month field 'apr' in entry 'lester2023food' is not an integer - this will probably not sort properly.
+[122] Biber.pm:131> WARN - legacy month field 'aug' in entry 'diao2003impact' is not an integer - this will probably not sort properly.
+[122] Biber.pm:131> WARN - legacy month field 'oct' in entry 'usafacts2023federal' is not an integer - this will probably not sort properly.
+[122] Biber.pm:131> WARN - legacy month field 'dec' in entry 'charles2019farmers' is not an integer - this will probably not sort properly.
+[122] Biber.pm:131> WARN - legacy month field 'dec' in entry 'lincicome2020america' is not an integer - this will probably not sort properly.
+[122] Biber.pm:131> WARN - legacy month field 'dec' in entry 'edwards2018cbo' is not an integer - this will probably not sort properly.
+[122] Biber.pm:131> WARN - legacy month field 'mar' in entry 'edwards2025corporate' is not an integer - this will probably not sort properly.
+[122] Biber.pm:131> WARN - legacy month field 'oct' in entry 'zhang2022comparative' is not an integer - this will probably not sort properly.
+[122] Biber.pm:133> INFO - WARNINGS: 9

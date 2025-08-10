@@ -1,0 +1,751 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{fed_ifdp_2019_1260_china_hard_landing_spillovers}{report}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=AS}{%
+         family={Ahmed},
+         familyi={A\bibinitperiod},
+         given={Shaghil},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AS+1}
+    \strng{fullhash}{AS+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \field{number}{1260}
+    \field{title}{Global Spillovers of a China Hard Landing}
+    \verb{url}
+    \verb https://www.federalreserve.gov/econres/ifdp/files/ifdp1260.pdf
+    \endverb
+    \list{institution}{1}{%
+      {Board of Governors of the Federal Reserve System}%
+    }
+    \field{type}{International Finance Discussion Papers}
+    \field{year}{2019}
+  \endentry
+
+  \entry{imf_fd_bloom_2020_changing_demographics}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BDE}{%
+         family={Bloom},
+         familyi={B\bibinitperiod},
+         given={David\bibnamedelima E.},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BDE1}
+    \strng{fullhash}{BDE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{\emph{Finance \& Development} (IMF)}
+    \field{title}{Changing Demographics and Economic Growth}
+    \verb{url}
+    \verb https://www.imf.org/en/Publications/fandd/issues/2020/03/changing-dem
+    \verb ographics-and-economic-growth-bloom
+    \endverb
+  \endentry
+
+  \entry{piie_2022_four_years_trade_war_decoupling}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BCP}{%
+         family={Bown},
+         familyi={B\bibinitperiod},
+         given={Chad\bibnamedelima P.},
+         giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BCP1}
+    \strng{fullhash}{BCP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{\emph{Peterson Institute for International Economics:
+  RealTime Economics}}
+    \field{title}{Four Years into the Trade War, Are the US and China
+  Decoupling?}
+    \verb{url}
+    \verb https://www.piie.com/blogs/realtime-economics/four-years-trade-war-ar
+    \verb e-us-and-china-decoupling#:~:text=Overall%20the%20trade%20war%20has,h
+    \verb ave%20since%20recovered%20only%20slowly.
+    \endverb
+  \endentry
+
+  \entry{worldbank_genderdata_china}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{\emph{World Bank Gender Data Portal}}
+    \field{title}{China}
+    \verb{url}
+    \verb https://genderdata.worldbank.org/en/economies/china
+    \endverb
+  \endentry
+
+  \entry{eiu_2024_demographic_outlook_2035}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{\emph{Economist Intelligence Unit}}
+    \field{title}{China’s Demographic Outlook and Implications for 2035}
+    \verb{url}
+    \verb https://www.eiu.com/n/chinas-demographic-outlook-and-implications-for
+    \verb -2035/
+    \endverb
+  \endentry
+
+  \entry{embryo_asu_one_child_policy}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{\emph{Embryo Project Encyclopedia} (Arizona State
+  University)}
+    \field{title}{China’s One-Child Policy}
+    \verb{url}
+    \verb https://embryo.asu.edu/pages/chinas-one-child-policy
+    \endverb
+  \endentry
+
+  \entry{bloomberg_2024_real_estate_crisis_ripples}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{\emph{Bloomberg News}}
+    \field{title}{China’s Real Estate Crisis Is Starting to Ripple Across the
+  World}
+    \verb{url}
+    \verb https://www.bloomberg.com/news/articles/2024-02-09/china-s-real-estat
+    \verb e-crisis-is-starting-to-ripple-across-the-world
+    \endverb
+  \endentry
+
+  \entry{yale_2014_choukhmane_macro_lunch}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CT}{%
+         family={Choukhmane},
+         familyi={C\bibinitperiod},
+         given={Taha},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CT1}
+    \strng{fullhash}{CT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{\emph{Yale University Economics Department Macro
+  Lunch}}
+    \field{title}{The One-Child Policy and Household Savings}
+    \verb{url}
+    \verb https://economics.yale.edu/sites/default/files/tahamaclunch100214_2.p
+    \verb df
+    \endverb
+  \endentry
+
+  \entry{voxeu_2014_chinas_one_child_policy_saving_puzzle}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=CN}{%
+         family={Coeurdacier},
+         familyi={C\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=JK}{%
+         family={Jin},
+         familyi={J\bibinitperiod},
+         given={Keyu},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Choukhmane},
+         familyi={C\bibinitperiod},
+         given={Taha},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CN+1}
+    \strng{fullhash}{CNJKCT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{\emph{VoxEU} (CEPR)}
+    \field{title}{China’s One-Child Policy and the Saving Puzzle}
+    \verb{url}
+    \verb https://cepr.org/voxeu/columns/chinas-one-child-policy-and-saving-puz
+    \verb zle
+    \endverb
+  \endentry
+
+  \entry{prnewswire_2017_ocp_housing_columbia}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{Columbia Business School}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{\emph{PR Newswire}}
+    \field{title}{Did China’s One-Child Policy Lead to an Inflated Housing
+  Market? New Research from Columbia Business Argues Yes}
+    \verb{url}
+    \verb https://www.prnewswire.com/news-releases/did-chinas-one-child-policy-
+    \verb lead-to-an-inflated-housing-market-new-research-from-columbia-busines
+    \verb s-argues-yes-300573361.html
+    \endverb
+  \endentry
+
+  \entry{cbo_2010_china_high_saving_rate}{report}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{Congressional Budget Office}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C2}
+    \strng{fullhash}{C2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{number}{2010-07}
+    \field{title}{China’s High Saving Rate}
+    \verb{url}
+    \verb https://www.cbo.gov/sites/default/files/111th-congress-2009-2010/work
+    \verb ingpaper/2010-07-chinasavingrate_0.pdf
+    \endverb
+    \list{institution}{1}{%
+      {Congressional Budget Office}%
+    }
+    \field{year}{2010}
+  \endentry
+
+  \entry{britannica_consequences_ocp}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{\emph{Encyclopaedia Britannica}}
+    \field{title}{Consequences of China’s One-Child Policy}
+    \verb{url}
+    \verb https://www.britannica.com/topic/one-child-policy/Consequences-of-Chi
+    \verb nas-one-child-policy
+    \endverb
+  \endentry
+
+  \entry{eastasiaforum_2023_diminishing_returns_real_estate}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{howpublished}{\emph{East Asia Forum}}
+    \field{title}{Diminishing Returns on Real Estate Threaten Chinese Economic
+  Growth}
+    \verb{url}
+    \verb https://eastasiaforum.org/2023/12/07/diminishing-returns-on-real-esta
+    \verb te-threaten-chinese-economic-growth
+    \endverb
+  \endentry
+
+  \entry{investopedia_one_child_policy}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HA}{%
+         family={Hayes},
+         familyi={H\bibinitperiod},
+         given={Adam},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HA1}
+    \strng{fullhash}{HA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{howpublished}{\emph{Investopedia}}
+    \field{title}{One-Child Policy: Definition, Purpose, History, and Birth
+  Rate}
+    \verb{url}
+    \verb https://www.investopedia.com/terms/o/one-child-policy
+    \endverb
+  \endentry
+
+  \entry{imfnews_2024_real_estate_medium_term_slowdown}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=HH}{%
+         family={Hoyle},
+         familyi={H\bibinitperiod},
+         given={Henry},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=JCS}{%
+         family={Jain-Chandra},
+         familyi={J\bibinithyphendelim C\bibinitperiod},
+         given={Sonali},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HHJCS1}
+    \strng{fullhash}{HHJCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{howpublished}{\emph{IMF News}}
+    \field{title}{China’s Real Estate Sector: Managing the Medium-Term
+  Slowdown}
+    \verb{url}
+    \verb https://www.imf.org/en/News/Articles/2024/02/02/cf-chinas-real-estate
+    \verb -sector-managing-the-medium-term-slowdown
+    \endverb
+  \endentry
+
+  \entry{pbs_newshour_ocp_slowdown}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \true{singletitle}
+    \field{howpublished}{\emph{PBS NewsHour}}
+    \field{title}{Is China’s One-Child Policy to Blame for Its Economic
+  Slowdown?}
+    \verb{url}
+    \verb https://www.pbs.org/newshour/economy/is-chinas-one-child-policy-to-bl
+    \verb ame-for-its-economic-slowdown
+    \endverb
+  \endentry
+
+  \entry{jiang2013_chinas_population_policy_crossroads}{article}{}
+    \name{author}{3}{}{%
+      {{hash=JQ}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Quanbao},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Shuzhuo},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=FMW}{%
+         family={Feldman},
+         familyi={F\bibinitperiod},
+         given={Marcus\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JQ+1}
+    \strng{fullhash}{JQLSFMW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{number}{2}
+    \field{pages}{193\bibrangedash 218}
+    \field{title}{China’s Population Policy at the Crossroads: Social Impacts
+  and Prospects}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4657744/
+    \endverb
+    \field{volume}{41}
+    \field{journaltitle}{Asian Journal of Social Science}
+    \field{year}{2013}
+  \endentry
+
+  \entry{jiang2013_crossroads_europepmc_pdf}{article}{}
+    \name{author}{3}{}{%
+      {{hash=JQ}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Quanbao},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Shuzhuo},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=FMW}{%
+         family={Feldman},
+         familyi={F\bibinitperiod},
+         given={Marcus\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JQ+1}
+    \strng{fullhash}{JQLSFMW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{number}{2}
+    \field{pages}{193\bibrangedash 218}
+    \field{title}{China’s Population Policy at the Crossroads: Social Impacts
+  and Prospects}
+    \verb{url}
+    \verb https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4657744&blobt
+    \verb ype=pdf
+    \endverb
+    \field{volume}{41}
+    \field{journaltitle}{Asian Journal of Social Science}
+    \field{year}{2013}
+  \endentry
+
+  \entry{wef_2013_easing_one_child_rule_jin}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=JK}{%
+         family={Jin},
+         familyi={J\bibinitperiod},
+         given={Keyu},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JK1}
+    \strng{fullhash}{JK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \true{singletitle}
+    \field{howpublished}{\emph{World Economic Forum}}
+    \field{title}{What Does China’s Easing of the One-Child Rule Mean for the
+  Economy?}
+    \verb{url}
+    \verb https://www.weforum.org/agenda/2013/11/what-does-chinas-easing-of-the
+    \verb -one-child-rule-mean-for-the-economy/
+    \endverb
+  \endentry
+
+  \entry{pew_2022_key_facts_declining_population}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{howpublished}{\emph{Pew Research Center}}
+    \field{title}{Key Facts About China’s Declining Population}
+    \verb{url}
+    \verb https://www.pewresearch.org/short-reads/2022/12/05/key-facts-about-ch
+    \verb inas-declining-population/
+    \endverb
+  \endentry
+
+  \entry{liao2012_one_child_policy_macroeconomic}{unpublished}{}
+    \name{author}{1}{}{%
+      {{hash=LPJ}{%
+         family={Liao},
+         familyi={L\bibinitperiod},
+         given={Pei-Ju},
+         giveni={P\bibinithyphendelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LPJ1}
+    \strng{fullhash}{LPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{note}{Institute of Economics, Academia Sinica}
+    \field{title}{The One-Child Policy: A Macroeconomic Analysis}
+    \verb{url}
+    \verb https://homepage.ntu.edu.tw/~pjliaoteach/one_draft042512_final.pdf
+    \endverb
+    \field{year}{2012}
+  \endentry
+
+  \entry{bbc_2023_china_economic_problems_a}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MN}{%
+         family={Marsh},
+         familyi={M\bibinitperiod},
+         given={Nick},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MN1}
+    \strng{fullhash}{MN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{howpublished}{\emph{BBC News}}
+    \field{title}{What China’s Economic Problems Mean for the World}
+    \verb{url}
+    \verb https://www.bbc.com/news/business-66840367
+    \endverb
+  \endentry
+
+  \entry{bbc_2023_china_economic_problems_b}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MN}{%
+         family={Marsh},
+         familyi={M\bibinitperiod},
+         given={Nick},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MN1}
+    \strng{fullhash}{MN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{howpublished}{\emph{BBC News}}
+    \field{title}{What China’s Economic Problems Mean for the World}
+    \verb{url}
+    \verb https://www.bbc.com/news/business-66840367
+    \endverb
+  \endentry
+
+  \entry{savills_real_estate_markets_invigorated}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{howpublished}{\emph{Savills} Research Blog}
+    \field{title}{Real Estate Markets to Be Invigorated as Growing Pool of
+  Buyers and Sellers Look to Make a Splash}
+    \verb{url}
+    \verb https://www.savills.co.uk/blog/article/356308/commercial-property/rea
+    \verb l-estate-markets-to-be-invigorated-as-growing-pool-of-buyers-and-sell
+    \verb ers-look-to-make-a-splash.aspx
+    \endverb
+  \endentry
+
+  \entry{song2020_canterbury_wp14_2020}{report}{}
+    \name{author}{3}{}{%
+      {{hash=SZ}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Zhongchen},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Coup{\'e}},
+         familyi={C\bibinitperiod},
+         given={Tom},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=RWR}{%
+         family={Reed},
+         familyi={R\bibinitperiod},
+         given={W.\bibnamedelima Robert},
+         giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SZ+1}
+    \strng{fullhash}{SZCTRWR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{14/2020}
+    \field{title}{Estimating the Effect of the One-Child Policy on Chinese
+  Household Savings: Evidence from an Oaxaca Decomposition}
+    \verb{url}
+    \verb https://repec.canterbury.ac.nz/cbt/econwp/2014.pdf
+    \endverb
+    \list{institution}{2}{%
+      {University of Canterbury, Department of Economics}%
+      {Finance}%
+    }
+    \field{type}{Working Paper}
+    \field{year}{2020}
+  \endentry
+
+  \entry{song2020_canterbury_wp14_2020_b}{report}{}
+    \name{author}{3}{}{%
+      {{hash=SZ}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Zhongchen},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Coup{\'e}},
+         familyi={C\bibinitperiod},
+         given={Tom},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=RWR}{%
+         family={Reed},
+         familyi={R\bibinitperiod},
+         given={W.\bibnamedelima Robert},
+         giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SZ+1}
+    \strng{fullhash}{SZCTRWR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{14/2020}
+    \field{title}{Estimating the Effect of the One-Child Policy on Chinese
+  Household Savings: Evidence from an Oaxaca Decomposition}
+    \verb{url}
+    \verb https://repec.canterbury.ac.nz/cbt/econwp/2014.pdf
+    \endverb
+    \list{institution}{2}{%
+      {University of Canterbury, Department of Economics}%
+      {Finance}%
+    }
+    \field{type}{Working Paper}
+    \field{year}{2020}
+  \endentry
+
+  \entry{apnews_china_trade_exports_imports}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SZ}{%
+         family={Soo},
+         familyi={S\bibinitperiod},
+         given={Zen},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SZ1}
+    \strng{fullhash}{SZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{\emph{AP News}}
+    \field{title}{China’s Exports Tumble 7.5\% in March and Imports Also Fall
+  as Demand Slows}
+    \verb{url}
+    \verb https://apnews.com/article/china-trade-exports-imports-b25c21299101d2
+    \verb 483f946a0ce264662f
+    \endverb
+  \endentry
+
+  \entry{reuters_2021_three_child_policy}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=SD}{%
+         family={Stanway},
+         familyi={S\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Munroe},
+         familyi={M\bibinitperiod},
+         given={Tony},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SDMT1}
+    \strng{fullhash}{SDMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{\emph{Reuters}}
+    \field{title}{China Says Each Couple Can Have Three Children in Policy
+  Shift}
+    \verb{url}
+    \verb https://www.reuters.com/world/china/china-says-each-couple-can-have-t
+    \verb hree-children-change-policy-2021-05-31/
+    \endverb
+  \endentry
+
+  \entry{npr_legacy_one_child_policy_2021}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{howpublished}{\emph{NPR}}
+    \field{title}{The Legacy of the Lasting Effects of China’s 1-Child
+  Policy}
+    \verb{url}
+    \verb https://www.npr.org/2021/06/21/1008656293/the-legacy-of-the-lasting-e
+    \verb ffects-of-chinas-1-child-policy
+    \endverb
+  \endentry
+
+  \entry{projectsyndicate_2021_wei_sex_imbalance}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=WSJ}{%
+         family={Wei},
+         familyi={W\bibinitperiod},
+         given={Shang-Jin},
+         giveni={S\bibinithyphendelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WSJ1}
+    \strng{fullhash}{WSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{howpublished}{\emph{Project Syndicate}}
+    \field{title}{How China’s Sex Imbalance Impacts Savings, Trade, and
+  Workplaces}
+    \verb{url}
+    \verb https://www.project-syndicate.org/commentary/china-sex-imbalance-impa
+    \verb ct-on-savings-trade-and-workplaces-by-shang-jin-wei-2021-05
+    \endverb
+  \endentry
+
+  \entry{cnbc_2023_property_crisis_global_economy}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{howpublished}{\emph{CNBC}}
+    \field{title}{What China’s Slow-Motion Property Crisis Means for the
+  Global Economy}
+    \verb{url}
+    \verb https://www.cnbc.com/2023/10/27/what-chinas-slow-motion-property-cris
+    \verb is-means-for-the-global-economy.html
+    \endverb
+  \endentry
+\enddatalist
+\endinput

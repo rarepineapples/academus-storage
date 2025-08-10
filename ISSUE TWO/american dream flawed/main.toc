@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Literature Review}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The Issues of Plurality Voting}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Ranked Choice Voting as an Electoral Reform in the U.S.}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Case Studies}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Alaska}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}2022 Gubernatorial Election}{5}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}2022 General Elections}{6}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}San Francisco}{10}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}2018 Mayoral Election}{10}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Oakland}{11}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Conclusion}{12}{section.4}%

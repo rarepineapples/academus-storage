@@ -1,0 +1,439 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{allen2024}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1c1964a9fd3814feb76577c932922df}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Kelly-Ann},
+           giveni={K\bibinithyphendelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fc0517cce01db82f248c3677dfa59d7d}
+      \strng{fullhash}{fc0517cce01db82f248c3677dfa59d7d}
+      \strng{bibnamehash}{fc0517cce01db82f248c3677dfa59d7d}
+      \strng{authorbibnamehash}{fc0517cce01db82f248c3677dfa59d7d}
+      \strng{authornamehash}{fc0517cce01db82f248c3677dfa59d7d}
+      \strng{authorfullhash}{fc0517cce01db82f248c3677dfa59d7d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{School Mental Health}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Adolescent School Belonging and Mental Health Outcomes in Young Adulthood: Findings from a Multi-wave Prospective Cohort Study}
+      \field{volume}{16}
+      \field{year}{2024}
+      \field{pages}{149\bibrangedash 160}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s12310-023-09626-6
+      \endverb
+    \endentry
+    \entry{almroth2019}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fa9e03be689b48c796f0922a2ac09ff9}{%
+           family={Almroth},
+           familyi={A\bibinitperiod},
+           given={Melody},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Karolinska Institutet}%
+      }
+      \list{location}{1}{%
+        {Sweden}%
+      }
+      \strng{namehash}{fa9e03be689b48c796f0922a2ac09ff9}
+      \strng{fullhash}{fa9e03be689b48c796f0922a2ac09ff9}
+      \strng{bibnamehash}{fa9e03be689b48c796f0922a2ac09ff9}
+      \strng{authorbibnamehash}{fa9e03be689b48c796f0922a2ac09ff9}
+      \strng{authornamehash}{fa9e03be689b48c796f0922a2ac09ff9}
+      \strng{authorfullhash}{fa9e03be689b48c796f0922a2ac09ff9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Abstract}
+      \field{title}{Adolescents' Future Academic Prospects: Predictors and Mental Health Outcomes}
+      \field{type}{PhD dissertation}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb www.proquest.com/dissertations-theses/adolescents-future-academic-prospects-predictors/docview/2494255388/se-2?accountid=5245
+      \endverb
+      \verb{url}
+      \verb www.proquest.com/dissertations-theses/adolescents-future-academic-prospects-predictors/docview/2494255388/se-2?accountid=5245
+      \endverb
+    \endentry
+    \entry{boness2021}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=491780fc61e9fc1eb51351e5147089c0}{%
+           family={Boness},
+           familyi={B\bibinitperiod},
+           given={Cassandra\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f5516812f2291be667fe4f82dd5a1de2}
+      \strng{fullhash}{f5516812f2291be667fe4f82dd5a1de2}
+      \strng{bibnamehash}{f5516812f2291be667fe4f82dd5a1de2}
+      \strng{authorbibnamehash}{f5516812f2291be667fe4f82dd5a1de2}
+      \strng{authornamehash}{f5516812f2291be667fe4f82dd5a1de2}
+      \strng{authorfullhash}{f5516812f2291be667fe4f82dd5a1de2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health \& Social Care in the Community}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{Crisis Line Services: A 12‐month Descriptive Analysis of Callers, Call Content, and Referrals}
+      \field{volume}{29}
+      \field{year}{2021}
+      \field{pages}{738\bibrangedash 745}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1111/hsc.13325
+      \endverb
+    \endentry
+    \entry{chen2024}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c1f2f0886021084d626eda85d826ff6c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Baoling},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{163ce542c16e04bd9b16312a208be6ca}
+      \strng{fullhash}{163ce542c16e04bd9b16312a208be6ca}
+      \strng{bibnamehash}{163ce542c16e04bd9b16312a208be6ca}
+      \strng{authorbibnamehash}{163ce542c16e04bd9b16312a208be6ca}
+      \strng{authornamehash}{163ce542c16e04bd9b16312a208be6ca}
+      \strng{authorfullhash}{163ce542c16e04bd9b16312a208be6ca}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Psychiatry}
+      \field{title}{The Relationship between Academic Stress and Depression among College Students during the COVID-19 Pandemic: A Cross-sectional Study from China}
+      \field{volume}{24}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1186/s12888-024-05506-8
+      \endverb
+    \endentry
+    \entry{claney2023}{misc}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=1aeb768026b5d401757fa870e80dce13}{%
+           family={Claney},
+           familyi={C\bibinitperiod},
+           given={Carly},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1aeb768026b5d401757fa870e80dce13}
+      \strng{fullhash}{1aeb768026b5d401757fa870e80dce13}
+      \strng{bibnamehash}{1aeb768026b5d401757fa870e80dce13}
+      \strng{editorbibnamehash}{1aeb768026b5d401757fa870e80dce13}
+      \strng{editornamehash}{1aeb768026b5d401757fa870e80dce13}
+      \strng{editorfullhash}{1aeb768026b5d401757fa870e80dce13}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{Relational Psych}
+      \field{urlday}{16}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb www.relationalpsych.group/articles/exploring-the-impact-of-school-stress-on-teens-emotional-well-being
+      \endverb
+      \verb{url}
+      \verb www.relationalpsych.group/articles/exploring-the-impact-of-school-stress-on-teens-emotional-well-being
+      \endverb
+    \endentry
+    \entry{cordovaolivera2023}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=275a0024a67219d341770d2435c6089b}{%
+           family={Córdova\bibnamedelima Olivera},
+           familyi={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e088cc3e6f2bf75356530dc8fb96fb0}
+      \strng{fullhash}{7e088cc3e6f2bf75356530dc8fb96fb0}
+      \strng{bibnamehash}{7e088cc3e6f2bf75356530dc8fb96fb0}
+      \strng{authorbibnamehash}{7e088cc3e6f2bf75356530dc8fb96fb0}
+      \strng{authornamehash}{7e088cc3e6f2bf75356530dc8fb96fb0}
+      \strng{authorfullhash}{7e088cc3e6f2bf75356530dc8fb96fb0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cogent Education}
+      \field{month}{7}
+      \field{number}{2}
+      \field{title}{Academic Stress as a Predictor of Mental Health in University Students}
+      \field{volume}{10}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1080/2331186x.2023.2232686
+      \endverb
+    \endentry
+    \entry{duan2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0abe9db283f8098a4cc114e6919f66dc}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Wenjie},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0abe9db283f8098a4cc114e6919f66dc}
+      \strng{fullhash}{0abe9db283f8098a4cc114e6919f66dc}
+      \strng{bibnamehash}{0abe9db283f8098a4cc114e6919f66dc}
+      \strng{authorbibnamehash}{0abe9db283f8098a4cc114e6919f66dc}
+      \strng{authornamehash}{0abe9db283f8098a4cc114e6919f66dc}
+      \strng{authorfullhash}{0abe9db283f8098a4cc114e6919f66dc}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quality of Life Research}
+      \field{number}{11}
+      \field{title}{The Benefits of Personal Strengths in Mental Health of Stressed Students: A Longitudinal Investigation}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{25}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{2879\bibrangedash 2888}
+      \range{pages}{10}
+      \verb{eprint}
+      \verb JSTOR
+      \endverb
+      \verb{urlraw}
+      \verb www.jstor.org/stable/44852735
+      \endverb
+      \verb{url}
+      \verb www.jstor.org/stable/44852735
+      \endverb
+    \endentry
+    \entry{mcleod2012}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9866078635735bbac261d177685251ff}{%
+           family={McLeod},
+           familyi={M\bibinitperiod},
+           given={Jane\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{47e715377c634ef48ebc0736bf85365c}
+      \strng{fullhash}{47e715377c634ef48ebc0736bf85365c}
+      \strng{bibnamehash}{47e715377c634ef48ebc0736bf85365c}
+      \strng{authorbibnamehash}{47e715377c634ef48ebc0736bf85365c}
+      \strng{authornamehash}{47e715377c634ef48ebc0736bf85365c}
+      \strng{authorfullhash}{47e715377c634ef48ebc0736bf85365c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Health and Social Behavior}
+      \field{number}{4}
+      \field{title}{Adolescent Mental Health, Behavior Problems, and Academic Achievement}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{volume}{53}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{482\bibrangedash 497}
+      \range{pages}{16}
+      \verb{eprint}
+      \verb JSTOR
+      \endverb
+      \verb{urlraw}
+      \verb www.jstor.org/stable/41725233
+      \endverb
+      \verb{url}
+      \verb www.jstor.org/stable/41725233
+      \endverb
+    \endentry
+    \entry{sha2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=783691fb61954b3bf5f80739268cbd47}{%
+           family={Sha},
+           familyi={S\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=8bf1f21b7c8739c6ebaa640d5524ec84}{%
+           family={Labott-Smith},
+           familyi={L\bibinithyphendelim S\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{783691fb61954b3bf5f80739268cbd47}
+      \strng{fullhash}{783691fb61954b3bf5f80739268cbd47}
+      \strng{bibnamehash}{783691fb61954b3bf5f80739268cbd47}
+      \strng{authorbibnamehash}{783691fb61954b3bf5f80739268cbd47}
+      \strng{authornamehash}{783691fb61954b3bf5f80739268cbd47}
+      \strng{authorfullhash}{783691fb61954b3bf5f80739268cbd47}
+      \strng{editorbibnamehash}{8bf1f21b7c8739c6ebaa640d5524ec84}
+      \strng{editornamehash}{8bf1f21b7c8739c6ebaa640d5524ec84}
+      \strng{editorfullhash}{8bf1f21b7c8739c6ebaa640d5524ec84}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{American Psychological Association}
+      \field{month}{3}
+      \field{title}{Stress effects on the body}
+      \field{urlday}{22}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb www.apa.org/topics/stress/body
+      \endverb
+      \verb{url}
+      \verb www.apa.org/topics/stress/body
+      \endverb
+    \endentry
+    \entry{apa2014stress}{misc}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{American Psychological Association}
+      \field{title}{Stress and Exercise}
+      \field{urlday}{5}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb www.apa.org/news/press/releases/stress/2013/exercise
+      \endverb
+      \verb{url}
+      \verb www.apa.org/news/press/releases/stress/2013/exercise
+      \endverb
+    \endentry
+    \entry{versteeg2022}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d1221491102a46e2b0ab0264d77126e}{%
+           family={Versteeg},
+           familyi={V\bibinitperiod},
+           given={Melissa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5fbbacbc4c7374ef87e21cc50a398560}
+      \strng{fullhash}{5fbbacbc4c7374ef87e21cc50a398560}
+      \strng{bibnamehash}{5fbbacbc4c7374ef87e21cc50a398560}
+      \strng{authorbibnamehash}{5fbbacbc4c7374ef87e21cc50a398560}
+      \strng{authornamehash}{5fbbacbc4c7374ef87e21cc50a398560}
+      \strng{authorfullhash}{5fbbacbc4c7374ef87e21cc50a398560}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Public Health}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{Predicting Student Engagement: The Role of Academic Belonging, Social Integration, and Resilience during COVID-19 Emergency Remote Teaching}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{738\bibrangedash 745}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.3389/fpubh.2022.849594
+      \endverb
+    \endentry
+    \entry{wfu2025}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b307a20e1c2142c467139131a9d7606}{%
+           family={{Wake Forest University}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b307a20e1c2142c467139131a9d7606}
+      \strng{fullhash}{7b307a20e1c2142c467139131a9d7606}
+      \strng{bibnamehash}{7b307a20e1c2142c467139131a9d7606}
+      \strng{authorbibnamehash}{7b307a20e1c2142c467139131a9d7606}
+      \strng{authornamehash}{7b307a20e1c2142c467139131a9d7606}
+      \strng{authorfullhash}{7b307a20e1c2142c467139131a9d7606}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{School Stress Management: Tips and Strategies for Students of All Ages}
+      \field{urlday}{23}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb counseling.online.wfu.edu/blog/school-stress-management-for-students/
+      \endverb
+      \verb{url}
+      \verb counseling.online.wfu.edu/blog/school-stress-management-for-students/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

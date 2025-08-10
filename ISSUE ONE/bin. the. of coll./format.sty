@@ -1,0 +1,72 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{format}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+
+% links and colours, for when they are needed.
+\usepackage[colorlinks=true, urlcolor=blue, citecolor=black]{hyperref}
+
+\makeatletter
+\renewcommand\hyper@natanchorstart[1]{} 
+\renewcommand\hyper@natanchorend{} 
+\renewcommand\hyper@natlinkstart[1]{} 
+\renewcommand\hyper@natlinkend{} 
+\renewcommand\hyper@natlinkbreak[2]{#1}
+\makeatother
+
+% type features
+\usepackage{fbb}
+\usepackage{microtype}
+\usepackage{ragged2e}
+
+%bibliography
+\usepackage[style=mla]{biblatex}
+\addbibresource{refs.bib}
+
+% title
+\renewcommand\maketitle{
+
+  \thispagestyle{first-page}
+
+  \noindent
+  % \begin{minipage}[t]{0.9\linewidth}
+  {\centering\noindent\LARGE\textsc\jtitle\par}
+  % \end{minipage}
+
+  \bigskip
+
+  {\centering\noindent\textsc\jauthor\par}
+
+  \medskip
+
+  {\centering\noindent\textit\jaffiliation\par}
+
+  \bigskip
+  \bigskip
+}
+
+% sections
+% \renewcommand\thesection{\textsc{\roman{section}}}
+
+% headers and footers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot{}
+\fancyhead[LE]{\textit{\thepage\quad\jauthor}}
+\fancyhead[RO]{\textit{Academus Philosophy Journal\quad\thepage}}
+\renewcommand{\headrulewidth}{0pt}
+\setlength\headheight{2em}
+
+\fancyfoot[R]{\footnotesize vol. \jvolume\quad \jyear}
+
+
+% first page footer
+
+\fancypagestyle{first-page}{
+  % \fancyfoot[L]{\footnotesize \textsc{doi}: \url{\jdoi}\quad \textsc{issn}: \url{XXXX-XXX}}
+}
+
+
+

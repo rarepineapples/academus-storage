@@ -1,0 +1,20 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[25] biber-darwin:340> INFO - === Wed Aug  6, 2025, 20:39:46
+[33] Biber.pm:419> INFO - Reading 'main.bcf'
+[64] Biber.pm:979> INFO - Found 13 citekeys in bib section 0
+[70] Biber.pm:4419> INFO - Processing section 0
+[73] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
+[74] bibtex.pm:1713> INFO - LaTeX decoding ...
+[79] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
+[112] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[112] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[112] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[112] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[118] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[120] bbl.pm:763> INFO - Output to main.bbl
+[121] Biber.pm:131> WARN - legacy month field 'apr' in entry 'reinstein2011' is not an integer - this will probably not sort properly.
+[121] Biber.pm:131> WARN - legacy month field 'jul' in entry 'schmitt2000' is not an integer - this will probably not sort properly.
+[121] Biber.pm:131> WARN - legacy month field 'nov' in entry 'prakash2001' is not an integer - this will probably not sort properly.
+[121] Biber.pm:131> WARN - legacy month field 'apr' in entry 'hamilton1793' is not an integer - this will probably not sort properly.
+[121] Biber.pm:133> INFO - WARNINGS: 4

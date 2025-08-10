@@ -1,0 +1,689 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{aldy2012promise}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=053ec2c2651a1baa2c29dbaea2985cb0}{%
+           family={Aldy},
+           familyi={A\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e28ecb8a17820fca62926d8189d72047}{%
+           family={Stavins},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{691652fa0899c642628c4402b7ac9915}
+      \strng{fullhash}{691652fa0899c642628c4402b7ac9915}
+      \strng{bibnamehash}{691652fa0899c642628c4402b7ac9915}
+      \strng{authorbibnamehash}{691652fa0899c642628c4402b7ac9915}
+      \strng{authornamehash}{691652fa0899c642628c4402b7ac9915}
+      \strng{authorfullhash}{691652fa0899c642628c4402b7ac9915}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Environment \& Development}
+      \field{month}{4}
+      \field{title}{The Promise and Problems of Pricing Carbon}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1177/1070496512442508
+      \endverb
+    \endentry
+    \entry{andersson2019carbontaxes}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=831331f9f97fd8e7fa2beafa9be14e6f}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Julius\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{831331f9f97fd8e7fa2beafa9be14e6f}
+      \strng{fullhash}{831331f9f97fd8e7fa2beafa9be14e6f}
+      \strng{bibnamehash}{831331f9f97fd8e7fa2beafa9be14e6f}
+      \strng{authorbibnamehash}{831331f9f97fd8e7fa2beafa9be14e6f}
+      \strng{authornamehash}{831331f9f97fd8e7fa2beafa9be14e6f}
+      \strng{authorfullhash}{831331f9f97fd8e7fa2beafa9be14e6f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Journal - Economic Policy}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{Carbon Taxes and CO{\textsubscript{2}} Emissions: Sweden as a Case Study}
+      \field{volume}{11}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 30}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1257/pol.20170144
+      \endverb
+    \endentry
+    \entry{bernton2018washington}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=56bb19aa9e9ae7fe1b81e1755ccebdb5}{%
+           family={Bernton},
+           familyi={B\bibinitperiod},
+           given={Hal},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{56bb19aa9e9ae7fe1b81e1755ccebdb5}
+      \strng{fullhash}{56bb19aa9e9ae7fe1b81e1755ccebdb5}
+      \strng{bibnamehash}{56bb19aa9e9ae7fe1b81e1755ccebdb5}
+      \strng{authorbibnamehash}{56bb19aa9e9ae7fe1b81e1755ccebdb5}
+      \strng{authornamehash}{56bb19aa9e9ae7fe1b81e1755ccebdb5}
+      \strng{authorfullhash}{56bb19aa9e9ae7fe1b81e1755ccebdb5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{The Seattle Times}
+      \field{month}{11}
+      \field{title}{Washington State Voters Reject Carbon-Fee Initiative}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb www.seattletimes.com/seattle-news/politics/voters-rejecting-carbon-fee-in-first-day-returns/
+      \endverb
+      \verb{url}
+      \verb www.seattletimes.com/seattle-news/politics/voters-rejecting-carbon-fee-in-first-day-returns/
+      \endverb
+    \endentry
+    \entry{bistline2023economic}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0a31c0ba43e51ef0b1a02af0d855c9e9}{%
+           family={Bistline},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelimb E.\bibnamedelimi T.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{59dde22604038dc3796b4cf2379ee33e}
+      \strng{fullhash}{59dde22604038dc3796b4cf2379ee33e}
+      \strng{bibnamehash}{59dde22604038dc3796b4cf2379ee33e}
+      \strng{authorbibnamehash}{59dde22604038dc3796b4cf2379ee33e}
+      \strng{authornamehash}{59dde22604038dc3796b4cf2379ee33e}
+      \strng{authorfullhash}{59dde22604038dc3796b4cf2379ee33e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brookings Papers on Economic Activity}
+      \field{number}{1}
+      \field{title}{Economic Implications of the Climate Provisions of the Inflation Reduction Act}
+      \field{volume}{2023}
+      \field{year}{2023}
+      \field{pages}{77\bibrangedash 182}
+      \range{pages}{106}
+      \verb{eprint}
+      \verb Project Muse
+      \endverb
+      \verb{urlraw}
+      \verb muse.jhu.edu/pub/1/article/919359
+      \endverb
+      \verb{url}
+      \verb muse.jhu.edu/pub/1/article/919359
+      \endverb
+    \endentry
+    \entry{c2es2025california}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94f5e489e79220a58dd730cf47075fca}{%
+           family={{Center for Climate and Energy Solutions}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{94f5e489e79220a58dd730cf47075fca}
+      \strng{fullhash}{94f5e489e79220a58dd730cf47075fca}
+      \strng{bibnamehash}{94f5e489e79220a58dd730cf47075fca}
+      \strng{authorbibnamehash}{94f5e489e79220a58dd730cf47075fca}
+      \strng{authornamehash}{94f5e489e79220a58dd730cf47075fca}
+      \strng{authorfullhash}{94f5e489e79220a58dd730cf47075fca}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{C2ES}
+      \field{title}{California Cap and Trade}
+      \field{urlday}{5}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb www.c2es.org/content/california-cap-and-trade/
+      \endverb
+      \verb{url}
+      \verb www.c2es.org/content/california-cap-and-trade/
+      \endverb
+    \endentry
+    \entry{coady2010petroleum}{report}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f2082b58c8a0ba9432febe461a8996af}{%
+           family={Coady},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {International Monetary Fund}%
+      }
+      \strng{namehash}{9fe94822547e395eb72dccfbb1862175}
+      \strng{fullhash}{9fe94822547e395eb72dccfbb1862175}
+      \strng{bibnamehash}{9fe94822547e395eb72dccfbb1862175}
+      \strng{authorbibnamehash}{9fe94822547e395eb72dccfbb1862175}
+      \strng{authornamehash}{9fe94822547e395eb72dccfbb1862175}
+      \strng{authorfullhash}{9fe94822547e395eb72dccfbb1862175}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{number}{SPN/10/01}
+      \field{title}{Petroleum Product Subsidies: Costly, Inequitable, and Rising}
+      \field{type}{IMF Staff Position Note}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.5089/9781455239108.004
+      \endverb
+    \endentry
+    \entry{frank2014pricing}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2cec9475b67efb51cd399cb858415ad8}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2cec9475b67efb51cd399cb858415ad8}
+      \strng{fullhash}{2cec9475b67efb51cd399cb858415ad8}
+      \strng{bibnamehash}{2cec9475b67efb51cd399cb858415ad8}
+      \strng{authorbibnamehash}{2cec9475b67efb51cd399cb858415ad8}
+      \strng{authornamehash}{2cec9475b67efb51cd399cb858415ad8}
+      \strng{authorfullhash}{2cec9475b67efb51cd399cb858415ad8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Brookings}
+      \field{month}{8}
+      \field{title}{Pricing Carbon: A Carbon Tax or Cap-and-Trade?}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb www.brookings.edu/articles/pricing-carbon-a-carbon-tax-or-cap-and-trade/
+      \endverb
+      \verb{url}
+      \verb www.brookings.edu/articles/pricing-carbon-a-carbon-tax-or-cap-and-trade/
+      \endverb
+    \endentry
+    \entry{gugler2021effectiveness}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=84a038e102a15a235e7e50bf5715943d}{%
+           family={Gugler},
+           familyi={G\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3228227dfc92fa512e85f9beef4c8b6b}
+      \strng{fullhash}{3228227dfc92fa512e85f9beef4c8b6b}
+      \strng{bibnamehash}{3228227dfc92fa512e85f9beef4c8b6b}
+      \strng{authorbibnamehash}{3228227dfc92fa512e85f9beef4c8b6b}
+      \strng{authornamehash}{3228227dfc92fa512e85f9beef4c8b6b}
+      \strng{authorfullhash}{3228227dfc92fa512e85f9beef4c8b6b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Environmental Economics and Management}
+      \field{month}{3}
+      \field{title}{Effectiveness of Climate Policies: Carbon Pricing vs. Subsidizing Renewables}
+      \field{volume}{106}
+      \field{year}{2021}
+      \field{pages}{102405}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jeem.2020.102405
+      \endverb
+    \endentry
+    \entry{jabakhanji2024federal}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5698dcde5656c36b8956f4dea9d08ea}{%
+           family={Jabakhanji},
+           familyi={J\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a5698dcde5656c36b8956f4dea9d08ea}
+      \strng{fullhash}{a5698dcde5656c36b8956f4dea9d08ea}
+      \strng{bibnamehash}{a5698dcde5656c36b8956f4dea9d08ea}
+      \strng{authorbibnamehash}{a5698dcde5656c36b8956f4dea9d08ea}
+      \strng{authornamehash}{a5698dcde5656c36b8956f4dea9d08ea}
+      \strng{authorfullhash}{a5698dcde5656c36b8956f4dea9d08ea}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{CBC News}
+      \field{month}{4}
+      \field{title}{Federal Carbon Tax ‘has to Go,’ Says Ontario Premier}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb www.cbc.ca/news/canada/toronto/doug-ford-carbon-tax-ontario-1.7161131
+      \endverb
+      \verb{url}
+      \verb www.cbc.ca/news/canada/toronto/doug-ford-carbon-tax-ontario-1.7161131
+      \endverb
+    \endentry
+    \entry{marshall2018fast}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a2909b9521721b769479cabf7e77fbf1}{%
+           family={Marshall},
+           familyi={M\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72d75eac8532f655e9248e30814ba931}{%
+           family={Archer},
+           familyi={A\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9863bb22b971bcaa5c01bfc301860252}
+      \strng{fullhash}{9863bb22b971bcaa5c01bfc301860252}
+      \strng{bibnamehash}{9863bb22b971bcaa5c01bfc301860252}
+      \strng{authorbibnamehash}{9863bb22b971bcaa5c01bfc301860252}
+      \strng{authornamehash}{9863bb22b971bcaa5c01bfc301860252}
+      \strng{authorfullhash}{9863bb22b971bcaa5c01bfc301860252}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Citizens' Climate Lobby}
+      \field{month}{8}
+      \field{title}{10 Fast Facts about Revenue-Neutral Carbon Fees}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb citizensclimatelobby.org/blog/policy/10-facts-revenue-neutral-carbon-fees/
+      \endverb
+      \verb{url}
+      \verb citizensclimatelobby.org/blog/policy/10-facts-revenue-neutral-carbon-fees/
+      \endverb
+    \endentry
+    \entry{miron2024clean}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=73c303ad7aba2d58b95fa5869e95ff95}{%
+           family={Miron},
+           familyi={M\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{73c303ad7aba2d58b95fa5869e95ff95}
+      \strng{fullhash}{73c303ad7aba2d58b95fa5869e95ff95}
+      \strng{bibnamehash}{73c303ad7aba2d58b95fa5869e95ff95}
+      \strng{authorbibnamehash}{73c303ad7aba2d58b95fa5869e95ff95}
+      \strng{authornamehash}{73c303ad7aba2d58b95fa5869e95ff95}
+      \strng{authorfullhash}{73c303ad7aba2d58b95fa5869e95ff95}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Cato Institute}
+      \field{month}{1}
+      \field{title}{Clean Energy Subsidies vs. A Carbon Tax}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb www.cato.org/blog/clean-energy-subsidies-versus-carbon-tax
+      \endverb
+      \verb{url}
+      \verb www.cato.org/blog/clean-energy-subsidies-versus-carbon-tax
+      \endverb
+    \endentry
+    \entry{murray2014effective}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c8cedb909b2e835bf649610b15680d2}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a2305a6df7ea4428e94a4fc45fc2eeaa}
+      \strng{fullhash}{a2305a6df7ea4428e94a4fc45fc2eeaa}
+      \strng{bibnamehash}{a2305a6df7ea4428e94a4fc45fc2eeaa}
+      \strng{authorbibnamehash}{a2305a6df7ea4428e94a4fc45fc2eeaa}
+      \strng{authornamehash}{a2305a6df7ea4428e94a4fc45fc2eeaa}
+      \strng{authorfullhash}{a2305a6df7ea4428e94a4fc45fc2eeaa}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{How Effective Are US Renewable Energy Subsidies in Cutting Greenhouse Gases?}
+      \field{volume}{104}
+      \field{year}{2014}
+      \field{pages}{569\bibrangedash 574}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1257/aer.104.5.569
+      \endverb
+    \endentry
+    \entry{murray2015british}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7c8cedb909b2e835bf649610b15680d2}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d38c1909c34b632638c83382a575e9e3}{%
+           family={Rivers},
+           familyi={R\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{76670a3ab06914997656b79fc88840ea}
+      \strng{fullhash}{76670a3ab06914997656b79fc88840ea}
+      \strng{bibnamehash}{76670a3ab06914997656b79fc88840ea}
+      \strng{authorbibnamehash}{76670a3ab06914997656b79fc88840ea}
+      \strng{authornamehash}{76670a3ab06914997656b79fc88840ea}
+      \strng{authorfullhash}{76670a3ab06914997656b79fc88840ea}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Policy}
+      \field{month}{11}
+      \field{title}{British Columbia’s Revenue-Neutral Carbon Tax: A Review of the Latest ‘Grand Experiment’ in Environmental Policy}
+      \field{volume}{86}
+      \field{year}{2015}
+      \field{pages}{674\bibrangedash 683}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.enpol.2015.08.011
+      \endverb
+    \endentry
+    \entry{myers1999perverse}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b99d8f1941ae8251b2ec7eb6ece6e247}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Norman},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b99d8f1941ae8251b2ec7eb6ece6e247}
+      \strng{fullhash}{b99d8f1941ae8251b2ec7eb6ece6e247}
+      \strng{bibnamehash}{b99d8f1941ae8251b2ec7eb6ece6e247}
+      \strng{authorbibnamehash}{b99d8f1941ae8251b2ec7eb6ece6e247}
+      \strng{authornamehash}{b99d8f1941ae8251b2ec7eb6ece6e247}
+      \strng{authorfullhash}{b99d8f1941ae8251b2ec7eb6ece6e247}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{RSA Journal}
+      \field{number}{5490}
+      \field{title}{Perverse Subsidies}
+      \field{volume}{147}
+      \field{year}{1999}
+      \field{pages}{84\bibrangedash 91}
+      \range{pages}{8}
+      \verb{eprint}
+      \verb JSTOR
+      \endverb
+      \verb{urlraw}
+      \verb www.jstor.org/stable/41378805
+      \endverb
+      \verb{url}
+      \verb www.jstor.org/stable/41378805
+      \endverb
+    \endentry
+    \entry{nrc2013effects}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=542dbf807c6825455f75670116436ebd}{%
+           family={{National Research Council}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Academies P}%
+      }
+      \strng{namehash}{542dbf807c6825455f75670116436ebd}
+      \strng{fullhash}{542dbf807c6825455f75670116436ebd}
+      \strng{bibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorbibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authornamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorfullhash}{542dbf807c6825455f75670116436ebd}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Effects of U.S. Tax Policy on Greenhouse Gas Emissions}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.17226/18299
+      \endverb
+    \endentry
+    \entry{rubin2018yellow}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=935bfe8ab002e5fb357f190ab1c41ef2}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={Alissa\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b86319542e323730648eee4478dce34b}{%
+           family={Sengupta},
+           familyi={S\bibinitperiod},
+           given={Somini},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{06867319aa6e7104f1a20d889acc7ec5}
+      \strng{fullhash}{06867319aa6e7104f1a20d889acc7ec5}
+      \strng{bibnamehash}{06867319aa6e7104f1a20d889acc7ec5}
+      \strng{authorbibnamehash}{06867319aa6e7104f1a20d889acc7ec5}
+      \strng{authornamehash}{06867319aa6e7104f1a20d889acc7ec5}
+      \strng{authorfullhash}{06867319aa6e7104f1a20d889acc7ec5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The New York Times}
+      \field{month}{12}
+      \field{title}{‘Yellow Vest’ Protests Shake France. Here’s the Lesson for Climate Change}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb www.nytimes.com/2018/12/06/world/europe/france-fuel-carbon-tax.html
+      \endverb
+      \verb{url}
+      \verb www.nytimes.com/2018/12/06/world/europe/france-fuel-carbon-tax.html
+      \endverb
+    \endentry
+    \entry{aapca2024stats}{misc}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{AAPCA}
+      \field{month}{5}
+      \field{title}{State Air Trends \& Successes: The StATS Report}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb cleanairact.org/wp-content/uploads/2024/05/2024_AAPCA_StATS_Final.pdf
+      \endverb
+      \verb{url}
+      \verb cleanairact.org/wp-content/uploads/2024/05/2024_AAPCA_StATS_Final.pdf
+      \endverb
+    \endentry
+    \entry{subramanian2024indias}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bd0fb5691af496299177feea36c2fb14}{%
+           family={Subramanian},
+           familyi={S\bibinitperiod},
+           given={Arvind},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31fe680f0fb4d3f7e1f76806db7689f2}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Navneeraj},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{609b73c1d380f25434005ba3de08a4ef}
+      \strng{fullhash}{609b73c1d380f25434005ba3de08a4ef}
+      \strng{bibnamehash}{609b73c1d380f25434005ba3de08a4ef}
+      \strng{authorbibnamehash}{609b73c1d380f25434005ba3de08a4ef}
+      \strng{authornamehash}{609b73c1d380f25434005ba3de08a4ef}
+      \strng{authorfullhash}{609b73c1d380f25434005ba3de08a4ef}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Project Syndicate}
+      \field{month}{1}
+      \field{title}{India’s Climate Dilemma}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb www.project-syndicate.org/commentary/fighting-climate-change-requires-india-cut-electricity-subsidies-by-arvind-subramanian-and-navneeraj-sharma-2024-01
+      \endverb
+      \verb{url}
+      \verb www.project-syndicate.org/commentary/fighting-climate-change-requires-india-cut-electricity-subsidies-by-arvind-subramanian-and-navneeraj-sharma-2024-01
+      \endverb
+    \endentry
+    \entry{taylor2014australia}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a1b0fe45f350627c3e289671fd7e154a}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c600d15ce93c56ddf7ec41bdfc9c5c1e}{%
+           family={Hoyle},
+           familyi={H\bibinitperiod},
+           given={Rhiannon},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{920d73560b670cc46f5024578f2ed268}
+      \strng{fullhash}{920d73560b670cc46f5024578f2ed268}
+      \strng{bibnamehash}{920d73560b670cc46f5024578f2ed268}
+      \strng{authorbibnamehash}{920d73560b670cc46f5024578f2ed268}
+      \strng{authornamehash}{920d73560b670cc46f5024578f2ed268}
+      \strng{authorfullhash}{920d73560b670cc46f5024578f2ed268}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wall Street Journal}
+      \field{month}{7}
+      \field{title}{Australia Repeals Carbon Tax}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb online.wsj.com/articles/australia-repeals-carbon-tax-1405560964
+      \endverb
+      \verb{url}
+      \verb online.wsj.com/articles/australia-repeals-carbon-tax-1405560964
+      \endverb
+    \endentry
+    \entry{weisbach2023climate}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=75fb0981c441685de8b0a1cf1b63c5e7}{%
+           family={Weisbach},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e464c43ddb5b43f3a3b84ef3db04a408}{%
+           family={Kortum},
+           familyi={K\bibinitperiod},
+           given={Samuel\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Social Science Research Network}%
+      }
+      \strng{namehash}{826e8d04443eab2c7c4818b41d840018}
+      \strng{fullhash}{826e8d04443eab2c7c4818b41d840018}
+      \strng{bibnamehash}{826e8d04443eab2c7c4818b41d840018}
+      \strng{authorbibnamehash}{826e8d04443eab2c7c4818b41d840018}
+      \strng{authornamehash}{826e8d04443eab2c7c4818b41d840018}
+      \strng{authorfullhash}{826e8d04443eab2c7c4818b41d840018}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{number}{4328814}
+      \field{title}{Climate Change Policy in the International Context: Solving the Carbon Leakage Problem}
+      \field{type}{SSRN Scholarly Paper}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.2139/ssrn.4328814
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

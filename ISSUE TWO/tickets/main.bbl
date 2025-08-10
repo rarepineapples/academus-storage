@@ -1,0 +1,393 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{atkinson2004economics}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5bb66aac330673953a9da65b472c561b}{%
+           family={Atkinson},
+           familyi={A\bibinitperiod},
+           given={James\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5bb66aac330673953a9da65b472c561b}
+      \strng{fullhash}{5bb66aac330673953a9da65b472c561b}
+      \strng{bibnamehash}{5bb66aac330673953a9da65b472c561b}
+      \strng{authorbibnamehash}{5bb66aac330673953a9da65b472c561b}
+      \strng{authornamehash}{5bb66aac330673953a9da65b472c561b}
+      \strng{authorfullhash}{5bb66aac330673953a9da65b472c561b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Jimmy Atkinson}
+      \field{month}{5}
+      \field{title}{The Economics of Ticket Scalping – Jimmy Atkinson}
+      \field{year}{2004}
+      \true{nocite}
+      \verb{urlraw}
+      \verb jimmyatkinson.com/papers/the-economics-of-ticket-scalping/
+      \endverb
+      \verb{url}
+      \verb jimmyatkinson.com/papers/the-economics-of-ticket-scalping/
+      \endverb
+    \endentry
+    \entry{becker1991note}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=72e0824c9fba8f7f957b80cb8dbe85d2}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Gary\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \strng{fullhash}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \strng{bibnamehash}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \strng{authorbibnamehash}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \strng{authornamehash}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \strng{authorfullhash}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{5}
+      \field{title}{A Note on Restaurant Pricing and Other Examples of Social Influences on Price}
+      \field{volume}{99}
+      \field{year}{1991}
+      \true{nocite}
+      \field{pages}{1109\bibrangedash 1116}
+      \range{pages}{8}
+      \verb{eprint}
+      \verb JSTOR
+      \endverb
+      \verb{urlraw}
+      \verb www.jstor.org/stable/2937660
+      \endverb
+      \verb{url}
+      \verb www.jstor.org/stable/2937660
+      \endverb
+    \endentry
+    \entry{hernandez2023junkfees}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=980851a43b7f3ac5285b7ee453cfe007}{%
+           family={Hernandez},
+           familyi={H\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{980851a43b7f3ac5285b7ee453cfe007}
+      \strng{fullhash}{980851a43b7f3ac5285b7ee453cfe007}
+      \strng{bibnamehash}{980851a43b7f3ac5285b7ee453cfe007}
+      \strng{authorbibnamehash}{980851a43b7f3ac5285b7ee453cfe007}
+      \strng{authornamehash}{980851a43b7f3ac5285b7ee453cfe007}
+      \strng{authorfullhash}{980851a43b7f3ac5285b7ee453cfe007}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NPR}
+      \field{month}{10}
+      \field{title}{Biden Proposes A Ban On ‘Junk Fees’ — From Concert Tickets To Hotel Rooms}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb www.npr.org/2023/10/11/1205164556/junk-fees-biden-white-house-rules
+      \endverb
+      \verb{url}
+      \verb www.npr.org/2023/10/11/1205164556/junk-fees-biden-white-house-rules
+      \endverb
+    \endentry
+    \entry{leslie2014resale}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4807959310fd6055626e5348580181b7}{%
+           family={Leslie},
+           familyi={L\bibinitperiod},
+           given={Phillip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18ebeab73c44685c134f9cf68b9eaeba}{%
+           family={Sorensen},
+           familyi={S\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2950112f23c6b6c36677754d4eacfa82}
+      \strng{fullhash}{2950112f23c6b6c36677754d4eacfa82}
+      \strng{bibnamehash}{2950112f23c6b6c36677754d4eacfa82}
+      \strng{authorbibnamehash}{2950112f23c6b6c36677754d4eacfa82}
+      \strng{authornamehash}{2950112f23c6b6c36677754d4eacfa82}
+      \strng{authorfullhash}{2950112f23c6b6c36677754d4eacfa82}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Review of Economic Studies}
+      \field{number}{1}
+      \field{title}{Resale and Rent-Seeking: An Application to Ticket Markets}
+      \field{volume}{81}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{266\bibrangedash 300}
+      \range{pages}{35}
+      \verb{eprint}
+      \verb JSTOR
+      \endverb
+      \verb{urlraw}
+      \verb www.jstor.org/stable/43551672
+      \endverb
+      \verb{url}
+      \verb www.jstor.org/stable/43551672
+      \endverb
+    \endentry
+    \entry{mckenzie2017economics}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5daf7ebb37edb265cf03fe0dae669588}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5daf7ebb37edb265cf03fe0dae669588}
+      \strng{fullhash}{5daf7ebb37edb265cf03fe0dae669588}
+      \strng{bibnamehash}{5daf7ebb37edb265cf03fe0dae669588}
+      \strng{authorbibnamehash}{5daf7ebb37edb265cf03fe0dae669588}
+      \strng{authornamehash}{5daf7ebb37edb265cf03fe0dae669588}
+      \strng{authorfullhash}{5daf7ebb37edb265cf03fe0dae669588}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{The Conversation US}
+      \field{month}{9}
+      \field{title}{The Economics of Ticket Scalping}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{urlraw}
+      \verb theconversation.com/the-economics-of-ticket-scalping-83434
+      \endverb
+      \verb{url}
+      \verb theconversation.com/the-economics-of-ticket-scalping-83434
+      \endverb
+    \endentry
+    \entry{miller2016scalping}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fe9e2af0921f5e642071221be45f9769}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Tracy\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fe9e2af0921f5e642071221be45f9769}
+      \strng{fullhash}{fe9e2af0921f5e642071221be45f9769}
+      \strng{bibnamehash}{fe9e2af0921f5e642071221be45f9769}
+      \strng{authorbibnamehash}{fe9e2af0921f5e642071221be45f9769}
+      \strng{authornamehash}{fe9e2af0921f5e642071221be45f9769}
+      \strng{authorfullhash}{fe9e2af0921f5e642071221be45f9769}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{U.S. News \& World Report}
+      \field{month}{10}
+      \field{title}{Scalping Isn’t Scamming}
+      \field{year}{2016}
+      \true{nocite}
+      \verb{urlraw}
+      \verb www.usnews.com/opinion/articles/2016-10-04/why-congress-shouldnt-curb-ticket-scalping-after-hamilton-prices-soar
+      \endverb
+      \verb{url}
+      \verb www.usnews.com/opinion/articles/2016-10-04/why-congress-shouldnt-curb-ticket-scalping-after-hamilton-prices-soar
+      \endverb
+    \endentry
+    \entry{perry2016ticket}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6c31b5212f4f26bcbdf14f8cf6c83c7}{%
+           family={Perry},
+           familyi={P\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a6c31b5212f4f26bcbdf14f8cf6c83c7}
+      \strng{fullhash}{a6c31b5212f4f26bcbdf14f8cf6c83c7}
+      \strng{bibnamehash}{a6c31b5212f4f26bcbdf14f8cf6c83c7}
+      \strng{authorbibnamehash}{a6c31b5212f4f26bcbdf14f8cf6c83c7}
+      \strng{authornamehash}{a6c31b5212f4f26bcbdf14f8cf6c83c7}
+      \strng{authorfullhash}{a6c31b5212f4f26bcbdf14f8cf6c83c7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{American Enterprise Institute}
+      \field{month}{10}
+      \field{title}{Ticket Scalping: Musicians VS. Economists}
+      \field{year}{2016}
+      \true{nocite}
+      \verb{urlraw}
+      \verb www.aei.org/carpe-diem/ticket-scalping-musicians-vs-economists/
+      \endverb
+      \verb{url}
+      \verb www.aei.org/carpe-diem/ticket-scalping-musicians-vs-economists/
+      \endverb
+    \endentry
+    \entry{shaw2016oldchella}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a68ff09084a541b883377eba12e17998}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a68ff09084a541b883377eba12e17998}
+      \strng{fullhash}{a68ff09084a541b883377eba12e17998}
+      \strng{bibnamehash}{a68ff09084a541b883377eba12e17998}
+      \strng{authorbibnamehash}{a68ff09084a541b883377eba12e17998}
+      \strng{authornamehash}{a68ff09084a541b883377eba12e17998}
+      \strng{authorfullhash}{a68ff09084a541b883377eba12e17998}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Bloomberg}
+      \field{month}{10}
+      \field{title}{‘OldChella’ Ticket Scalpers Get Burned On Stones, Bob Dylan Bet}
+      \field{year}{2016}
+      \true{nocite}
+      \verb{urlraw}
+      \verb www.bloomberg.com/news/articles/2016-10-05/-oldchella-ticket-scalpers-get-burned-on-stones-bob-dylan-bet
+      \endverb
+      \verb{url}
+      \verb www.bloomberg.com/news/articles/2016-10-05/-oldchella-ticket-scalpers-get-burned-on-stones-bob-dylan-bet
+      \endverb
+    \endentry
+    \entry{surowiecki2016hamilton}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6ea62b57d4a7a5dcd57cec95621aa482}{%
+           family={Surowiecki},
+           familyi={S\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ea62b57d4a7a5dcd57cec95621aa482}
+      \strng{fullhash}{6ea62b57d4a7a5dcd57cec95621aa482}
+      \strng{bibnamehash}{6ea62b57d4a7a5dcd57cec95621aa482}
+      \strng{authorbibnamehash}{6ea62b57d4a7a5dcd57cec95621aa482}
+      \strng{authornamehash}{6ea62b57d4a7a5dcd57cec95621aa482}
+      \strng{authorfullhash}{6ea62b57d4a7a5dcd57cec95621aa482}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The New Yorker}
+      \field{month}{6}
+      \field{title}{How Online Ticket Scalping (Eventually) Helped ‘Hamilton’}
+      \field{year}{2016}
+      \true{nocite}
+      \verb{urlraw}
+      \verb www.newyorker.com/business/currency/how-online-ticket-scalping-eventually-helped-hamilton
+      \endverb
+      \verb{url}
+      \verb www.newyorker.com/business/currency/how-online-ticket-scalping-eventually-helped-hamilton
+      \endverb
+    \endentry
+    \entry{tapakapa2022concert}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f0439dbc619c31b65d8fb0b306aa2074}{%
+           family={{Tapakapa}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0439dbc619c31b65d8fb0b306aa2074}
+      \strng{fullhash}{f0439dbc619c31b65d8fb0b306aa2074}
+      \strng{bibnamehash}{f0439dbc619c31b65d8fb0b306aa2074}
+      \strng{authorbibnamehash}{f0439dbc619c31b65d8fb0b306aa2074}
+      \strng{authornamehash}{f0439dbc619c31b65d8fb0b306aa2074}
+      \strng{authorfullhash}{f0439dbc619c31b65d8fb0b306aa2074}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{YouTube video}
+      \field{month}{4}
+      \field{title}{Concert Tickets Are Too Cheap.*}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb www.youtube.com/watch?v=YhLASgLNkUM
+      \endverb
+      \verb{url}
+      \verb www.youtube.com/watch?v=YhLASgLNkUM
+      \endverb
+    \endentry
+    \entry{woods2021ticket}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf64835e1016257dbaf014b7b6b9daad}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={Darian},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bf64835e1016257dbaf014b7b6b9daad}
+      \strng{fullhash}{bf64835e1016257dbaf014b7b6b9daad}
+      \strng{bibnamehash}{bf64835e1016257dbaf014b7b6b9daad}
+      \strng{authorbibnamehash}{bf64835e1016257dbaf014b7b6b9daad}
+      \strng{authornamehash}{bf64835e1016257dbaf014b7b6b9daad}
+      \strng{authorfullhash}{bf64835e1016257dbaf014b7b6b9daad}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NPR}
+      \field{month}{11}
+      \field{note}{Accessed 2024-03-18}
+      \field{title}{Ticket Scalpers: The Real Ticket Masters}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb www.npr.org/2021/11/23/1058704237/ticket-scalpers-the-real-ticket-masters
+      \endverb
+      \verb{url}
+      \verb www.npr.org/2021/11/23/1058704237/ticket-scalpers-the-real-ticket-masters
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

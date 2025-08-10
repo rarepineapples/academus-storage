@@ -1,0 +1,598 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{anansaringkarn2021fakenews}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AP}{%
+         family={Anansaringkarn},
+         familyi={A\bibinitperiod},
+         given={Pattamon},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=NR}{%
+         family={Neo},
+         familyi={N\bibinitperiod},
+         given={Ric},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{APNR1}
+    \strng{fullhash}{APNR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1080/13600834.2020.1857789
+    \endverb
+    \field{number}{3}
+    \field{pages}{283\bibrangedash 303}
+    \field{title}{How Can State Regulations over the Online Sphere Continue to
+  Respect the Freedom of Expression? A Case Study of Contemporary ‘Fake
+  News’ Regulations in Thailand}
+    \verb{url}
+    \verb https://doi.org/10.1080/13600834.2020.1857789
+    \endverb
+    \field{volume}{30}
+    \field{journaltitle}{Information \& Communications Technology Law}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ang2024pofma}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=AB}{%
+         family={Ang},
+         familyi={A\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ZX}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Xue},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ABZX1}
+    \strng{fullhash}{ABZX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \field{howpublished}{RSIS Commentaries, 158-24}
+    \field{title}{How Effective Is POFMA in Battling Online Falsehoods?}
+    \verb{url}
+    \verb https://hdl.handle.net/10356/180948
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{bateman2024countering}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=BJ}{%
+         family={Bateman},
+         familyi={B\bibinitperiod},
+         given={Jon},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JD}{%
+         family={Jackson},
+         familyi={J\bibinitperiod},
+         given={Dean},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJJD1}
+    \strng{fullhash}{BJJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{Carnegie Endowment for International Peace}
+    \field{title}{Countering Disinformation Effectively: An Evidence-Based
+  Policy Guide}
+    \verb{url}
+    \verb https://carnegieendowment.org/research/2024/01/countering-disinformat
+    \verb ion-effectively-an-evidence-based-policy-guide?lang=en
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{booth2025southport}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BR}{%
+         family={Booth},
+         familyi={B\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BR1}
+    \strng{fullhash}{BR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{The Guardian}
+    \field{title}{Social Media Incentivised Spread of Southport Misinformation,
+  MPs Say}
+    \verb{url}
+    \verb https://www.theguardian.com/media/2025/jul/11/social-media-southport-
+    \verb misinformation-online-safety-act
+    \endverb
+    \field{year}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{chuai2024factchecking}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=CY}{%
+         family={Chuai},
+         familyi={C\bibinitperiod},
+         given={Yuwei},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CY+1}
+    \strng{fullhash}{CY+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.48550/arXiv.2409.08781
+    \endverb
+    \field{title}{Community-Based Fact-Checking Reduces the Spread of
+  Misleading Posts on Social Media}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2409.08781
+    \endverb
+    \field{journaltitle}{arXiv}
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ccia2017section230}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{Computer \& Communications Industry Association}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{6 Myths About Section 230}
+    \verb{url}
+    \verb https://ccianet.org/wp-content/uploads/2017/08/CCIA-Section-230-Myths
+    \verb -and-Facts.pdf
+    \endverb
+    \field{year}{2017}
+    \field{urlday}{09}
+    \field{urlmonth}{07}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{ferreira2022misinformation}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=FCMM}{%
+         family={Ferreira\bibnamedelima Caceres},
+         familyi={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Maria\bibnamedelima Mercedes},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FCMM+1}
+    \strng{fullhash}{FCMM+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.3934/publichealth.2022018
+    \endverb
+    \field{number}{2}
+    \field{pages}{262\bibrangedash 277}
+    \field{title}{The Impact of Misinformation on the COVID-19 Pandemic}
+    \verb{url}
+    \verb https://doi.org/10.3934/publichealth.2022018
+    \endverb
+    \field{volume}{9}
+    \field{journaltitle}{AIMS Public Health}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{griffin2022netzDG}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GR}{%
+         family={Griffin},
+         familyi={G\bibinitperiod},
+         given={Rachel},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GR1}
+    \strng{fullhash}{GR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1016/j.telpol.2022.102411
+    \endverb
+    \field{number}{9}
+    \field{pages}{102411}
+    \field{title}{New School Speech Regulation as a Regulatory Strategy against
+  Hate Speech on Social Media: The Case of Germany’s NetzDG}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.telpol.2022.102411
+    \endverb
+    \field{volume}{46}
+    \field{journaltitle}{Telecommunications Policy}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{henley2018fake}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HJ}{%
+         family={Henley},
+         familyi={H\bibinitperiod},
+         given={Jon},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJ1}
+    \strng{fullhash}{HJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{howpublished}{The Guardian}
+    \field{title}{Global Crackdown on Fake News Raises Censorship Concerns}
+    \verb{url}
+    \verb https://www.theguardian.com/media/2018/apr/24/global-crackdown-on-fak
+    \verb e-news-raises-censorship-concerns
+    \endverb
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{huang2024medialiteracy}{misc}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=HG}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Guanxiong},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HG+1}
+    \strng{fullhash}{HG+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.31234/osf.io/hm6fk
+    \endverb
+    \field{howpublished}{Center for Open Science}
+    \field{title}{Media Literacy Interventions Improve Resilience to
+  Misinformation: A Meta-Analytic Investigation of Overall Effect and
+  Moderating Factors}
+    \verb{url}
+    \verb https://doi.org/10.31234/osf.io/hm6fk
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{mahapatra2024lawfare}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=MS}{%
+         family={Mahapatra},
+         familyi={M\bibinitperiod},
+         given={Sangeeta},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MS+1}
+    \strng{fullhash}{MS+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.57671/GFGL-24012
+    \endverb
+    \field{title}{Repression by Legal Means: Governments’ Anti-Fake News
+  Lawfare}
+    \verb{url}
+    \verb https://doi.org/10.57671/GFGL-24012
+    \endverb
+    \field{volume}{1}
+    \field{journaltitle}{GIGA Focus Global}
+    \field{year}{2024}
+  \endentry
+
+  \entry{marsden2020platform}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=MC}{%
+         family={Marsden},
+         familyi={M\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MC+1}
+    \strng{fullhash}{MC+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1016/j.clsr.2019.105373
+    \endverb
+    \field{pages}{105373}
+    \field{title}{Platform Values and Democratic Elections: How Can the Law
+  Regulate Digital Disinformation?}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.clsr.2019.105373
+    \endverb
+    \field{volume}{36}
+    \field{journaltitle}{Computer Law \& Security Review}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{nygren2025longterm}{article}{}
+    \name{author}{2}{}{%
+      {{hash=NT}{%
+         family={Nygren},
+         familyi={N\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=EE}{%
+         family={Efimova},
+         familyi={E\bibinitperiod},
+         given={Evgenia},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NTEE1}
+    \strng{fullhash}{NTEE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1371/journal.pone.0326928
+    \endverb
+    \field{number}{7}
+    \field{pages}{e0326928}
+    \field{title}{Investigating the Long-Term Impact of Misinformation
+  Interventions in Upper Secondary Education}
+    \verb{url}
+    \verb https://doi.org/10.1371/journal.pone.0326928
+    \endverb
+    \field{volume}{20}
+    \field{journaltitle}{PLOS One}
+    \field{year}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ortutay2022facebook}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=OB}{%
+         family={Ortutay},
+         familyi={O\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OB1}
+    \strng{fullhash}{OB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \true{singletitle}
+    \field{howpublished}{PBS News}
+    \field{title}{Amnesty Report Finds Facebook Amplified Hate Ahead of
+  Rohingya Massacre in Myanmar}
+    \verb{url}
+    \verb https://www.pbs.org/newshour/world/amnesty-report-finds-facebook-ampl
+    \verb ified-hate-ahead-of-rohingya-massacre-in-myanmar
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{porter2021factchecking}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PE}{%
+         family={Porter},
+         familyi={P\bibinitperiod},
+         given={Ethan},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=WTJ}{%
+         family={Wood},
+         familyi={W\bibinitperiod},
+         given={Thomas\bibnamedelima J.},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PEWTJ1}
+    \strng{fullhash}{PEWTJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1073/pnas.2104235118
+    \endverb
+    \field{number}{37}
+    \field{title}{The Global Effectiveness of Fact-Checking: Evidence from
+  Simultaneous Experiments in Argentina, Nigeria, South Africa, and the United
+  Kingdom}
+    \verb{url}
+    \verb https://doi.org/10.1073/pnas.2104235118
+    \endverb
+    \field{volume}{118}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{prasad2020gdpr}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PA}{%
+         family={Prasad},
+         familyi={P\bibinitperiod},
+         given={Aryamala},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PA1}
+    \strng{fullhash}{PA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \field{howpublished}{Regulatory Studies Center, Columbian College of Arts
+  \& Sciences}
+    \field{title}{Unintended Consequences of GDPR}
+    \verb{url}
+    \verb https://regulatorystudies.columbian.gwu.edu/unintended-consequences-g
+    \verb dpr
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{sanchez2022misinformation}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=SGR}{%
+         family={Sanchez},
+         familyi={S\bibinitperiod},
+         given={Gabriel\bibnamedelima R.},
+         giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Middlemass},
+         familyi={M\bibinitperiod},
+         given={Keesha},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SGRMK1}
+    \strng{fullhash}{SGRMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{Brookings}
+    \field{title}{Misinformation Is Eroding the Public’s Confidence in
+  Democracy}
+    \verb{url}
+    \verb https://www.brookings.edu/articles/misinformation-is-eroding-the-publ
+    \verb ics-confidence-in-democracy/
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{hrw2021singapore}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{Human Rights Watch}
+    \field{title}{Singapore: ‘Fake News’ Law Curtails Speech}
+    \verb{url}
+    \verb https://www.hrw.org/news/2021/01/13/singapore-fake-news-law-curtails-
+    \verb speech
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{sperry2024knowledge}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SB}{%
+         family={Sperry},
+         familyi={S\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SB1}
+    \strng{fullhash}{SB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{International Center for Law \& Economics}
+    \field{title}{Knowledge and Decisions in the Information Age: The Law \&
+  Economics of Regulating Misinformation on Social-Media Platforms}
+    \verb{url}
+    \verb https://laweconcenter.org/resources/knowledge-and-decisions-in-the-in
+    \verb formation-age-the-law-economics-of-regulating-misinformation-on-socia
+    \verb l-media-platforms/
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
+\endinput
