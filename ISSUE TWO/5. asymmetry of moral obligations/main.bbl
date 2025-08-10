@@ -1,0 +1,849 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{atari2020}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AM}{%
+         family={Atari},
+         familyi={A\bibinitperiod},
+         given={Mohammad},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LMHC}{%
+         family={Lai},
+         familyi={L\bibinitperiod},
+         given={Mark H.\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Dehghani},
+         familyi={D\bibinitperiod},
+         given={Morteza},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AM+1}
+    \strng{fullhash}{AMLMHCDM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1098/rspb.2020.1201
+    \endverb
+    \field{number}{1937}
+    \field{pages}{20201201}
+    \field{title}{Sex Differences in Moral Judgements Across 67 Countries}
+    \verb{url}
+    \verb https://doi.org/10.1098/rspb.2020.1201
+    \endverb
+    \field{volume}{287}
+    \field{journaltitle}{Proceedings of the Royal Society B: Biological
+  Sciences}
+    \field{year}{2020}
+  \endentry
+
+  \entry{belfiori2024}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=BE}{%
+         family={Belfiori},
+         familyi={B\bibinitperiod},
+         given={Elisa},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Llohis},
+         familyi={L\bibinitperiod},
+         given={Yanel},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BELY1}
+    \strng{fullhash}{BELY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{International Economic Association}
+    \field{title}{Rethinking Emissions Targets in Developing Countries}
+    \verb{url}
+    \verb https://www.iea-world.org/rethinking-emissions-targets-in-developing-
+    \verb countries/
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{broto2022}{incollection}{}
+    \name{author}{3}{}{%
+      {{hash=BVC}{%
+         family={Broto},
+         familyi={B\bibinitperiod},
+         given={Vanesa\bibnamedelima Cast{\'a}n},
+         giveni={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Westman},
+         familyi={W\bibinitperiod},
+         given={Linda},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RCX}{%
+         family={Ruiz\bibnamedelima Campillo},
+         familyi={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Xira},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{BVC+1}
+    \strng{fullhash}{BVCWLRCX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{booktitle}{Oxford Research Encyclopedia of Climate Science}
+    \verb{doi}
+    \verb 10.1093/acrefore/9780190228620.013.842
+    \endverb
+    \field{title}{The Role of Local Governments in International Climate
+  Policy}
+    \verb{url}
+    \verb https://doi.org/10.1093/acrefore/9780190228620.013.842
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{corvino2023}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CF}{%
+         family={Corvino},
+         familyi={C\bibinitperiod},
+         given={Fausto},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CF1}
+    \strng{fullhash}{CF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1017/S0266267122000116
+    \endverb
+    \field{number}{3}
+    \field{pages}{395\bibrangedash 422}
+    \field{title}{Why We Need Future Generations: A Defence of Direct
+  Intergenerational Reciprocity}
+    \verb{url}
+    \verb https://doi.org/10.1017/S0266267122000116
+    \endverb
+    \field{volume}{39}
+    \field{journaltitle}{Economics \& Philosophy}
+    \field{year}{2023}
+  \endentry
+
+  \entry{green2024}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GJF}{%
+         family={Green},
+         familyi={G\bibinitperiod},
+         given={Jessica\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJF1}
+    \strng{fullhash}{GJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1017/S1049096523000318
+    \endverb
+    \field{number}{1}
+    \field{pages}{40\bibrangedash 44}
+    \field{title}{Global Climate Policy Beyond the Paris Agreement}
+    \verb{url}
+    \verb https://doi.org/10.1017/S1049096523000318
+    \endverb
+    \field{volume}{57}
+    \field{journaltitle}{PS: Political Science \& Politics}
+    \field{year}{2024}
+  \endentry
+
+  \entry{hasan2023}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HS}{%
+         family={Hasan},
+         familyi={H\bibinitperiod},
+         given={Sabeehuddin},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WB}{%
+         family={Wooliscroft},
+         familyi={W\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=GWA}{%
+         family={Ganglmair-Wooliscroft},
+         familyi={G\bibinithyphendelim W\bibinitperiod},
+         given={Alexandra},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HS+1}
+    \strng{fullhash}{HSWBGWA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1177/02761467231168045
+    \endverb
+    \field{number}{2}
+    \field{pages}{175\bibrangedash 189}
+    \field{title}{Drivers of Ethical Consumption: Insights from a Developing
+  Country}
+    \verb{url}
+    \verb https://doi.org/10.1177/02761467231168045
+    \endverb
+    \field{volume}{43}
+    \field{journaltitle}{Journal of Macromarketing}
+    \field{year}{2023}
+  \endentry
+
+  \entry{hume1998}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HD}{%
+         family={Hume},
+         familyi={H\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Clarendon Press}%
+    }
+    \strng{namehash}{HD1}
+    \strng{fullhash}{HD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{title}{An Enquiry Concerning the Principles of Morals: A Critical
+  Edition}
+    \field{year}{1998}
+  \endentry
+
+  \entry{kogelmann2019}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KB}{%
+         family={Kogelmann},
+         familyi={K\bibinitperiod},
+         given={Brian},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KB1}
+    \strng{fullhash}{KB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1017/S026626711800024X
+    \endverb
+    \field{number}{1}
+    \field{pages}{173\bibrangedash 179}
+    \field{title}{Minimal Morality: A Multilevel Social Contract Theory,
+  Michael Moehler. Oxford University Press, 2018, 272 Pages}
+    \verb{url}
+    \verb https://doi.org/10.1017/S026626711800024X
+    \endverb
+    \field{volume}{35}
+    \field{journaltitle}{Economics \& Philosophy}
+    \field{year}{2019}
+  \endentry
+
+  \entry{kulkarni2024}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KR}{%
+         family={Kulkarni},
+         familyi={K\bibinitperiod},
+         given={Rucha},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KR1}
+    \strng{fullhash}{KR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.5817/pf24-1-38249
+    \endverb
+    \field{number}{1}
+    \field{pages}{1}
+    \field{title}{A Critical Analysis of Moral Contractarianism: Towards a
+  Revised Framework}
+    \verb{url}
+    \verb https://doi.org/10.5817/pf24-1-38249
+    \endverb
+    \field{volume}{25}
+    \field{journaltitle}{Pro-Fil: An Internet Journal of Philosophy}
+    \field{year}{2024}
+  \endentry
+
+  \entry{macaskill2019}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MW}{%
+         family={MacAskill},
+         familyi={M\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MW1}
+    \strng{fullhash}{MW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1017/S0953820819000013
+    \endverb
+    \field{number}{3}
+    \field{pages}{231\bibrangedash 245}
+    \field{title}{Practical Ethics Given Moral Uncertainty}
+    \verb{url}
+    \verb https://doi.org/10.1017/S0953820819000013
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Utilitas}
+    \field{year}{2019}
+  \endentry
+
+  \entry{maslin-nodate}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MMA}{%
+         family={Maslin},
+         familyi={M\bibinitperiod},
+         given={Mark\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lang},
+         familyi={L\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Harvey},
+         familyi={H\bibinitperiod},
+         given={Fiona},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MMA+1}
+    \strng{fullhash}{MMALJHF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.14324/111.444/ucloe.000059
+    \endverb
+    \field{pages}{e059}
+    \field{title}{A Short History of the Successes and Failures of the
+  International Climate Change Negotiations}
+    \verb{url}
+    \verb https://doi.org/10.14324/111.444/ucloe.000059
+    \endverb
+    \field{volume}{5}
+    \field{journaltitle}{UCL Open Environment}
+    \field{year}{n.d.}
+  \endentry
+
+  \entry{merriamwebster2025}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={{Merriam-Webster}},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{howpublished}{Online Dictionary}
+    \field{title}{Subsidiarity}
+    \verb{url}
+    \verb https://www.merriam-webster.com/dictionary/subsidiarity
+    \endverb
+    \field{year}{2025}
+    \field{urlday}{27}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{mignone2007}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MBK}{%
+         family={Mignone},
+         familyi={M\bibinitperiod},
+         given={Bryan\bibnamedelima K.},
+         giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBK1}
+    \strng{fullhash}{MBK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{howpublished}{Brookings}
+    \field{title}{International Cooperation in a Post-Kyoto World}
+    \verb{url}
+    \verb https://www.brookings.edu/articles/international-cooperation-in-a-pos
+    \verb t-kyoto-world/
+    \endverb
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{moehler2020contractarianism}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MM}{%
+         family={Moehler},
+         familyi={M\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{MM1}
+    \strng{fullhash}{MM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Contractarianism}
+    \verb{url}
+    \verb https://www.google.com/books/edition/Contractarianism/NwqkywEACAAJ
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{moehler2020climate}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=MM}{%
+         family={Moehler},
+         familyi={M\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=MDE}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={Dale\bibnamedelima E.},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=EB}{%
+         family={Eggleston},
+         familyi={E\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{MM1}
+    \strng{fullhash}{MM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{Moral Theory and Climate Change: Ethical Perspectives on
+  a Warming Planet}
+    \verb{doi}
+    \verb 10.4324/9781315205069
+    \endverb
+    \field{title}{Contractarianism and Climate Change}
+    \verb{url}
+    \verb https://doi.org/10.4324/9781315205069
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{moehler2024diversity}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=MM}{%
+         family={Moehler},
+         familyi={M\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=MM}{%
+         family={Moehler},
+         familyi={M\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Thrasher},
+         familyi={T\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{MM1}
+    \strng{fullhash}{MM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{New Approaches to Social Contract Theory: Liberty,
+  Equality, Diversity, and the Open Society}
+    \verb{doi}
+    \verb 10.1093/oso/9780198878650.003.0012
+    \endverb
+    \field{title}{Diversity, Polycentricity, Justice, and the Open Society}
+    \verb{url}
+    \verb https://doi.org/10.1093/oso/9780198878650.003.0012
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{moehler2018minimal}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MM}{%
+         family={Moehler},
+         familyi={M\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{MM1}
+    \strng{fullhash}{MM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Minimal Morality: A Multilevel Social Contract Theory}
+    \field{year}{2018}
+  \endentry
+
+  \entry{pick2004}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PT}{%
+         family={Pick},
+         familyi={P\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PT1}
+    \strng{fullhash}{PT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1017/S1358246100008493
+    \endverb
+    \field{pages}{159\bibrangedash 185}
+    \field{title}{Moral Obligation}
+    \verb{url}
+    \verb https://doi.org/10.1017/S1358246100008493
+    \endverb
+    \field{volume}{54}
+    \field{journaltitle}{Royal Institute of Philosophy Supplements}
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{prichard1912}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PHA}{%
+         family={Prichard},
+         familyi={P\bibinitperiod},
+         given={H.\bibnamedelima A.},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PHA1}
+    \strng{fullhash}{PHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \field{number}{81}
+    \field{pages}{21\bibrangedash 37}
+    \field{title}{Does Moral Philosophy Rest on a Mistake?}
+    \verb{url}
+    \verb https://www.jstor.org/stable/2248906
+    \endverb
+    \field{volume}{21}
+    \field{journaltitle}{Mind}
+    \field{year}{1912}
+    \field{urlday}{30}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{sayremccord2013}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SMG}{%
+         family={Sayre-McCord},
+         familyi={S\bibinithyphendelim M\bibinitperiod},
+         given={Geoffrey},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons, Ltd}%
+    }
+    \strng{namehash}{SMG1}
+    \strng{fullhash}{SMG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{booktitle}{The Blackwell Guide to Ethical Theory}
+    \verb{doi}
+    \verb 10.1111/b.9780631201199.1999.00017.x
+    \endverb
+    \field{title}{Contractarianism}
+    \verb{url}
+    \verb https://doi.org/10.1111/b.9780631201199.1999.00017.x
+    \endverb
+    \field{year}{2013}
+  \endentry
+
+  \entry{skjaersethetal2021}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SJB}{%
+         family={Skj{\ae}rseth},
+         familyi={S\bibinitperiod},
+         given={Jon\bibnamedelima Birger},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Andresen},
+         familyi={A\bibinitperiod},
+         given={Steinar},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Bang},
+         familyi={B\bibinitperiod},
+         given={Guri},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=HGM}{%
+         family={Heggelund},
+         familyi={H\bibinitperiod},
+         given={G{\o}rild\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJB+1}
+    \strng{fullhash}{SJBASBGHGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1007/s10784-021-09531-w
+    \endverb
+    \field{number}{1}
+    \field{pages}{59\bibrangedash 73}
+    \field{title}{The Paris Agreement and Key Actors’ Domestic Climate Policy
+  Mixes: Comparative Patterns}
+    \verb{url}
+    \verb https://doi.org/10.1007/s10784-021-09531-w
+    \endverb
+    \field{volume}{21}
+    \field{journaltitle}{International Environmental Agreements}
+    \field{year}{2021}
+  \endentry
+
+  \entry{tachibana2017}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=TK}{%
+         family={Tachibana},
+         familyi={T\bibinitperiod},
+         given={Kanade},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TK1}
+    \strng{fullhash}{TK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{title}{Defence of the Merits of the Paris Agreement Over the Prior
+  Kyoto Protocol}
+    \verb{url}
+    \verb https://www.grin.com/document/1172185
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{unfccc2024ndc}{report}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{UNFCCC}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{title}{2024 NDC Synthesis Report}
+    \verb{url}
+    \verb https://unfccc.int/process-and-meetings/the-paris-agreement/nationall
+    \verb y-determined-contributions-ndcs/2024-ndc-synthesis-report?utm_source=
+    \verb chatgpt.com
+    \endverb
+    \list{institution}{1}{%
+      {United Nations Framework Convention on Climate Change}%
+    }
+    \field{type}{techreport}
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{unfccc2025kyoto}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{UNFCCC}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{howpublished}{Online}
+    \field{title}{What Is the Kyoto Protocol?}
+    \verb{url}
+    \verb https://unfccc.int/kyoto_protocol?utm_source=chatgpt.com
+    \endverb
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{unitednationsclimate2025}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{United Nations Climate Change}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U2}
+    \strng{fullhash}{U2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \field{howpublished}{Online}
+    \field{title}{Key Aspects of the Paris Agreement}
+    \verb{url}
+    \verb https://unfccc.int/most-requested/key-aspects-of-the-paris-agreement
+    \endverb
+    \field{urlday}{05}
+    \field{urlmonth}{06}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{zeyrek2021}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ZS}{%
+         family={Zeyrek},
+         familyi={Z\bibinitperiod},
+         given={Selin},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZS1}
+    \strng{fullhash}{ZS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \true{singletitle}
+    \field{title}{Celebrating Five Years of the Paris Agreement}
+    \verb{url}
+    \verb https://www.varsity.co.uk/science/20519
+    \endverb
+    \field{journaltitle}{Varsity Online}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
+\endinput

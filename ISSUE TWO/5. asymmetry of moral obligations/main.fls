@@ -1,4 +1,4 @@
-PWD /Users/jaspersun/Desktop/esasys/ISSUE TWO/asymmetry of moral obligations
+PWD /Users/jaspersun/Desktop/academus-storage/ISSUE TWO/asymmetry of moral obligations
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -142,6 +142,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-mla/mla.dbx
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-bibtex.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
@@ -372,7 +375,7 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-OUTPUT main.bcf
+OUTPUT main-blx.bib
 INPUT main.bbl
 INPUT ./main.bbl
 INPUT ./main.bbl
