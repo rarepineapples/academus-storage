@@ -1,0 +1,67 @@
+\documentclass[12pt, a4paper, openany]{book}
+\usepackage{format}
+
+\begin{document}
+
+\frontmatter
+
+\maketitle
+
+\chapter{Editor's Note}
+
+Damn you.
+
+\tableofcontents
+
+\mainmatter
+
+\begin{refsection}[refs/rcv]
+\input{source/rcv}
+\nocite{*}
+\printbibliography[title={References}, heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/american]
+\input{source/american}
+\nocite{*}
+\printbibliography[title=References,
+heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/moralint]
+\input{source/moral}
+\nocite{*}
+\printbibliography[title=References, heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/farm]
+\input{source/farm}
+\nocite{*}
+\printbibliography[title=References,heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/asymmetry]
+\input{source/asymmetry}
+\nocite{*}
+\printbibliography[title=References,heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/rejection]
+\input{source/rejection}
+\nocite{*}
+\printbibliography[title=References,heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/washington]
+\input{source/washington}
+\nocite{*}
+\printbibliography[title=References,heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/tickets]
+\input{source/tickets}
+\nocite{*}
+\printbibliography[title=References,heading=subbibliography]
+\end{refsection}
+
+\end{document}

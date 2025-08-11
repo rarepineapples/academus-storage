@@ -1,59 +1,66 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'main.blg'
-[25] biber-darwin:340> INFO - === Fri Aug  8, 2025, 00:49:57
-[31] Biber.pm:419> INFO - Reading 'main.bcf'
-[66] Biber.pm:979> INFO - Found 75 citekeys in bib section 0
-[72] Biber.pm:4419> INFO - Processing section 0
-[75] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
-[77] bibtex.pm:1713> INFO - LaTeX decoding ...
-[104] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
-[280] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[280] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[280] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[280] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[310] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[323] bbl.pm:763> INFO - Output to main.bbl
-[323] Biber.pm:131> WARN - legacy month field 'jan' in entry 'santos2015evolutionary' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'feb' in entry 'goriounova2019genes' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'jan' in entry 'wu2020genetic' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'aug' in entry 'albrecht2013what' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'apr' in entry 'paulson2015shorttermism' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'mar' in entry 'lin2022fracking' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'may' in entry 'burton2020akhenaten' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'may' in entry 'simmons2024narcissistic' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'oct' in entry 'blanton2020moral' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'apr' in entry 'ehrenpreis2022historical' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'may' in entry 'rincon2014doggerland' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'jul' in entry 'nevle2011neotropical' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'dec' in entry 'juurakko2021cold' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'oct' in entry 'berger2006equatorial' is not an integer - this will probably not sort properly.
-[323] Biber.pm:131> WARN - legacy month field 'apr' in entry 'lockwood2010cold' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'mar' in entry 'columbia2010angkor' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'dec' in entry 'walter2017polynesian' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'apr' in entry 'allentoft2014extinct' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'jul' in entry 'rawlence2017blackswans' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'sep' in entry 'rolett2004deforestation' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'feb' in entry 'manning2023hittite' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'jun' in entry 'spyrou2018plague' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'nov' in entry 'basri2020wealth' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'mar' in entry 'britannica2024majorian' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'nov' in entry 'scheidel2009size' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'may' in entry 'ballhatchet2024akbar' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'jun' in entry 'nationaltrust2024eastindia' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'mar' in entry 'omer2024hunger' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'dec' in entry 'ranganathan2018feed10billion' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'jun' in entry 'chowdhury2022agricultural' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'jun' in entry 'jordan2022pollution' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'sep' in entry 'mckibben2021they' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'nov' in entry 'bearak2022world' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'jan' in entry 'cheung2020trump' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'apr' in entry 'keyes2019ace' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'jun' in entry 'halpert2014elnino' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'jan' in entry 'lindsey2024globaltemp' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'nov' in entry 'diffenbaugh2021wildfire' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'mar' in entry 'meehl2005howmuch' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'oct' in entry 'epa2022airquality' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'jun' in entry 'nasa2010globalwarming' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - legacy month field 'jun' in entry 'juling2023future' is not an integer - this will probably not sort properly.
-[324] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/2c/csxbr8w52l5f7r1d9w2bhhgw0000gn/T/biber_tmp_BBM9/8fe4c9854184545302f21ebf0d47516c_30819.utf8, line 4, warning: 18 characters of junk seen at toplevel
-[324] Biber.pm:133> INFO - WARNINGS: 43
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 15640 items from 5000.
+Database file #1: main-blx.bib
+Database file #2: refs.bib
+Biblatex version: 3.19
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 76 entries,
+            6399 wiz_defined-function locations,
+            1662 strings with 24089 characters,
+and the built_in function-call counts, 575581 in all, are:
+= -- 46160
+> -- 7317
+< -- 2125
++ -- 14398
+- -- 2624
+* -- 42738
+:= -- 63192
+add.period$ -- 0
+call.type$ -- 76
+change.case$ -- 1087
+chr.to.int$ -- 84
+cite$ -- 150
+duplicate$ -- 57512
+empty$ -- 53340
+format.name$ -- 4999
+if$ -- 117577
+int.to.chr$ -- 0
+int.to.str$ -- 180
+missing$ -- 0
+newline$ -- 2556
+num.names$ -- 3388
+pop$ -- 27064
+preamble$ -- 1
+purify$ -- 1424
+quote$ -- 0
+skip$ -- 12916
+stack$ -- 0
+substring$ -- 89070
+swap$ -- 11339
+text.length$ -- 1893
+text.prefix$ -- 75
+top$ -- 1
+type$ -- 2572
+warning$ -- 0
+while$ -- 7242
+width$ -- 0
+write$ -- 2481

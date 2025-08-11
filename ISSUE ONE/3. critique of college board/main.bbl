@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
+% This file may safely be deleted. It will be recreated as
+% required.
 %
 \begingroup
 \makeatletter
@@ -16,113 +16,102 @@
   {}
 \endgroup
 
+\datalist[entry]{nty/global//global/global}
+  \entry{desantis2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DSF}{%
+         family={De\bibnamedelima Santis},
+         familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Frederica},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DSF1}
+    \strng{fullhash}{DSF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{howpublished}{Goodwin}
+    \field{title}{College Board Settles for \$750{,}000 Penalty for Sharing and
+  Selling Student Data in Violation of New York State's Student Privacy Law}
+    \verb{url}
+    \verb https://www.goodwinlaw.com/en/insights/blogs/2024/06/college-board-se
+    \verb ttles-for-750000-penalty-for-sharing-and-selling-student-data-in-viol
+    \verb ation-of-new-yo
+    \endverb
+    \field{year}{2024}
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\refsection{0}
-  \datalist[entry]{nty/global//global/global}
-    \entry{desantis2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d6d6ff1fffa8c530e615ffbcbb45c53c}{%
-           family={De\bibnamedelima Santis},
-           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
-           given={Frederica},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{d6d6ff1fffa8c530e615ffbcbb45c53c}
-      \strng{fullhash}{d6d6ff1fffa8c530e615ffbcbb45c53c}
-      \strng{bibnamehash}{d6d6ff1fffa8c530e615ffbcbb45c53c}
-      \strng{authorbibnamehash}{d6d6ff1fffa8c530e615ffbcbb45c53c}
-      \strng{authornamehash}{d6d6ff1fffa8c530e615ffbcbb45c53c}
-      \strng{authorfullhash}{d6d6ff1fffa8c530e615ffbcbb45c53c}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Goodwin}
-      \field{month}{6}
-      \field{title}{College Board Settles for \$750{,}000 Penalty for Sharing and Selling Student Data in Violation of New York State's Student Privacy Law}
-      \field{urlday}{25}
-      \field{urlmonth}{5}
-      \field{urlyear}{2025}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb www.goodwinlaw.com/en/insights/blogs/2024/06/college-board-settles-for-750000-penalty-for-sharing-and-selling-student-data-in-violation-of-new-yo
-      \endverb
-      \verb{url}
-      \verb www.goodwinlaw.com/en/insights/blogs/2024/06/college-board-settles-for-750000-penalty-for-sharing-and-selling-student-data-in-violation-of-new-yo
-      \endverb
-    \endentry
-    \entry{kronsburg2025}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6c7fe6628b3cb88ee80c3e2c8d1d0f4e}{%
-           family={Kronsburg},
-           familyi={K\bibinitperiod},
-           given={Noah},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{6c7fe6628b3cb88ee80c3e2c8d1d0f4e}
-      \strng{fullhash}{6c7fe6628b3cb88ee80c3e2c8d1d0f4e}
-      \strng{bibnamehash}{6c7fe6628b3cb88ee80c3e2c8d1d0f4e}
-      \strng{authorbibnamehash}{6c7fe6628b3cb88ee80c3e2c8d1d0f4e}
-      \strng{authornamehash}{6c7fe6628b3cb88ee80c3e2c8d1d0f4e}
-      \strng{authorfullhash}{6c7fe6628b3cb88ee80c3e2c8d1d0f4e}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Columbia Undergraduate Law Review}
-      \field{title}{The College Board: A Case for Antitrust Enforcement Under Section 2 of the Sherman Act}
-      \field{urlday}{25}
-      \field{urlmonth}{5}
-      \field{urlyear}{2025}
-      \field{year}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb www.culawreview.org/journal/the-college-board-a-case-for-antitrust-enforcement-under-section-2-of-the-sherman-act?utm_source=chatgpt.com
-      \endverb
-      \verb{url}
-      \verb www.culawreview.org/journal/the-college-board-a-case-for-antitrust-enforcement-under-section-2-of-the-sherman-act?utm_source=chatgpt.com
-      \endverb
-    \endentry
-    \entry{phelps2018}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b3bbb17c6fa39374e7daf0688e5668bd}{%
-           family={Phelps},
-           familyi={P\bibinitperiod},
-           given={Richard},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{b3bbb17c6fa39374e7daf0688e5668bd}
-      \strng{fullhash}{b3bbb17c6fa39374e7daf0688e5668bd}
-      \strng{bibnamehash}{b3bbb17c6fa39374e7daf0688e5668bd}
-      \strng{authorbibnamehash}{b3bbb17c6fa39374e7daf0688e5668bd}
-      \strng{authornamehash}{b3bbb17c6fa39374e7daf0688e5668bd}
-      \strng{authorfullhash}{b3bbb17c6fa39374e7daf0688e5668bd}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{SSRN Electronic Journal}
-      \field{title}{Does College Board Deserve Public Subsidies?}
-      \field{year}{2018}
-      \verb{doi}
-      \verb 10.2139/ssrn.3331692
-      \endverb
-    \endentry
-    \entry{totalregistration}{misc}{}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.totalregistration.net/AP-Exam-Registration-Service/Follow-The-Money-History-of-College-Board-Finances.php}}
-      \field{title}{Total Registration}
-    \endentry
-  \enddatalist
-\endrefsection
+  \entry{kronsburg2025}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KN}{%
+         family={Kronsburg},
+         familyi={K\bibinitperiod},
+         given={Noah},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KN1}
+    \strng{fullhash}{KN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{howpublished}{Columbia Undergraduate Law Review}
+    \field{title}{The College Board: A Case for Antitrust Enforcement Under
+  Section 2 of the Sherman Act}
+    \verb{url}
+    \verb https://www.culawreview.org/journal/the-college-board-a-case-for-anti
+    \verb trust-enforcement-under-section-2-of-the-sherman-act?utm_source=chatg
+    \verb pt.com
+    \endverb
+    \field{year}{2025}
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{phelps2018}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PR}{%
+         family={Phelps},
+         familyi={P\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PR1}
+    \strng{fullhash}{PR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.2139/ssrn.3331692
+    \endverb
+    \field{title}{Does College Board Deserve Public Subsidies?}
+    \verb{url}
+    \verb https://doi.org/10.2139/ssrn.3331692
+    \endverb
+    \field{journaltitle}{SSRN Electronic Journal}
+    \field{year}{2018}
+  \endentry
+
+  \entry{totalregistration}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+  \field{howpublished}{\url{https://www.totalregistration.net/AP-Exam-Registration-Service/Follow-The-Money-History-of-College-Board-Finances.php}}
+    \field{title}{Total Registration}
+  \endentry
+\enddatalist
 \endinput
-

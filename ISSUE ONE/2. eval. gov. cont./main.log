@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  9 AUG 2025 18:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  10 AUG 2025 17:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -414,23 +414,6 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 ))
-(/usr/local/texlive/2024/texmf-dist/tex/latex/ragged2e/ragged2e.sty
-Package: ragged2e 2023/06/22 v3.6 ragged2e Package
-\CenteringLeftskip=\skip52
-\RaggedLeftLeftskip=\skip53
-\RaggedRightLeftskip=\skip54
-\CenteringRightskip=\skip55
-\RaggedLeftRightskip=\skip56
-\RaggedRightRightskip=\skip57
-\CenteringParfillskip=\skip58
-\RaggedLeftParfillskip=\skip59
-\RaggedRightParfillskip=\skip60
-\JustifyingParfillskip=\skip61
-\CenteringParindent=\skip62
-\RaggedLeftParindent=\skip63
-\RaggedRightParindent=\skip64
-\JustifyingParindent=\skip65
-)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
@@ -484,14 +467,14 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@sectionciteorderinternal@0=\count323
 \blx@entrysetcounter=\count324
 \blx@biblioinstance=\count325
-\labelnumberwidth=\skip66
-\labelalphawidth=\skip67
-\biblabelsep=\skip68
-\bibitemsep=\skip69
-\bibnamesep=\skip70
-\bibinitsep=\skip71
-\bibparsep=\skip72
-\bibhang=\skip73
+\labelnumberwidth=\skip52
+\labelalphawidth=\skip53
+\biblabelsep=\skip54
+\bibitemsep=\skip55
+\bibnamesep=\skip56
+\bibinitsep=\skip57
+\bibparsep=\skip58
+\bibhang=\skip59
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language89
@@ -580,20 +563,20 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count394
 \c@pageref=\count395
 \c@savedpageref=\count396
-\shorthandwidth=\skip74
-\shortjournalwidth=\skip75
-\shortserieswidth=\skip76
-\shorttitlewidth=\skip77
-\shortauthorwidth=\skip78
-\shorteditorwidth=\skip79
-\locallabelnumberwidth=\skip80
-\locallabelalphawidth=\skip81
-\localshorthandwidth=\skip82
-\localshortjournalwidth=\skip83
-\localshortserieswidth=\skip84
-\localshorttitlewidth=\skip85
-\localshortauthorwidth=\skip86
-\localshorteditorwidth=\skip87
+\shorthandwidth=\skip60
+\shortjournalwidth=\skip61
+\shortserieswidth=\skip62
+\shorttitlewidth=\skip63
+\shortauthorwidth=\skip64
+\shorteditorwidth=\skip65
+\locallabelnumberwidth=\skip66
+\locallabelalphawidth=\skip67
+\localshorthandwidth=\skip68
+\localshortjournalwidth=\skip69
+\localshortserieswidth=\skip70
+\localshorttitlewidth=\skip71
+\localshortauthorwidth=\skip72
+\localshorteditorwidth=\skip73
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -702,15 +685,15 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip88
-\f@nch@O@elh=\skip89
-\f@nch@O@erh=\skip90
-\f@nch@O@olh=\skip91
-\f@nch@O@orh=\skip92
-\f@nch@O@elf=\skip93
-\f@nch@O@erf=\skip94
-\f@nch@O@olf=\skip95
-\f@nch@O@orf=\skip96
+\f@nch@headwidth=\skip74
+\f@nch@O@elh=\skip75
+\f@nch@O@erh=\skip76
+\f@nch@O@olh=\skip77
+\f@nch@O@orh=\skip78
+\f@nch@O@elf=\skip79
+\f@nch@O@erf=\skip80
+\f@nch@O@olf=\skip81
+\f@nch@O@orf=\skip82
 ))
 LaTeX Font Info:    Trying to load font information for T1+fbb-TLF on input lin
 e 22.
@@ -940,7 +923,7 @@ LaTeX Font Info:    Font shape `T1/fbb-TLF/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 24.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 24.
-LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 33.
  [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/
 local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc}
@@ -963,19 +946,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 39.
  [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_ivhnor.enc}]
-Overfull \hbox (3.30016pt too wide) in paragraph at lines 40--40
+Overfull \hbox (3.30016pt too wide) in paragraph at lines 39--39
 []\T1/fbb-TLF/m/n/12 (-20) Demographic Trends and China's Long-Term Growth Pros
 pects. [][]$https : / / www . federalreserve .
  []
 
 
-Overfull \hbox (0.12263pt too wide) in paragraph at lines 40--40
+Overfull \hbox (0.12263pt too wide) in paragraph at lines 39--39
 \T1/fbb-TLF/m/n/12 (+12) text = Overall % 20the % 20trade % 20war % 20has ,[] h
 ave % 20since % 20recovered % 20only %
  []
 
 
-Overfull \hbox (25.3337pt too wide) in paragraph at lines 40--40
+Overfull \hbox (25.3337pt too wide) in paragraph at lines 39--39
 []\T1/fbb-TLF/m/n/12 (-20) One Child Pol-icy and Sav-ings. [][]$https : / / eco
 nomics . yale . edu / sites / default / ^^\les / tahamaclunch100214 _
  []
@@ -992,17 +975,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20415 strings out of 474116
- 365275 string characters out of 5743683
- 1957187 words of memory out of 5000000
- 42409 multiletter control sequences out of 15000+600000
- 622428 words of font info for 137 fonts, out of 8000000 for 9000
+ 20328 strings out of 474116
+ 363361 string characters out of 5743683
+ 1956187 words of memory out of 5000000
+ 42326 multiletter control sequences out of 15000+600000
+ 620918 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,11n,95p,2149b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Bold.pfb></usr
 /local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></usr/loca
 l/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb>
-Output written on main.pdf (4 pages, 128462 bytes).
+Output written on main.pdf (4 pages, 128058 bytes).
 PDF statistics:
  114 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream

@@ -1,4 +1,4 @@
-PWD /Users/jaspersun/Desktop/academus-storage/ISSUE ONE/fertility
+PWD /Users/jaspersun/Desktop/academus-storage/ISSUE ONE/4. fertility
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -124,8 +124,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype-pdftex.de
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/ragged2e/ragged2e.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
@@ -232,7 +230,7 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-sc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Italic-tlf-t1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-t1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Bold-tlf-t1.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-t1.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Italic-tlf-t1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/fbb/fbb-Italic-tlf-t1.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Italic-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -250,8 +248,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-t1
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/fbb/fbb-Regular-tlf-t1.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-t1--base.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/fbb/fbb-Regular-tlf-t1.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-t1--base.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/fbb/fbb-Italic-tlf-t1.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Italic-tlf-t1--base.tfm
 INPUT ./fredgraph.png
 INPUT ./fredgraph.png
 INPUT ./fredgraph.png

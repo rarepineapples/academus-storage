@@ -19,29 +19,23 @@
 % type features
 \usepackage{fbb}
 \usepackage{microtype}
-\usepackage{ragged2e}
 
 %bibliography
-\usepackage[style=mla]{biblatex}
+\usepackage[style=mla, backend=bibtex]{biblatex}
 \addbibresource{refs.bib}
 
 % title
 \renewcommand\maketitle{
 
-  \thispagestyle{first-page}
+  \thispagestyle{fancy}
 
-  \noindent
-  % \begin{minipage}[t]{0.9\linewidth}
-  {\centering\noindent\LARGE\textsc\jtitle\par}
-  % \end{minipage}
+  {\centering\noindent\LARGE\scshape\jtitle\par}
 
   \bigskip
 
-  {\centering\noindent\textsc\jauthor\par}
-
+  {\centering\noindent\scshape\jauthor\par}
   \medskip
-
-  {\centering\noindent\textit\jaffiliation\par}
+  {\centering\noindent\itshape\jaffiliation\par}
 
   \bigskip
   \bigskip
@@ -55,19 +49,13 @@
 \pagestyle{fancy}
 \fancyhead{}
 \fancyfoot{}
-\fancyhead[LE]{\textit{\thepage\quad\jauthor}}
-\fancyhead[RO]{\textit{Academus Philosophy Journal\quad\thepage}}
+\fancyhead[LE]{\itshape\thepage\quad\jauthor}
+\fancyhead[RO]{\itshape{Academus Philosophy Journal}\quad\thepage}
 \renewcommand{\headrulewidth}{0pt}
 \setlength\headheight{2em}
 
-\fancyfoot[R]{\footnotesize vol. \jvolume\quad \jyear}
-
-
-% first page footer
-
-\fancypagestyle{first-page}{
-  % \fancyfoot[L]{\footnotesize \textsc{doi}: \url{\jdoi}\quad \textsc{issn}: \url{XXXX-XXX}}
-}
+\fancyfoot[LE]{\itshape\footnotesize iss. \jvolume\quad \jyear}
+\fancyfoot[RO]{\itshape\footnotesize iss. \jvolume\quad \jyear}
 
 
 

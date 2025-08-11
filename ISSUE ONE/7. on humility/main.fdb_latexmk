@@ -1,11 +1,14 @@
 # Fdb version 4
-["biber main"] 1753936472.44266 "main.bcf" "main.bbl" "main" 1754793218.84807 0
-  "main.bcf" 1754793218.77768 125079 0a424f9b29dc25c94a2b19b89ccab915 "pdflatex"
+["bibtex main"] 1754870907.88625 "main.aux" "main.bbl" "main" 1754870946.31836 0
+  "./main-blx.bib" 1754870946.05934 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+  "./refs.bib" 1753936122.80477 4025 56e9d4db1370ce6cd94c7bfac09dce7c ""
+  "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
+  "main.aux" 1754870946.05656 343 540c3d31bf02bd887bae914e5b5233e0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1754793217.79189 "main.tex" "main.pdf" "main" 1754793218.8483 0
+["pdflatex"] 1754870945.13282 "main.tex" "main.pdf" "main" 1754870946.31848 0
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc" 1593726333 2906 e61ee539f72040515b8ad56a2123a2e2 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc" 1593726333 2915 a82682c1efed9ed1ef6281f80d9dfa31 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_oiqgfb.enc" 1593726333 3230 ca593a990d5abdb352b4bf0c48ef1c58 ""
@@ -156,6 +159,7 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg" 1342308459 69 249fa6df04d948e51b6d5c67bea30c42 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def" 1678141846 92527 8f6b3a677f74ea525477a813f33c4e65 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty" 1678141846 528517 7eed285c714f532e12ae48b360c080f8 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-bibtex.def" 1678141846 24610 e8a51da6c1318fc1c283dff9fb3c65a6 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty" 1609451401 8433 72f8188742e7214b7068f345cd0287ac ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def" 1643926307 13919 5426dbe90e723f089052b4e908b56ef9 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def" 1643926307 32455 8d3e554836db11aab80a8e11be62e1b1 ""
@@ -207,7 +211,6 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty" 1601326656 274 5ae372b7df79135d240456a1c6f2cf9a ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty" 1601326656 325 f9f16d12354225b7dd52a3321f085955 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/pgfplots/pgfplots.sty" 1496704190 4904 ee78b44e85d6fccf08cd99370557481e ""
-  "/usr/local/texlive/2024/texmf-dist/tex/latex/ragged2e/ragged2e.sty" 1687466457 10085 3dececaeed388e31285c366e124c0c4e ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657483315 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
@@ -217,15 +220,15 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1738795163.40996 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1738795148 8221440 5e78c95eba245aeb45dc540d47de3ce0 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "format.sty" 1754634307.30149 1432 ade430632463d338f9b2c8d2f41c340d ""
-  "main.aux" 1754793218.77522 271 ed5d2b93c47a89a1bdc5a97a3def19d7 "pdflatex"
-  "main.bbl" 1753936473.96298 466 ee04f40f768daeed26442158e95aba61 "biber main"
-  "main.out" 1754793218.5802 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1754793218.77829 2424 be1ff5df0673dde42a8d3d9675fa0941 "pdflatex"
-  "main.tex" 1754793217.31729 9073 d023d0b3e40b3298af0fd8460e23b67f ""
+  "format.sty" 1754870248.6471 1277 51d86f0cbe6222dea733b37c13c78e11 ""
+  "main.aux" 1754870946.05656 343 540c3d31bf02bd887bae914e5b5233e0 "pdflatex"
+  "main.bbl" 1754870907.95054 512 242e9db92557ac81f6b30ce4f9334513 "bibtex main"
+  "main.out" 1754870945.88245 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1754870946.05985 2641 339b34de06acbd30421abc60c5f02f29 "pdflatex"
+  "main.tex" 1754870944.35751 9091 4a30a00a7f5089eee76384447c0c059a ""
   (generated)
+  "main-blx.bib"
   "main.aux"
-  "main.bcf"
   "main.log"
   "main.out"
   "main.pdf"

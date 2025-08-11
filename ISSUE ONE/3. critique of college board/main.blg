@@ -1,17 +1,65 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'main.blg'
-[23] biber-darwin:340> INFO - === Wed Jul 30, 2025, 21:17:33
-[28] Biber.pm:419> INFO - Reading 'main.bcf'
-[59] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
-[64] Biber.pm:4419> INFO - Processing section 0
-[68] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
-[68] bibtex.pm:1713> INFO - LaTeX decoding ...
-[73] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
-[91] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[91] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[91] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[91] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[94] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[95] bbl.pm:763> INFO - Output to main.bbl
-[95] Biber.pm:131> WARN - legacy month field 'jun' in entry 'desantis2024' is not an integer - this will probably not sort properly.
-[95] Biber.pm:133> INFO - WARNINGS: 1
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: main-blx.bib
+Database file #2: refs.bib
+Biblatex version: 3.19
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 5 entries,
+            6399 wiz_defined-function locations,
+            1226 strings with 9910 characters,
+and the built_in function-call counts, 20211 in all, are:
+= -- 1058
+> -- 849
+< -- 122
++ -- 809
+- -- 584
+* -- 1173
+:= -- 2265
+add.period$ -- 0
+call.type$ -- 5
+change.case$ -- 35
+chr.to.int$ -- 91
+cite$ -- 8
+duplicate$ -- 1936
+empty$ -- 1889
+format.name$ -- 156
+if$ -- 3883
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 0
+newline$ -- 115
+num.names$ -- 123
+pop$ -- 1373
+preamble$ -- 1
+purify$ -- 40
+quote$ -- 0
+skip$ -- 657
+stack$ -- 0
+substring$ -- 1839
+swap$ -- 527
+text.length$ -- 129
+text.prefix$ -- 4
+top$ -- 1
+type$ -- 158
+warning$ -- 0
+while$ -- 263
+width$ -- 0
+write$ -- 111

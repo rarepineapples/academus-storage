@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
+% This file may safely be deleted. It will be recreated as
+% required.
 %
 \begingroup
 \makeatletter
@@ -16,189 +16,160 @@
   {}
 \endgroup
 
+\datalist[entry]{nty/global//global/global}
+  \entry{findling2022}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FM}{%
+         family={Findling},
+         familyi={F\bibinitperiod},
+         given={Mary},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{howpublished}{Health Affairs Forefront}
+    \field{title}{COVID-19 Has Driven Racism and Violence Against Asian
+  Americans: Perspectives From 12 National Polls}
+    \verb{url}
+    \verb https://www.healthaffairs.org/content/forefront/covid-19-has-driven-r
+    \verb acism-and-violence-against-asian-americans-perspectives-12
+    \endverb
+    \field{year}{2022}
+    \field{urlday}{30}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
 
-\refsection{0}
-  \datalist[entry]{nty/global//global/global}
-    \entry{findling2022}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a5a76d2838484186acc3790645efb51a}{%
-           family={Findling},
-           familyi={F\bibinitperiod},
-           given={Mary},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{a5a76d2838484186acc3790645efb51a}
-      \strng{fullhash}{a5a76d2838484186acc3790645efb51a}
-      \strng{bibnamehash}{a5a76d2838484186acc3790645efb51a}
-      \strng{authorbibnamehash}{a5a76d2838484186acc3790645efb51a}
-      \strng{authornamehash}{a5a76d2838484186acc3790645efb51a}
-      \strng{authorfullhash}{a5a76d2838484186acc3790645efb51a}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Health Affairs Forefront}
-      \field{title}{COVID-19 Has Driven Racism and Violence Against Asian Americans: Perspectives From 12 National Polls}
-      \field{urlday}{30}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb www.healthaffairs.org/content/forefront/covid-19-has-driven-racism-and-violence-against-asian-americans-perspectives-12
-      \endverb
-      \verb{url}
-      \verb www.healthaffairs.org/content/forefront/covid-19-has-driven-racism-and-violence-against-asian-americans-perspectives-12
-      \endverb
-    \endentry
-    \entry{hswen2021}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=92e6df65681ef0d0b0f95a93f99f688c}{%
-           family={Hswen},
-           familyi={H\bibinitperiod},
-           given={Yulin},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{92e6df65681ef0d0b0f95a93f99f688c}
-      \strng{fullhash}{92e6df65681ef0d0b0f95a93f99f688c}
-      \strng{bibnamehash}{92e6df65681ef0d0b0f95a93f99f688c}
-      \strng{authorbibnamehash}{92e6df65681ef0d0b0f95a93f99f688c}
-      \strng{authornamehash}{92e6df65681ef0d0b0f95a93f99f688c}
-      \strng{authorfullhash}{92e6df65681ef0d0b0f95a93f99f688c}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{American Journal of Public Health}
-      \field{title}{Association of “\#covid19” Versus “\#chinesevirus” With Anti-Asian Sentiments on Twitter}
-      \field{volume}{111}
-      \field{year}{2021}
-      \verb{doi}
-      \verb 10.2105/AJPH.2021.306154
-      \endverb
-    \endentry
-    \entry{kipling1899}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=93d4ff7176fdbdc3ac8c9a2bf2082664}{%
-           family={Kipling},
-           familyi={K\bibinitperiod},
-           given={Rudyard},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{93d4ff7176fdbdc3ac8c9a2bf2082664}
-      \strng{fullhash}{93d4ff7176fdbdc3ac8c9a2bf2082664}
-      \strng{bibnamehash}{93d4ff7176fdbdc3ac8c9a2bf2082664}
-      \strng{authorbibnamehash}{93d4ff7176fdbdc3ac8c9a2bf2082664}
-      \strng{authornamehash}{93d4ff7176fdbdc3ac8c9a2bf2082664}
-      \strng{authorfullhash}{93d4ff7176fdbdc3ac8c9a2bf2082664}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Google Books}
-      \field{title}{The White Man’s Burden}
-      \field{urlday}{30}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{1899}
-      \field{urldateera}{ce}
-      \verb{eprint}
-      \verb Google Books
-      \endverb
-      \verb{urlraw}
-      \verb books.google.com/books?id=8GFBAQAAMAAJ
-      \endverb
-      \verb{url}
-      \verb books.google.com/books?id=8GFBAQAAMAAJ
-      \endverb
-    \endentry
-    \entry{smedley2024}{misc}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=1b94e8835fa7e7d9a5ef01010922916e}{%
-           family={Smedley},
-           familyi={S\bibinitperiod},
-           given={Audrey},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7b94bdeed132cbba98b7d31114e88485}{%
-           family={Wade},
-           familyi={W\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=481db2f8713562059f7f93488d3f2a2c}{%
-           family={Takezawa},
-           familyi={T\bibinitperiod},
-           given={Yasuko\bibnamedelima I.},
-           giveni={Y\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{5703082baa2e8aa2a05d553e4f23efa4}
-      \strng{fullhash}{38509ea3790ea1579cf0f70b3cda4917}
-      \strng{bibnamehash}{5703082baa2e8aa2a05d553e4f23efa4}
-      \strng{authorbibnamehash}{5703082baa2e8aa2a05d553e4f23efa4}
-      \strng{authornamehash}{5703082baa2e8aa2a05d553e4f23efa4}
-      \strng{authorfullhash}{38509ea3790ea1579cf0f70b3cda4917}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Encyclopedia Britannica}
-      \field{title}{Race}
-      \field{urlday}{29}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb www.britannica.com/topic/race-human
-      \endverb
-      \verb{url}
-      \verb www.britannica.com/topic/race-human
-      \endverb
-    \endentry
-    \entry{stewart2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f46bfda498298e2835cc08fdbd939bd1}{%
-           family={Stewart},
-           familyi={S\bibinitperiod},
-           given={Chuck},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{f46bfda498298e2835cc08fdbd939bd1}
-      \strng{fullhash}{f46bfda498298e2835cc08fdbd939bd1}
-      \strng{bibnamehash}{f46bfda498298e2835cc08fdbd939bd1}
-      \strng{authorbibnamehash}{f46bfda498298e2835cc08fdbd939bd1}
-      \strng{authornamehash}{f46bfda498298e2835cc08fdbd939bd1}
-      \strng{authorfullhash}{f46bfda498298e2835cc08fdbd939bd1}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Issues: Understanding Controversy and Society, ABC-CLIO}
-      \field{title}{Affirmative Action: Current View \& Outlook}
-      \field{urlday}{28}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb issues.abc-clio.com/Topics/Display/913329?cid=70
-      \endverb
-      \verb{url}
-      \verb issues.abc-clio.com/Topics/Display/913329?cid=70
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
+  \entry{hswen2021}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HY}{%
+         family={Hswen},
+         familyi={H\bibinitperiod},
+         given={Yulin},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HY1}
+    \strng{fullhash}{HY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.2105/AJPH.2021.306154
+    \endverb
+    \field{title}{Association of “\#covid19” Versus “\#chinesevirus”
+  With Anti-Asian Sentiments on Twitter}
+    \verb{url}
+    \verb https://doi.org/10.2105/AJPH.2021.306154
+    \endverb
+    \field{volume}{111}
+    \field{journaltitle}{American Journal of Public Health}
+    \field{year}{2021}
+    \field{urlday}{30}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{kipling1899}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KR}{%
+         family={Kipling},
+         familyi={K\bibinitperiod},
+         given={Rudyard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KR1}
+    \strng{fullhash}{KR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{howpublished}{Google Books}
+    \field{title}{The White Man’s Burden}
+    \verb{url}
+    \verb https://books.google.com/books?id=8GFBAQAAMAAJ
+    \endverb
+    \field{year}{1899}
+    \field{urlday}{30}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{smedley2024}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=SA}{%
+         family={Smedley},
+         familyi={S\bibinitperiod},
+         given={Audrey},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={Wade},
+         familyi={W\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=TYI}{%
+         family={Takezawa},
+         familyi={T\bibinitperiod},
+         given={Yasuko\bibnamedelima I.},
+         giveni={Y\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA+1}
+    \strng{fullhash}{SAWPTYI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{Encyclopedia Britannica}
+    \field{title}{Race}
+    \verb{url}
+    \verb https://www.britannica.com/topic/race-human
+    \endverb
+    \field{year}{2024}
+    \field{urlday}{29}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{stewart2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SC}{%
+         family={Stewart},
+         familyi={S\bibinitperiod},
+         given={Chuck},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SC1}
+    \strng{fullhash}{SC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{Issues: Understanding Controversy and Society,
+  ABC-CLIO}
+    \field{title}{Affirmative Action: Current View \& Outlook}
+    \verb{url}
+    \verb https://issues.abc-clio.com/Topics/Display/913329?cid=70
+    \endverb
+    \field{year}{2024}
+    \field{urlday}{28}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
+\enddatalist
 \endinput
-

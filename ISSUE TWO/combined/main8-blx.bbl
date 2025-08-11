@@ -1,0 +1,314 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{atkinson2004economics}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=AJJ}{%
+         family={Atkinson},
+         familyi={A\bibinitperiod},
+         given={James\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AJJ1}
+    \strng{fullhash}{AJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \field{howpublished}{Jimmy Atkinson}
+    \field{title}{The Economics of Ticket Scalping – Jimmy Atkinson}
+    \verb{url}
+    \verb https://jimmyatkinson.com/papers/the-economics-of-ticket-scalping/
+    \endverb
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{becker1991note}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BGS}{%
+         family={Becker},
+         familyi={B\bibinitperiod},
+         given={Gary\bibnamedelima S.},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGS1}
+    \strng{fullhash}{BGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{number}{5}
+    \field{pages}{1109\bibrangedash 1116}
+    \field{title}{A Note on Restaurant Pricing and Other Examples of Social
+  Influences on Price}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2937660
+    \endverb
+    \field{volume}{99}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1991}
+  \endentry
+
+  \entry{hernandez2023junkfees}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HJ}{%
+         family={Hernandez},
+         familyi={H\bibinitperiod},
+         given={Joe},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJ1}
+    \strng{fullhash}{HJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{howpublished}{NPR}
+    \field{title}{Biden Proposes A Ban On ‘Junk Fees’ — From Concert
+  Tickets To Hotel Rooms}
+    \verb{url}
+    \verb https://www.npr.org/2023/10/11/1205164556/junk-fees-biden-white-house
+    \verb -rules
+    \endverb
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{leslie2014resale}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LP}{%
+         family={Leslie},
+         familyi={L\bibinitperiod},
+         given={Phillip},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sorensen},
+         familyi={S\bibinitperiod},
+         given={Alan},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LPSA1}
+    \strng{fullhash}{LPSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{number}{1}
+    \field{pages}{266\bibrangedash 300}
+    \field{title}{Resale and Rent-Seeking: An Application to Ticket Markets}
+    \verb{url}
+    \verb http://www.jstor.org/stable/43551672
+    \endverb
+    \field{volume}{81}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{2014}
+  \endentry
+
+  \entry{mckenzie2017economics}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MJ}{%
+         family={McKenzie},
+         familyi={M\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJ1}
+    \strng{fullhash}{MJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{howpublished}{The Conversation US}
+    \field{title}{The Economics of Ticket Scalping}
+    \verb{url}
+    \verb https://theconversation.com/the-economics-of-ticket-scalping-83434
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{miller2016scalping}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MTC}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={Tracy\bibnamedelima C.},
+         giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MTC1}
+    \strng{fullhash}{MTC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{howpublished}{U.S. News \& World Report}
+    \field{title}{Scalping Isn’t Scamming}
+    \verb{url}
+    \verb https://www.usnews.com/opinion/articles/2016-10-04/why-congress-shoul
+    \verb dnt-curb-ticket-scalping-after-hamilton-prices-soar
+    \endverb
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{perry2016ticket}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PM}{%
+         family={Perry},
+         familyi={P\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PM1}
+    \strng{fullhash}{PM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \field{howpublished}{American Enterprise Institute}
+    \field{title}{Ticket Scalping: Musicians VS. Economists}
+    \verb{url}
+    \verb https://www.aei.org/carpe-diem/ticket-scalping-musicians-vs-economist
+    \verb s/
+    \endverb
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{shaw2016oldchella}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SL}{%
+         family={Shaw},
+         familyi={S\bibinitperiod},
+         given={Lucas},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SL1}
+    \strng{fullhash}{SL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{Bloomberg}
+    \field{title}{‘OldChella’ Ticket Scalpers Get Burned On Stones, Bob
+  Dylan Bet}
+    \verb{url}
+    \verb https://www.bloomberg.com/news/articles/2016-10-05/-oldchella-ticket-
+    \verb scalpers-get-burned-on-stones-bob-dylan-bet
+    \endverb
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{surowiecki2016hamilton}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Surowiecki},
+         familyi={S\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{title}{How Online Ticket Scalping (Eventually) Helped
+  ‘Hamilton’}
+    \verb{url}
+    \verb https://www.newyorker.com/business/currency/how-online-ticket-scalpin
+    \verb g-eventually-helped-hamilton
+    \endverb
+    \field{journaltitle}{The New Yorker}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{tapakapa2022concert}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{Tapakapa}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{howpublished}{YouTube video}
+    \field{title}{Concert Tickets Are Too Cheap.*}
+    \verb{url}
+    \verb https://www.youtube.com/watch?v=YhLASgLNkUM
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{woods2021ticket}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=WD}{%
+         family={Woods},
+         familyi={W\bibinitperiod},
+         given={Darian},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WD1}
+    \strng{fullhash}{WD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{howpublished}{NPR}
+    \field{note}{Accessed 2024-03-18}
+    \field{title}{Ticket Scalpers: The Real Ticket Masters}
+    \verb{url}
+    \verb https://www.npr.org/2021/11/23/1058704237/ticket-scalpers-the-real-ti
+    \verb cket-masters
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
+\endinput
