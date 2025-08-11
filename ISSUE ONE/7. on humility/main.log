@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  10 AUG 2025 17:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  11 AUG 2025 15:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1279,10 +1279,20 @@ LaTeX Font Info:    Font shape `T1/fbb-TLF/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 26.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 26.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 34.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 34.
-[1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
-ocal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc}
+ [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/
+local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc}
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_oiqgfb.enc}{/usr/lo
 cal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc}] [2]
@@ -1301,19 +1311,19 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40156 strings out of 474116
- 913108 string characters out of 5743683
+ 40292 strings out of 474116
+ 915791 string characters out of 5743683
  1945187 words of memory out of 5000000
- 61830 multiletter control sequences out of 15000+600000
- 607211 words of font info for 127 fonts, out of 8000000 for 9000
+ 61956 multiletter control sequences out of 15000+600000
+ 609649 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,12n,95p,1893b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,13n,95p,1893b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></u
 sr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb>
-Output written on main.pdf (3 pages, 92956 bytes).
+Output written on main.pdf (3 pages, 94245 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 41 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
- 22541 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 24077 words of extra memory for PDF output out of 24883 (max. 10000000)
 

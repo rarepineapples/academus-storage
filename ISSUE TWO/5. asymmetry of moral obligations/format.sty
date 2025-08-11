@@ -27,7 +27,7 @@
 % title
 \renewcommand\maketitle{
 
-  \thispagestyle{fancy}
+  \thispagestyle{first-page}
 
   {\centering\noindent\LARGE\scshape\jtitle\par}
 
@@ -57,5 +57,7 @@
 \fancyfoot[LE]{\itshape\footnotesize iss. \jvolume\quad \jyear}
 \fancyfoot[RO]{\itshape\footnotesize iss. \jvolume\quad \jyear}
 
-
-
+\fancypagestyle{first-page}{
+  \fancyfoot{}
+  \fancyfoot[RO]{\textsc{doi:} \url{\jdoi} \quad\textit{\footnotesize iss. \jvolume\quad \jyear}}
+}

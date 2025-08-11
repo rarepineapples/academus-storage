@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
+% This file may safely be deleted. It will be recreated as
+% required.
 %
 \begingroup
 \makeatletter
@@ -16,472 +16,393 @@
   {}
 \endgroup
 
+\datalist[entry]{nty/global//global/global}
+  \entry{charles2019farmers}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CD}{%
+         family={Charles},
+         familyi={C\bibinitperiod},
+         given={Dan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CD1}
+    \strng{fullhash}{CD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{NPR, The Salt}
+    \field{title}{Farmers Got Billions From Taxpayers In 2019, And Hardly
+  Anyone Objected}
+    \verb{url}
+    \verb https://www.npr.org/sections/thesalt/2019/12/31/790261705/farmers-got
+    \verb -billions-from-taxpayers-in-2019-and-hardly-anyone-objected
+    \endverb
+    \field{year}{2019}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\refsection{0}
-  \datalist[entry]{nty/global//global/global}
-    \entry{charles2019farmers}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=dc21b7184b1b7df3125ceb5d7100e056}{%
-           family={Charles},
-           familyi={C\bibinitperiod},
-           given={Dan},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{dc21b7184b1b7df3125ceb5d7100e056}
-      \strng{fullhash}{dc21b7184b1b7df3125ceb5d7100e056}
-      \strng{bibnamehash}{dc21b7184b1b7df3125ceb5d7100e056}
-      \strng{authorbibnamehash}{dc21b7184b1b7df3125ceb5d7100e056}
-      \strng{authornamehash}{dc21b7184b1b7df3125ceb5d7100e056}
-      \strng{authorfullhash}{dc21b7184b1b7df3125ceb5d7100e056}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{NPR, The Salt}
-      \field{month}{12}
-      \field{title}{Farmers Got Billions From Taxpayers In 2019, And Hardly Anyone Objected}
-      \field{year}{2019}
-      \true{nocite}
-      \verb{urlraw}
-      \verb www.npr.org/sections/thesalt/2019/12/31/790261705/farmers-got-billions-from-taxpayers-in-2019-and-hardly-anyone-objected
-      \endverb
-      \verb{url}
-      \verb www.npr.org/sections/thesalt/2019/12/31/790261705/farmers-got-billions-from-taxpayers-in-2019-and-hardly-anyone-objected
-      \endverb
-    \endentry
-    \entry{covey2006agincome}{report}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=7494090b52f961e97fd7d08b83bf500d}{%
-           family={Covey},
-           familyi={C\bibinitperiod},
-           given={Ted},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ec7f4c997597501308cb825c0a4203f1}{%
-           family={Green},
-           familyi={G\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {United States Department of Agriculture}%
-      }
-      \strng{namehash}{575d06842e0a4f3da16a30a9b9d34e69}
-      \strng{fullhash}{575d06842e0a4f3da16a30a9b9d34e69}
-      \strng{bibnamehash}{575d06842e0a4f3da16a30a9b9d34e69}
-      \strng{authorbibnamehash}{575d06842e0a4f3da16a30a9b9d34e69}
-      \strng{authornamehash}{575d06842e0a4f3da16a30a9b9d34e69}
-      \strng{authorfullhash}{575d06842e0a4f3da16a30a9b9d34e69}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{number}{AIS-11-30-2006}
-      \field{title}{Agricultural Income and Finance Outlook}
-      \field{type}{techreport}
-      \field{year}{2006}
-      \true{nocite}
-      \field{pages}{65}
-      \range{pages}{1}
-      \verb{urlraw}
-      \verb downloads.usda.library.cornell.edu/usda-esmis/files/w0892992w/r207tr07g/d791sh92r/AIS-11-30-2006.pdf#page=3.06
-      \endverb
-      \verb{url}
-      \verb downloads.usda.library.cornell.edu/usda-esmis/files/w0892992w/r207tr07g/d791sh92r/AIS-11-30-2006.pdf#page=3.06
-      \endverb
-    \endentry
-    \entry{diao2003impact}{report}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=d3bdef40132682da86dab2ef26bc66ee}{%
-           family={Diao},
-           familyi={D\bibinitperiod},
-           given={Xinshen},
-           giveni={X\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e5a69bec6a0ee98b4bec80a354f35117}{%
-           family={Diaz-Bonilla},
-           familyi={D\bibinithyphendelim B\bibinitperiod},
-           given={Engenio},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0383c94e9a7e1a50afd56047c49cc09b}{%
-           family={Robinson},
-           familyi={R\bibinitperiod},
-           given={Sherman},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {International Food Policy Research Institute}%
-      }
-      \strng{namehash}{bbf2aea6841c6f0887342d1883710be8}
-      \strng{fullhash}{f3291e48876bb64935af1d658708d4bb}
-      \strng{bibnamehash}{bbf2aea6841c6f0887342d1883710be8}
-      \strng{authorbibnamehash}{bbf2aea6841c6f0887342d1883710be8}
-      \strng{authornamehash}{bbf2aea6841c6f0887342d1883710be8}
-      \strng{authorfullhash}{f3291e48876bb64935af1d658708d4bb}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{8}
-      \field{title}{How Much Does It Hurt? The Impact of Agricultural Trade Policies on Developing Countries}
-      \field{type}{techreport}
-      \field{year}{2003}
-      \true{nocite}
-      \verb{urlraw}
-      \verb web.archive.org/web/20110726172604/www.ifpri.org/sites/default/files/pubs/media/trade/trade.pdf
-      \endverb
-      \verb{url}
-      \verb web.archive.org/web/20110726172604/www.ifpri.org/sites/default/files/pubs/media/trade/trade.pdf
-      \endverb
-    \endentry
-    \entry{edwards2018cbo}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e770d5905ca94bc099cd5b1571042429}{%
-           family={Edwards},
-           familyi={E\bibinitperiod},
-           given={Chris},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{e770d5905ca94bc099cd5b1571042429}
-      \strng{fullhash}{e770d5905ca94bc099cd5b1571042429}
-      \strng{bibnamehash}{e770d5905ca94bc099cd5b1571042429}
-      \strng{authorbibnamehash}{e770d5905ca94bc099cd5b1571042429}
-      \strng{authornamehash}{e770d5905ca94bc099cd5b1571042429}
-      \strng{authorfullhash}{e770d5905ca94bc099cd5b1571042429}
-      \field{extraname}{1}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Cato Institute}
-      \field{month}{12}
-      \field{title}{CBO Findings on Farm Subsidies}
-      \field{year}{2018}
-      \true{nocite}
-      \verb{urlraw}
-      \verb www.cato.org/blog/cbo-findings-farm-subsidies
-      \endverb
-      \verb{url}
-      \verb www.cato.org/blog/cbo-findings-farm-subsidies
-      \endverb
-    \endentry
-    \entry{edwards2025corporate}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e770d5905ca94bc099cd5b1571042429}{%
-           family={Edwards},
-           familyi={E\bibinitperiod},
-           given={Chris},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{e770d5905ca94bc099cd5b1571042429}
-      \strng{fullhash}{e770d5905ca94bc099cd5b1571042429}
-      \strng{bibnamehash}{e770d5905ca94bc099cd5b1571042429}
-      \strng{authorbibnamehash}{e770d5905ca94bc099cd5b1571042429}
-      \strng{authornamehash}{e770d5905ca94bc099cd5b1571042429}
-      \strng{authorfullhash}{e770d5905ca94bc099cd5b1571042429}
-      \field{extraname}{2}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Cato Institute}
-      \field{month}{3}
-      \field{title}{Corporate Welfare in the Federal Budget}
-      \field{year}{2025}
-      \true{nocite}
-      \verb{urlraw}
-      \verb www.cato.org/policy-analysis/corporate-welfare-federal-budget-0
-      \endverb
-      \verb{url}
-      \verb www.cato.org/policy-analysis/corporate-welfare-federal-budget-0
-      \endverb
-    \endentry
-    \entry{folsomOrigin}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=856ebbcb529b50bc7ea50d500185a263}{%
-           family={Folsom},
-           familyi={F\bibinitperiod},
-           given={Burton\bibnamedelima W.},
-           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{856ebbcb529b50bc7ea50d500185a263}
-      \strng{fullhash}{856ebbcb529b50bc7ea50d500185a263}
-      \strng{bibnamehash}{856ebbcb529b50bc7ea50d500185a263}
-      \strng{authorbibnamehash}{856ebbcb529b50bc7ea50d500185a263}
-      \strng{authornamehash}{856ebbcb529b50bc7ea50d500185a263}
-      \strng{authorfullhash}{856ebbcb529b50bc7ea50d500185a263}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Foundation for Economic Education}
-      \field{note}{Accessed March 6, 2025}
-      \field{title}{The Origin of American Farm Subsidies}
-      \true{nocite}
-      \verb{urlraw}
-      \verb fee.org/articles/the-origin-of-american-farm-subsidies/
-      \endverb
-      \verb{url}
-      \verb fee.org/articles/the-origin-of-american-farm-subsidies/
-      \endverb
-    \endentry
-    \entry{lester2023food}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=960d2e3972190619f9421b4a412bb850}{%
-           family={Lester},
-           familyi={L\bibinitperiod},
-           given={Kelly},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{960d2e3972190619f9421b4a412bb850}
-      \strng{fullhash}{960d2e3972190619f9421b4a412bb850}
-      \strng{bibnamehash}{960d2e3972190619f9421b4a412bb850}
-      \strng{authorbibnamehash}{960d2e3972190619f9421b4a412bb850}
-      \strng{authornamehash}{960d2e3972190619f9421b4a412bb850}
-      \strng{authorfullhash}{960d2e3972190619f9421b4a412bb850}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{John Locke Foundation}
-      \field{month}{4}
-      \field{title}{Farm Subsidies Are Making Your Food More Expensive}
-      \field{year}{2023}
-      \true{nocite}
-      \verb{urlraw}
-      \verb www.johnlocke.org/farm-subsidies-are-making-your-food-more-expensive/
-      \endverb
-      \verb{url}
-      \verb www.johnlocke.org/farm-subsidies-are-making-your-food-more-expensive/
-      \endverb
-    \endentry
-    \entry{lincicome2020america}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6fbc8159e303e6bd884e6103e4231579}{%
-           family={Lincicome},
-           familyi={L\bibinitperiod},
-           given={Scott},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{6fbc8159e303e6bd884e6103e4231579}
-      \strng{fullhash}{6fbc8159e303e6bd884e6103e4231579}
-      \strng{bibnamehash}{6fbc8159e303e6bd884e6103e4231579}
-      \strng{authorbibnamehash}{6fbc8159e303e6bd884e6103e4231579}
-      \strng{authornamehash}{6fbc8159e303e6bd884e6103e4231579}
-      \strng{authorfullhash}{6fbc8159e303e6bd884e6103e4231579}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Cato Institute}
-      \field{month}{12}
-      \field{title}{Examining America’s Farm Subsidy Problem}
-      \field{year}{2020}
-      \true{nocite}
-      \verb{urlraw}
-      \verb www.cato.org/commentary/examining-americas-farm-subsidy-problem
-      \endverb
-      \verb{url}
-      \verb www.cato.org/commentary/examining-americas-farm-subsidy-problem
-      \endverb
-    \endentry
-    \entry{riedl2007harm}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bbede42d3bc388f1ce3185bfffc06721}{%
-           family={Riedl},
-           familyi={R\bibinitperiod},
-           given={Brian},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{bbede42d3bc388f1ce3185bfffc06721}
-      \strng{fullhash}{bbede42d3bc388f1ce3185bfffc06721}
-      \strng{bibnamehash}{bbede42d3bc388f1ce3185bfffc06721}
-      \strng{authorbibnamehash}{bbede42d3bc388f1ce3185bfffc06721}
-      \strng{authornamehash}{bbede42d3bc388f1ce3185bfffc06721}
-      \strng{authorfullhash}{bbede42d3bc388f1ce3185bfffc06721}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{The Heritage Foundation}
-      \field{month}{6}
-      \field{title}{How Farm Subsidies Harm Taxpayers, Consumers, and Farmers, Too}
-      \field{year}{2007}
-      \true{nocite}
-      \verb{urlraw}
-      \verb www.heritage.org/agriculture/report/how-farm-subsidies-harm-taxpayers-consumers-and-farmers-too
-      \endverb
-      \verb{url}
-      \verb www.heritage.org/agriculture/report/how-farm-subsidies-harm-taxpayers-consumers-and-farmers-too
-      \endverb
-    \endentry
-    \entry{segal2010food}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c0ba9a8fe2b63b312f953e20c86b4794}{%
-           family={Segal},
-           familyi={S\bibinitperiod},
-           given={Adi},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{c0ba9a8fe2b63b312f953e20c86b4794}
-      \strng{fullhash}{c0ba9a8fe2b63b312f953e20c86b4794}
-      \strng{bibnamehash}{c0ba9a8fe2b63b312f953e20c86b4794}
-      \strng{authorbibnamehash}{c0ba9a8fe2b63b312f953e20c86b4794}
-      \strng{authornamehash}{c0ba9a8fe2b63b312f953e20c86b4794}
-      \strng{authorfullhash}{c0ba9a8fe2b63b312f953e20c86b4794}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Consilience}
-      \field{number}{3}
-      \field{title}{Food Deserts: A Global Crisis in New York City Causes, Impacts and Solutions}
-      \field{year}{2010}
-      \true{nocite}
-      \field{pages}{197\bibrangedash 214}
-      \range{pages}{18}
-      \verb{eprint}
-      \verb JSTOR
-      \endverb
-      \verb{urlraw}
-      \verb www.jstor.org/stable/26167795
-      \endverb
-      \verb{url}
-      \verb www.jstor.org/stable/26167795
-      \endverb
-    \endentry
-    \entry{thompson2009farm}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=43d3e789ba00779ae908690a3ecce91c}{%
-           family={Thompson},
-           familyi={T\bibinitperiod},
-           given={Wyatt},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cdbf84b656345c63406e596f3f9b7e88}{%
-           family={Mishra},
-           familyi={M\bibinitperiod},
-           given={Ashok\bibnamedelima K.},
-           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d82c68a803c0affe5edeb2cbd776ccfe}{%
-           family={Dewbre},
-           familyi={D\bibinitperiod},
-           given={Joe},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{66a4f3602efb2c1d6a4f88a4424a8512}
-      \strng{fullhash}{94a2f128ef4b5c0a5a3fcd587dd44bad}
-      \strng{bibnamehash}{66a4f3602efb2c1d6a4f88a4424a8512}
-      \strng{authorbibnamehash}{66a4f3602efb2c1d6a4f88a4424a8512}
-      \strng{authornamehash}{66a4f3602efb2c1d6a4f88a4424a8512}
-      \strng{authorfullhash}{94a2f128ef4b5c0a5a3fcd587dd44bad}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{American Journal of Agricultural Economics}
-      \field{number}{5}
-      \field{title}{Farm Household Income and Transfer Efficiency: An Evaluation of United States Farm Program Payments}
-      \field{volume}{91}
-      \field{year}{2009}
-      \true{nocite}
-      \field{pages}{1296\bibrangedash 1301}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.1111/j.1467-8276.2009.01300.x
-      \endverb
-    \endentry
-    \entry{usafacts2023federal}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2404d4ea10db4b2cf67d5d551bd7a10e}{%
-           family={{USAFacts Team}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{2404d4ea10db4b2cf67d5d551bd7a10e}
-      \strng{fullhash}{2404d4ea10db4b2cf67d5d551bd7a10e}
-      \strng{bibnamehash}{2404d4ea10db4b2cf67d5d551bd7a10e}
-      \strng{authorbibnamehash}{2404d4ea10db4b2cf67d5d551bd7a10e}
-      \strng{authornamehash}{2404d4ea10db4b2cf67d5d551bd7a10e}
-      \strng{authorfullhash}{2404d4ea10db4b2cf67d5d551bd7a10e}
-      \field{sortinit}{U}
-      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{USAFacts}
-      \field{month}{10}
-      \field{title}{Federal Farm Subsidies: What the Data Says}
-      \field{year}{2023}
-      \true{nocite}
-      \verb{urlraw}
-      \verb usafacts.org/articles/federal-farm-subsidies-what-data-says/
-      \endverb
-      \verb{url}
-      \verb usafacts.org/articles/federal-farm-subsidies-what-data-says/
-      \endverb
-    \endentry
-    \entry{zhang2022comparative}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=afc67c27907262290461e74531c26166}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Defeng},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=261f9c5193bd5e5de49f4fdfbaa06fe9}{%
-           family={Sun},
-           familyi={S\bibinitperiod},
-           given={Zhilu},
-           giveni={Z\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{de36f42b329677aa202c147a2844523e}
-      \strng{fullhash}{de36f42b329677aa202c147a2844523e}
-      \strng{bibnamehash}{de36f42b329677aa202c147a2844523e}
-      \strng{authorbibnamehash}{de36f42b329677aa202c147a2844523e}
-      \strng{authornamehash}{de36f42b329677aa202c147a2844523e}
-      \strng{authorfullhash}{de36f42b329677aa202c147a2844523e}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Foods}
-      \field{month}{10}
-      \field{number}{21}
-      \field{title}{Comparative Advantage of Agricultural Trade in Countries along the Belt and Road and China and Its Dynamic Evolution Characteristics}
-      \field{volume}{11}
-      \field{year}{2022}
-      \true{nocite}
-      \field{pages}{3401}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.3390/foods11213401
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
+  \entry{covey2006agincome}{report}{}
+    \name{author}{2}{}{%
+      {{hash=CT}{%
+         family={Covey},
+         familyi={C\bibinitperiod},
+         given={Ted},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Green},
+         familyi={G\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CTGR1}
+    \strng{fullhash}{CTGR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{number}{AIS-11-30-2006}
+    \field{pages}{65}
+    \field{title}{Agricultural Income and Finance Outlook}
+    \verb{url}
+    \verb https://downloads.usda.library.cornell.edu/usda-esmis/files/w0892992w
+    \verb /r207tr07g/d791sh92r/AIS-11-30-2006.pdf#page=3.06
+    \endverb
+    \list{institution}{1}{%
+      {United States Department of Agriculture}%
+    }
+    \field{type}{techreport}
+    \field{year}{2006}
+  \endentry
+
+  \entry{diao2003impact}{report}{}
+    \name{author}{3}{}{%
+      {{hash=DX}{%
+         family={Diao},
+         familyi={D\bibinitperiod},
+         given={Xinshen},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=DBE}{%
+         family={Diaz-Bonilla},
+         familyi={D\bibinithyphendelim B\bibinitperiod},
+         given={Engenio},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={Sherman},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DX+1}
+    \strng{fullhash}{DXDBERS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{title}{How Much Does It Hurt? The Impact of Agricultural Trade
+  Policies on Developing Countries}
+    \verb{url}
+    \verb https://web.archive.org/web/20110726172604/http://www.ifpri.org/sites
+    \verb /default/files/pubs/media/trade/trade.pdf
+    \endverb
+    \list{institution}{1}{%
+      {International Food Policy Research Institute}%
+    }
+    \field{type}{techreport}
+    \field{year}{2003}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{edwards2018cbo}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=EC}{%
+         family={Edwards},
+         familyi={E\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EC1}
+    \strng{fullhash}{EC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{howpublished}{Cato Institute}
+    \field{title}{CBO Findings on Farm Subsidies}
+    \verb{url}
+    \verb https://www.cato.org/blog/cbo-findings-farm-subsidies
+    \endverb
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{edwards2025corporate}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=EC}{%
+         family={Edwards},
+         familyi={E\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EC1}
+    \strng{fullhash}{EC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{howpublished}{Cato Institute}
+    \field{title}{Corporate Welfare in the Federal Budget}
+    \verb{url}
+    \verb https://www.cato.org/policy-analysis/corporate-welfare-federal-budget
+    \verb -0
+    \endverb
+    \field{year}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{folsomOrigin}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FBW}{%
+         family={Folsom},
+         familyi={F\bibinitperiod},
+         given={Burton\bibnamedelima W.},
+         giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FBW1}
+    \strng{fullhash}{FBW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{howpublished}{Foundation for Economic Education}
+    \field{note}{Accessed March 6, 2025}
+    \field{title}{The Origin of American Farm Subsidies}
+    \verb{url}
+    \verb https://fee.org/articles/the-origin-of-american-farm-subsidies/
+    \endverb
+  \endentry
+
+  \entry{lester2023food}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LK}{%
+         family={Lester},
+         familyi={L\bibinitperiod},
+         given={Kelly},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LK1}
+    \strng{fullhash}{LK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{howpublished}{John Locke Foundation}
+    \field{title}{Farm Subsidies Are Making Your Food More Expensive}
+    \verb{url}
+    \verb https://www.johnlocke.org/farm-subsidies-are-making-your-food-more-ex
+    \verb pensive/
+    \endverb
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{lincicome2020america}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LS}{%
+         family={Lincicome},
+         familyi={L\bibinitperiod},
+         given={Scott},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LS1}
+    \strng{fullhash}{LS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{howpublished}{Cato Institute}
+    \field{title}{Examining America’s Farm Subsidy Problem}
+    \verb{url}
+    \verb https://www.cato.org/commentary/examining-americas-farm-subsidy-probl
+    \verb em
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{riedl2007harm}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RB}{%
+         family={Riedl},
+         familyi={R\bibinitperiod},
+         given={Brian},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RB1}
+    \strng{fullhash}{RB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{howpublished}{The Heritage Foundation}
+    \field{title}{How Farm Subsidies Harm Taxpayers, Consumers, and Farmers,
+  Too}
+    \verb{url}
+    \verb https://www.heritage.org/agriculture/report/how-farm-subsidies-harm-t
+    \verb axpayers-consumers-and-farmers-too
+    \endverb
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{segal2010food}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Segal},
+         familyi={S\bibinitperiod},
+         given={Adi},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA1}
+    \strng{fullhash}{SA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{number}{3}
+    \field{pages}{197\bibrangedash 214}
+    \field{title}{Food Deserts: A Global Crisis in New York City Causes,
+  Impacts and Solutions}
+    \verb{url}
+    \verb https://www.jstor.org/stable/26167795
+    \endverb
+    \field{journaltitle}{Consilience}
+    \field{year}{2010}
+  \endentry
+
+  \entry{thompson2009farm}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TW}{%
+         family={Thompson},
+         familyi={T\bibinitperiod},
+         given={Wyatt},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=MAK}{%
+         family={Mishra},
+         familyi={M\bibinitperiod},
+         given={Ashok\bibnamedelima K.},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dewbre},
+         familyi={D\bibinitperiod},
+         given={Joe},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TW+1}
+    \strng{fullhash}{TWMAKDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1111/j.1467-8276.2009.01300.x
+    \endverb
+    \field{number}{5}
+    \field{pages}{1296\bibrangedash 1301}
+    \field{title}{Farm Household Income and Transfer Efficiency: An Evaluation
+  of United States Farm Program Payments}
+    \verb{url}
+    \verb https://doi.org/10.1111/j.1467-8276.2009.01300.x
+    \endverb
+    \field{volume}{91}
+    \field{journaltitle}{American Journal of Agricultural Economics}
+    \field{year}{2009}
+  \endentry
+
+  \entry{usafacts2023federal}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{USAFacts Team}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \field{howpublished}{USAFacts}
+    \field{title}{Federal Farm Subsidies: What the Data Says}
+    \verb{url}
+    \verb https://usafacts.org/articles/federal-farm-subsidies-what-data-says/
+    \endverb
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{zhang2022comparative}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ZD}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Defeng},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SZ}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Zhilu},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZDSZ1}
+    \strng{fullhash}{ZDSZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.3390/foods11213401
+    \endverb
+    \field{number}{21}
+    \field{pages}{3401}
+    \field{title}{Comparative Advantage of Agricultural Trade in Countries
+  along the Belt and Road and China and Its Dynamic Evolution Characteristics}
+    \verb{url}
+    \verb https://doi.org/10.3390/foods11213401
+    \endverb
+    \field{volume}{11}
+    \field{journaltitle}{Foods}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
 \endinput
-

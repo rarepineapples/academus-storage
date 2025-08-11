@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
+% This file may safely be deleted. It will be recreated as
+% required.
 %
 \begingroup
 \makeatletter
@@ -16,451 +16,378 @@
   {}
 \endgroup
 
+\datalist[entry]{nty/global//global/global}
+  \entry{chernow2011}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CR}{%
+         family={Chernow},
+         familyi={C\bibinitperiod},
+         given={Ron},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Penguin}%
+    }
+    \strng{namehash}{CR1}
+    \strng{fullhash}{CR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{Washington: A Life}
+    \field{year}{2011}
+  \endentry
 
-\refsection{0}
-  \datalist[entry]{nty/global//global/global}
-    \entry{chernow2011}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=14303919fda1223d5cd49ae344ecf91f}{%
-           family={Chernow},
-           familyi={C\bibinitperiod},
-           given={Ron},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Penguin}%
-      }
-      \strng{namehash}{14303919fda1223d5cd49ae344ecf91f}
-      \strng{fullhash}{14303919fda1223d5cd49ae344ecf91f}
-      \strng{bibnamehash}{14303919fda1223d5cd49ae344ecf91f}
-      \strng{authorbibnamehash}{14303919fda1223d5cd49ae344ecf91f}
-      \strng{authornamehash}{14303919fda1223d5cd49ae344ecf91f}
-      \strng{authorfullhash}{14303919fda1223d5cd49ae344ecf91f}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Washington: A Life}
-      \field{year}{2011}
-    \endentry
-    \entry{constitution}{misc}{}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://constitution.congress.gov/constitution/}}
-      \field{title}{Constitution of the United States}
-      \field{urlday}{23}
-      \field{urlmonth}{5}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-    \endentry
-    \entry{hamilton1793}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4ef550917f58ddeeb5cfd20f69b24cdf}{%
-           family={Hamilton},
-           familyi={H\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4ef550917f58ddeeb5cfd20f69b24cdf}
-      \strng{fullhash}{4ef550917f58ddeeb5cfd20f69b24cdf}
-      \strng{bibnamehash}{4ef550917f58ddeeb5cfd20f69b24cdf}
-      \strng{authorbibnamehash}{4ef550917f58ddeeb5cfd20f69b24cdf}
-      \strng{authornamehash}{4ef550917f58ddeeb5cfd20f69b24cdf}
-      \strng{authorfullhash}{4ef550917f58ddeeb5cfd20f69b24cdf}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{4}
-      \field{note}{Letter}
-      \field{title}{From Alexander Hamilton to John Jay}
-      \field{year}{1793}
-      \verb{urlraw}
-      \verb founders.archives.gov/documents/Hamilton/01-14-02-0190
-      \endverb
-      \verb{url}
-      \verb founders.archives.gov/documents/Hamilton/01-14-02-0190
-      \endverb
-    \endentry
-    \entry{hamilton2007}{book}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=4ef550917f58ddeeb5cfd20f69b24cdf}{%
-           family={Hamilton},
-           familyi={H\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e9b3a02bc7a59603757916090587291c}{%
-           family={Madison},
-           familyi={M\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=af7a04b1d43ed1770bd35a5327aec02b}{%
-           family={Frisch},
-           familyi={F\bibinitperiod},
-           given={Morton\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Indianapolis}%
-      }
-      \list{publisher}{1}{%
-        {Liberty Fund}%
-      }
-      \strng{namehash}{d017d90f2f1ecd5fb70051a9a5225113}
-      \strng{fullhash}{616764e66ebbc120968bd8994abebc0a}
-      \strng{bibnamehash}{d017d90f2f1ecd5fb70051a9a5225113}
-      \strng{authorbibnamehash}{d017d90f2f1ecd5fb70051a9a5225113}
-      \strng{authornamehash}{d017d90f2f1ecd5fb70051a9a5225113}
-      \strng{authorfullhash}{616764e66ebbc120968bd8994abebc0a}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Pacificus-Helvidius Debates of 1793--1794: Toward the Completion of the American Founding}
-      \field{year}{2007}
-      \verb{urlraw}
-      \verb archive.org/details/pacificushelvidi00alex
-      \endverb
-      \verb{url}
-      \verb archive.org/details/pacificushelvidi00alex
-      \endverb
-    \endentry
-    \entry{holland1911}{incollection}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=803a6cdf66d0fdf7c96f8466b2a6679e}{%
-           family={Holland},
-           familyi={H\bibinitperiod},
-           given={Arthur\bibnamedelima William},
-           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=18f8a85a08acc8f9958933c6b5035a7f}{%
-           family={Montague},
-           familyi={M\bibinitperiod},
-           given={Francis\bibnamedelima Charles},
-           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Encyclop{æ}dia Britannica, }%
-      }
-      \strng{namehash}{ba92b474297fb2cda50eaad84d932629}
-      \strng{fullhash}{ba92b474297fb2cda50eaad84d932629}
-      \strng{bibnamehash}{ba92b474297fb2cda50eaad84d932629}
-      \strng{authorbibnamehash}{ba92b474297fb2cda50eaad84d932629}
-      \strng{authornamehash}{ba92b474297fb2cda50eaad84d932629}
-      \strng{authorfullhash}{ba92b474297fb2cda50eaad84d932629}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Encyclop{æ}dia Britannica}
-      \field{title}{French Revolution, The}
-      \field{volume}{11}
-      \field{year}{1911}
-      \verb{urlraw}
-      \verb en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/French_Revolution,_The
-      \endverb
-      \verb{url}
-      \verb en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/French_Revolution,_The
-      \endverb
-    \endentry
-    \entry{mccullough2008}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cbb9a28693ad2cbdbe013dc69cb12822}{%
-           family={McCullough},
-           familyi={M\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Simon \& Schuster Paperbacks}%
-      }
-      \strng{namehash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \strng{fullhash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \strng{bibnamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \strng{authorbibnamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \strng{authornamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \strng{authorfullhash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{John Adams}
-      \field{year}{2008}
-      \verb{urlraw}
-      \verb archive.org/details/johnadams00davi
-      \endverb
-      \verb{url}
-      \verb archive.org/details/johnadams00davi
-      \endverb
-    \endentry
-    \entry{moats2021}{incollection}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a4551d0856d2308b45f8d65c1496a5ed}{%
-           family={Moats},
-           familyi={M\bibinitperiod},
-           given={Sandra},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {U of Virginia P}%
-      }
-      \strng{namehash}{a4551d0856d2308b45f8d65c1496a5ed}
-      \strng{fullhash}{a4551d0856d2308b45f8d65c1496a5ed}
-      \strng{bibnamehash}{a4551d0856d2308b45f8d65c1496a5ed}
-      \strng{authorbibnamehash}{a4551d0856d2308b45f8d65c1496a5ed}
-      \strng{authornamehash}{a4551d0856d2308b45f8d65c1496a5ed}
-      \strng{authorfullhash}{a4551d0856d2308b45f8d65c1496a5ed}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Navigating Neutrality: Early American Governance in the Turbulent Atlantic}
-      \field{title}{{‘Americans in Politics’: Crafting a Neutral Proclamation}}
-      \field{year}{2021}
-      \field{pages}{59\bibrangedash 77}
-      \range{pages}{19}
-      \verb{eprint}
-      \verb JSTOR
-      \endverb
-      \verb{urlraw}
-      \verb www.jstor.org/stable/j.ctv1n1brtq.9
-      \endverb
-      \verb{url}
-      \verb www.jstor.org/stable/j.ctv1n1brtq.9
-      \endverb
-    \endentry
-    \entry{prakash2001}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=98ed87e310aa62dcf01f36959f70cffe}{%
-           family={Prakash},
-           familyi={P\bibinitperiod},
-           given={Saikrishna\bibnamedelima B.},
-           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=563c8c019f0316c84cf947af9ef10511}{%
-           family={Ramsey},
-           familyi={R\bibinitperiod},
-           given={Michael\bibnamedelima D.},
-           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{de583b66454fa1dda1ab4e8871518d41}
-      \strng{fullhash}{de583b66454fa1dda1ab4e8871518d41}
-      \strng{bibnamehash}{de583b66454fa1dda1ab4e8871518d41}
-      \strng{authorbibnamehash}{de583b66454fa1dda1ab4e8871518d41}
-      \strng{authornamehash}{de583b66454fa1dda1ab4e8871518d41}
-      \strng{authorfullhash}{de583b66454fa1dda1ab4e8871518d41}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Yale Law Journal}
-      \field{month}{11}
-      \field{number}{2}
-      \field{title}{The Executive Power Over Foreign Affairs}
-      \field{volume}{111}
-      \field{year}{2001}
-      \field{pages}{231\bibrangedash 356}
-      \range{pages}{126}
-      \verb{urlraw}
-      \verb www.proquest.com/scholarly-journals/executive-power-over-foreign-affairs/docview/198466850/se-2?accountid=5245
-      \endverb
-      \verb{url}
-      \verb www.proquest.com/scholarly-journals/executive-power-over-foreign-affairs/docview/198466850/se-2?accountid=5245
-      \endverb
-    \endentry
-    \entry{reinstein2011}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9bf7652fb281675bec1331dab0dfe252}{%
-           family={Reinstein},
-           familyi={R\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Social Science Research Network}%
-      }
-      \list{location}{1}{%
-        {Rochester, NY}%
-      }
-      \strng{namehash}{9bf7652fb281675bec1331dab0dfe252}
-      \strng{fullhash}{9bf7652fb281675bec1331dab0dfe252}
-      \strng{bibnamehash}{9bf7652fb281675bec1331dab0dfe252}
-      \strng{authorbibnamehash}{9bf7652fb281675bec1331dab0dfe252}
-      \strng{authornamehash}{9bf7652fb281675bec1331dab0dfe252}
-      \strng{authorfullhash}{9bf7652fb281675bec1331dab0dfe252}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{SSRN Scholarly Paper}
-      \field{month}{4}
-      \field{title}{Executive Power and the Law of Nations in the Washington Administration}
-      \field{year}{2011}
-      \verb{urlraw}
-      \verb papers.ssrn.com/abstract=1803496
-      \endverb
-      \verb{url}
-      \verb papers.ssrn.com/abstract=1803496
-      \endverb
-    \endentry
-    \entry{schmitt2000}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b524dc13e9e27dabc1335599e2b428ab}{%
-           family={Schmitt},
-           familyi={S\bibinitperiod},
-           given={Gary\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{b524dc13e9e27dabc1335599e2b428ab}
-      \strng{fullhash}{b524dc13e9e27dabc1335599e2b428ab}
-      \strng{bibnamehash}{b524dc13e9e27dabc1335599e2b428ab}
-      \strng{authorbibnamehash}{b524dc13e9e27dabc1335599e2b428ab}
-      \strng{authornamehash}{b524dc13e9e27dabc1335599e2b428ab}
-      \strng{authorfullhash}{b524dc13e9e27dabc1335599e2b428ab}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Political Science Reviewer}
-      \field{month}{7}
-      \field{title}{Washington’s Proclamation of Neutrality: Executive Energy and the Paradox of Executive Power}
-      \field{volume}{29}
-      \field{year}{2000}
-      \field{pages}{121\bibrangedash 159}
-      \range{pages}{39}
-      \verb{urlraw}
-      \verb politicalsciencereviewer.com/index.php/psr/article/view/390
-      \endverb
-      \verb{url}
-      \verb politicalsciencereviewer.com/index.php/psr/article/view/390
-      \endverb
-    \endentry
-    \entry{sheridan1994}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1355f7e600312b2f3cd92f815cda2166}{%
-           family={Sheridan},
-           familyi={S\bibinitperiod},
-           given={Eugene\bibnamedelima R.},
-           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{1355f7e600312b2f3cd92f815cda2166}
-      \strng{fullhash}{1355f7e600312b2f3cd92f815cda2166}
-      \strng{bibnamehash}{1355f7e600312b2f3cd92f815cda2166}
-      \strng{authorbibnamehash}{1355f7e600312b2f3cd92f815cda2166}
-      \strng{authornamehash}{1355f7e600312b2f3cd92f815cda2166}
-      \strng{authorfullhash}{1355f7e600312b2f3cd92f815cda2166}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Diplomatic History}
-      \field{number}{4}
-      \field{title}{The Recall of Edmond Charles Genet: A Study in Transatlantic Politics and Diplomacy}
-      \field{volume}{18}
-      \field{year}{1994}
-      \field{pages}{463\bibrangedash 488}
-      \range{pages}{26}
-      \verb{eprint}
-      \verb JSTOR
-      \endverb
-      \verb{urlraw}
-      \verb www.jstor.org/stable/24912307
-      \endverb
-      \verb{url}
-      \verb www.jstor.org/stable/24912307
-      \endverb
-    \endentry
-    \entry{washington1793}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=897bee305648ebb73200d2dbe8689bb5}{%
-           family={Washington},
-           familyi={W\bibinitperiod},
-           given={George},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{897bee305648ebb73200d2dbe8689bb5}
-      \strng{fullhash}{897bee305648ebb73200d2dbe8689bb5}
-      \strng{bibnamehash}{897bee305648ebb73200d2dbe8689bb5}
-      \strng{authorbibnamehash}{897bee305648ebb73200d2dbe8689bb5}
-      \strng{authornamehash}{897bee305648ebb73200d2dbe8689bb5}
-      \strng{authorfullhash}{897bee305648ebb73200d2dbe8689bb5}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Proclamation}
-      \field{title}{A Proclamation [printer's proof of neutrality proclamation] (1793)}
-      \field{year}{1793}
-      \verb{urlraw}
-      \verb www.gilderlehrman.org/collection/glc02391
-      \endverb
-      \verb{url}
-      \verb www.gilderlehrman.org/collection/glc02391
-      \endverb
-    \endentry
-    \entry{young2011}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=475eb91ce8682eaf1d7dab597e0d8c1a}{%
-           family={Young},
-           familyi={Y\bibinitperiod},
-           given={Christopher\bibnamedelima J.},
-           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{475eb91ce8682eaf1d7dab597e0d8c1a}
-      \strng{fullhash}{475eb91ce8682eaf1d7dab597e0d8c1a}
-      \strng{bibnamehash}{475eb91ce8682eaf1d7dab597e0d8c1a}
-      \strng{authorbibnamehash}{475eb91ce8682eaf1d7dab597e0d8c1a}
-      \strng{authornamehash}{475eb91ce8682eaf1d7dab597e0d8c1a}
-      \strng{authorfullhash}{475eb91ce8682eaf1d7dab597e0d8c1a}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of the Early Republic}
-      \field{number}{3}
-      \field{title}{Connecting the President and the People: Washington’s Neutrality, Genet’s Challenge, and Hamilton’s Fight for Public Support}
-      \field{volume}{31}
-      \field{year}{2011}
-      \field{pages}{435\bibrangedash 466}
-      \range{pages}{32}
-      \verb{urlraw}
-      \verb www.proquest.com/docview/1272315262/abstract/87DBDB1E56494961PQ/1
-      \endverb
-      \verb{url}
-      \verb www.proquest.com/docview/1272315262/abstract/87DBDB1E56494961PQ/1
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
+  \entry{constitution}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{\url{https://constitution.congress.gov/constitution/}}
+    \field{title}{Constitution of the United States}
+    \field{urlday}{23}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{hamilton1793}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HA}{%
+         family={Hamilton},
+         familyi={H\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HA1}
+    \strng{fullhash}{HA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{note}{Letter}
+    \field{title}{From Alexander Hamilton to John Jay}
+    \verb{url}
+    \verb https://founders.archives.gov/documents/Hamilton/01-14-02-0190
+    \endverb
+    \field{year}{1793}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{hamilton2007}{book}{}
+    \name{author}{3}{}{%
+      {{hash=HA}{%
+         family={Hamilton},
+         familyi={H\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Madison},
+         familyi={M\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FMJ}{%
+         family={Frisch},
+         familyi={F\bibinitperiod},
+         given={Morton\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Liberty Fund}%
+    }
+    \strng{namehash}{HA+1}
+    \strng{fullhash}{HAMJFMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{title}{The Pacificus-Helvidius Debates of 1793--1794: Toward the
+  Completion of the American Founding}
+    \verb{url}
+    \verb http://archive.org/details/pacificushelvidi00alex
+    \endverb
+    \list{location}{1}{%
+      {Indianapolis}%
+    }
+    \field{year}{2007}
+  \endentry
+
+  \entry{holland1911}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=HAW}{%
+         family={Holland},
+         familyi={H\bibinitperiod},
+         given={Arthur\bibnamedelima William},
+         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=MFC}{%
+         family={Montague},
+         familyi={M\bibinitperiod},
+         given={Francis\bibnamedelima Charles},
+         giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Encyclop{\ae}dia Britannica, Inc.}%
+    }
+    \strng{namehash}{HAWMFC1}
+    \strng{fullhash}{HAWMFC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{booktitle}{Encyclop{\ae}dia Britannica}
+    \field{title}{French Revolution, The}
+    \verb{url}
+    \verb https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fren
+    \verb ch_Revolution,_The
+    \endverb
+    \field{volume}{11}
+    \field{year}{1911}
+  \endentry
+
+  \entry{mccullough2008}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MD}{%
+         family={McCullough},
+         familyi={M\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Simon \& Schuster Paperbacks}%
+    }
+    \strng{namehash}{MD1}
+    \strng{fullhash}{MD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{title}{John Adams}
+    \verb{url}
+    \verb http://archive.org/details/johnadams00davi
+    \endverb
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{2008}
+  \endentry
+
+  \entry{moats2021}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=MS}{%
+         family={Moats},
+         familyi={M\bibinitperiod},
+         given={Sandra},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Virginia Press}%
+    }
+    \strng{namehash}{MS1}
+    \strng{fullhash}{MS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{booktitle}{Navigating Neutrality: Early American Governance in the
+  Turbulent Atlantic}
+    \field{pages}{59\bibrangedash 77}
+    \field{title}{{‘Americans in Politics’: Crafting a Neutral
+  Proclamation}}
+    \verb{url}
+    \verb https://www.jstor.org/stable/j.ctv1n1brtq.9
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{prakash2001}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PSB}{%
+         family={Prakash},
+         familyi={P\bibinitperiod},
+         given={Saikrishna\bibnamedelima B.},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=RMD}{%
+         family={Ramsey},
+         familyi={R\bibinitperiod},
+         given={Michael\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PSBRMD1}
+    \strng{fullhash}{PSBRMD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \field{number}{2}
+    \field{pages}{231\bibrangedash 356}
+    \field{title}{The Executive Power Over Foreign Affairs}
+    \verb{url}
+    \verb https://www.proquest.com/scholarly-journals/executive-power-over-fore
+    \verb ign-affairs/docview/198466850/se-2?accountid=5245
+    \endverb
+    \field{volume}{111}
+    \field{journaltitle}{Yale Law Journal}
+    \field{year}{2001}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{reinstein2011}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RR}{%
+         family={Reinstein},
+         familyi={R\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RR1}
+    \strng{fullhash}{RR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{howpublished}{SSRN Scholarly Paper}
+    \field{title}{Executive Power and the Law of Nations in the Washington
+  Administration}
+    \verb{url}
+    \verb https://papers.ssrn.com/abstract=1803496
+    \endverb
+    \list{location}{1}{%
+      {Rochester, NY}%
+    }
+    \list{institution}{1}{%
+      {Social Science Research Network}%
+    }
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{schmitt2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SGJ}{%
+         family={Schmitt},
+         familyi={S\bibinitperiod},
+         given={Gary\bibnamedelima J.},
+         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SGJ1}
+    \strng{fullhash}{SGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{pages}{121\bibrangedash 159}
+    \field{title}{Washington’s Proclamation of Neutrality: Executive Energy
+  and the Paradox of Executive Power}
+    \verb{url}
+    \verb https://politicalsciencereviewer.com/index.php/psr/article/view/390
+    \endverb
+    \field{volume}{29}
+    \field{journaltitle}{The Political Science Reviewer}
+    \field{year}{2000}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{sheridan1994}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SER}{%
+         family={Sheridan},
+         familyi={S\bibinitperiod},
+         given={Eugene\bibnamedelima R.},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SER1}
+    \strng{fullhash}{SER1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{number}{4}
+    \field{pages}{463\bibrangedash 488}
+    \field{title}{The Recall of Edmond Charles Genet: A Study in Transatlantic
+  Politics and Diplomacy}
+    \verb{url}
+    \verb https://www.jstor.org/stable/24912307
+    \endverb
+    \field{volume}{18}
+    \field{journaltitle}{Diplomatic History}
+    \field{year}{1994}
+  \endentry
+
+  \entry{washington1793}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=WG}{%
+         family={Washington},
+         familyi={W\bibinitperiod},
+         given={George},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WG1}
+    \strng{fullhash}{WG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{note}{Proclamation}
+    \field{title}{A Proclamation [printer's proof of neutrality proclamation]
+  (1793)}
+    \verb{url}
+    \verb https://www.gilderlehrman.org/collection/glc02391
+    \endverb
+    \field{year}{1793}
+  \endentry
+
+  \entry{young2011}{article}{}
+    \name{author}{1}{}{%
+      {{hash=YCJ}{%
+         family={Young},
+         familyi={Y\bibinitperiod},
+         given={Christopher\bibnamedelima J.},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YCJ1}
+    \strng{fullhash}{YCJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \true{singletitle}
+    \field{number}{3}
+    \field{pages}{435\bibrangedash 466}
+    \field{title}{Connecting the President and the People: Washington’s
+  Neutrality, Genet’s Challenge, and Hamilton’s Fight for Public Support}
+    \verb{url}
+    \verb https://www.proquest.com/docview/1272315262/abstract/87DBDB1E56494961
+    \verb PQ/1
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Journal of the Early Republic}
+    \field{year}{2011}
+  \endentry
+\enddatalist
 \endinput
-

@@ -1,4 +1,4 @@
-PWD /Users/jaspersun/Desktop/academus-storage/ISSUE TWO/asymmetry of moral obligations
+PWD /Users/jaspersun/Desktop/academus-storage/ISSUE TWO/5. asymmetry of moral obligations
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -124,8 +124,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype-pdftex.de
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/ragged2e/ragged2e.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty

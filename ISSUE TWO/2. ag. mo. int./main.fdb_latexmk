@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1754796100.23712 "main.aux" "main.bbl" "main" 1754796101.56496 0
-  "./main-blx.bib" 1754796101.3219 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+["bibtex main"] 1754796100.23712 "main.aux" "main.bbl" "main" 1754952980.58873 0
+  "./main-blx.bib" 1754952980.33321 342 2dbb6e07439b0a5db817a74b892f0d17 ""
   "./refs.bib" 1754672652.85948 12154 0a37550902b72f7d4692427bda4e708a ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main.aux" 1754796101.3173 10915 ea4d0b9838e5938c0c05aed4190795a3 "pdflatex"
+  "main.aux" 1754952980.32858 10915 ea4d0b9838e5938c0c05aed4190795a3 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1754796100.31193 "main.tex" "main.pdf" "main" 1754796101.56513 0
+["pdflatex"] 1754952979.25413 "main.tex" "main.pdf" "main" 1754952980.58889 0
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc" 1593726333 2906 e61ee539f72040515b8ad56a2123a2e2 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_ivhnor.enc" 1593726333 2908 5132b10db74281cae0e8816be7d1f21e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc" 1593726333 2915 a82682c1efed9ed1ef6281f80d9dfa31 ""
@@ -123,7 +123,6 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.sty" 1678741534 98531 f79ec363f3014ada2cb766715926ecc9 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg" 1678741534 22906 7a8d9f8766e60f694cdde7648421c2ab ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/mweights/mweights.sty" 1490909540 4953 67f29a12ea26221103fce6bae3433e60 ""
-  "/usr/local/texlive/2024/texmf-dist/tex/latex/ragged2e/ragged2e.sty" 1687466457 10085 3dececaeed388e31285c366e124c0c4e ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657483315 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
@@ -132,12 +131,12 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1738795163.40996 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1738795148 8221440 5e78c95eba245aeb45dc540d47de3ce0 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "format.sty" 1754673421.6431 1272 c7c3107c66cae1e63fd5c8754260f395 ""
-  "main.aux" 1754796101.3173 10915 ea4d0b9838e5938c0c05aed4190795a3 "pdflatex"
+  "format.sty" 1754952502.61316 1424 af2eff2b2aa6f519dfeec2f8c1a3c7a2 ""
+  "main.aux" 1754952980.32858 10915 ea4d0b9838e5938c0c05aed4190795a3 "pdflatex"
   "main.bbl" 1754796100.31028 29679 a7f7d30b9c4ee03f436d966cb52c0114 "bibtex main"
-  "main.out" 1754796101.31951 723 45c2f69c900b5adf867f3999c4068b62 "pdflatex"
-  "main.run.xml" 1754796101.32237 2641 339b34de06acbd30421abc60c5f02f29 "pdflatex"
-  "main.tex" 1754796098.28345 16871 ce9d39fa13df25500585cc55e142dc10 ""
+  "main.out" 1754952980.33082 723 45c2f69c900b5adf867f3999c4068b62 "pdflatex"
+  "main.run.xml" 1754952980.33369 2641 339b34de06acbd30421abc60c5f02f29 "pdflatex"
+  "main.tex" 1754952974.09213 16886 8a3f493e16e15313a18ba0d0afa18c8a ""
   (generated)
   "main-blx.bib"
   "main.aux"

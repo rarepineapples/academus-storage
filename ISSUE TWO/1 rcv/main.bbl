@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
+% This file may safely be deleted. It will be recreated as
+% required.
 %
 \begingroup
 \makeatletter
@@ -16,622 +16,547 @@
   {}
 \endgroup
 
+\datalist[entry]{nty/global//global/global}
+  \entry{atkinson2023}{unpublished}{}
+    \name{author}{3}{}{%
+      {{hash=AN}{%
+         family={Atkinson},
+         familyi={A\bibinitperiod},
+         given={Nathan},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=FEB}{%
+         family={Foley},
+         familyi={F\bibinitperiod},
+         given={Edward\bibnamedelima B.},
+         giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Ganz},
+         familyi={G\bibinitperiod},
+         given={Scott},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AN+1}
+    \strng{fullhash}{ANFEBGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.2139/ssrn.4411173
+    \endverb
+    \field{note}{Forthcoming in University of Illinois Law Review; Georgetown
+  McDonough School of Business Research Paper No.\ 4411173}
+    \field{title}{Beyond the Spoiler Effect: Can Ranked Choice Voting Solve the
+  Problem of Political Polarization?}
+    \verb{url}
+    \verb https://ssrn.com/abstract=4411173
+    \endverb
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 
-\refsection{0}
-  \datalist[entry]{nty/global//global/global}
-    \entry{atkinson2023}{unpublished}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=9bb299bcfbca10ca0f336d8c17236d17}{%
-           family={Atkinson},
-           familyi={A\bibinitperiod},
-           given={Nathan},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b1fefe90c3c017d47d3f18c9e147e32f}{%
-           family={Foley},
-           familyi={F\bibinitperiod},
-           given={Edward\bibnamedelima B.},
-           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=20524bd1415749208d57a09d40faab69}{%
-           family={Ganz},
-           familyi={G\bibinitperiod},
-           given={Scott},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{91a66b06f629205e8679bf1289c39806}
-      \strng{fullhash}{c286c40d7d3033349527d0a6763e3943}
-      \strng{bibnamehash}{91a66b06f629205e8679bf1289c39806}
-      \strng{authorbibnamehash}{91a66b06f629205e8679bf1289c39806}
-      \strng{authornamehash}{91a66b06f629205e8679bf1289c39806}
-      \strng{authorfullhash}{c286c40d7d3033349527d0a6763e3943}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{4}
-      \field{note}{Forthcoming in University of Illinois Law Review; Georgetown McDonough School of Business Research Paper No.\ 4411173}
-      \field{title}{Beyond the Spoiler Effect: Can Ranked Choice Voting Solve the Problem of Political Polarization?}
-      \field{year}{2023}
-      \verb{doi}
-      \verb 10.2139/ssrn.4411173
-      \endverb
-    \endentry
-    \entry{bristowjohnson2023}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=210fbf76a6580803f14ec8fbd0743211}{%
-           family={Bristow-Johnson},
-           familyi={B\bibinithyphendelim J\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{210fbf76a6580803f14ec8fbd0743211}
-      \strng{fullhash}{210fbf76a6580803f14ec8fbd0743211}
-      \strng{bibnamehash}{210fbf76a6580803f14ec8fbd0743211}
-      \strng{authorbibnamehash}{210fbf76a6580803f14ec8fbd0743211}
-      \strng{authornamehash}{210fbf76a6580803f14ec8fbd0743211}
-      \strng{authorfullhash}{210fbf76a6580803f14ec8fbd0743211}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Constitutional Political Economy}
-      \field{number}{3}
-      \field{title}{The failure of instant runoff to accomplish the purpose for which it was adopted: A case study from Burlington, Vermont}
-      \field{volume}{34}
-      \field{year}{2023}
-      \field{pages}{378\bibrangedash 389}
-      \range{pages}{12}
-      \verb{doi}
-      \verb 10.1007/s10602-023-09393-1
-      \endverb
-    \endentry
-    \entry{clyde2022}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d9a8635b9be30b903585954c653124db}{%
-           family={Clyde},
-           familyi={C\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{d9a8635b9be30b903585954c653124db}
-      \strng{fullhash}{d9a8635b9be30b903585954c653124db}
-      \strng{bibnamehash}{d9a8635b9be30b903585954c653124db}
-      \strng{authorbibnamehash}{d9a8635b9be30b903585954c653124db}
-      \strng{authornamehash}{d9a8635b9be30b903585954c653124db}
-      \strng{authorfullhash}{d9a8635b9be30b903585954c653124db}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{NPR}
-      \field{month}{11}
-      \field{title}{Nevada voters back big changes to their election system}
-      \field{urlday}{8}
-      \field{urlmonth}{8}
-      \field{urlyear}{2024}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb www.npr.org/2022/11/13/1136342255/nevada-election-open-primary-ranked-choice-voting
-      \endverb
-      \verb{url}
-      \verb www.npr.org/2022/11/13/1136342255/nevada-election-open-primary-ranked-choice-voting
-      \endverb
-    \endentry
-    \entry{donovan2016}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=866c6251f8a529b9591bad26a3ba7c7e}{%
-           family={Donovan},
-           familyi={D\bibinitperiod},
-           given={Todd},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b0e0dccaa794da6d1588e57150c96026}{%
-           family={Tolbert},
-           familyi={T\bibinitperiod},
-           given={Caroline},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9e2a8c9757ec03a80dd0ce1669284c5f}{%
-           family={Gracey},
-           familyi={G\bibinitperiod},
-           given={Kathleen},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{02daaa66d867ee7dfc9801b8d635fd85}
-      \strng{fullhash}{a83714b28748092a86353b3fef0cfbe2}
-      \strng{bibnamehash}{02daaa66d867ee7dfc9801b8d635fd85}
-      \strng{authorbibnamehash}{02daaa66d867ee7dfc9801b8d635fd85}
-      \strng{authornamehash}{02daaa66d867ee7dfc9801b8d635fd85}
-      \strng{authorfullhash}{a83714b28748092a86353b3fef0cfbe2}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Electoral Studies}
-      \field{title}{Campaign civility under preferential and plurality voting}
-      \field{volume}{42}
-      \field{year}{2016}
-      \field{pages}{157\bibrangedash 163}
-      \range{pages}{7}
-      \verb{doi}
-      \verb 10.1016/j.electstud.2016.02.009
-      \endverb
-    \endentry
-    \entry{dowling2024}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=a52713c9b7928fe5494e4ac1a36d2bbc}{%
-           family={Dowling},
-           familyi={D\bibinitperiod},
-           given={Erin},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b0e0dccaa794da6d1588e57150c96026}{%
-           family={Tolbert},
-           familyi={T\bibinitperiod},
-           given={Caroline},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0d33675c6f0400d0165ab0a3e751cc62}{%
-           family={Micatka},
-           familyi={M\bibinitperiod},
-           given={Nishelle},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=866c6251f8a529b9591bad26a3ba7c7e}{%
-           family={Donovan},
-           familyi={D\bibinitperiod},
-           given={Todd},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{92b830d1a65f54bb0e59c6ce88475c9a}
-      \strng{fullhash}{f37edda1b316d72607ff0e6787fa945e}
-      \strng{bibnamehash}{92b830d1a65f54bb0e59c6ce88475c9a}
-      \strng{authorbibnamehash}{92b830d1a65f54bb0e59c6ce88475c9a}
-      \strng{authornamehash}{92b830d1a65f54bb0e59c6ce88475c9a}
-      \strng{authorfullhash}{f37edda1b316d72607ff0e6787fa945e}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Electoral Studies}
-      \field{title}{Does ranked choice voting increase voter turnout and mobilization?}
-      \field{volume}{90}
-      \field{year}{2024}
-      \field{pages}{102816}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/j.electstud.2024.102816
-      \endverb
-    \endentry
-    \entry{elinson2010}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=f33d52dbdc3468ac7e41b219c6c35f30}{%
-           family={Elinson},
-           familyi={E\bibinitperiod},
-           given={Zachary},
-           giveni={Z\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=bf103e350a783c0e3e842595a8d10ead}{%
-           family={Shih},
-           familyi={S\bibinitperiod},
-           given={Gordon},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7b64c38fdb22ce9881ab1af8428dc89d}
-      \strng{fullhash}{7b64c38fdb22ce9881ab1af8428dc89d}
-      \strng{bibnamehash}{7b64c38fdb22ce9881ab1af8428dc89d}
-      \strng{authorbibnamehash}{7b64c38fdb22ce9881ab1af8428dc89d}
-      \strng{authornamehash}{7b64c38fdb22ce9881ab1af8428dc89d}
-      \strng{authorfullhash}{7b64c38fdb22ce9881ab1af8428dc89d}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The New York Times}
-      \field{month}{11}
-      \field{title}{The Winning Strategy in Oakland: Concentrate on Being 2nd or 3rd Choice}
-      \field{urlday}{8}
-      \field{urlmonth}{8}
-      \field{urlyear}{2024}
-      \field{year}{2010}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb www.nytimes.com/2010/11/12/us/politics/12bcvoting.html
-      \endverb
-      \verb{url}
-      \verb www.nytimes.com/2010/11/12/us/politics/12bcvoting.html
-      \endverb
-    \endentry
-    \entry{gomez2022}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=140933dd4dd82655b3a83f1513dc5eed}{%
-           family={Gomez},
-           familyi={G\bibinitperiod},
-           given={Hector\bibnamedelima J.},
-           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{140933dd4dd82655b3a83f1513dc5eed}
-      \strng{fullhash}{140933dd4dd82655b3a83f1513dc5eed}
-      \strng{bibnamehash}{140933dd4dd82655b3a83f1513dc5eed}
-      \strng{authorbibnamehash}{140933dd4dd82655b3a83f1513dc5eed}
-      \strng{authornamehash}{140933dd4dd82655b3a83f1513dc5eed}
-      \strng{authorfullhash}{140933dd4dd82655b3a83f1513dc5eed}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{NBC News}
-      \field{month}{8}
-      \field{title}{Sen. Lisa Murkowski and Trump-backed Kelly Tshibaka advance to general election in Alaska's Senate race}
-      \field{urlday}{8}
-      \field{urlmonth}{8}
-      \field{urlyear}{2024}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb www.nbcnews.com/politics/2022-election/sen-lisa-murkowski-trump-backed-kelly-tshibaka-advance-general-electio-rcna43331
-      \endverb
-      \verb{url}
-      \verb www.nbcnews.com/politics/2022-election/sen-lisa-murkowski-trump-backed-kelly-tshibaka-advance-general-electio-rcna43331
-      \endverb
-    \endentry
-    \entry{klepetar_nodate}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=27692d464e4336846106a82b32ace7b5}{%
-           family={Klepetar},
-           familyi={K\bibinitperiod},
-           given={D.\bibnamedelimi T.},
-           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{27692d464e4336846106a82b32ace7b5}
-      \strng{fullhash}{27692d464e4336846106a82b32ace7b5}
-      \strng{bibnamehash}{27692d464e4336846106a82b32ace7b5}
-      \strng{authorbibnamehash}{27692d464e4336846106a82b32ace7b5}
-      \strng{authornamehash}{27692d464e4336846106a82b32ace7b5}
-      \strng{authorfullhash}{27692d464e4336846106a82b32ace7b5}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Canadian Political Science Association}
-      \field{title}{Do third party candidates influence incumbent agendas?}
-      \verb{urlraw}
-      \verb cpsa-acsp.ca/papers-2013/Klepetar.pdf
-      \endverb
-      \verb{url}
-      \verb cpsa-acsp.ca/papers-2013/Klepetar.pdf
-      \endverb
-    \endentry
-    \entry{levy2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3df0961c430253324ba932b0a809f3fb}{%
-           family={Levy},
-           familyi={L\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{3df0961c430253324ba932b0a809f3fb}
-      \strng{fullhash}{3df0961c430253324ba932b0a809f3fb}
-      \strng{bibnamehash}{3df0961c430253324ba932b0a809f3fb}
-      \strng{authorbibnamehash}{3df0961c430253324ba932b0a809f3fb}
-      \strng{authornamehash}{3df0961c430253324ba932b0a809f3fb}
-      \strng{authorfullhash}{3df0961c430253324ba932b0a809f3fb}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Encyclopedia Britannica}
-      \field{month}{3}
-      \field{title}{Alternative vote}
-      \field{urlday}{8}
-      \field{urlmonth}{8}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb www.britannica.com/topic/alternative-vote
-      \endverb
-      \verb{url}
-      \verb www.britannica.com/topic/alternative-vote
-      \endverb
-    \endentry
-    \entry{maxmin2012}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=fc52c19ca10db18107d00f34fd6e308d}{%
-           family={Maxmin},
-           familyi={M\bibinitperiod},
-           given={C.\bibnamedelimi S.},
-           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{fc52c19ca10db18107d00f34fd6e308d}
-      \strng{fullhash}{fc52c19ca10db18107d00f34fd6e308d}
-      \strng{bibnamehash}{fc52c19ca10db18107d00f34fd6e308d}
-      \strng{authorbibnamehash}{fc52c19ca10db18107d00f34fd6e308d}
-      \strng{authornamehash}{fc52c19ca10db18107d00f34fd6e308d}
-      \strng{authorfullhash}{fc52c19ca10db18107d00f34fd6e308d}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{The Harvard Crimson}
-      \field{month}{10}
-      \field{title}{Beware The Spoiler Effect}
-      \field{year}{2012}
-      \verb{urlraw}
-      \verb www.thecrimson.com/article/2012/10/30/third-party-spoiler/
-      \endverb
-      \verb{url}
-      \verb www.thecrimson.com/article/2012/10/30/third-party-spoiler/
-      \endverb
-    \endentry
-    \entry{mudambi1996}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d77ecd03fc4c4bb309a687af9a3144b5}{%
-           family={Mudambi},
-           familyi={M\bibinitperiod},
-           given={Ram},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{1d2016bd12dfc7eb035fdead3067f686}
-      \strng{fullhash}{1d2016bd12dfc7eb035fdead3067f686}
-      \strng{bibnamehash}{1d2016bd12dfc7eb035fdead3067f686}
-      \strng{authorbibnamehash}{1d2016bd12dfc7eb035fdead3067f686}
-      \strng{authornamehash}{1d2016bd12dfc7eb035fdead3067f686}
-      \strng{authorfullhash}{1d2016bd12dfc7eb035fdead3067f686}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Public Choice}
-      \field{number}{3/4}
-      \field{title}{Plurality versus Proportional Representation: An Analysis of Sicilian Elections}
-      \field{urlday}{2}
-      \field{urlmonth}{9}
-      \field{urlyear}{2024}
-      \field{volume}{86}
-      \field{year}{1996}
-      \field{urldateera}{ce}
-      \field{pages}{341\bibrangedash 357}
-      \range{pages}{17}
-      \verb{eprint}
-      \verb JSTOR
-      \endverb
-      \verb{urlraw}
-      \verb www.jstor.org/stable/30027122
-      \endverb
-      \verb{url}
-      \verb www.jstor.org/stable/30027122
-      \endverb
-    \endentry
-    \entry{nielson2017}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4fa48fede13e0699aed88989f96d2774}{%
-           family={Nielson},
-           familyi={N\bibinitperiod},
-           given={L.},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4fa48fede13e0699aed88989f96d2774}
-      \strng{fullhash}{4fa48fede13e0699aed88989f96d2774}
-      \strng{bibnamehash}{4fa48fede13e0699aed88989f96d2774}
-      \strng{authorbibnamehash}{4fa48fede13e0699aed88989f96d2774}
-      \strng{authornamehash}{4fa48fede13e0699aed88989f96d2774}
-      \strng{authorfullhash}{4fa48fede13e0699aed88989f96d2774}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Politics and Policy}
-      \field{number}{4}
-      \field{title}{Ranked choice voting and attitudes toward democracy in the United States: Results from a survey experiment}
-      \field{volume}{45}
-      \field{year}{2017}
-      \field{pages}{535\bibrangedash 570}
-      \range{pages}{36}
-      \verb{doi}
-      \verb 10.1111/polp.12212
-      \endverb
-    \endentry
-    \entry{rosen2022}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=26cd7c3877a5d98cfe752b7fb21293e7}{%
-           family={Rosen},
-           familyi={R\bibinitperiod},
-           given={Yvonne},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{26cd7c3877a5d98cfe752b7fb21293e7}
-      \strng{fullhash}{26cd7c3877a5d98cfe752b7fb21293e7}
-      \strng{bibnamehash}{26cd7c3877a5d98cfe752b7fb21293e7}
-      \strng{authorbibnamehash}{26cd7c3877a5d98cfe752b7fb21293e7}
-      \strng{authornamehash}{26cd7c3877a5d98cfe752b7fb21293e7}
-      \strng{authorfullhash}{26cd7c3877a5d98cfe752b7fb21293e7}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Alaska Public Media}
-      \field{month}{11}
-      \field{title}{In new bipartisan Alaska Senate majority of 17, members vow compromise and consensus}
-      \field{urlday}{8}
-      \field{urlmonth}{8}
-      \field{urlyear}{2024}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb alaskapublic.org/2022/11/29/in-new-bipartisan-alaska-senate-majority-of-17-members-vow-compromise-and-consensus/
-      \endverb
-      \verb{url}
-      \verb alaskapublic.org/2022/11/29/in-new-bipartisan-alaska-senate-majority-of-17-members-vow-compromise-and-consensus/
-      \endverb
-    \endentry
-    \entry{shafer2018}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9071d691bb1015dc630eee8c2429dd8c}{%
-           family={Shafer},
-           familyi={S\bibinitperiod},
-           given={Scott},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{9071d691bb1015dc630eee8c2429dd8c}
-      \strng{fullhash}{9071d691bb1015dc630eee8c2429dd8c}
-      \strng{bibnamehash}{9071d691bb1015dc630eee8c2429dd8c}
-      \strng{authorbibnamehash}{9071d691bb1015dc630eee8c2429dd8c}
-      \strng{authornamehash}{9071d691bb1015dc630eee8c2429dd8c}
-      \strng{authorfullhash}{9071d691bb1015dc630eee8c2429dd8c}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{KQED}
-      \field{month}{1}
-      \field{title}{Political Uproar as Mark Farrell Replaces London Breed as S.F. Mayor}
-      \field{year}{2018}
-      \verb{urlraw}
-      \verb www.kqed.org/news/11643930/political-outrage-as-mark-farrell-replaces-london-breed-as-s-f-s-acting-mayor
-      \endverb
-      \verb{url}
-      \verb www.kqed.org/news/11643930/political-outrage-as-mark-farrell-replaces-london-breed-as-s-f-s-acting-mayor
-      \endverb
-    \endentry
-    \entry{shivaram2022}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bd2a1cbd6a40c08e09feb93e9021a390}{%
-           family={Shivaram},
-           familyi={S\bibinitperiod},
-           given={Deepa},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{bd2a1cbd6a40c08e09feb93e9021a390}
-      \strng{fullhash}{bd2a1cbd6a40c08e09feb93e9021a390}
-      \strng{bibnamehash}{bd2a1cbd6a40c08e09feb93e9021a390}
-      \strng{authorbibnamehash}{bd2a1cbd6a40c08e09feb93e9021a390}
-      \strng{authornamehash}{bd2a1cbd6a40c08e09feb93e9021a390}
-      \strng{authorfullhash}{bd2a1cbd6a40c08e09feb93e9021a390}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{NPR}
-      \field{month}{9}
-      \field{title}{Democrat Mary Peltola tops Sarah Palin to win U.S. House special election in Alaska}
-      \field{urlday}{8}
-      \field{urlmonth}{8}
-      \field{urlyear}{2024}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb www.npr.org/2022/08/31/1120327126/palin-peltola-begich-alaska-special-house-election-results
-      \endverb
-      \verb{url}
-      \verb www.npr.org/2022/08/31/1120327126/palin-peltola-begich-alaska-special-house-election-results
-      \endverb
-    \endentry
-    \entry{troiano2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1a584724aabf6edc628f773c10423706}{%
-           family={Troiano},
-           familyi={T\bibinitperiod},
-           given={Nina},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{1a584724aabf6edc628f773c10423706}
-      \strng{fullhash}{1a584724aabf6edc628f773c10423706}
-      \strng{bibnamehash}{1a584724aabf6edc628f773c10423706}
-      \strng{authorbibnamehash}{1a584724aabf6edc628f773c10423706}
-      \strng{authornamehash}{1a584724aabf6edc628f773c10423706}
-      \strng{authorfullhash}{1a584724aabf6edc628f773c10423706}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Alaska Beacon}
-      \field{month}{5}
-      \field{title}{How a bipartisan governing majority emerged in Alaska}
-      \field{urlday}{8}
-      \field{urlmonth}{8}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb alaskabeacon.com/2024/05/17/how-a-bipartisan-governing-majority-emerged-in-alaska/
-      \endverb
-      \verb{url}
-      \verb alaskabeacon.com/2024/05/17/how-a-bipartisan-governing-majority-emerged-in-alaska/
-      \endverb
-    \endentry
-    \entry{ulloa2022}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b64a573a99c5fc9d645c283fa33b498a}{%
-           family={Ulloa},
-           familyi={U\bibinitperiod},
-           given={Javier},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{b64a573a99c5fc9d645c283fa33b498a}
-      \strng{fullhash}{b64a573a99c5fc9d645c283fa33b498a}
-      \strng{bibnamehash}{b64a573a99c5fc9d645c283fa33b498a}
-      \strng{authorbibnamehash}{b64a573a99c5fc9d645c283fa33b498a}
-      \strng{authornamehash}{b64a573a99c5fc9d645c283fa33b498a}
-      \strng{authorfullhash}{b64a573a99c5fc9d645c283fa33b498a}
-      \field{sortinit}{U}
-      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The New York Times}
-      \field{month}{10}
-      \field{title}{Murkowski Fends Off Attacks on Her Record in Alaska's Senate Debate}
-      \field{urlday}{8}
-      \field{urlmonth}{8}
-      \field{urlyear}{2024}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb www.nytimes.com/2022/10/28/us/politics/murkowski-alaska-senate-debate.html
-      \endverb
-      \verb{url}
-      \verb www.nytimes.com/2022/10/28/us/politics/murkowski-alaska-senate-debate.html
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
+  \entry{bristowjohnson2023}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BJR}{%
+         family={Bristow-Johnson},
+         familyi={B\bibinithyphendelim J\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJR1}
+    \strng{fullhash}{BJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1007/s10602-023-09393-1
+    \endverb
+    \field{number}{3}
+    \field{pages}{378\bibrangedash 389}
+    \field{title}{The failure of instant runoff to accomplish the purpose for
+  which it was adopted: A case study from Burlington, Vermont}
+    \verb{url}
+    \verb https://doi.org/10.1007/s10602-023-09393-1
+    \endverb
+    \field{volume}{34}
+    \field{journaltitle}{Constitutional Political Economy}
+    \field{year}{2023}
+  \endentry
+
+  \entry{clyde2022}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CD}{%
+         family={Clyde},
+         familyi={C\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CD1}
+    \strng{fullhash}{CD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{NPR}
+    \field{title}{Nevada voters back big changes to their election system}
+    \verb{url}
+    \verb https://www.npr.org/2022/11/13/1136342255/nevada-election-open-primar
+    \verb y-ranked-choice-voting
+    \endverb
+    \field{year}{2022}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
+    \field{urlyear}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{donovan2016}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DT}{%
+         family={Donovan},
+         familyi={D\bibinitperiod},
+         given={Todd},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Tolbert},
+         familyi={T\bibinitperiod},
+         given={Caroline},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=GK}{%
+         family={Gracey},
+         familyi={G\bibinitperiod},
+         given={Kathleen},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DT+1}
+    \strng{fullhash}{DTTCGK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1016/j.electstud.2016.02.009
+    \endverb
+    \field{pages}{157\bibrangedash 163}
+    \field{title}{Campaign civility under preferential and plurality voting}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.electstud.2016.02.009
+    \endverb
+    \field{volume}{42}
+    \field{journaltitle}{Electoral Studies}
+    \field{year}{2016}
+  \endentry
+
+  \entry{dowling2024}{article}{}
+    \name{author}{4}{}{%
+      {{hash=DE}{%
+         family={Dowling},
+         familyi={D\bibinitperiod},
+         given={Erin},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Tolbert},
+         familyi={T\bibinitperiod},
+         given={Caroline},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MN}{%
+         family={Micatka},
+         familyi={M\bibinitperiod},
+         given={Nishelle},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Donovan},
+         familyi={D\bibinitperiod},
+         given={Todd},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DE+1}
+    \strng{fullhash}{DETCMNDT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1016/j.electstud.2024.102816
+    \endverb
+    \field{pages}{102816}
+    \field{title}{Does ranked choice voting increase voter turnout and
+  mobilization?}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.electstud.2024.102816
+    \endverb
+    \field{volume}{90}
+    \field{journaltitle}{Electoral Studies}
+    \field{year}{2024}
+  \endentry
+
+  \entry{elinson2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=EZ}{%
+         family={Elinson},
+         familyi={E\bibinitperiod},
+         given={Zachary},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Shih},
+         familyi={S\bibinitperiod},
+         given={Gordon},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EZSG1}
+    \strng{fullhash}{EZSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \true{singletitle}
+    \field{title}{The Winning Strategy in Oakland: Concentrate on Being 2nd or
+  3rd Choice}
+    \verb{url}
+    \verb https://www.nytimes.com/2010/11/12/us/politics/12bcvoting.html
+    \endverb
+    \field{journaltitle}{The New York Times}
+    \field{year}{2010}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
+    \field{urlyear}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{gomez2022}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=GHJ}{%
+         family={Gomez},
+         familyi={G\bibinitperiod},
+         given={Hector\bibnamedelima J.},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GHJ1}
+    \strng{fullhash}{GHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{howpublished}{NBC News}
+    \field{title}{Sen. Lisa Murkowski and Trump-backed Kelly Tshibaka advance
+  to general election in Alaska's Senate race}
+    \verb{url}
+    \verb https://www.nbcnews.com/politics/2022-election/sen-lisa-murkowski-tru
+    \verb mp-backed-kelly-tshibaka-advance-general-electio-rcna43331
+    \endverb
+    \field{year}{2022}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
+    \field{urlyear}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{klepetar_nodate}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KDT}{%
+         family={Klepetar},
+         familyi={K\bibinitperiod},
+         given={D.\bibnamedelima T.},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KDT1}
+    \strng{fullhash}{KDT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{howpublished}{Canadian Political Science Association}
+    \field{title}{Do third party candidates influence incumbent agendas?}
+    \verb{url}
+    \verb https://cpsa-acsp.ca/papers-2013/Klepetar.pdf
+    \endverb
+  \endentry
+
+  \entry{levy2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LM}{%
+         family={Levy},
+         familyi={L\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LM1}
+    \strng{fullhash}{LM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{howpublished}{Encyclopedia Britannica}
+    \field{title}{Alternative vote}
+    \verb{url}
+    \verb https://www.britannica.com/topic/alternative-vote
+    \endverb
+    \field{year}{2024}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
+    \field{urlyear}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{maxmin2012}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MCS}{%
+         family={Maxmin},
+         familyi={M\bibinitperiod},
+         given={C.\bibnamedelima S.},
+         giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MCS1}
+    \strng{fullhash}{MCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{howpublished}{The Harvard Crimson}
+    \field{title}{Beware The Spoiler Effect}
+    \verb{url}
+    \verb https://www.thecrimson.com/article/2012/10/30/third-party-spoiler/
+    \endverb
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{mudambi1996}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={Mudambi},
+         familyi={M\bibinitperiod},
+         given={Ram},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MR+1}
+    \strng{fullhash}{MR+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{number}{3/4}
+    \field{pages}{341\bibrangedash 357}
+    \field{title}{Plurality versus Proportional Representation: An Analysis of
+  Sicilian Elections}
+    \verb{url}
+    \verb http://www.jstor.org/stable/30027122
+    \endverb
+    \field{volume}{86}
+    \field{journaltitle}{Public Choice}
+    \field{year}{1996}
+    \field{urlday}{02}
+    \field{urlmonth}{09}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{nielson2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NL}{%
+         family={Nielson},
+         familyi={N\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NL1}
+    \strng{fullhash}{NL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1111/polp.12212
+    \endverb
+    \field{number}{4}
+    \field{pages}{535\bibrangedash 570}
+    \field{title}{Ranked choice voting and attitudes toward democracy in the
+  United States: Results from a survey experiment}
+    \verb{url}
+    \verb https://doi.org/10.1111/polp.12212
+    \endverb
+    \field{volume}{45}
+    \field{journaltitle}{Politics and Policy}
+    \field{year}{2017}
+  \endentry
+
+  \entry{rosen2022}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RY}{%
+         family={Rosen},
+         familyi={R\bibinitperiod},
+         given={Yvonne},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RY1}
+    \strng{fullhash}{RY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{howpublished}{Alaska Public Media}
+    \field{title}{In new bipartisan Alaska Senate majority of 17, members vow
+  compromise and consensus}
+    \verb{url}
+    \verb https://alaskapublic.org/2022/11/29/in-new-bipartisan-alaska-senate-m
+    \verb ajority-of-17-members-vow-compromise-and-consensus/
+    \endverb
+    \field{year}{2022}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
+    \field{urlyear}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{shafer2018}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SS}{%
+         family={Shafer},
+         familyi={S\bibinitperiod},
+         given={Scott},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SS1}
+    \strng{fullhash}{SS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{KQED}
+    \field{title}{Political Uproar as Mark Farrell Replaces London Breed as
+  S.F. Mayor}
+    \verb{url}
+    \verb https://www.kqed.org/news/11643930/political-outrage-as-mark-farrell-
+    \verb replaces-london-breed-as-s-f-s-acting-mayor
+    \endverb
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{shivaram2022}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SD}{%
+         family={Shivaram},
+         familyi={S\bibinitperiod},
+         given={Deepa},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SD1}
+    \strng{fullhash}{SD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{NPR}
+    \field{title}{Democrat Mary Peltola tops Sarah Palin to win U.S. House
+  special election in Alaska}
+    \verb{url}
+    \verb https://www.npr.org/2022/08/31/1120327126/palin-peltola-begich-alaska
+    \verb -special-house-election-results
+    \endverb
+    \field{year}{2022}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
+    \field{urlyear}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{troiano2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=TN}{%
+         family={Troiano},
+         familyi={T\bibinitperiod},
+         given={Nina},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TN1}
+    \strng{fullhash}{TN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{howpublished}{Alaska Beacon}
+    \field{title}{How a bipartisan governing majority emerged in Alaska}
+    \verb{url}
+    \verb https://alaskabeacon.com/2024/05/17/how-a-bipartisan-governing-majori
+    \verb ty-emerged-in-alaska/
+    \endverb
+    \field{year}{2024}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
+    \field{urlyear}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ulloa2022}{article}{}
+    \name{author}{1}{}{%
+      {{hash=UJ}{%
+         family={Ulloa},
+         familyi={U\bibinitperiod},
+         given={Javier},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{UJ1}
+    \strng{fullhash}{UJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \field{title}{Murkowski Fends Off Attacks on Her Record in Alaska's Senate
+  Debate}
+    \verb{url}
+    \verb https://www.nytimes.com/2022/10/28/us/politics/murkowski-alaska-senat
+    \verb e-debate.html
+    \endverb
+    \field{journaltitle}{The New York Times}
+    \field{year}{2022}
+    \field{urlday}{08}
+    \field{urlmonth}{08}
+    \field{urlyear}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
 \endinput
-

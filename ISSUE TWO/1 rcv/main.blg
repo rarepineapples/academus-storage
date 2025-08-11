@@ -1,27 +1,65 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'main.blg'
-[24] biber-darwin:340> INFO - === Wed Jul 30, 2025, 20:48:43
-[31] Biber.pm:419> INFO - Reading 'main.bcf'
-[62] Biber.pm:979> INFO - Found 17 citekeys in bib section 0
-[67] Biber.pm:4419> INFO - Processing section 0
-[71] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
-[72] bibtex.pm:1713> INFO - LaTeX decoding ...
-[81] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
-[123] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[123] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[123] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[123] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[131] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[133] bbl.pm:763> INFO - Output to main.bbl
-[133] Biber.pm:131> WARN - legacy month field 'oct' in entry 'maxmin2012' is not an integer - this will probably not sort properly.
-[133] Biber.pm:131> WARN - legacy month field 'mar' in entry 'levy2024' is not an integer - this will probably not sort properly.
-[133] Biber.pm:131> WARN - legacy month field 'may' in entry 'troiano2024' is not an integer - this will probably not sort properly.
-[134] Biber.pm:131> WARN - legacy month field 'aug' in entry 'gomez2022' is not an integer - this will probably not sort properly.
-[134] Biber.pm:131> WARN - legacy month field 'sep' in entry 'shivaram2022' is not an integer - this will probably not sort properly.
-[134] Biber.pm:131> WARN - legacy month field 'oct' in entry 'ulloa2022' is not an integer - this will probably not sort properly.
-[134] Biber.pm:131> WARN - legacy month field 'apr' in entry 'atkinson2023' is not an integer - this will probably not sort properly.
-[134] Biber.pm:131> WARN - legacy month field 'jan' in entry 'shafer2018' is not an integer - this will probably not sort properly.
-[134] Biber.pm:131> WARN - legacy month field 'nov' in entry 'elinson2010' is not an integer - this will probably not sort properly.
-[134] Biber.pm:131> WARN - legacy month field 'nov' in entry 'clyde2022' is not an integer - this will probably not sort properly.
-[134] Biber.pm:131> WARN - legacy month field 'nov' in entry 'rosen2022' is not an integer - this will probably not sort properly.
-[134] Biber.pm:133> INFO - WARNINGS: 11
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: main-blx.bib
+Database file #2: refs.bib
+Biblatex version: 3.19
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 18 entries,
+            6399 wiz_defined-function locations,
+            1312 strings with 12518 characters,
+and the built_in function-call counts, 107588 in all, are:
+= -- 6671
+> -- 3938
+< -- 559
++ -- 4422
+- -- 2650
+* -- 6933
+:= -- 12254
+add.period$ -- 0
+call.type$ -- 18
+change.case$ -- 174
+chr.to.int$ -- 269
+cite$ -- 34
+duplicate$ -- 11161
+empty$ -- 9413
+format.name$ -- 986
+if$ -- 20310
+int.to.chr$ -- 0
+int.to.str$ -- 34
+missing$ -- 0
+newline$ -- 550
+num.names$ -- 697
+pop$ -- 5900
+preamble$ -- 1
+purify$ -- 225
+quote$ -- 0
+skip$ -- 2917
+stack$ -- 0
+substring$ -- 11685
+swap$ -- 2666
+text.length$ -- 530
+text.prefix$ -- 17
+top$ -- 1
+type$ -- 600
+warning$ -- 0
+while$ -- 1440
+width$ -- 0
+write$ -- 533

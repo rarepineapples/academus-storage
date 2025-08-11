@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  10 AUG 2025 17:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  11 AUG 2025 15:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -867,6 +867,16 @@ LaTeX Font Info:    Font shape `T1/fbb-TLF/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 24.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 24.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 31.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 31.
  [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/
@@ -878,17 +888,6 @@ LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 41.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 41.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 41.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 41.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 41.
  [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_ivhnor.enc}]
 Overfull \hbox (11.56357pt too wide) in paragraph at lines 41--41
 []\T1/fbb-TLF/m/n/12 (-20) Diminishing Re-turns on Real Es-tate Threaten Chi-ne
@@ -913,20 +912,20 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20365 strings out of 474116
- 366226 string characters out of 5743683
- 1957187 words of memory out of 5000000
- 42341 multiletter control sequences out of 15000+600000
+ 20368 strings out of 474116
+ 366274 string characters out of 5743683
+ 1956187 words of memory out of 5000000
+ 42344 multiletter control sequences out of 15000+600000
  624087 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,11n,95p,2215b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,12n,95p,2215b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Bold.pfb></usr
 /local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></usr/loca
 l/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb>
-Output written on main.pdf (4 pages, 135501 bytes).
+Output written on main.pdf (4 pages, 135614 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
+ 112 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  30209 words of extra memory for PDF output out of 35830 (max. 10000000)
 

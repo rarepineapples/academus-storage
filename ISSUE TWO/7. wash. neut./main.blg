@@ -1,20 +1,65 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'main.blg'
-[25] biber-darwin:340> INFO - === Wed Aug  6, 2025, 20:39:46
-[33] Biber.pm:419> INFO - Reading 'main.bcf'
-[64] Biber.pm:979> INFO - Found 13 citekeys in bib section 0
-[70] Biber.pm:4419> INFO - Processing section 0
-[73] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
-[74] bibtex.pm:1713> INFO - LaTeX decoding ...
-[79] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
-[112] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[112] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[112] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[112] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[118] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[120] bbl.pm:763> INFO - Output to main.bbl
-[121] Biber.pm:131> WARN - legacy month field 'apr' in entry 'reinstein2011' is not an integer - this will probably not sort properly.
-[121] Biber.pm:131> WARN - legacy month field 'jul' in entry 'schmitt2000' is not an integer - this will probably not sort properly.
-[121] Biber.pm:131> WARN - legacy month field 'nov' in entry 'prakash2001' is not an integer - this will probably not sort properly.
-[121] Biber.pm:131> WARN - legacy month field 'apr' in entry 'hamilton1793' is not an integer - this will probably not sort properly.
-[121] Biber.pm:133> INFO - WARNINGS: 4
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: main-blx.bib
+Database file #2: refs.bib
+Biblatex version: 3.19
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 14 entries,
+            6399 wiz_defined-function locations,
+            1290 strings with 11399 characters,
+and the built_in function-call counts, 79338 in all, are:
+= -- 5722
+> -- 1551
+< -- 492
++ -- 1907
+- -- 627
+* -- 5341
+:= -- 7801
+add.period$ -- 0
+call.type$ -- 14
+change.case$ -- 303
+chr.to.int$ -- 70
+cite$ -- 26
+duplicate$ -- 7892
+empty$ -- 7531
+format.name$ -- 705
+if$ -- 16680
+int.to.chr$ -- 0
+int.to.str$ -- 34
+missing$ -- 0
+newline$ -- 385
+num.names$ -- 683
+pop$ -- 4475
+preamble$ -- 1
+purify$ -- 336
+quote$ -- 0
+skip$ -- 2584
+stack$ -- 0
+substring$ -- 10186
+swap$ -- 1913
+text.length$ -- 343
+text.prefix$ -- 13
+top$ -- 1
+type$ -- 464
+warning$ -- 0
+while$ -- 886
+width$ -- 0
+write$ -- 372

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  10 AUG 2025 17:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  11 AUG 2025 15:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1380,6 +1380,16 @@ LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 35.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 35.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 41.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 41.
  [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/
@@ -1391,30 +1401,20 @@ ive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc}]
 Underfull \vbox (badness 1173) has occurred while \output is active []
 
  [2]
-[3] (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 83.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 83.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 83.
+[3]
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 83.
-
-[4] [5]
+ [4] [5]
 LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 117.
  [6]
-<lia_mwp-1.png, id=70, 910.602pt x 512.1534pt>
+<lia_mwp-1.png, id=71, 910.602pt x 512.1534pt>
 File: lia_mwp-1.png Graphic file (type png)
 <use lia_mwp-1.png>
 Package pdftex.def Info: lia_mwp-1.png  used on input line 145.
 (pdftex.def)             Requested size: 407.66833pt x 229.28685pt.
  [7 <./lia_mwp-1.png (PNG copy)>]
-<pnas.2108146119fig03.jpg, id=77, 243.7908pt x 340.03035pt>
+<pnas.2108146119fig03.jpg, id=78, 243.7908pt x 340.03035pt>
 File: pnas.2108146119fig03.jpg Graphic file (type jpg)
 <use pnas.2108146119fig03.jpg>
 Package pdftex.def Info: pnas.2108146119fig03.jpg  used on input line 153.
@@ -1452,21 +1452,21 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31543 strings out of 474116
- 612422 string characters out of 5743683
+ 31546 strings out of 474116
+ 612470 string characters out of 5743683
  1955187 words of memory out of 5000000
- 53183 multiletter control sequences out of 15000+600000
+ 53186 multiletter control sequences out of 15000+600000
  660040 words of font info for 222 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,12n,95p,1876b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,13n,95p,1876b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Bold.pfb></usr/
 local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></usr/local
 /texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb>
-Output written on main.pdf (13 pages, 1356640 bytes).
+Output written on main.pdf (13 pages, 1356996 bytes).
 PDF statistics:
- 286 PDF objects out of 1000 (max. 8388607)
- 256 compressed objects within 3 object streams
+ 287 PDF objects out of 1000 (max. 8388607)
+ 257 compressed objects within 3 object streams
  26 named destinations out of 1000 (max. 500000)
  46679 words of extra memory for PDF output out of 51595 (max. 10000000)
 

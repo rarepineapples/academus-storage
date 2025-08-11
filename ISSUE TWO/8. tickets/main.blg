@@ -1,25 +1,65 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'main.blg'
-[23] biber-darwin:340> INFO - === Wed Aug  6, 2025, 21:50:03
-[29] Biber.pm:419> INFO - Reading 'main.bcf'
-[60] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[65] Biber.pm:4419> INFO - Processing section 0
-[69] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
-[69] bibtex.pm:1713> INFO - LaTeX decoding ...
-[73] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
-[105] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[105] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[105] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[105] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[110] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[112] bbl.pm:763> INFO - Output to main.bbl
-[112] Biber.pm:131> WARN - legacy month field 'jun' in entry 'surowiecki2016hamilton' is not an integer - this will probably not sort properly.
-[112] Biber.pm:131> WARN - legacy month field 'oct' in entry 'miller2016scalping' is not an integer - this will probably not sort properly.
-[112] Biber.pm:131> WARN - legacy month field 'apr' in entry 'tapakapa2022concert' is not an integer - this will probably not sort properly.
-[112] Biber.pm:131> WARN - legacy month field 'oct' in entry 'perry2016ticket' is not an integer - this will probably not sort properly.
-[112] Biber.pm:131> WARN - legacy month field 'oct' in entry 'hernandez2023junkfees' is not an integer - this will probably not sort properly.
-[112] Biber.pm:131> WARN - legacy month field 'nov' in entry 'woods2021ticket' is not an integer - this will probably not sort properly.
-[112] Biber.pm:131> WARN - legacy month field 'may' in entry 'atkinson2004economics' is not an integer - this will probably not sort properly.
-[112] Biber.pm:131> WARN - legacy month field 'sep' in entry 'mckenzie2017economics' is not an integer - this will probably not sort properly.
-[112] Biber.pm:131> WARN - legacy month field 'oct' in entry 'shaw2016oldchella' is not an integer - this will probably not sort properly.
-[112] Biber.pm:133> INFO - WARNINGS: 9
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: main-blx.bib
+Database file #2: refs.bib
+Biblatex version: 3.19
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 12 entries,
+            6399 wiz_defined-function locations,
+            1269 strings with 10955 characters,
+and the built_in function-call counts, 53084 in all, are:
+= -- 3365
+> -- 997
+< -- 284
++ -- 1108
+- -- 345
+* -- 3675
+:= -- 5218
+add.period$ -- 0
+call.type$ -- 12
+change.case$ -- 112
+chr.to.int$ -- 51
+cite$ -- 22
+duplicate$ -- 5791
+empty$ -- 5258
+format.name$ -- 596
+if$ -- 11153
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 0
+newline$ -- 310
+num.names$ -- 451
+pop$ -- 3766
+preamble$ -- 1
+purify$ -- 137
+quote$ -- 0
+skip$ -- 1814
+stack$ -- 0
+substring$ -- 5475
+swap$ -- 1441
+text.length$ -- 295
+text.prefix$ -- 11
+top$ -- 1
+type$ -- 396
+warning$ -- 0
+while$ -- 678
+width$ -- 0
+write$ -- 299
