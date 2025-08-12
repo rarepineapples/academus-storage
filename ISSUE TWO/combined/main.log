@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  10 AUG 2025 18:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  11 AUG 2025 16:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1605,27 +1605,11 @@ Package biblatex Warning: BibTeX reported the following issues
 Package biblatex Info: Reference section=0 on input line 4.
 Package biblatex Info: Reference segment=0 on input line 4.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 9.
-LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 9.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 9.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 9.
- [1
-
-
-
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc}]
+(Font)              scaled to size 20.74pt on input line 11.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/sc' will be
-(Font)              scaled to size 20.74pt on input line 10.
+(Font)              scaled to size 20.74pt on input line 11.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 14.
+(Font)              scaled to size 12.0pt on input line 15.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1635,10 +1619,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc}
+[1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
+ocal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc}
 
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_oiqgfb.enc}] (./mai
-n.toc
+
+
+
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_oiqgfb.enc}{/usr/lo
+cal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc}] (./main.toc
 LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 1.
 )
@@ -1646,6 +1634,7 @@ LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
 \openout6 = `main.toc'.
 
 
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1653,27 +1642,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3
+[2
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_ivhnor.enc}]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4
-
-]
 \blx@maxsegment@1=\count449
 \blx@sectionciteorder@1=\count450
-Package biblatex Info: Reference section=1 on input line 18.
+Package biblatex Info: Reference section=1 on input line 19.
 \openout4 = `main1-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:1' on input line 18.
- (./source/rcv.tex
+Package biblatex Info: Setting label 'refsection:1' on input line 19.
+
+(./source/rcv.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 1.
@@ -1691,7 +1670,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
+
 ]
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 19.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 19.
 
@@ -1724,7 +1706,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4]
+[4] (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 53.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1823,18 +1808,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [13]
-Overfull \hbox (0.20238pt too wide) in paragraph at lines 21--21
+Overfull \hbox (0.20238pt too wide) in paragraph at lines 22--22
 \T1/fbb-TLF/m/n/12 (+18) / / alaskabeacon . com / 2024 / 05 / 17 / how -[] a -[
 ] bipartisan -[] governing -[] majority -[] emerged -[] in -[]
  []
 
-Package biblatex Info: Reference section=0 on input line 22.
+Package biblatex Info: Reference section=0 on input line 23.
 \blx@maxsegment@2=\count451
 \blx@sectionciteorder@2=\count452
-Package biblatex Info: Reference section=2 on input line 24.
+Package biblatex Info: Reference section=2 on input line 25.
 \openout4 = `main2-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:2' on input line 24.
+Package biblatex Info: Setting label 'refsection:2' on input line 25.
 (./source/american.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1902,13 +1887,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [19]
-Package biblatex Info: Reference section=0 on input line 29.
+Package biblatex Info: Reference section=0 on input line 30.
 \blx@maxsegment@3=\count453
 \blx@sectionciteorder@3=\count454
-Package biblatex Info: Reference section=3 on input line 31.
+Package biblatex Info: Reference section=3 on input line 32.
 \openout4 = `main3-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:3' on input line 31.
+Package biblatex Info: Setting label 'refsection:3' on input line 32.
  (./source/moral.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1981,13 +1966,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [26]
-Package biblatex Info: Reference section=0 on input line 35.
+Package biblatex Info: Reference section=0 on input line 36.
 \blx@maxsegment@4=\count455
 \blx@sectionciteorder@4=\count456
-Package biblatex Info: Reference section=4 on input line 37.
+Package biblatex Info: Reference section=4 on input line 38.
 \openout4 = `main4-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:4' on input line 37.
+Package biblatex Info: Setting label 'refsection:4' on input line 38.
  (./source/farm.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2019,18 +2004,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [29]
-Overfull \hbox (0.19629pt too wide) in paragraph at lines 40--40
+Overfull \hbox (0.19629pt too wide) in paragraph at lines 41--41
 \T1/fbb-TLF/m/n/12 (+8) archive . org / web / 20110726172604 / http : / / www .
  ifpri . org / sites / default / ^^\les / pubs / media /
  []
 
-Package biblatex Info: Reference section=0 on input line 41.
+Package biblatex Info: Reference section=0 on input line 42.
 \blx@maxsegment@5=\count457
 \blx@sectionciteorder@5=\count458
-Package biblatex Info: Reference section=5 on input line 43.
+Package biblatex Info: Reference section=5 on input line 44.
 \openout4 = `main5-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:5' on input line 43.
+Package biblatex Info: Setting label 'refsection:5' on input line 44.
 (./source/asymmetry.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2046,6 +2031,8 @@ LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 16.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 16.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
@@ -2115,18 +2102,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [37]
-Overfull \hbox (16.61044pt too wide) in paragraph at lines 46--46
+Overfull \hbox (16.61044pt too wide) in paragraph at lines 47--47
 \T1/fbb-TLF/m/n/12 (-20) https://doi.org/[]$10 . 1017 / CBO9780511624681$[], []
 $https : / / doi . org / 10 . 1017 / CBO9780511624681$[].
  []
 
-Package biblatex Info: Reference section=0 on input line 47.
+Package biblatex Info: Reference section=0 on input line 48.
 \blx@maxsegment@6=\count459
 \blx@sectionciteorder@6=\count460
-Package biblatex Info: Reference section=6 on input line 49.
+Package biblatex Info: Reference section=6 on input line 50.
 \openout4 = `main6-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:6' on input line 49.
+Package biblatex Info: Setting label 'refsection:6' on input line 50.
 (./source/rejection.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2158,13 +2145,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [40]
-Package biblatex Info: Reference section=0 on input line 53.
+Package biblatex Info: Reference section=0 on input line 54.
 \blx@maxsegment@7=\count461
 \blx@sectionciteorder@7=\count462
-Package biblatex Info: Reference section=7 on input line 55.
+Package biblatex Info: Reference section=7 on input line 56.
 \openout4 = `main7-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:7' on input line 55.
+Package biblatex Info: Setting label 'refsection:7' on input line 56.
  (./source/washington.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2199,13 +2186,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [43]
-Package biblatex Info: Reference section=0 on input line 59.
+Package biblatex Info: Reference section=0 on input line 60.
 \blx@maxsegment@8=\count463
 \blx@sectionciteorder@8=\count464
-Package biblatex Info: Reference section=8 on input line 61.
+Package biblatex Info: Reference section=8 on input line 62.
 \openout4 = `main8-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:8' on input line 61.
+Package biblatex Info: Setting label 'refsection:8' on input line 62.
  (./source/tickets.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2237,7 +2224,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [46]
-Package biblatex Info: Reference section=0 on input line 65.
+Package biblatex Info: Reference section=0 on input line 66.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2259,11 +2246,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43106 strings out of 474116
- 991201 string characters out of 5743683
+ 43084 strings out of 474116
+ 990696 string characters out of 5743683
  1961187 words of memory out of 5000000
- 64359 multiletter control sequences out of 15000+600000
- 693064 words of font info for 303 fonts, out of 8000000 for 9000
+ 64349 multiletter control sequences out of 15000+600000
+ 690953 words of font info for 294 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,19n,107p,5272b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
@@ -2274,10 +2261,10 @@ sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 cal/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Bold.pfb></usr/local/tex
 live/2024/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></usr/local/texlive/
 2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb>
-Output written on main.pdf (51 pages, 372883 bytes).
+Output written on main.pdf (49 pages, 372163 bytes).
 PDF statistics:
- 731 PDF objects out of 1000 (max. 8388607)
- 651 compressed objects within 7 object streams
- 107 named destinations out of 1000 (max. 500000)
- 61013 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 723 PDF objects out of 1000 (max. 8388607)
+ 645 compressed objects within 7 object streams
+ 105 named destinations out of 1000 (max. 500000)
+ 56405 words of extra memory for PDF output out of 61914 (max. 10000000)
 

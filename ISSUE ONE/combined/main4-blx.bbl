@@ -1,0 +1,800 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{bailey2010mommas}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BMJ}{%
+         family={Bailey},
+         familyi={B\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BMJ1}
+    \strng{fullhash}{BMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1257/aer.100.1.98
+    \endverb
+    \field{number}{1}
+    \field{pages}{98\bibrangedash 129}
+    \field{title}{“Momma’s Got the Pill”: How Anthony Comstock and
+  Griswold v. Connecticut Shaped US Childbearing}
+    \verb{url}
+    \verb https://doi.org/10.1257/aer.100.1.98
+    \endverb
+    \field{volume}{100}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2010}
+  \endentry
+
+  \entry{becker1960economic}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=BGS}{%
+         family={Becker},
+         familyi={B\bibinitperiod},
+         given={G.\bibnamedelima S.},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGS1}
+    \strng{fullhash}{BGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{booktitle}{NBER Chapters}
+    \field{pages}{209\bibrangedash 240}
+    \field{title}{An economic analysis of fertility}
+    \verb{url}
+    \verb https://ideas.repec.org//h/nbr/nberch/2387.html
+    \endverb
+    \field{year}{1960}
+  \endentry
+
+  \entry{bricker2021birthrates}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BD}{%
+         family={Bricker},
+         familyi={B\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BD1}
+    \strng{fullhash}{BD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{World Economic Forum}
+    \field{title}{Birthrates are declining globally – here’s why it
+  matters}
+    \verb{url}
+    \verb https://www.weforum.org/agenda/2021/06/birthrates-declining-globally-
+    \verb why-matters/
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{easterlin1987birth}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ERA}{%
+         family={Easterlin},
+         familyi={E\bibinitperiod},
+         given={R.\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{ERA1}
+    \strng{fullhash}{ERA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \true{singletitle}
+    \field{title}{Birth and Fortune: The Impact of Numbers on Personal Welfare}
+    \verb{url}
+    \verb https://press.uchicago.edu/ucp/books/book/chicago/B/bo3633710.html
+    \endverb
+    \field{year}{1987}
+  \endentry
+
+  \entry{frejka2017half}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FT}{%
+         family={Frejka},
+         familyi={F\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FT1}
+    \strng{fullhash}{FT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{howpublished}{N-Iussp}
+    \field{title}{Half the world’s population reaching below replacement
+  fertility}
+    \verb{url}
+    \verb https://www.niussp.org/fertility-and-reproduction/half-the-worlds-pop
+    \verb ulation-reaching-below-replacement-fertility/
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{jarzebski2021ageing}{article}{}
+    \name{author}{17}{}{%
+      {{hash=JMP}{%
+         family={Jarzebski},
+         familyi={J\bibinitperiod},
+         given={M.\bibnamedelima P.},
+         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=ET}{%
+         family={Elmqvist},
+         familyi={E\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gasparatos},
+         familyi={G\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FK}{%
+         family={Fukushi},
+         familyi={F\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=ES}{%
+         family={Eckersten},
+         familyi={E\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Haase},
+         familyi={H\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Goodness},
+         familyi={G\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Khoshkar},
+         familyi={K\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Saito},
+         familyi={S\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=TK}{%
+         family={Takeuchi},
+         familyi={T\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Theorell},
+         familyi={T\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DN}{%
+         family={Dong},
+         familyi={D\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=KF}{%
+         family={Kasuga},
+         familyi={K\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Watanabe},
+         familyi={W\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SGB}{%
+         family={Sioen},
+         familyi={S\bibinitperiod},
+         given={G.\bibnamedelima B.},
+         giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=YM}{%
+         family={Yokohari},
+         familyi={Y\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Pu},
+         familyi={P\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JMP+1}
+    \strng{fullhash}{JMPETGAFKESHDGJKSSOTKTTDNKFWRSGBYMPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1038/s42949-021-00023-z
+    \endverb
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{Ageing and population shrinking: Implications for
+  sustainability in the urban century}
+    \verb{url}
+    \verb https://doi.org/10.1038/s42949-021-00023-z
+    \endverb
+    \field{volume}{1}
+    \field{journaltitle}{npj Urban Sustainability}
+    \field{year}{2021}
+  \endentry
+
+  \entry{jones2022end}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JCI}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={C.\bibnamedelima I.},
+         giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JCI1}
+    \strng{fullhash}{JCI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1257/aer.20201605
+    \endverb
+    \field{number}{11}
+    \field{pages}{3489\bibrangedash 3527}
+    \field{title}{The end of economic growth? Unintended consequences of a
+  declining population}
+    \verb{url}
+    \verb https://doi.org/10.1257/aer.20201605
+    \endverb
+    \field{volume}{112}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2022}
+  \endentry
+
+  \entry{kearney2023causes}{incollection}{}
+    \name{author}{4}{}{%
+      {{hash=KMS}{%
+         family={Kearney},
+         familyi={K\bibinitperiod},
+         given={M.\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Ganz},
+         familyi={G\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KMS}{%
+         family={Kearney},
+         familyi={K\bibinitperiod},
+         given={M.\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=LPB}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={P.\bibnamedelima B.},
+         giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=KMS}{%
+         family={Kearney},
+         familyi={K\bibinitperiod},
+         given={M.\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=LPB}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={P.\bibnamedelima B.},
+         giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Aspen Institute}%
+    }
+    \strng{namehash}{KMS+1}
+    \strng{fullhash}{KMSGAKMSLPB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{booktitle}{Economic policy in a more uncertain world}
+    \field{title}{The Causes and Consequences of Declining US Fertility}
+    \verb{url}
+    \verb https://www.economicstrategygroup.org/wp-content/uploads/2022/08/Kear
+    \verb ney_Levine_081222.pdf
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{kohler2006low}{incollection}{}
+    \name{author}{3}{}{%
+      {{hash=KHP}{%
+         family={Kohler},
+         familyi={K\bibinitperiod},
+         given={H.-P.},
+         giveni={H\bibinithyphendelim P\bibinitperiod},
+      }}%
+      {{hash=BFC}{%
+         family={Billari},
+         familyi={B\bibinitperiod},
+         given={F.\bibnamedelima C.},
+         giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=OJA}{%
+         family={Ortega},
+         familyi={O\bibinitperiod},
+         given={J.\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=HFR}{%
+         family={Harris},
+         familyi={H\bibinitperiod},
+         given={F.\bibnamedelima R.},
+         giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Rowman \& Littlefield}%
+    }
+    \strng{namehash}{KHP+1}
+    \strng{fullhash}{KHPBFCOJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{booktitle}{The baby bust: Who will do the work? Who will pay the
+  taxes?}
+    \field{title}{Low Fertility in Europe: Causes, Implications and Policy
+  Options}
+    \field{year}{2006}
+  \endentry
+
+  \entry{lee2010fertility}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LR}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mason},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRMA1}
+    \strng{fullhash}{LRMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1007/s10680-009-9186-x
+    \endverb
+    \field{number}{2}
+    \field{pages}{159\bibrangedash 182}
+    \field{title}{Fertility, human capital, and economic growth over the
+  demographic transition}
+    \verb{url}
+    \verb https://doi.org/10.1007/s10680-009-9186-x
+    \endverb
+    \field{volume}{26}
+    \field{journaltitle}{European Journal of Population = Revue Europeenne De
+  Demographie}
+    \field{year}{2010}
+  \endentry
+
+  \entry{lee2014low}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LR}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mason},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRMA1}
+    \strng{fullhash}{LRMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1126/science.1250542
+    \endverb
+    \field{number}{6206}
+    \field{pages}{229\bibrangedash 234}
+    \field{title}{Is low fertility really a problem? Population aging,
+  dependency, and consumption}
+    \verb{url}
+    \verb https://doi.org/10.1126/science.1250542
+    \endverb
+    \field{volume}{346}
+    \field{journaltitle}{Science (New York, N.Y.)}
+    \field{year}{2014}
+  \endentry
+
+  \entry{lino2017cost}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LM}{%
+         family={Lino},
+         familyi={L\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LM1}
+    \strng{fullhash}{LM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{howpublished}{USDA blog}
+    \field{title}{The cost of raising a child}
+    \verb{url}
+    \verb https://www.usda.gov/media/blog/2017/01/13/cost-raising-child
+    \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{newport2022slowdown}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=NF}{%
+         family={Newport},
+         familyi={N\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NF1}
+    \strng{fullhash}{NF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \true{singletitle}
+    \field{howpublished}{Gallup}
+    \field{title}{Slowdown in the rise of religious nones}
+    \verb{url}
+    \verb https://news.gallup.com/opinion/polling-matters/406544/slowdown-rise-
+    \verb religious-nones.aspx
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{skakkebaek2022environmental}{article}{}
+    \name{author}{16}{}{%
+      {{hash=SNE}{%
+         family={Skakkebæk},
+         familyi={S\bibinitperiod},
+         given={N.\bibnamedelima E.},
+         giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LJR}{%
+         family={Lindahl-Jacobsen},
+         familyi={L\bibinithyphendelim J\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=AAM}{%
+         family={Andersson},
+         familyi={A\bibinitperiod},
+         given={A.-M.},
+         giveni={A\bibinithyphendelim M\bibinitperiod},
+      }}%
+      {{hash=JN}{%
+         family={Jørgensen},
+         familyi={J\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=MKM}{%
+         family={Main},
+         familyi={M\bibinitperiod},
+         given={K.\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=L�}{%
+         family={Lidegaard},
+         familyi={L\bibinitperiod},
+         given={Ø.},
+         giveni={�\bibinitperiod},
+      }}%
+      {{hash=PL}{%
+         family={Priskorn},
+         familyi={P\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HSA}{%
+         family={Holmboe},
+         familyi={H\bibinitperiod},
+         given={S.\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BEV}{%
+         family={Bräuner},
+         familyi={B\bibinitperiod},
+         given={E.\bibnamedelima V.},
+         giveni={E\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=AK}{%
+         family={Almstrup},
+         familyi={A\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=FLR}{%
+         family={Franca},
+         familyi={F\bibinitperiod},
+         given={L.\bibnamedelima R.},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=ZA}{%
+         family={Znaor},
+         familyi={Z\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kortenkamp},
+         familyi={K\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HRJ}{%
+         family={Hart},
+         familyi={H\bibinitperiod},
+         given={R.\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Juul},
+         familyi={J\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SNE+1}
+    \strng{fullhash}{SNELJRLHAAMJNMKML�PLHSABEVAKFLRZAKAHRJJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1038/s41574-021-00598-8
+    \endverb
+    \field{number}{3}
+    \field{pages}{139\bibrangedash 157}
+    \field{title}{Environmental factors in declining human fertility}
+    \verb{url}
+    \verb https://doi.org/10.1038/s41574-021-00598-8
+    \endverb
+    \field{volume}{18}
+    \field{journaltitle}{Nature Reviews Endocrinology}
+    \field{year}{2022}
+  \endentry
+
+  \entry{solow1956contribution}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SRM}{%
+         family={Solow},
+         familyi={S\bibinitperiod},
+         given={R.\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SRM1}
+    \strng{fullhash}{SRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.2307/1884513
+    \endverb
+    \field{number}{1}
+    \field{pages}{65\bibrangedash 94}
+    \field{title}{A contribution to the theory of economic growth}
+    \verb{url}
+    \verb https://doi.org/10.2307/1884513
+    \endverb
+    \field{volume}{70}
+    \field{journaltitle}{Quarterly Journal of Economics}
+    \field{year}{1956}
+  \endentry
+
+  \entry{stern2022ways}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=SLN}{%
+         family={Stern},
+         familyi={S\bibinitperiod},
+         given={L.\bibnamedelima N.},
+         giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=LHP}{%
+         family={Lankes},
+         familyi={L\bibinitperiod},
+         given={H.\bibnamedelima P.},
+         giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Pierfederici},
+         familyi={P\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SLN+1}
+    \strng{fullhash}{SLNLHPPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{World Economic Forum}
+    \field{title}{4 ways to make economic growth sustainable, resilient and
+  inclusive}
+    \verb{url}
+    \verb https://www.weforum.org/agenda/2022/07/sustainable-resilient-inclusiv
+    \verb e-economic-growth/
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{tan2020lessons}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=TPL}{%
+         family={Tan},
+         familyi={T\bibinitperiod},
+         given={P.\bibnamedelima L.},
+         giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TPL1}
+    \strng{fullhash}{TPL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{howpublished}{IMF}
+    \field{title}{Lessons from Singapore on raising fertility rates – IMF
+  F\&D}
+    \verb{url}
+    \verb https://www.imf.org/en/Publications/fandd/issues/2020/03/lessons-from
+    \verb -singapore-on-raising-fertility-rates-tan
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{thelancet2024dramatic}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{howpublished}{Health Data News}
+    \field{title}{The lancet: Dramatic declines in global fertility rates set
+  to transform global population patterns by 2100}
+    \verb{url}
+    \verb https://www.healthdata.org/news-events/newsroom/news-releases/lancet-
+    \verb dramatic-declines-global-fertility-rates-set-transform
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{usafacts2022childcare}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{USAFacts Team}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \field{howpublished}{USAFacts}
+    \field{title}{How much are families spending on childcare?}
+    \verb{url}
+    \verb https://usafacts.org/articles/how-much-are-families-spending-on-child
+    \verb care/
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
+\endinput

@@ -1,0 +1,395 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{bajwa2025}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BA}{%
+         family={Bajwa},
+         familyi={B\bibinitperiod},
+         given={Aasiya},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BA1}
+    \strng{fullhash}{BA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{title}{College Board: Non-Profit or Monopoly}
+    \verb{url}
+    \verb https://morganpawprint.com/87765/opinion/college-board-non-profit-or-
+    \verb monopoly/?utm_source=chatgpt.com
+    \endverb
+    \field{journaltitle}{The Morgan PawPrint}
+    \field{year}{2025}
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{desantis2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DSF}{%
+         family={De\bibnamedelima Santis},
+         familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Frederica},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DSF1}
+    \strng{fullhash}{DSF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{howpublished}{Goodwin}
+    \field{title}{College Board Settles for \$750{,}000 Penalty for Sharing and
+  Selling Student Data in Violation of New York State's Student Privacy Law}
+    \verb{url}
+    \verb https://www.goodwinlaw.com/en/insights/blogs/2024/06/college-board-se
+    \verb ttles-for-750000-penalty-for-sharing-and-selling-student-data-in-viol
+    \verb ation-of-new-yo
+    \endverb
+    \field{year}{2024}
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{dillard2025}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DG}{%
+         family={Dillard},
+         familyi={D\bibinitperiod},
+         given={George},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DG1}
+    \strng{fullhash}{DG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{title}{How the College Board Ate American Education}
+    \verb{url}
+    \verb https://medium.com/age-of-awareness/how-the-college-board-ate-america
+    \verb n-education-3fa0c5ceea3c
+    \endverb
+    \field{journaltitle}{Medium}
+    \field{year}{2025}
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{hall2021}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HL}{%
+         family={Hall},
+         familyi={H\bibinitperiod},
+         given={Lauren},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HL1}
+    \strng{fullhash}{HL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{howpublished}{The OLu MUSE}
+    \field{title}{The College Board's Monopoly on Education}
+    \verb{url}
+    \verb https://www.olumuse.org/2021/10/04/the-college-boards-monopoly-on-edu
+    \verb cation/
+    \endverb
+    \field{year}{2021}
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{huang2025}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HM}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Michelle},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HM1}
+    \strng{fullhash}{HM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{howpublished}{The Spectator}
+    \field{title}{David Coleman Exposed: How He Became the Villain He Is Today}
+    \verb{url}
+    \verb https://stuyspec.com/article/david-coleman-exposed-how-he-became-the-
+    \verb villain-he-is-today
+    \endverb
+    \field{year}{2025}
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{kronsburg2025}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KN}{%
+         family={Kronsburg},
+         familyi={K\bibinitperiod},
+         given={Noah},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KN1}
+    \strng{fullhash}{KN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{howpublished}{Columbia Undergraduate Law Review}
+    \field{title}{The College Board: A Case for Antitrust Enforcement Under
+  Section 2 of the Sherman Act}
+    \verb{url}
+    \verb https://www.culawreview.org/journal/the-college-board-a-case-for-anti
+    \verb trust-enforcement-under-section-2-of-the-sherman-act?utm_source=chatg
+    \verb pt.com
+    \endverb
+    \field{year}{2025}
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{maimon2025}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ME}{%
+         family={Maimon},
+         familyi={M\bibinitperiod},
+         given={Elaine},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ME1}
+    \strng{fullhash}{ME1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{title}{The College Board Has Lost Its Way}
+    \verb{url}
+    \verb https://www.insidehighered.com/admissions/views/2023/04/03/college-bo
+    \verb ard-deserves-scrutiny-over-more-one-ap-course-opinion
+    \endverb
+    \field{journaltitle}{The Insider Ed}
+    \field{year}{2025}
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{phelps2018}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PR}{%
+         family={Phelps},
+         familyi={P\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PR1}
+    \strng{fullhash}{PR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.2139/ssrn.3331692
+    \endverb
+    \field{title}{Does College Board Deserve Public Subsidies?}
+    \verb{url}
+    \verb https://doi.org/10.2139/ssrn.3331692
+    \endverb
+    \field{journaltitle}{SSRN Electronic Journal}
+    \field{year}{2018}
+  \endentry
+
+  \entry{jocz2025}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PJ}{%
+         family={Productions},
+         familyi={P\bibinitperiod},
+         given={Jocz},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PJ1}
+    \strng{fullhash}{PJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \field{howpublished}{YouTube video}
+    \field{title}{The Gilded Age Vs. the College Board: APUSH Teacher Compares}
+    \verb{url}
+    \verb https://www.youtube.com/watch?v=pjTeWbStgcs
+    \endverb
+    \field{year}{2025}
+  \endentry
+
+  \entry{riley2024}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RN}{%
+         family={Riley},
+         familyi={R\bibinitperiod},
+         given={Naomi},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RN1}
+    \strng{fullhash}{RN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{title}{The Rotting of the College Board}
+    \verb{url}
+    \verb https://www.commentary.org/articles/naomi-schaefer-riley/college-boar
+    \verb d-sat-rotting/
+    \endverb
+    \field{journaltitle}{Commentary}
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{tanouye2025}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TD}{%
+         family={Tanouye},
+         familyi={T\bibinitperiod},
+         given={Dylan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TD1}
+    \strng{fullhash}{TD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{title}{The College Board has become indistinguishable from a hedge
+  fund}
+    \field{journaltitle}{The Tufts Daily}
+    \field{year}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{totalregistration}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+  \field{howpublished}{\url{https://www.totalregistration.net/AP-Exam-Registration-Service/Follow-The-Money-History-of-College-Board-Finances.php}}
+    \field{title}{Total Registration}
+  \endentry
+
+  \entry{vishwanath2025}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=VM}{%
+         family={Vishwanath},
+         familyi={V\bibinitperiod},
+         given={Maya},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VM1}
+    \strng{fullhash}{VM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \true{singletitle}
+    \field{howpublished}{Torch}
+    \field{title}{Not For Your Profit: College Board's Monopoly Over Higher
+  Education}
+    \verb{url}
+    \verb https://slhspress.com/14281/opinion/not-for-your-profit-college-board
+    \verb s-monopoly-over-higher-education/?utm_source=chatgpt.com
+    \endverb
+    \field{year}{2025}
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{white2025}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WS}{%
+         family={White},
+         familyi={W\bibinitperiod},
+         given={Scott},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WS1}
+    \strng{fullhash}{WS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{title}{Is The College Board Truly A Nonprofit Or A \$1.6 Billion
+  Testing Monopoly?}
+    \verb{url}
+    \verb https://www.forbes.com/sites/scottwhite/2025/05/26/the-college-board-
+    \verb exposed-nonprofit-or-16-billion-testing-monopoly-in-disguise/?utm_sou
+    \verb rce=chatgpt.com
+    \endverb
+    \field{journaltitle}{Forbes}
+    \field{year}{2025}
+    \field{urlday}{25}
+    \field{urlmonth}{05}
+    \field{urlyear}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
+\endinput

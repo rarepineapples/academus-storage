@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main3-blx.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: main-blx.bib
+Database file #2: refs/critique.bib
+Biblatex version: 3.19
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 15 entries,
+            6399 wiz_defined-function locations,
+            1276 strings with 11681 characters,
+and the built_in function-call counts, 73654 in all, are:
+= -- 3782
+> -- 3546
+< -- 480
++ -- 3413
+- -- 2498
+* -- 4286
+:= -- 8129
+add.period$ -- 0
+call.type$ -- 15
+change.case$ -- 135
+chr.to.int$ -- 267
+cite$ -- 28
+duplicate$ -- 7625
+empty$ -- 6517
+format.name$ -- 676
+if$ -- 13631
+int.to.chr$ -- 0
+int.to.str$ -- 27
+missing$ -- 0
+newline$ -- 390
+num.names$ -- 533
+pop$ -- 4732
+preamble$ -- 1
+purify$ -- 160
+quote$ -- 0
+skip$ -- 2366
+stack$ -- 0
+substring$ -- 6115
+swap$ -- 2043
+text.length$ -- 444
+text.prefix$ -- 14
+top$ -- 1
+type$ -- 498
+warning$ -- 0
+while$ -- 926
+width$ -- 0
+write$ -- 376

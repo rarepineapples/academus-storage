@@ -1,0 +1,19 @@
+\contentsline {chapter}{Editor's Note}{i}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}A Binary Theory of Collapse}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Binary Theory of Collapse}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Anthropological Factors}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Environmental Factors}{2}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Examples}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Our Collapse}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Conclusion}{5}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Appendix}{6}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Evaluating Governmental Control on Social Media Speech}{14}{chapter.2}%
+\contentsline {chapter}{\numberline {3}A Critique of the College Board Company}{18}{chapter.3}%
+\contentsline {chapter}{\numberline {4}A Fertility Crisis}{21}{chapter.4}%
+\contentsline {chapter}{\numberline {5}A History of Racism and a Case for Affirmative Action}{27}{chapter.5}%
+\contentsline {chapter}{\numberline {6}China's Lost Children}{32}{chapter.6}%
+\contentsline {chapter}{\numberline {7}On Humilty}{36}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Balancing Free Speech and Fair Elections}{39}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Introduction}{39}{section.8.1}%
+\contentsline {section}{\numberline {8.2}History}{39}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Campaign Finance Post \emph {Citizens United} Ruling}{40}{section.8.3}%

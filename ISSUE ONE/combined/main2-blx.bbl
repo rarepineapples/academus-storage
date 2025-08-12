@@ -1,0 +1,430 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{bbc2023_business}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{BBC}
+    \field{title}{BBC Business News China}
+    \verb{url}
+    \verb https://www.bbc.com/news/business-66840367
+    \endverb
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{imf2020_changingdemographics}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BDE}{%
+         family={Bloom},
+         familyi={B\bibinitperiod},
+         given={David\bibnamedelima E.},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BDE1}
+    \strng{fullhash}{BDE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{Finance \& Development, IMF}
+    \field{title}{Changing demographics and economic growth}
+    \verb{url}
+    \verb https://www.imf.org/en/Publications/fandd/issues/2020/03/changing-dem
+    \verb ographics-and-economic-growth-bloom
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{reuters2021_threechildren}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{Reuters}
+    \field{title}{China says each couple can have three children, changing
+  policy}
+    \verb{url}
+    \verb https://www.reuters.com/world/china/china-says-each-couple-can-have-t
+    \verb hree-children-change-policy-2021-05-31/
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{apnews_china_trade}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{Associated Press}
+    \field{title}{China trade exports imports}
+    \verb{url}
+    \verb https://apnews.com/article/china-trade-exports-imports-b25c21299101d2
+    \verb 483f946a0ce264662f
+    \endverb
+  \endentry
+
+  \entry{asu_embryo_onechild}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{The Embryo Project Encyclopedia}
+    \field{title}{China's One Child Policy}
+    \verb{url}
+    \verb https://embryo.asu.edu/pages/chinas-one-child-policy
+    \endverb
+  \endentry
+
+  \entry{eiu2035_demographic}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{Economist Intelligence Unit}
+    \field{title}{China’s demographic outlook and implications for 2035}
+    \verb{url}
+    \verb https://www.eiu.com/n/chinas-demographic-outlook-and-implications-for
+    \verb -2035/
+    \endverb
+  \endentry
+
+  \entry{cepr_voxeu_savingpuzzle}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{VoxEU, CEPR}
+    \field{title}{China’s one-child policy and the saving puzzle}
+    \verb{url}
+    \verb https://cepr.org/voxeu/columns/chinas-one-child-policy-and-saving-puz
+    \verb zle
+    \endverb
+  \endentry
+
+  \entry{bloomberg2024_realestatecrisis}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{Bloomberg}
+    \field{title}{China’s Real Estate Crisis Is Starting to Ripple Across the
+  World}
+    \verb{url}
+    \verb https://www.bloomberg.com/news/articles/2024-02-09/china-s-real-estat
+    \verb e-crisis-is-starting-to-ripple-across-the-world
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{imf2024_realestate}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{IMF News}
+    \field{title}{China’s Real Estate Sector: Managing the Medium-Term
+  Slowdown}
+    \verb{url}
+    \verb https://www.imf.org/en/News/Articles/2024/02/02/cf-chinas-real-estate
+    \verb -sector-managing-the-medium-term-slowdown
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{projectsyndicate2021_seximbalance}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{Project Syndicate}
+    \field{title}{China’s Sex Imbalance: Impact on Savings, Trade, and
+  Workplaces}
+    \verb{url}
+    \verb https://www.project-syndicate.org/commentary/china-sex-imbalance-impa
+    \verb ct-on-savings-trade-and-workplaces-by-shang-jin-wei-2021-05
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{britannica_onechild_consequences}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{Encyclopaedia Britannica}
+    \field{title}{Consequences of China's One-Child Policy}
+    \verb{url}
+    \verb https://www.britannica.com/topic/one-child-policy/Consequences-of-Chi
+    \verb nas-one-child-policy
+    \endverb
+  \endentry
+
+  \entry{federalreserve_ifdp1260}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{howpublished}{Federal Reserve IFDP Paper 1260}
+    \field{title}{Demographic Trends and China’s Long-Term Growth Prospects}
+    \verb{url}
+    \verb https://www.federalreserve.gov/econres/ifdp/files/ifdp1260.pdf
+    \endverb
+  \endentry
+
+  \entry{prnewswire2017_housingmarket}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{howpublished}{PR Newswire}
+    \field{title}{Did China’s One Child Policy Lead to an Inflated Housing
+  Market?}
+    \verb{url}
+    \verb https://www.prnewswire.com/news-releases/did-chinas-one-child-policy-
+    \verb lead-to-an-inflated-housing-market-new-research-from-columbia-busines
+    \verb s-argues-yes-300573361.html
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{eastasiaforum2023_realestate}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{howpublished}{East Asia Forum}
+    \field{title}{Diminishing returns on real estate threaten Chinese economic
+  growth}
+    \verb{url}
+    \verb https://eastasiaforum.org/2023/12/07/diminishing-returns-on-real-esta
+    \verb te-threaten-chinese-economic-growth
+    \endverb
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{piie2022_tradewar}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{howpublished}{Peterson Institute for International Economics}
+    \field{title}{Four Years of Trade War: Are US and China Decoupling?}
+    \verb{url}
+    \verb https://www.piie.com/blogs/realtime-economics/four-years-trade-war-ar
+    \verb e-us-and-china-decoupling#:~:text=Overall%20the%20trade%20war%20has,h
+    \verb ave%20since%20recovered%20only%20slowly.
+    \endverb
+  \endentry
+
+  \entry{worldbank_gender_china}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{howpublished}{World Bank}
+    \field{title}{Gender Data Portal: China}
+    \verb{url}
+    \verb https://genderdata.worldbank.org/en/economies/china
+    \endverb
+  \endentry
+
+  \entry{pbs2024_onechild_economy}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \true{singletitle}
+    \field{howpublished}{PBS NewsHour}
+    \field{title}{Is China’s one-child policy to blame for its economic
+  slowdown?}
+    \verb{url}
+    \verb https://www.pbs.org/newshour/economy/is-chinas-one-child-policy-to-bl
+    \verb ame-for-its-economic-slowdown
+    \endverb
+  \endentry
+
+  \entry{pew2022_chinapopulation}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{howpublished}{Pew Research Center}
+    \field{title}{Key facts about China’s declining population}
+    \verb{url}
+    \verb https://www.pewresearch.org/short-reads/2022/12/05/key-facts-about-ch
+    \verb inas-declining-population/
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{investopedia_onechild}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \true{singletitle}
+    \field{howpublished}{Investopedia}
+    \field{title}{One-Child Policy}
+    \verb{url}
+    \verb https://www.investopedia.com/terms/o/one-child-policy
+    \endverb
+  \endentry
+
+  \entry{yale2014_savingrate}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \true{singletitle}
+    \field{howpublished}{Yale Economics}
+    \field{title}{One Child Policy and Savings}
+    \verb{url}
+    \verb https://economics.yale.edu/sites/default/files/tahamaclunch100214_2.p
+    \verb df
+    \endverb
+  \endentry
+
+  \entry{ntu_onedraft}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \true{singletitle}
+    \field{howpublished}{National Taiwan University}
+    \field{title}{One Child Policy Draft Paper}
+    \verb{url}
+    \verb https://homepage.ntu.edu.tw/~pjliaoteach/one_draft042512_final.pdf
+    \endverb
+  \endentry
+
+  \entry{savills2024_realestate}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{howpublished}{Savills}
+    \field{title}{Real estate markets to be invigorated as growing pool of
+  buyers and sellers look to make a splash}
+    \verb{url}
+    \verb https://www.savills.co.uk/blog/article/356308/commercial-property/rea
+    \verb l-estate-markets-to-be-invigorated-as-growing-pool-of-buyers-and-sell
+    \verb ers-look-to-make-a-splash.aspx
+    \endverb
+  \endentry
+
+  \entry{pmc4657744}{article}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{number}{11}
+    \field{pages}{1171\bibrangedash 1176}
+    \field{title}{The Effect of China’s One-Child Family Policy after 25
+  Years}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4657744/
+    \endverb
+    \field{volume}{353}
+    \field{journaltitle}{New England Journal of Medicine}
+    \field{year}{2005}
+  \endentry
+
+  \entry{npr2021_onechild_legacy}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{howpublished}{NPR}
+    \field{title}{The Legacy And The Lasting Effects Of China's One-Child
+  Policy}
+    \verb{url}
+    \verb https://www.npr.org/2021/06/21/1008656293/the-legacy-of-the-lasting-e
+    \verb ffects-of-chinas-1-child-policy
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{cnbc2023_propertycrisis}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{howpublished}{CNBC}
+    \field{title}{What China’s slow-motion property crisis means for the
+  global economy}
+    \verb{url}
+    \verb https://www.cnbc.com/2023/10/27/what-chinas-slow-motion-property-cris
+    \verb is-means-for-the-global-economy.html
+    \endverb
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{wef2013_easing_onechild}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{howpublished}{World Economic Forum}
+    \field{title}{What does China’s easing of the one-child rule mean for the
+  economy?}
+    \verb{url}
+    \verb https://www.weforum.org/agenda/2013/11/what-does-chinas-easing-of-the
+    \verb -one-child-rule-mean-for-the-economy/
+    \endverb
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{cbo2010_savingrate}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{howpublished}{Congressional Budget Office Working Paper}
+    \field{title}{Why Is China’s National Saving Rate So High?}
+    \verb{url}
+    \verb https://www.cbo.gov/sites/default/files/111th-congress-2009-2010/work
+    \verb ingpaper/2010-07-chinasavingrate_0.pdf
+    \endverb
+    \field{year}{2010}
+  \endentry
+
+  \entry{canterbury2014_workingpaper}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{howpublished}{University of Canterbury}
+    \field{title}{Working Paper 2014}
+    \verb{url}
+    \verb https://repec.canterbury.ac.nz/cbt/econwp/2014.pdf
+    \endverb
+  \endentry
+\enddatalist
+\endinput

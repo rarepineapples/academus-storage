@@ -1,0 +1,67 @@
+\documentclass[12pt, a4paper, openany]{book}
+\usepackage{format}
+\usetikzlibrary{calc}
+\usetikzlibrary{positioning}
+
+\begin{document}
+
+\frontmatter
+
+\chapter{Editor's Note}
+
+Damn you.
+
+\tableofcontents
+
+\mainmatter
+
+\begin{refsection}[refs/binary]
+\input{source/binary}
+\nocite{*}
+\printbibliography[title={References}, heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/evaluating]
+\input{source/evaluating}
+\nocite{*}
+\printbibliography[title=References,
+heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/critique]
+\input{source/critique}
+\nocite{*}
+\printbibliography[title=References, heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/fertility]
+\input{source/fertility}
+\nocite{*}
+\printbibliography[title=References,heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/racism]
+\input{source/racism}
+\nocite{*}
+\printbibliography[title=References,heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/china]
+\input{source/china}
+\nocite{*}
+\printbibliography[title=References,heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/humility]
+\input{source/humility}
+\nocite{*}
+\printbibliography[title=References,heading=subbibliography]
+\end{refsection}
+
+\begin{refsection}[refs/campaign]
+\input{source/campaign}
+\nocite{*}
+\printbibliography[title=References,heading=subbibliography]
+\end{refsection}
+
+\end{document}

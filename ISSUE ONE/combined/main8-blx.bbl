@@ -1,0 +1,795 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{ansolabehere_iyengar_goingnegative}{book}{}
+    \name{author}{2}{}{%
+      {{hash=AS}{%
+         family={Ansolabehere},
+         familyi={A\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=IS}{%
+         family={Iyengar},
+         familyi={I\bibinitperiod},
+         given={Shanto},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ASIS1}
+    \strng{fullhash}{ASIS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \field{note}{Publication details not provided}
+    \field{title}{Going Negative: How Political Advertisements Shrink and
+  Polarize the Electorate}
+  \endentry
+
+  \entry{bitzer2009tillman}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BJM}{%
+         family={Bitzer},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima Michael},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJM1}
+    \strng{fullhash}{BJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{Free Speech Center}
+    \field{title}{Tillman Act of 1907 (1907)}
+    \verb{url}
+    \verb https://firstamendment.mtsu.edu/article/tillman-act-of-1907/
+    \endverb
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{fec2016spendingbythenumbers}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{Federal Election Commission}
+    \field{title}{Campaign finance data}
+    \verb{url}
+    \verb https://www.fec.gov/data/spending-bythenumbers/?election_year=2016
+    \endverb
+    \field{year}{2016}
+    \field{urlday}{24}
+    \field{urlmonth}{01}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{fec_citizensunited_page}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{Federal Election Commission}
+    \field{title}{Citizens United v. FEC}
+    \verb{url}
+    \verb https://www.fec.gov/legal-resources/court-cases/citizens-united-v-fec
+    \verb /
+    \endverb
+  \endentry
+
+  \entry{hlr2010citizensunitednote}{article}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{number}{1}
+    \field{pages}{75\bibrangedash 82}
+    \field{title}{Citizens United v. FEC: Corporate Political Speech}
+    \verb{url}
+    \verb https://www.jstor.org/stable/20788313
+    \endverb
+    \field{volume}{124}
+    \field{journaltitle}{Harvard Law Review}
+    \field{year}{2010}
+    \field{urlday}{23}
+    \field{urlmonth}{01}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{corcoran2018redstate}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CM}{%
+         family={Corcoran},
+         familyi={C\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CM1}
+    \strng{fullhash}{CM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{Truthout}
+    \field{title}{Red-State Senate Democrats Are Top Recipients of Wall Street
+  Donations}
+    \verb{url}
+    \verb https://truthout.org/articles/red-state-senate-democrats-are-top-reci
+    \verb pients-of-wall-street-donations/
+    \endverb
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{culberson2018smalldonors}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=CT}{%
+         family={Culberson},
+         familyi={C\bibinitperiod},
+         given={Tyler},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CT+1}
+    \strng{fullhash}{CT+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1177/1532673x18763918
+    \endverb
+    \field{number}{5}
+    \field{pages}{970\bibrangedash 999}
+    \field{title}{Small Donors in Congressional Elections}
+    \field{volume}{47}
+    \field{journaltitle}{American Politics Research}
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{flavin2015campaignfinance}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FP}{%
+         family={Flavin},
+         familyi={F\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FP1}
+    \strng{fullhash}{FP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{number}{1}
+    \field{pages}{77\bibrangedash 88}
+    \field{title}{Campaign Finance Laws, Policy Outcomes, and Political
+  Equality in the American States}
+    \verb{url}
+    \verb https://www.jstor.org/stable/24371973
+    \endverb
+    \field{volume}{68}
+    \field{journaltitle}{Political Research Quarterly}
+    \field{year}{2015}
+  \endentry
+
+  \entry{george_progresspoverty_ayawp}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=GH}{%
+         family={George},
+         familyi={G\bibinitperiod},
+         given={Henry},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GH1}
+    \strng{fullhash}{GH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{howpublished}{The American Yawp Reader}
+    \field{title}{Progress and Poverty, Selections (1879)}
+    \verb{url}
+    \verb http://www.americanyawp.com/reader/16-capital-and-labor/henry-george-
+    \verb progress-and-poverty-selections-1879/
+    \endverb
+  \endentry
+
+  \entry{gerken2015realproblem}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GHK}{%
+         family={Gerken},
+         familyi={G\bibinitperiod},
+         given={Heather\bibnamedelima K.},
+         giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GHK1}
+    \strng{fullhash}{GHK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{number}{1}
+    \field{pages}{5\bibrangedash 16}
+    \field{title}{The Real Problem with \guillemotleft Citizens
+  United\guillemotright: Campaign Finance, Dark Money, and Shadow Parties}
+    \verb{url}
+    \verb https://www.jstor.org/stable/24640167
+    \endverb
+    \field{volume}{159}
+    \field{journaltitle}{Proceedings of the American Philosophical Society}
+    \field{year}{2015}
+    \field{urlday}{21}
+    \field{urlmonth}{01}
+    \field{urlyear}{2025}
+  \endentry
+
+  \entry{halljones2023incumbent}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HJM}{%
+         family={Hall-Jones},
+         familyi={H\bibinithyphendelim J\bibinitperiod},
+         given={Miro},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJM1}
+    \strng{fullhash}{HJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{howpublished}{OpenSecrets}
+    \field{title}{Incumbent politicians enjoy record reelection in an aging
+  Congress}
+    \verb{url}
+    \verb https://www.opensecrets.org/news/2023/10/incumbent-politicians-enjoy-
+    \verb record-reelection-in-aging-congress/
+    \endverb
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{hitchens2014kinsley}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HC}{%
+         family={Hitchens},
+         familyi={H\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HC1}
+    \strng{fullhash}{HC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{howpublished}{Vanity Fair}
+    \field{title}{The Kinsley Report}
+    \verb{url}
+    \verb https://www.vanityfair.com/news/1987/09/christopher-hitchens-on-micha
+    \verb el-kinsley
+    \endverb
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ingram2024musk277m}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=IJ}{%
+         family={Ingram},
+         familyi={I\bibinitperiod},
+         given={Julia},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IJ1}
+    \strng{fullhash}{IJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \true{singletitle}
+    \field{howpublished}{CBS News}
+    \field{title}{Elon Musk spends \$277 million to back Trump and Republican
+  candidates}
+    \verb{url}
+    \verb https://www.cbsnews.com/news/elon-musk-277-million-trump-republican-c
+    \verb andidates-donations/
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{keena2019smalldonorssenate}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KA}{%
+         family={Keena},
+         familyi={K\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KFM}{%
+         family={Knight-Finley},
+         familyi={K\bibinithyphendelim F\bibinitperiod},
+         given={Misty},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KAKFM1}
+    \strng{fullhash}{KAKFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1089/elj.2018.0498
+    \endverb
+    \field{number}{2}
+    \field{pages}{132\bibrangedash 144}
+    \field{title}{Are Small Donors Polarizing? A Longitudinal Study of the
+  Senate}
+    \field{volume}{18}
+    \field{journaltitle}{Election Law Journal: Rules, Politics, and Policy}
+    \field{year}{2019}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{klein2023gildedcorruption}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KC}{%
+         family={Klein},
+         familyi={K\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KC1}
+    \strng{fullhash}{KC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{howpublished}{History (A\&E Television Networks)}
+    \field{title}{How the Gilded Age's Top 1 Percent Thrived on Corruption}
+    \verb{url}
+    \verb https://www.history.com/news/gilded-age-corruption-corporate-wealth
+    \endverb
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{lau2015citizensunited_explained}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LT}{%
+         family={Lau},
+         familyi={L\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LT1}
+    \strng{fullhash}{LT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{howpublished}{Brennan Center for Justice}
+    \field{title}{Citizens United Explained}
+    \verb{url}
+    \verb https://www.brennancenter.org/our-work/research-reports/citizens-unit
+    \verb ed-explained
+    \endverb
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{leingang2024muskgrip}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LR}{%
+         family={Leingang},
+         familyi={L\bibinitperiod},
+         given={Rachel},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LR1}
+    \strng{fullhash}{LR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{howpublished}{The Guardian}
+    \field{title}{Elon Musk showcases grip on Washington by impeding spending
+  bill}
+    \verb{url}
+    \verb https://www.theguardian.com/technology/2024/dec/19/elon-musk-trump-go
+    \verb vernment-shutdown
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{makinson2003speakingfreely}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ML}{%
+         family={Makinson},
+         familyi={M\bibinitperiod},
+         given={Larry},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Center for Responsive Politics}%
+    }
+    \strng{namehash}{ML1}
+    \strng{fullhash}{ML1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{edition}{2}
+    \field{title}{Speaking Freely: Washington Insiders Talk about Money in
+  Politics}
+    \field{year}{2003}
+  \endentry
+
+  \entry{mccoy_press2022pernicious}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=MJ}{%
+         family={McCoy},
+         familyi={M\bibinitperiod},
+         given={Jennifer},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJPB1}
+    \strng{fullhash}{MJPB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{howpublished}{Carnegie Endowment for International Peace}
+    \field{title}{What Happens When Democracies Become Perniciously Polarized?}
+    \verb{url}
+    \verb https://carnegieendowment.org/research/2022/01/what-happens-when-demo
+    \verb cracies-become-perniciously-polarized?lang=en
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{menand2022americandemocracy}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=ML}{%
+         family={Menand},
+         familyi={M\bibinitperiod},
+         given={Louis},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML2}
+    \strng{fullhash}{ML2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{howpublished}{The New Yorker}
+    \field{title}{American Democracy Was Never Designed to Be Democratic}
+    \verb{url}
+    \verb https://www.newyorker.com/magazine/2022/08/22/american-democracy-was-
+    \verb never-designed-to-be-democratic-eric-holder-our-unfinished-march-nick
+    \verb -seabrook-one-person-one-vote-jacob-grumbach-laboratories-against-dem
+    \verb ocracy
+    \endverb
+    \field{year}{2022}
+    \field{urlday}{24}
+    \field{urlmonth}{01}
+    \field{urlyear}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{peoples2010contributor}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PCD}{%
+         family={Peoples},
+         familyi={P\bibinitperiod},
+         given={Clayton\bibnamedelima D.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PCD1}
+    \strng{fullhash}{PCD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1111/j.1533-8525.2010.01187.x
+    \endverb
+    \field{number}{4}
+    \field{pages}{649\bibrangedash 677}
+    \field{title}{Contributor Influence in Congress: Social Ties and PAC
+  Effects on U.S. House Policymaking}
+    \field{volume}{51}
+    \field{journaltitle}{The Sociological Quarterly}
+    \field{year}{2010}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{pildes2024polarization}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PRH}{%
+         family={Pildes},
+         familyi={P\bibinitperiod},
+         given={Richard\bibnamedelima H.},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PRH1}
+    \strng{fullhash}{PRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.2139/ssrn.5032309
+    \endverb
+    \field{howpublished}{SSRN}
+    \field{title}{Campaign Finance and Political Polarization}
+    \verb{url}
+    \verb https://doi.org/10.2139/ssrn.5032309
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{pino_fishman2025fifteenyears}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=PM}{%
+         family={Pino},
+         familyi={P\bibinitperiod},
+         given={Marina},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FJ}{%
+         family={Fishman},
+         familyi={F\bibinitperiod},
+         given={Julia},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PMFJ1}
+    \strng{fullhash}{PMFJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \field{howpublished}{Brennan Center for Justice}
+    \field{title}{Fifteen Years Later, Citizens United Defined the 2024
+  Election}
+    \verb{url}
+    \verb https://www.brennancenter.org/our-work/research-reports/fifteen-years
+    \verb -later-citizens-united-defined-2024-election
+    \endverb
+    \field{year}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{shear2024muskstrength}{misc}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=SMD}{%
+         family={Shear},
+         familyi={S\bibinitperiod},
+         given={Michael\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SMD+1}
+    \strng{fullhash}{SMD+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{The New York Times}
+    \field{title}{Elon Musk Flexes His Political Strength as Government
+  Shutdown Looms}
+    \verb{url}
+    \verb https://www.nytimes.com/2024/12/19/us/politics/elon-musk-politics.htm
+    \verb l
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{taddonio2023frontline}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=TP}{%
+         family={Taddonio},
+         familyi={T\bibinitperiod},
+         given={Patrice},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TP1}
+    \strng{fullhash}{TP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{howpublished}{FRONTLINE (PBS)}
+    \field{title}{From the Archives: How the Citizens United Decision Changed
+  U.S. Political Campaigns}
+    \verb{url}
+    \verb https://www.pbs.org/wgbh/frontline/article/archives-citizens-united-c
+    \verb ampaign-spending-documentary/
+    \endverb
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{tutella2024polarization_psu}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=TF}{%
+         family={Tutella},
+         familyi={T\bibinitperiod},
+         given={Francisco},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TF1}
+    \strng{fullhash}{TF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{howpublished}{Penn State}
+    \field{title}{Political polarization may slow legislation, make
+  higher-stakes laws likelier}
+    \verb{url}
+    \verb https://www.psu.edu/news/research/story/political-polarization-may-sl
+    \verb ow-legislation-make-higher-stakes-laws-likelier
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{vandewalker2024smalldonors}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=VI}{%
+         family={Vandewalker},
+         familyi={V\bibinitperiod},
+         given={Ian},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VI1}
+    \strng{fullhash}{VI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \true{singletitle}
+    \field{howpublished}{Brennan Center for Justice}
+    \field{title}{Do Small Donors Cause Political Dysfunction?}
+    \verb{url}
+    \verb https://www.brennancenter.org/our-work/research-reports/do-small-dono
+    \verb rs-cause-political-dysfunction
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{witko2011campaigncontributions}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WC}{%
+         family={Witko},
+         familyi={W\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WC1}
+    \strng{fullhash}{WC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1093/jopart/mur005
+    \endverb
+    \field{number}{4}
+    \field{pages}{761\bibrangedash 778}
+    \field{title}{Campaign Contributions, Access, and Government Contracting}
+    \field{volume}{21}
+    \field{journaltitle}{Journal of Public Administration Research and Theory}
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{youvan2024trustgiants}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=YDC}{%
+         family={Youvan},
+         familyi={Y\bibinitperiod},
+         given={Douglas\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YDC1}
+    \strng{fullhash}{YDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.13140/RG.2.2.19913.35681
+    \endverb
+    \field{howpublished}{ResearchGate}
+    \field{title}{The Trust Giants' Grasp: Corporate Power and Political
+  Influence in the Gilded Age}
+    \verb{url}
+    \verb https://doi.org/10.13140/RG.2.2.19913.35681
+    \endverb
+    \field{year}{2024}
+  \endentry
+\enddatalist
+\endinput

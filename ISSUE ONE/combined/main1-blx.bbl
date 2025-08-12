@@ -1,0 +1,3053 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{albrecht2013what}{article}{}
+    \name{author}{4}{}{%
+      {{hash=AK}{%
+         family={Albrecht},
+         familyi={A\bibinitperiod},
+         given={Konstanze},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=VKG}{%
+         family={Volz},
+         familyi={V\bibinitperiod},
+         given={Kirsten\bibnamedelima G.},
+         giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Sutter},
+         familyi={S\bibinitperiod},
+         given={Matthias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=vCDY}{%
+         prefix={von},
+         prefixi={v\bibinitperiod},
+         family={Cramon},
+         familyi={C\bibinitperiod},
+         given={D.\bibnamedelima Yves},
+         giveni={D\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AK+1}
+    \strng{fullhash}{AKVKGSMvCDY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1371/journal.pone.0073531
+    \endverb
+    \field{number}{8}
+    \field{pages}{e73531}
+    \field{title}{What Do I Want and When Do I Want It: Brain Correlates of
+  Decisions Made for Self and Other}
+    \verb{url}
+    \verb https://doi.org/10.1371/journal.pone.0073531
+    \endverb
+    \field{volume}{8}
+    \field{journaltitle}{PLoS ONE}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{allentoft2014extinct}{article}{}
+    \name{author}{9}{}{%
+      {{hash=AME}{%
+         family={Allentoft},
+         familyi={A\bibinitperiod},
+         given={Morten\bibnamedelima Erik},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Heller},
+         familyi={H\bibinitperiod},
+         given={Rasmus},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=OCL}{%
+         family={Oskam},
+         familyi={O\bibinitperiod},
+         given={Charlotte\bibnamedelima L.},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=LED}{%
+         family={Lorenzen},
+         familyi={L\bibinitperiod},
+         given={Eline\bibnamedelima D.},
+         giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HML}{%
+         family={Hale},
+         familyi={H\bibinitperiod},
+         given={Marie\bibnamedelima L.},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=GMTP}{%
+         family={Gilbert},
+         familyi={G\bibinitperiod},
+         given={M.\bibnamedelima Thomas\bibnamedelima P.},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+      {{hash=JC}{%
+         family={Jacomb},
+         familyi={J\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HRN}{%
+         family={Holdaway},
+         familyi={H\bibinitperiod},
+         given={Richard\bibnamedelima N.},
+         giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bunce},
+         familyi={B\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AME+1}
+    \strng{fullhash}{AMEHROCLLEDHMLGMTPJCHRNBM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1073/pnas.1314972111
+    \endverb
+    \field{number}{13}
+    \field{pages}{4922\bibrangedash 4927}
+    \field{title}{Extinct New Zealand Megafauna Were Not in Decline before
+  Human Colonization}
+    \verb{url}
+    \verb https://doi.org/10.1073/pnas.1314972111
+    \endverb
+    \field{volume}{111}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{aumann2008frequency}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AHH}{%
+         family={Aumann},
+         familyi={A\bibinitperiod},
+         given={Hartmut\bibnamedelima H.},
+         giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Ruzmaikin},
+         familyi={R\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Teixeira},
+         familyi={T\bibinitperiod},
+         given={Joao},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AHH+1}
+    \strng{fullhash}{AHHRATJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1029/2008GL034562
+    \endverb
+    \field{number}{19}
+    \field{title}{Frequency of Severe Storms and Global Warming}
+    \verb{url}
+    \verb https://doi.org/10.1029/2008GL034562
+    \endverb
+    \field{volume}{35}
+    \field{journaltitle}{Geophysical Research Letters}
+    \field{year}{2008}
+  \endentry
+
+  \entry{baker1995hekla}{article}{}
+    \name{author}{5}{}{%
+      {{hash=BA}{%
+         family={Baker},
+         familyi={B\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SPL}{%
+         family={Smart},
+         familyi={S\bibinitperiod},
+         given={Peter\bibnamedelima L.},
+         giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=BWL}{%
+         family={Barnes},
+         familyi={B\bibinitperiod},
+         given={W.\bibnamedelima L.},
+         giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=ERL}{%
+         family={Edwards},
+         familyi={E\bibinitperiod},
+         given={R.\bibnamedelima Lawrence},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Farrant},
+         familyi={F\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BA+1}
+    \strng{fullhash}{BASPLBWLERLFA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{number}{3}
+    \field{pages}{336}
+    \field{title}{The Hekla 3 Volcanic Eruption Recorded in a Scottish
+  Speleothem?}
+    \field{volume}{5}
+    \field{journaltitle}{The Holocene}
+    \field{year}{1995}
+  \endentry
+
+  \entry{ballhatchet2024akbar}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BK}{%
+         family={Ballhatchet},
+         familyi={B\bibinitperiod},
+         given={Kenneth},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BK1}
+    \strng{fullhash}{BK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{Encyclopaedia Britannica}
+    \field{title}{Akbar}
+    \verb{url}
+    \verb https://www.britannica.com/biography/Akbar
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{basri2020wealth}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BP}{%
+         family={Basri},
+         familyi={B\bibinitperiod},
+         given={Pertev},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lawrence},
+         familyi={L\bibinitperiod},
+         given={Dan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BPLD1}
+    \strng{fullhash}{BPLD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1017/S0959774320000177
+    \endverb
+    \field{number}{4}
+    \field{pages}{689\bibrangedash 704}
+    \field{title}{Wealth Inequality in the Ancient Near East: A Preliminary
+  Assessment Using Gini Coefficients and Household Size}
+    \verb{url}
+    \verb https://doi.org/10.1017/S0959774320000177
+    \endverb
+    \field{volume}{30}
+    \field{journaltitle}{Cambridge Archaeological Journal}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{bearak2022world}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=BM}{%
+         family={Bearak},
+         familyi={B\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PN}{%
+         family={Popovich},
+         familyi={P\bibinitperiod},
+         given={Nadja},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BMPN1}
+    \strng{fullhash}{BMPN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{The New York Times}
+    \field{title}{The World Is Falling Short of Its Climate Goals. Four Big
+  Emitters Show Why}
+    \verb{url}
+    \verb https://www.nytimes.com/interactive/2022/11/08/climate/cop27-emission
+    \verb s-country-compare.html
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{berger2006equatorial}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BA}{%
+         family={Berger},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LMF}{%
+         family={Loutre},
+         familyi={L\bibinitperiod},
+         given={M.\bibnamedelima F.},
+         giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=MJL}{%
+         family={Mélice},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BA+2}
+    \strng{fullhash}{BALMFMJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.5194/cp-2-131-2006
+    \endverb
+    \field{number}{2}
+    \field{pages}{131\bibrangedash 136}
+    \field{title}{Equatorial Insolation: From Precession Harmonics to
+  Eccentricity Frequencies}
+    \verb{url}
+    \verb https://doi.org/10.5194/cp-2-131-2006
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{Climate of the Past}
+    \field{year}{2006}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{blanton2020moral}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BRE}{%
+         family={Blanton},
+         familyi={B\bibinitperiod},
+         given={Richard\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=FGM}{%
+         family={Feinman},
+         familyi={F\bibinitperiod},
+         given={Gary\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=KSA}{%
+         family={Kowalewski},
+         familyi={K\bibinitperiod},
+         given={Stephen\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=FLF}{%
+         family={Fargher},
+         familyi={F\bibinitperiod},
+         given={Lane\bibnamedelima F.},
+         giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BRE+1}
+    \strng{fullhash}{BREFGMKSAFLF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.3389/fpos.2020.568704
+    \endverb
+    \field{title}{Moral Collapse and State Failure: A View From the Past}
+    \verb{url}
+    \verb https://doi.org/10.3389/fpos.2020.568704
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{Frontiers in Political Science}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{burton2020akhenaten}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BE}{%
+         family={Burton},
+         familyi={B\bibinitperiod},
+         given={Elizabeth},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BE1}
+    \strng{fullhash}{BE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{TheCollector}
+    \field{title}{Akhenaten: The Forgotten Pioneer of Atenism and Monotheism}
+    \verb{url}
+    \verb https://www.thecollector.com/akhenaten-monotheism/
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{carpenter1966discontinuity}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CR}{%
+         family={Carpenter},
+         familyi={C\bibinitperiod},
+         given={Rhys},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge U.P.}%
+    }
+    \strng{namehash}{CR1}
+    \strng{fullhash}{CR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{Discontinuity in Greek Civilization}
+    \verb{url}
+    \verb http://archive.org/details/discontinuitying0000carp
+    \endverb
+    \list{location}{1}{%
+      {Cambridge ; London}%
+    }
+    \field{year}{1966}
+  \endentry
+
+  \entry{ucar2021predictions}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{Center for Science Education}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{UCAR Center for Science Education}
+    \field{title}{Predictions of Future Global Climate}
+    \verb{url}
+    \verb https://scied.ucar.edu/learning-zone/climate-change-impacts/predictio
+    \verb ns-future-global-climate
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{chakraborty2021present}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CA}{%
+         family={Chakraborty},
+         familyi={C\bibinitperiod},
+         given={Anujit},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CA1}
+    \strng{fullhash}{CA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.3982/ECTA16467
+    \endverb
+    \field{number}{4}
+    \field{pages}{1921\bibrangedash 1961}
+    \field{title}{Present Bias}
+    \verb{url}
+    \verb https://doi.org/10.3982/ECTA16467
+    \endverb
+    \field{volume}{89}
+    \field{journaltitle}{Econometrica}
+    \field{year}{2021}
+  \endentry
+
+  \entry{cheung2020trump}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CH}{%
+         family={Cheung},
+         familyi={C\bibinitperiod},
+         given={Helier},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CH1}
+    \strng{fullhash}{CH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{BBC News}
+    \field{title}{What Does Trump Actually Believe on Climate Change?}
+    \verb{url}
+    \verb https://www.bbc.com/news/world-us-canada-51213003
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{chowdhury2022agricultural}{article}{}
+    \name{author}{6}{}{%
+      {{hash=CS}{%
+         family={Chowdhury},
+         familyi={C\bibinitperiod},
+         given={Shanjida},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Khan},
+         familyi={K\bibinitperiod},
+         given={Sunjida},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SMFH}{%
+         family={Sarker},
+         familyi={S\bibinitperiod},
+         given={Md\bibnamedelima Fouad\bibnamedelima Hossain},
+         giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  H\bibinitperiod},
+      }}%
+      {{hash=IMK}{%
+         family={Islam},
+         familyi={I\bibinitperiod},
+         given={Md\bibnamedelima Kabirul},
+         giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=TMA}{%
+         family={Tamal},
+         familyi={T\bibinitperiod},
+         given={Maruf\bibnamedelima Ahmed},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KNA}{%
+         family={Khan},
+         familyi={K\bibinitperiod},
+         given={Niaz\bibnamedelima Ahmed},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CS+1}
+    \strng{fullhash}{CSKSSMFHIMKTMAKNA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1016/j.heliyon.2022.e09750
+    \endverb
+    \field{number}{6}
+    \field{pages}{e09750}
+    \field{title}{Does Agricultural Ecology Cause Environmental Degradation?
+  Empirical Evidence from Bangladesh}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.heliyon.2022.e09750
+    \endverb
+    \field{volume}{8}
+    \field{journaltitle}{Heliyon}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{columbia2010angkor}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=C}{%
+         family={{Columbia Climate School}},
+         familyi={C\bibinitperiod},
+      }}%
+      {{hash=T}{%
+         family={{{The Earth Institute}}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CT1}
+    \strng{fullhash}{CT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{Columbia Climate School}
+    \field{title}{Did Climate Influence Angkor’s Collapse?}
+    \verb{url}
+    \verb https://www.earth.columbia.edu/articles/view/2661
+    \endverb
+    \field{year}{2010}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{cook2014drying}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CBI}{%
+         family={Cook},
+         familyi={C\bibinitperiod},
+         given={Benjamin\bibnamedelima I.},
+         giveni={B\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=SJE}{%
+         family={Smerdon},
+         familyi={S\bibinitperiod},
+         given={Jason\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Seager},
+         familyi={S\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Coats},
+         familyi={C\bibinitperiod},
+         given={Sloan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CBI+1}
+    \strng{fullhash}{CBISJESRCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1007/s00382-014-2075-y
+    \endverb
+    \field{number}{9}
+    \field{pages}{2607\bibrangedash 2627}
+    \field{title}{Global Warming and 21st Century Drying}
+    \verb{url}
+    \verb https://doi.org/10.1007/s00382-014-2075-y
+    \endverb
+    \field{volume}{43}
+    \field{journaltitle}{Climate Dynamics}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{dai2011drought}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DA}{%
+         family={Dai},
+         familyi={D\bibinitperiod},
+         given={Aiguo},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DA1}
+    \strng{fullhash}{DA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1002/wcc.81
+    \endverb
+    \field{number}{1}
+    \field{pages}{45\bibrangedash 65}
+    \field{title}{Drought under Global Warming: A Review}
+    \verb{url}
+    \verb https://doi.org/10.1002/wcc.81
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{WIREs Climate Change}
+    \field{year}{2011}
+  \endentry
+
+  \entry{diamond2005collapse}{book}{}
+    \name{author}{1}{}{%
+      {{hash=DJ}{%
+         family={Diamond},
+         familyi={D\bibinitperiod},
+         given={Jared},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Penguin}%
+    }
+    \strng{namehash}{DJ1}
+    \strng{fullhash}{DJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Collapse: How Societies Choose to Fail or Succeed}
+    \field{year}{2005}
+  \endentry
+
+  \entry{diamond2017youtube}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DJ}{%
+         family={Diamond},
+         familyi={D\bibinitperiod},
+         given={Jared},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJ1}
+    \strng{fullhash}{DJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{howpublished}{YouTube video}
+    \field{title}{Collapse: How Societies Choose to Fail or Succeed}
+    \verb{url}
+    \verb https://www.youtube.com/watch?v=KYegWOTFqGI
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{diamond1994ecological}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DJ}{%
+         family={Diamond},
+         familyi={D\bibinitperiod},
+         given={Jared},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJ1}
+    \strng{fullhash}{DJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{3}
+    \field{pages}{363\bibrangedash 370}
+    \field{title}{Ecological Collapses of Past Civilizations}
+    \field{volume}{138}
+    \field{journaltitle}{Proceedings of the American Philosophical Society}
+    \field{year}{1994}
+  \endentry
+
+  \entry{diffenbaugh2021wildfire}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DNS}{%
+         family={Diffenbaugh},
+         familyi={D\bibinitperiod},
+         given={Noah\bibnamedelima S.},
+         giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=KAG}{%
+         family={Konings},
+         familyi={K\bibinitperiod},
+         given={Alexandra\bibnamedelima G.},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=FCB}{%
+         family={Field},
+         familyi={F\bibinitperiod},
+         given={Christopher\bibnamedelima B.},
+         giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DNS+1}
+    \strng{fullhash}{DNSKAGFCB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1073/pnas.2117876118
+    \endverb
+    \field{number}{46}
+    \field{pages}{e2117876118}
+    \field{title}{Atmospheric Variability Contributes to Increasing Wildfire
+  Weather but Not as Much as Global Warming}
+    \verb{url}
+    \verb https://doi.org/10.1073/pnas.2117876118
+    \endverb
+    \field{volume}{118}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{dourado2023beginner}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DE}{%
+         family={Dourado},
+         familyi={D\bibinitperiod},
+         given={Eli},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DE1}
+    \strng{fullhash}{DE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{title}{A Beginner’s Guide to Sociopolitical Collapse}
+    \verb{url}
+    \verb https://www.elidourado.com/p/collapse
+    \endverb
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ehrenpreis2022historical}{article}{}
+    \name{author}{2}{}{%
+      {{hash=EJE}{%
+         family={Ehrenpreis},
+         familyi={E\bibinitperiod},
+         given={Jamie\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=EED}{%
+         family={Ehrenpreis},
+         familyi={E\bibinitperiod},
+         given={Eli\bibnamedelima D.},
+         giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EJEEED1}
+    \strng{fullhash}{EJEEED1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1016/j.amjms.2022.01.005
+    \endverb
+    \field{number}{4}
+    \field{pages}{288\bibrangedash 294}
+    \field{title}{A Historical Perspective of Healthcare Disparity and
+  Infectious Disease in the Native American Population}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.amjms.2022.01.005
+    \endverb
+    \field{volume}{363}
+    \field{journaltitle}{The American Journal of the Medical Sciences}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{emamikhoyi2018mitogenomics}{article}{}
+    \name{author}{7}{}{%
+      {{hash=EKA}{%
+         family={Emami-Khoyi},
+         familyi={E\bibinithyphendelim K\bibinitperiod},
+         given={Arsalan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Paterson},
+         familyi={P\bibinitperiod},
+         given={Adrian},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Hartley},
+         familyi={H\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Boren},
+         familyi={B\bibinitperiod},
+         given={Laura},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={Cruickshank},
+         familyi={C\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ETA}{%
+         family={Else},
+         familyi={E\bibinitperiod},
+         given={Terry-Ann},
+         giveni={T\bibinithyphendelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EKA+1}
+    \strng{fullhash}{EKAPAHDBLCRRJETA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1080/24701394.2017.1325478
+    \endverb
+    \field{number}{4}
+    \field{pages}{567\bibrangedash 580}
+    \field{title}{Mitogenomics Data Reveal Effective Population Size,
+  Historical Bottlenecks, and the Effects of Hunting on New Zealand Fur Seals
+  (Arctocephalus forsteri)}
+    \verb{url}
+    \verb https://doi.org/10.1080/24701394.2017.1325478
+    \endverb
+    \field{volume}{29}
+    \field{journaltitle}{Mitochondrial DNA Part A: DNA Mapping, Sequencing, and
+  Analysis}
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{erskine2012companion}{book}{}
+    \name{author}{1}{}{%
+      {{hash=EA}{%
+         family={Erskine},
+         familyi={E\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
+    }
+    \strng{namehash}{EA1}
+    \strng{fullhash}{EA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \true{singletitle}
+    \field{title}{A Companion to Ancient History}
+    \field{year}{2012}
+  \endentry
+
+  \entry{fagan2010great}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FB}{%
+         family={Fagan},
+         familyi={F\bibinitperiod},
+         given={Brian},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Bloomsbury Publishing USA}%
+    }
+    \strng{namehash}{FB1}
+    \strng{fullhash}{FB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{title}{The Great Warming: Climate Change and the Rise and Fall of
+  Civilizations}
+    \field{year}{2010}
+  \endentry
+
+  \entry{gates2018shattuck}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=GB}{%
+         family={Gates},
+         familyi={G\bibinitperiod},
+         given={Bill},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GB1}
+    \strng{fullhash}{GB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{howpublished}{Bill \& Melinda Gates Foundation}
+    \field{title}{Shattuck Lecture Innovation for Pandemics}
+    \verb{url}
+    \verb https://www.gatesfoundation.org/ideas/speeches/2018/04/shattuck-lectu
+    \verb re-innovation-for-pandemics
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{gessen2018photo}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GM}{%
+         family={Gessen},
+         familyi={G\bibinitperiod},
+         given={Masha},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GM1}
+    \strng{fullhash}{GM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{title}{The Photo Book That Captured How the Soviet Regime Made the
+  Truth Disappear}
+    \verb{url}
+    \verb https://www.newyorker.com/culture/photo-booth/the-photo-book-that-cap
+    \verb tured-how-the-soviet-regime-made-the-truth-disappear
+    \endverb
+    \field{journaltitle}{The New Yorker}
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{gibbon1845decline}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GE}{%
+         family={Gibbon},
+         familyi={G\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Porter \& Coates}%
+    }
+    \strng{namehash}{GE1}
+    \strng{fullhash}{GE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{title}{The History of the Decline and Fall of the Roman Empire}
+    \list{location}{1}{%
+      {Philadelphia}%
+    }
+    \field{year}{1845}
+  \endentry
+
+  \entry{gill2007drought}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GRB}{%
+         family={Gill},
+         familyi={G\bibinitperiod},
+         given={Richardson\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=MPA}{%
+         family={Mayewski},
+         familyi={M\bibinitperiod},
+         given={Paul\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NJ}{%
+         family={Nyberg},
+         familyi={N\bibinitperiod},
+         given={Johan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HGH}{%
+         family={Haug},
+         familyi={H\bibinitperiod},
+         given={Gerald\bibnamedelima H.},
+         giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=PLC}{%
+         family={Peterson},
+         familyi={P\bibinitperiod},
+         given={Larry\bibnamedelima C.},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GRB+1}
+    \strng{fullhash}{GRBMPANJHGHPLC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1017/S0956536107000193
+    \endverb
+    \field{number}{2}
+    \field{pages}{283\bibrangedash 302}
+    \field{title}{Drought and the Maya Collapse}
+    \verb{url}
+    \verb https://doi.org/10.1017/S0956536107000193
+    \endverb
+    \field{volume}{18}
+    \field{journaltitle}{Ancient Mesoamerica}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{nasa2010globalwarming}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{howpublished}{NASA Earth Observatory}
+    \field{title}{Global Warming}
+    \verb{url}
+    \verb https://earthobservatory.nasa.gov/features/GlobalWarming/page3.php
+    \endverb
+    \field{year}{2010}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{goriounova2019genes}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GNA}{%
+         family={Goriounova},
+         familyi={G\bibinitperiod},
+         given={Natalia\bibnamedelima A.},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MHD}{%
+         family={Mansvelder},
+         familyi={M\bibinitperiod},
+         given={Huibert\bibnamedelima D.},
+         giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GNAMHD1}
+    \strng{fullhash}{GNAMHD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.3389/fnhum.2019.00044
+    \endverb
+    \field{pages}{44}
+    \field{title}{Genes, Cells and Brain Areas of Intelligence}
+    \verb{url}
+    \verb https://doi.org/10.3389/fnhum.2019.00044
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{Frontiers in Human Neuroscience}
+    \field{year}{2019}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{halpert2014elnino}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HM}{%
+         family={Halpert},
+         familyi={H\bibinitperiod},
+         given={Mike},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HM1}
+    \strng{fullhash}{HM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{howpublished}{NOAA Climate.gov}
+    \field{title}{United States El Ni{\~n}o Impacts}
+    \verb{url}
+    \verb http://www.climate.gov/news-features/blogs/enso/united-states-el-ni%C
+    \verb 3%B1o-impacts-0
+    \endverb
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{harris2013ancient}{book}{}
+    \name{editor}{1}{}{%
+      {{hash=HWV}{%
+         family={Harris},
+         familyi={H\bibinitperiod},
+         given={William\bibnamedelima V.},
+         giveni={W\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Brill}%
+    }
+    \strng{namehash}{HWV1}
+    \strng{fullhash}{HWV1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{title}{The Ancient Mediterranean Environment between Science and
+  History}
+    \verb{url}
+    \verb https://brill.com/edcollbook/title/24269
+    \endverb
+    \field{year}{2013}
+  \endentry
+
+  \entry{ipcc2014physical}{book}{}
+    \name{editor}{1}{}{%
+      {{hash=I}{%
+         family={{Intergovernmental Panel on Climate Change}},
+         familyi={I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{I1}
+    \strng{fullhash}{I1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \true{singletitle}
+    \field{title}{Climate Change 2013: The Physical Science Basis}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{jordan2022pollution}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=JR}{%
+         family={Jordan},
+         familyi={J\bibinitperiod},
+         given={Rob},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JR1}
+    \strng{fullhash}{JR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \true{singletitle}
+    \field{howpublished}{Stanford Report}
+    \field{title}{Pollution and Crops}
+    \verb{url}
+    \verb https://news.stanford.edu/stories/2022/06/pollution-and-crops
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{juling2023future}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JD}{%
+         family={Juling},
+         familyi={J\bibinitperiod},
+         given={Dominik},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JD1}
+    \strng{fullhash}{JD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.21140/mcuj.20231401005
+    \endverb
+    \field{number}{1}
+    \field{pages}{118\bibrangedash 143}
+    \field{title}{Future Bioterror and Biowarfare Threats for NATO’s Armed
+  Forces until 2030}
+    \verb{url}
+    \verb https://doi.org/10.21140/mcuj.20231401005
+    \endverb
+    \field{volume}{14}
+    \field{journaltitle}{Journal of Advanced Military Studies}
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{juurakko2021cold}{article}{}
+    \name{author}{3}{}{%
+      {{hash=JCL}{%
+         family={Juurakko},
+         familyi={J\bibinitperiod},
+         given={Collin\bibnamedelima L.},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=dGC}{%
+         family={diCenzo},
+         familyi={d\bibinitperiod},
+         given={George\bibnamedelima C.},
+         giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=WVK}{%
+         family={Walker},
+         familyi={W\bibinitperiod},
+         given={Virginia\bibnamedelima K.},
+         giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JCL+1}
+    \strng{fullhash}{JCLdGCWVK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1016/j.stress.2021.100028
+    \endverb
+    \field{pages}{100028}
+    \field{title}{Cold Acclimation and Prospects for Cold-Resilient Crops}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.stress.2021.100028
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{Plant Stress}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{kanter2009warming}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KJ}{%
+         family={Kanter},
+         familyi={K\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KJ1}
+    \strng{fullhash}{KJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{howpublished}{The New York Times (Opinion)}
+    \field{title}{Scientist: Warming Could Cut Population to 1 Billion}
+    \verb{url}
+    \verb https://archive.nytimes.com/dotearth.blogs.nytimes.com/2009/03/13/sci
+    \verb entist-warming-could-cut-population-to-1-billion/
+    \endverb
+    \field{year}{2009}
+  \endentry
+
+  \entry{kemp2019collapse}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KL}{%
+         family={Kemp},
+         familyi={K\bibinitperiod},
+         given={Luke},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KL1}
+    \strng{fullhash}{KL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{howpublished}{BBC Future}
+    \field{title}{Are We on the Road to Civilisation Collapse?}
+    \verb{url}
+    \verb https://www.bbc.com/future/article/20190218-are-we-on-the-road-to-civ
+    \verb ilisation-collapse
+    \endverb
+    \field{year}{2019}
+  \endentry
+
+  \entry{kemp2022endgame}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{7}{}{%
+      {{hash=KL}{%
+         family={Kemp},
+         familyi={K\bibinitperiod},
+         given={Luke},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=XC}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Chi},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Depledge},
+         familyi={D\bibinitperiod},
+         given={Joanna},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=EKL}{%
+         family={Ebi},
+         familyi={E\bibinitperiod},
+         given={Kristie\bibnamedelima L.},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=GG}{%
+         family={Gibbins},
+         familyi={G\bibinitperiod},
+         given={Goodwin},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=KTA}{%
+         family={Kohler},
+         familyi={K\bibinitperiod},
+         given={Timothy\bibnamedelima A.},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Rockstr{\"o}m},
+         familyi={R\bibinitperiod},
+         given={Johan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KL+1}
+    \strng{fullhash}{KLXCDJEKLGGKTARJ+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1073/pnas.2108146119
+    \endverb
+    \field{number}{34}
+    \field{pages}{e2108146119}
+    \field{title}{Climate Endgame: Exploring Catastrophic Climate Change
+  Scenarios}
+    \verb{url}
+    \verb https://doi.org/10.1073/pnas.2108146119
+    \endverb
+    \field{volume}{119}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{keyes2019ace}{article}{}
+    \name{author}{6}{}{%
+      {{hash=KAT}{%
+         family={Keyes},
+         familyi={K\bibinitperiod},
+         given={Amelia\bibnamedelima T.},
+         giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=LKF}{%
+         family={Lambert},
+         familyi={L\bibinitperiod},
+         given={Kathleen\bibnamedelima F.},
+         giveni={K\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Burtraw},
+         familyi={B\bibinitperiod},
+         given={Dallas},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BJJ}{%
+         family={Buonocore},
+         familyi={B\bibinitperiod},
+         given={Jonathan\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LJI}{%
+         family={Levy},
+         familyi={L\bibinitperiod},
+         given={Jonathan\bibnamedelima I.},
+         giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=DCT}{%
+         family={Driscoll},
+         familyi={D\bibinitperiod},
+         given={Charles\bibnamedelima T.},
+         giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KAT+1}
+    \strng{fullhash}{KATLKFBDBJJLJIDCT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1088/1748-9326/aafe25
+    \endverb
+    \field{number}{4}
+    \field{pages}{044018}
+    \field{title}{The Affordable Clean Energy Rule and the Impact of Emissions
+  Rebound on Carbon Dioxide and Criteria Air Pollutant Emissions}
+    \verb{url}
+    \verb https://doi.org/10.1088/1748-9326/aafe25
+    \endverb
+    \field{volume}{14}
+    \field{journaltitle}{Environmental Research Letters}
+    \field{year}{2019}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{lin2022fracking}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LSA}{%
+         family={Lin-Schweitzer},
+         familyi={L\bibinithyphendelim S\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LSA1}
+    \strng{fullhash}{LSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{howpublished}{Yale School of Public Health}
+    \field{title}{Integrated Effort Needed to Mitigate Fracking While
+  Protecting Both Humans and the Environment}
+    \verb{url}
+    \verb https://ysph.yale.edu/news-article/integrated-effort-needed-to-mitiga
+    \verb te-fracking-while-protecting-both-humans-and-the-environment/
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{lindsey2024globaltemp}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=LR}{%
+         family={Lindsey},
+         familyi={L\bibinitperiod},
+         given={Rebecca},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DL}{%
+         family={Dahlman},
+         familyi={D\bibinitperiod},
+         given={Luann},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRDL1}
+    \strng{fullhash}{LRDL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{howpublished}{NOAA Climate.gov}
+    \field{title}{Climate Change: Global Temperature}
+    \verb{url}
+    \verb http://www.climate.gov/news-features/understanding-climate/climate-ch
+    \verb ange-global-temperature
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{lockwood2010cold}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LM}{%
+         family={Lockwood},
+         familyi={L\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HRG}{%
+         family={Harrison},
+         familyi={H\bibinitperiod},
+         given={R.\bibnamedelima G.},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=WT}{%
+         family={Woollings},
+         familyi={W\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SSK}{%
+         family={Solanki},
+         familyi={S\bibinitperiod},
+         given={S.\bibnamedelima K.},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LM+1}
+    \strng{fullhash}{LMHRGWTSSK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1088/1748-9326/5/2/024001
+    \endverb
+    \field{number}{2}
+    \field{pages}{024001}
+    \field{title}{Are Cold Winters in Europe Associated with Low Solar
+  Activity?}
+    \verb{url}
+    \verb https://doi.org/10.1088/1748-9326/5/2/024001
+    \endverb
+    \field{volume}{5}
+    \field{journaltitle}{Environmental Research Letters}
+    \field{year}{2010}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{loury2016drought}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LR}{%
+         family={Loury},
+         familyi={L\bibinitperiod},
+         given={Romain},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LR1}
+    \strng{fullhash}{LR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{number}{183}
+    \field{pages}{8\bibrangedash 8}
+    \field{title}{DROUGHT: What next after El Ni{\~n}o? La Ni{\~n}a?}
+    \field{journaltitle}{Spore}
+    \field{year}{2016}
+  \endentry
+
+  \entry{manning2023hittite}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MSW}{%
+         family={Manning},
+         familyi={M\bibinitperiod},
+         given={Sturt\bibnamedelima W.},
+         giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Kocik},
+         familyi={K\bibinitperiod},
+         given={Cindy},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Lorentzen},
+         familyi={L\bibinitperiod},
+         given={Brita},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SJP}{%
+         family={Sparks},
+         familyi={S\bibinitperiod},
+         given={Jed\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MSW+1}
+    \strng{fullhash}{MSWKCLBSJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1038/s41586-022-05693-y
+    \endverb
+    \field{number}{7949}
+    \field{pages}{719\bibrangedash 724}
+    \field{title}{Severe Multi-Year Drought Coincident with Hittite Collapse
+  around 1198--1196 BC}
+    \verb{url}
+    \verb https://doi.org/10.1038/s41586-022-05693-y
+    \endverb
+    \field{volume}{614}
+    \field{journaltitle}{Nature}
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{mccormick2012climate}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{7}{}{%
+      {{hash=MM}{%
+         family={McCormick},
+         familyi={M\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BU}{%
+         family={B{\"u}ntgen},
+         familyi={B\bibinitperiod},
+         given={Ulf},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=CMA}{%
+         family={Cane},
+         familyi={C\bibinitperiod},
+         given={Mark\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CER}{%
+         family={Cook},
+         familyi={C\bibinitperiod},
+         given={Edward\bibnamedelima R.},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Harper},
+         familyi={H\bibinitperiod},
+         given={Kyle},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HPJ}{%
+         family={Huybers},
+         familyi={H\bibinitperiod},
+         given={Peter\bibnamedelima John},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Litt},
+         familyi={L\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MM+1}
+    \strng{fullhash}{MMBUCMACERHKHPJLT+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1162/JINH\_a\_00379
+    \endverb
+    \field{title}{Climate Change during and after the Roman Empire:
+  Reconstructing the Past from Scientific and Historical Evidence}
+    \verb{url}
+    \verb https://doi.org/10.1162/JINH_a_00379
+    \endverb
+    \field{journaltitle}{Journal of Interdisciplinary History}
+    \field{year}{2012}
+  \endentry
+
+  \entry{mckibben2021they}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=MB}{%
+         family={McKibben},
+         familyi={M\bibinitperiod},
+         given={Bill},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Speth},
+         familyi={S\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBSJ1}
+    \strng{fullhash}{MBSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{howpublished}{Yale E360}
+    \field{title}{They Knew: How the U.S. Government Helped Cause the Climate
+  Crisis}
+    \verb{url}
+    \verb https://e360.yale.edu/features/they-knew-how-the-u-s-government-helpe
+    \verb d-cause-the-climate-crisis
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{meehl2005howmuch}{article}{}
+    \name{author}{8}{}{%
+      {{hash=MGA}{%
+         family={Meehl},
+         familyi={M\bibinitperiod},
+         given={Gerald\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=WWM}{%
+         family={Washington},
+         familyi={W\bibinitperiod},
+         given={Warren\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CWD}{%
+         family={Collins},
+         familyi={C\bibinitperiod},
+         given={William\bibnamedelima D.},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=AJM}{%
+         family={Arblaster},
+         familyi={A\bibinitperiod},
+         given={Julie\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={Aixue},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BLE}{%
+         family={Buja},
+         familyi={B\bibinitperiod},
+         given={Lawrence\bibnamedelima E.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SWG}{%
+         family={Strand},
+         familyi={S\bibinitperiod},
+         given={Warren\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=TH}{%
+         family={Teng},
+         familyi={T\bibinitperiod},
+         given={Haiyan},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MGA+1}
+    \strng{fullhash}{MGAWWMCWDAJMHABLESWGTH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1126/science.1106663
+    \endverb
+    \field{number}{5716}
+    \field{pages}{1769\bibrangedash 1772}
+    \field{title}{How Much More Global Warming and Sea Level Rise?}
+    \verb{url}
+    \verb https://doi.org/10.1126/science.1106663
+    \endverb
+    \field{volume}{307}
+    \field{journaltitle}{Science}
+    \field{year}{2005}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{nasa2019sunrole}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={{NASA Science Editorial Team}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{howpublished}{NASA Science}
+    \field{title}{What Is the Sun’s Role in Climate Change?}
+    \verb{url}
+    \verb https://science.nasa.gov/earth/climate-change/what-is-the-suns-role-i
+    \verb n-climate-change/
+    \endverb
+    \field{year}{2019}
+  \endentry
+
+  \entry{nasa2020milankovitch}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={{NASA Science Editorial Team}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{howpublished}{NASA Science}
+    \field{title}{Why Milankovitch (Orbital) Cycles Can’t Explain Earth’s
+  Current Warming}
+    \verb{url}
+    \verb https://science.nasa.gov/science-research/earth-science/why-milankovi
+    \verb tch-orbital-cycles-cant-explain-earths-current-warming/
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{natgeo2007visual}{book}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={{National Geographic Society}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {National Geographic Books}%
+    }
+    \strng{namehash}{N2}
+    \strng{fullhash}{N2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \true{singletitle}
+    \field{title}{National Geographic Essential Visual History of the World}
+    \field{year}{2007}
+  \endentry
+
+  \entry{nationaltrust2024eastindia}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={{National Trust}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N3}
+    \strng{fullhash}{N3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \true{singletitle}
+    \field{howpublished}{National Trust}
+    \field{title}{What Was the East India Company?}
+    \verb{url}
+    \verb https://www.nationaltrust.org.uk/discover/history/what-was-the-east-i
+    \verb ndia-company
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{nevle2011neotropical}{article}{}
+    \name{author}{4}{}{%
+      {{hash=NR}{%
+         family={Nevle},
+         familyi={N\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bird},
+         familyi={B\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Ruddiman},
+         familyi={R\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={Dull},
+         familyi={D\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NR+1}
+    \strng{fullhash}{NRBDRWDR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1177/0959683611404578
+    \endverb
+    \field{pages}{853\bibrangedash 864}
+    \field{title}{Neotropical Human–Landscape Interactions, Fire, and
+  Atmospheric CO\textsubscript{2} during European Conquest}
+    \verb{url}
+    \verb https://doi.org/10.1177/0959683611404578
+    \endverb
+    \field{volume}{21}
+    \field{journaltitle}{The Holocene}
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{omer2024hunger}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=OS}{%
+         family={Omer},
+         familyi={O\bibinitperiod},
+         given={Sevil},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OS1}
+    \strng{fullhash}{OS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \true{singletitle}
+    \field{howpublished}{World Vision Blog}
+    \field{title}{Global Hunger: 7 Facts You Need to Know}
+    \verb{url}
+    \verb https://www.worldvision.org/hunger-news-stories/world-hunger-facts
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{paulson2015shorttermism}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PJH}{%
+         family={Paulson},
+         familyi={P\bibinitperiod},
+         suffix={Henry},
+         suffixi={H\bibinitperiod},
+         given={Jr.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PHJ1}
+    \strng{fullhash}{PHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \field{howpublished}{McKinsey \& Company}
+    \field{title}{Short-Termism and the Threat from Climate Change}
+    \verb{url}
+    \verb https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/
+    \verb our-insights/short-termism-and-the-threat-from-climate-change
+    \endverb
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{pearson2018thera}{article}{}
+    \name{author}{8}{}{%
+      {{hash=PCL}{%
+         family={Pearson},
+         familyi={P\bibinitperiod},
+         given={Charlotte\bibnamedelima L.},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=BPW}{%
+         family={Brewer},
+         familyi={B\bibinitperiod},
+         given={Peter\bibnamedelima W.},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HTJ}{%
+         family={Heaton},
+         familyi={H\bibinitperiod},
+         given={Timothy\bibnamedelima J.},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HGWL}{%
+         family={Hodgins},
+         familyi={H\bibinitperiod},
+         given={Gregory W.\bibnamedelima L.},
+         giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
+      }}%
+      {{hash=JAJT}{%
+         family={Jull},
+         familyi={J\bibinitperiod},
+         given={A.\bibnamedelima J.\bibnamedelima Timothy},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  T\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Lange},
+         familyi={L\bibinitperiod},
+         given={Todd},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SMW}{%
+         family={Salzer},
+         familyi={S\bibinitperiod},
+         given={Matthew\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PCL+1}
+    \strng{fullhash}{PCLBPWBDHTJHGWLJAJTLTSMW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1126/sciadv.aar8241
+    \endverb
+    \field{number}{8}
+    \field{pages}{eaar8241}
+    \field{title}{Annual Radiocarbon Record Indicates 16th Century BCE Date for
+  the Thera Eruption}
+    \verb{url}
+    \verb https://doi.org/10.1126/sciadv.aar8241
+    \endverb
+    \field{volume}{4}
+    \field{journaltitle}{Science Advances}
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{pletcher2010historyindia}{book}{}
+    \name{editor}{1}{}{%
+      {{hash=PK}{%
+         family={Pletcher},
+         familyi={P\bibinitperiod},
+         given={Kenneth},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Britannica Educational Publishing}%
+    }
+    \strng{namehash}{PK1}
+    \strng{fullhash}{PK1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \field{title}{The History of India}
+    \field{year}{2010}
+  \endentry
+
+  \entry{procopius1916vandalic}{book}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={Procopius},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \field{title}{History of the Wars, Books III and IV: The Vandalic War}
+    \verb{url}
+    \verb https://www.gutenberg.org/ebooks/16765/pg16765-images.html
+    \endverb
+    \field{year}{1916}
+  \endentry
+
+  \entry{ranganathan2018feed10billion}{misc}{}
+    \name{author}{4}{}{%
+      {{hash=RJ}{%
+         family={Ranganathan},
+         familyi={R\bibinitperiod},
+         given={Janet},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Waite},
+         familyi={W\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Searchinger},
+         familyi={S\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hanson},
+         familyi={H\bibinitperiod},
+         given={Craig},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJ+1}
+    \strng{fullhash}{RJWRSTHC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{howpublished}{World Resources Institute}
+    \field{title}{How to Sustainably Feed 10 Billion People by 2050, in 21
+  Charts}
+    \verb{url}
+    \verb https://www.wri.org/insights/how-sustainably-feed-10-billion-people-2
+    \verb 050-21-charts
+    \endverb
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{rawlence2017blackswans}{article}{}
+    \name{author}{6}{}{%
+      {{hash=RNJ}{%
+         family={Rawlence},
+         familyi={R\bibinitperiod},
+         given={Nicolas\bibnamedelima J.},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kardamaki},
+         familyi={K\bibinitperiod},
+         given={Afroditi},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ELJ}{%
+         family={Easton},
+         familyi={E\bibinitperiod},
+         given={Luke\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=TAJD}{%
+         family={Tennyson},
+         familyi={T\bibinitperiod},
+         given={Alan J.\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  D\bibinitperiod},
+      }}%
+      {{hash=SRP}{%
+         family={Scofield},
+         familyi={S\bibinitperiod},
+         given={R.\bibnamedelima Paul},
+         giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=WJM}{%
+         family={Waters},
+         familyi={W\bibinitperiod},
+         given={Jonathan\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RNJ+1}
+    \strng{fullhash}{RNJKAELJTAJDSRPWJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1098/rspb.2017.0876
+    \endverb
+    \field{number}{1859}
+    \field{pages}{20170876}
+    \field{title}{Ancient DNA and Morphometric Analysis Reveal Extinction and
+  Replacement of New Zealand’s Unique Black Swans}
+    \verb{url}
+    \verb https://doi.org/10.1098/rspb.2017.0876
+    \endverb
+    \field{volume}{284}
+    \field{journaltitle}{Proceedings of the Royal Society B: Biological
+  Sciences}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{rincon2014doggerland}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RP}{%
+         family={Rincon},
+         familyi={R\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RP1}
+    \strng{fullhash}{RP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{howpublished}{BBC News}
+    \field{title}{Prehistoric North Sea ‘Atlantis’ Hit by 5m Tsunami}
+    \verb{url}
+    \verb https://www.bbc.com/news/science-environment-27224243
+    \endverb
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{rolett2004deforestation}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RB}{%
+         family={Rolett},
+         familyi={R\bibinitperiod},
+         given={Barry},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Diamond},
+         familyi={D\bibinitperiod},
+         given={Jared},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RBDJ1}
+    \strng{fullhash}{RBDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1038/nature02801
+    \endverb
+    \field{number}{7007}
+    \field{pages}{443\bibrangedash 446}
+    \field{title}{Environmental Predictors of Pre-European Deforestation on
+  Pacific Islands}
+    \verb{url}
+    \verb https://doi.org/10.1038/nature02801
+    \endverb
+    \field{volume}{431}
+    \field{journaltitle}{Nature}
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{santos2015evolutionary}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SLR}{%
+         family={Santos},
+         familyi={S\bibinitperiod},
+         given={Laurie\bibnamedelima R.},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=RAG}{%
+         family={Rosati},
+         familyi={R\bibinitperiod},
+         given={Alexandra\bibnamedelima G.},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SLRRAG1}
+    \strng{fullhash}{SLRRAG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1146/annurev-psych-010814-015310
+    \endverb
+    \field{pages}{321\bibrangedash 347}
+    \field{title}{The Evolutionary Roots of Human Decision Making}
+    \verb{url}
+    \verb https://doi.org/10.1146/annurev-psych-010814-015310
+    \endverb
+    \field{volume}{66}
+    \field{journaltitle}{Annual Review of Psychology}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{scheidel2009size}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SW}{%
+         family={Scheidel},
+         familyi={S\bibinitperiod},
+         given={Walter},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=FSJ}{%
+         family={Friesen},
+         familyi={F\bibinitperiod},
+         given={Steven\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SWFSJ1}
+    \strng{fullhash}{SWFSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.3815/007543509789745223
+    \endverb
+    \field{pages}{61\bibrangedash 91}
+    \field{title}{The Size of the Economy and the Distribution of Income in the
+  Roman Empire}
+    \verb{url}
+    \verb https://doi.org/10.3815/007543509789745223
+    \endverb
+    \field{volume}{99}
+    \field{journaltitle}{The Journal of Roman Studies}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{shaftel2023vitalsigns}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SH}{%
+         family={Shaftel},
+         familyi={S\bibinitperiod},
+         given={Holly},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SH1}
+    \strng{fullhash}{SH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{NASA}
+    \field{title}{Climate Change: Vital Signs of the Planet}
+    \verb{url}
+    \verb https://climate.nasa.gov/what-is-climate-change.amp
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{simmons2024narcissistic}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SL}{%
+         family={Simmons},
+         familyi={S\bibinitperiod},
+         given={Lee},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SL1}
+    \strng{fullhash}{SL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{Stanford Graduate School of Business}
+    \field{title}{How Narcissistic Leaders Destroy from Within}
+    \verb{url}
+    \verb https://www.gsb.stanford.edu/insights/how-narcissistic-leaders-destro
+    \verb y-within
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{spyrou2018plague}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{7}{}{%
+      {{hash=SMA}{%
+         family={Spyrou},
+         familyi={S\bibinitperiod},
+         given={Maria\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=TRI}{%
+         family={Tukhbatova},
+         familyi={T\bibinitperiod},
+         given={Rezeda\bibnamedelima I.},
+         giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=WCC}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Chuan-Chao},
+         giveni={C\bibinithyphendelim C\bibinitperiod},
+      }}%
+      {{hash=AVA}{%
+         family={Andrades\bibnamedelima Valtue{\~n}a},
+         familyi={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+         given={Aida},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LAK}{%
+         family={Lankapalli},
+         familyi={L\bibinitperiod},
+         given={Aditya\bibnamedelima K.},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=KVV}{%
+         family={Kondrashin},
+         familyi={K\bibinitperiod},
+         given={Vitaly\bibnamedelima V.},
+         giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=TVA}{%
+         family={Tsybin},
+         familyi={T\bibinitperiod},
+         given={Victor\bibnamedelima A.},
+         giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SMA+1}
+    \strng{fullhash}{SMATRIWCCAVALAKKVVTVA+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1038/s41467-018-04550-9
+    \endverb
+    \field{number}{1}
+    \field{pages}{2234}
+    \field{title}{Analysis of 3800-Year-Old Yersinia Pestis Genomes Suggests
+  Bronze Age Origin for Bubonic Plague}
+    \verb{url}
+    \verb https://doi.org/10.1038/s41467-018-04550-9
+    \endverb
+    \field{volume}{9}
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{stein2010historyindia}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SB}{%
+         family={Stein},
+         familyi={S\bibinitperiod},
+         given={Burton},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
+    }
+    \strng{namehash}{SB1}
+    \strng{fullhash}{SB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{title}{A History of India}
+    \field{year}{2010}
+  \endentry
+
+  \entry{tainter1988collapse}{book}{}
+    \name{author}{1}{}{%
+      {{hash=TJ}{%
+         family={Tainter},
+         familyi={T\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{TJ1}
+    \strng{fullhash}{TJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{title}{The Collapse of Complex Societies}
+    \field{year}{1988}
+  \endentry
+
+  \entry{tainter2023lecture}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{howpublished}{YouTube video}
+    \field{title}{The Collapse of Complex Societies - Professor Joseph Tainter}
+    \verb{url}
+    \verb https://www.youtube.com/watch?v=X3LP5IMWe84
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{britannica2024majorian}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{The Editors of Encyclopaedia Britannica}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{howpublished}{Encyclopaedia Britannica}
+    \field{title}{Majorian}
+    \verb{url}
+    \verb https://www.britannica.com/biography/Majorian
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{un2022causes}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{United Nations}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{howpublished}{United Nations}
+    \field{title}{Causes and Effects of Climate Change}
+    \verb{url}
+    \verb https://www.un.org/en/climatechange/science/causes-effects-climate-ch
+    \verb ange
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{un2021biggestthreat}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{United Nations}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{howpublished}{United Nations Press}
+    \field{title}{Climate Change ‘Biggest Threat Modern Humans Have Ever
+  Faced’, World-Renowned Naturalist Tells Security Council, Calls for Greater
+  Global Cooperation}
+    \verb{url}
+    \verb https://press.un.org/en/2021/sc14445.doc.htm
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{epa2022airquality}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{US EPA, OAR}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U2}
+    \strng{fullhash}{U2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \field{howpublished}{Overviews and Factsheets}
+    \field{title}{Climate Change Impacts on Air Quality}
+    \verb{url}
+    \verb https://www.epa.gov/climateimpacts/climate-change-impacts-air-quality
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{vermeer2009sealevel}{article}{}
+    \name{author}{3}{}{%
+      {{hash=VM}{%
+         family={Vermeer},
+         familyi={V\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Rahmstorf},
+         familyi={R\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CWC}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={William\bibnamedelima C.},
+         giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VM+1}
+    \strng{fullhash}{VMRSCWC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \true{singletitle}
+    \field{number}{51}
+    \field{pages}{21527\bibrangedash 21532}
+    \field{title}{Global Sea Level Linked to Global Temperature}
+    \field{volume}{106}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2009}
+  \endentry
+
+  \entry{walter2017polynesian}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WR}{%
+         family={Walter},
+         familyi={W\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BH}{%
+         family={Buckley},
+         familyi={B\bibinitperiod},
+         given={Hallie},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=JC}{%
+         family={Jacomb},
+         familyi={J\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MSE}{%
+         family={Matisoo-Smith},
+         familyi={M\bibinithyphendelim S\bibinitperiod},
+         given={Elizabeth},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WR+1}
+    \strng{fullhash}{WRBHJCMSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1007/s10963-017-9110-y
+    \endverb
+    \field{number}{4}
+    \field{pages}{351\bibrangedash 376}
+    \field{title}{Mass Migration and the Polynesian Settlement of New Zealand}
+    \verb{url}
+    \verb https://doi.org/10.1007/s10963-017-9110-y
+    \endverb
+    \field{volume}{30}
+    \field{journaltitle}{Journal of World Prehistory}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{wanamaker2012amoc}{article}{}
+    \name{author}{7}{}{%
+      {{hash=WAD}{%
+         family={Wanamaker},
+         familyi={W\bibinitperiod},
+         given={Alan\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BPG}{%
+         family={Butler},
+         familyi={B\bibinitperiod},
+         given={Paul\bibnamedelima G.},
+         giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=SJD}{%
+         family={Scourse},
+         familyi={S\bibinitperiod},
+         given={James\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Heinemeier},
+         familyi={H\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Eir{\'i}ksson},
+         familyi={E\bibinitperiod},
+         given={J{\'o}n},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KKL}{%
+         family={Knudsen},
+         familyi={K\bibinitperiod},
+         given={Karen\bibnamedelima Luise},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RCA}{%
+         family={Richardson},
+         familyi={R\bibinitperiod},
+         given={Christopher\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WAD+1}
+    \strng{fullhash}{WADBPGSJDHJEJKKLRCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1038/ncomms1901
+    \endverb
+    \field{pages}{899}
+    \field{title}{Surface Changes in the North Atlantic Meridional Overturning
+  Circulation during the Last Millennium}
+    \verb{url}
+    \verb https://doi.org/10.1038/ncomms1901
+    \endverb
+    \field{volume}{3}
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{weisweiler2022inequality}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=WJ}{%
+         family={Weisweiler},
+         familyi={W\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJ1}
+    \strng{fullhash}{WJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1093/acrefore/9780199381135.013.8257
+    \endverb
+    \field{howpublished}{Oxford Classical Dictionary}
+    \field{title}{Inequality}
+    \verb{url}
+    \verb https://doi.org/10.1093/acrefore/9780199381135.013.8257
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{wilmshurst2007deforestation}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=WJ}{%
+         family={Wilmshurst},
+         familyi={W\bibinitperiod},
+         given={Janet},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJ2}
+    \strng{fullhash}{WJ2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{howpublished}{Ministry for Culture and Heritage Te Manat{\=u}
+  Taonga}
+    \field{title}{Pre-European Deforestation}
+    \verb{url}
+    \verb https://teara.govt.nz/en/human-effects-on-the-environment/page-2
+    \endverb
+    \field{year}{2007}
+  \endentry
+
+  \entry{wu2020genetic}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WM}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Min},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WJC}{%
+         family={Walser},
+         familyi={W\bibinitperiod},
+         given={Jean-Claude},
+         giveni={J\bibinithyphendelim C\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={K{\"o}lliker},
+         familyi={K\bibinitperiod},
+         given={Mathias},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WM+1}
+    \strng{fullhash}{WMWJCSLKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1126/sciadv.aaw0070
+    \endverb
+    \field{number}{1}
+    \field{pages}{eaaw0070}
+    \field{title}{The Genetic Mechanism of Selfishness and Altruism in
+  Parent-Offspring Coadaptation}
+    \verb{url}
+    \verb https://doi.org/10.1126/sciadv.aaw0070
+    \endverb
+    \field{volume}{6}
+    \field{journaltitle}{Science Advances}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{yurko1999end}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=YFJ}{%
+         family={Yurko},
+         familyi={Y\bibinitperiod},
+         given={F.\bibnamedelima J.},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=WEF}{%
+         family={Wente},
+         familyi={W\bibinitperiod},
+         given={Edward\bibnamedelima Frank},
+         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=TE}{%
+         family={Teeter},
+         familyi={T\bibinitperiod},
+         given={Emily},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LJA}{%
+         family={Larson},
+         familyi={L\bibinitperiod},
+         given={John\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oriental Institute of the University of Chicago}%
+    }
+    \strng{namehash}{YFJ1}
+    \strng{fullhash}{YFJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \true{singletitle}
+    \field{booktitle}{Gold of Praise: Studies on Ancient Egypt in Honor of
+  Edward F. Wente}
+    \field{number}{58}
+    \field{pages}{455\bibrangedash 463}
+    \field{series}{Studies in Ancient Oriental Civilization}
+    \field{title}{End of the Late Bronze Age and Other Crisis Periods: A
+  Volcanic Cause?}
+    \list{location}{1}{%
+      {Chicago, Ill}%
+    }
+    \field{year}{1999}
+  \endentry
+\enddatalist
+\endinput
