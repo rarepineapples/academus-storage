@@ -1,7 +1,11 @@
+% catch-all libraries
 
 \usepackage[margin=1in]{geometry}
+\usepackage{etoolbox}
 \usepackage{graphicx}
 \usepackage{tikz}
+\usetikzlibrary{calc}
+\usetikzlibrary{positioning}
 \usepackage{pgfplots}
 \pgfplotsset{compat=1.18}
 
@@ -9,7 +13,9 @@
 
 \usepackage[T1]{fontenc}
 \usepackage{xurl}
-\usepackage[colorlinks=true, urlcolor=blue, citecolor=black,hidelinks]{hyperref}
+\usepackage[linkcolor=blue, colorlinks=true, urlcolor=blue, citecolor=black]{hyperref}
+
+% makes ref not clickable
 
 \makeatletter
 \renewcommand\hyper@natanchorstart[1]{} 
@@ -35,6 +41,9 @@
 \addbibresource{refs/tickets}
 \addbibresource{refs/washington}
 
+% stop prepending automatically
+\DeclareFieldFormat{url}{\url{#1}}
+
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -51,26 +60,30 @@
 % Header: right, italic: "Book Name <page>"
 \fancyhead[RO]{\itshape Academus Philosophy Journal\quad\thepage}
 % Footer: right, italic: "iss. 1 2025"
-\fancyfoot[RO]{\itshape iss. 2\quad 2025}
+\fancyfoot[RO]{\itshape iss. \jissue\quad \jyear}
 
 % --- Even pages (left-hand pages) ---
 % Header: left, italic: "<page> <chapter title>"
 \fancyhead[LE]{\itshape \thepage\ \quad\nouppercase{\leftmark}}
 % Footer: left, italic: "iss. 1 2025"
-\fancyfoot[LE]{\itshape iss. 2 \quad2025}
+\fancyfoot[LE]{\itshape iss. \jissue \quad \jyear}
 
 % Optional: rules
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
 % --- Ensure chapter opening pages (which use 'plain' style by default)
-%     also use the same fancy layout ---
+
+
+% also use the same fancy layout, now with a doi ---
 \fancypagestyle{plain}{%
   \fancyhf{}
   \fancyhead[RO]{\itshape Academus Philosophy Journal\quad\thepage}
   \fancyhead[LE]{\itshape \thepage\ \quad \nouppercase{\leftmark}}
-  \fancyfoot[RO]{\itshape iss. 2 \quad2025}
-  \fancyfoot[LE]{\itshape iss. 2 \quad2025}
+  \fancyfoot[RO]{\itshape iss. \jissue \quad\jyear}
+  \fancyfoot[LO]{\ifdefempty{\doi}{}{\textsc{doi}:\ \url{\doi}}}
+  \fancyfoot[LE]{\itshape iss. \jissue \quad\jyear}
+  \fancyfoot[RE]{\ifdefempty{\doi}{}{\textsc{doi}:\ \url{\doi}}}
   \renewcommand{\headrulewidth}{0pt}
   \renewcommand{\footrulewidth}{0pt}
 }
@@ -83,9 +96,13 @@
 \titleformat{\chapter}[block]{\centering\LARGE\scshape}{}{0pt}{}
 \titlespacing{\chapter}{0pt}{30pt}{0pt}
 
-% makechapter command
+% makechapter command & doi
 
-\newcommand{\makechapter}[4]{
+\newcommand{\doi}{}
+\newcommand{\setdoi}[1]{\gdef\doi{#1}}
+
+\newcommand{\makechapter}[5]{
+  \setdoi{#5}
   \chapter[#1]{#2}
   \bigskip
    {\centering\noindent\scshape#3\par}

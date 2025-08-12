@@ -1,4 +1,4 @@
-\contentsline {chapter}{Editor's Note}{i}{chapter*.1}%
+\contentsline {chapter}{Editor's Note}{ii}{chapter*.1}%
 \contentsline {chapter}{\numberline {1}A Binary Theory of Collapse}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Binary Theory of Collapse}{1}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Anthropological Factors}{1}{subsection.1.1.1}%
@@ -16,4 +16,4 @@
 \contentsline {chapter}{\numberline {8}Balancing Free Speech and Fair Elections}{39}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Introduction}{39}{section.8.1}%
 \contentsline {section}{\numberline {8.2}History}{39}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Campaign Finance Post \emph {Citizens United} Ruling}{40}{section.8.3}%
+\contentsline {section}{\numberline {8.3}Campaign Finance Post \emph {Citizens United} Ruling}{41}{section.8.3}%

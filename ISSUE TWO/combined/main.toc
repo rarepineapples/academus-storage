@@ -1,4 +1,4 @@
-\contentsline {chapter}{Editor's Note}{i}{chapter*.1}%
+\contentsline {chapter}{Editor's Note}{ii}{chapter*.1}%
 \contentsline {chapter}{\numberline {1}Ranked Choice Voting's Electoral Reform}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Literature Review}{2}{section.1.2}%

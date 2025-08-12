@@ -1,6 +1,6 @@
 # Fdb version 4
-["bibtex main"] 1754954235.20542 "main.aux" "main.bbl" "main" 1754954240.01401 0
-  "./main-blx.bib" 1754954236.2539 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+["bibtex main"] 1754979086.06221 "main.aux" "main.bbl" "main" 1754979321.20897 0
+  "./main-blx.bib" 1754979317.52998 342 2dbb6e07439b0a5db817a74b892f0d17 ""
   "./refs/american.bib" 1753935660.89764 4691 9513e55f5b7b18e79d609f9eeb016f01 ""
   "./refs/asymmetry.bib" 1754350625.06141 11836 5f929b911c35a8e7261e63d8dad9430e ""
   "./refs/farm.bib" 1754538402.43997 4908 6a5216335d1086f06f51e93373fb719b ""
@@ -10,85 +10,87 @@
   "./refs/tickets.bib" 1754541950.79053 3749 706a663d5d7aabee368a56ac7035012e ""
   "./refs/washington.bib" 1754537626.69145 4160 7330533f2912d60abfc560b1f1eeb4a3 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main.aux" 1754954237.83343 42423 98da1f82ac5f19625233f186317462c8 "pdflatex"
+  "main.aux" 1754979319.01193 42424 1c6e512067332759d098270b089277bd "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["bibtex main1-blx"] 1754818591.97482 "main1-blx.aux" "main1-blx.bbl" "main1-blx" 1754954240.01395 0
-  "./main-blx.bib" 1754954236.2539 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+["bibtex main1-blx"] 1754818591.97482 "main1-blx.aux" "main1-blx.bbl" "main1-blx" 1754979321.20892 0
+  "./main-blx.bib" 1754979317.52998 342 2dbb6e07439b0a5db817a74b892f0d17 ""
   "./refs/rcv.bib" 1753933015.58767 9915 b84fa751a5e0efea56e9b301e1c4c1c5 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main1-blx.aux" 1754954236.56628 740 8f72fe72d68a17638bc91b3d6ec088c3 "pdflatex"
+  "main1-blx.aux" 1754979317.82541 740 8f72fe72d68a17638bc91b3d6ec088c3 "pdflatex"
   (generated)
   "main1-blx.bbl"
   "main1-blx.blg"
   (rewritten before read)
-["bibtex main2-blx"] 1754873634.2784 "main2-blx.aux" "main2-blx.bbl" "main2-blx" 1754954240.01389 0
-  "./main-blx.bib" 1754954236.2539 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+["bibtex main2-blx"] 1754873634.2784 "main2-blx.aux" "main2-blx.bbl" "main2-blx" 1754979321.20887 0
+  "./main-blx.bib" 1754979317.52998 342 2dbb6e07439b0a5db817a74b892f0d17 ""
   "./refs/american.bib" 1753935660.89764 4691 9513e55f5b7b18e79d609f9eeb016f01 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main2-blx.aux" 1754954236.75824 1138 4e2bdfc692110c7ce94cab9299858eac "pdflatex"
+  "main2-blx.aux" 1754979318.01225 1138 4e2bdfc692110c7ce94cab9299858eac "pdflatex"
   (generated)
   "main2-blx.bbl"
   "main2-blx.blg"
   (rewritten before read)
-["bibtex main3-blx"] 1754873634.20723 "main3-blx.aux" "main3-blx.bbl" "main3-blx" 1754954240.01383 0
-  "./main-blx.bib" 1754954236.2539 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+["bibtex main3-blx"] 1754873634.20723 "main3-blx.aux" "main3-blx.bbl" "main3-blx" 1754979321.20881 0
+  "./main-blx.bib" 1754979317.52998 342 2dbb6e07439b0a5db817a74b892f0d17 ""
   "./refs/moralint.bib" 1754672652.85948 12154 0a37550902b72f7d4692427bda4e708a ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main3-blx.aux" 1754954237.11682 1860 07f56805d491d1051ea199d4e9582226 "pdflatex"
+  "main3-blx.aux" 1754979318.34599 1860 07f56805d491d1051ea199d4e9582226 "pdflatex"
   (generated)
   "main3-blx.bbl"
   "main3-blx.blg"
   (rewritten before read)
-["bibtex main4-blx"] 1754873634.13899 "main4-blx.aux" "main4-blx.bbl" "main4-blx" 1754954240.01377 0
-  "./main-blx.bib" 1754954236.2539 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+["bibtex main4-blx"] 1754873634.13899 "main4-blx.aux" "main4-blx.bbl" "main4-blx" 1754979321.20876 0
+  "./main-blx.bib" 1754979317.52998 342 2dbb6e07439b0a5db817a74b892f0d17 ""
   "./refs/farm.bib" 1754538402.43997 4908 6a5216335d1086f06f51e93373fb719b ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main4-blx.aux" 1754954237.1822 327 81a26f4cc02f78edbd3572163a818f70 "pdflatex"
+  "main4-blx.aux" 1754979318.41221 327 81a26f4cc02f78edbd3572163a818f70 "pdflatex"
   (generated)
   "main4-blx.bbl"
   "main4-blx.blg"
   (rewritten before read)
-["bibtex main5-blx"] 1754873634.06739 "main5-blx.aux" "main5-blx.bbl" "main5-blx" 1754954240.01371 0
-  "./main-blx.bib" 1754954236.2539 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+["bibtex main5-blx"] 1754873634.06739 "main5-blx.aux" "main5-blx.bbl" "main5-blx" 1754979321.20871 0
+  "./main-blx.bib" 1754979317.52998 342 2dbb6e07439b0a5db817a74b892f0d17 ""
   "./refs/asymmetry.bib" 1754350625.06141 11836 5f929b911c35a8e7261e63d8dad9430e ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main5-blx.aux" 1754954237.52142 1582 5221b318fa69cfb014411c7bf402f3cf "pdflatex"
+  "main5-blx.aux" 1754979318.72646 1582 5221b318fa69cfb014411c7bf402f3cf "pdflatex"
   (generated)
   "main5-blx.bbl"
   "main5-blx.blg"
   (rewritten before read)
-["bibtex main6-blx"] 1754873634.0001 "main6-blx.aux" "main6-blx.bbl" "main6-blx" 1754954240.01366 0
-  "./main-blx.bib" 1754954236.2539 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+["bibtex main6-blx"] 1754873634.0001 "main6-blx.aux" "main6-blx.bbl" "main6-blx" 1754979321.20866 0
+  "./main-blx.bib" 1754979317.52998 342 2dbb6e07439b0a5db817a74b892f0d17 ""
   "./refs/rejection.bib" 1753936122.80477 4025 56e9d4db1370ce6cd94c7bfac09dce7c ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main6-blx.aux" 1754954237.5862 332 4f1dd40c2dc79d9ca2923efd28ca916b "pdflatex"
+  "main6-blx.aux" 1754979318.78574 332 4f1dd40c2dc79d9ca2923efd28ca916b "pdflatex"
   (generated)
   "main6-blx.bbl"
   "main6-blx.blg"
   (rewritten before read)
-["bibtex main7-blx"] 1754873633.93202 "main7-blx.aux" "main7-blx.bbl" "main7-blx" 1754954240.0136 0
-  "./main-blx.bib" 1754954236.2539 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+["bibtex main7-blx"] 1754873633.93202 "main7-blx.aux" "main7-blx.bbl" "main7-blx" 1754979321.2086 0
+  "./main-blx.bib" 1754979317.52998 342 2dbb6e07439b0a5db817a74b892f0d17 ""
   "./refs/washington.bib" 1754537626.69145 4160 7330533f2912d60abfc560b1f1eeb4a3 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main7-blx.aux" 1754954237.76972 1053 e6b89d682684a45e0941c418e7047485 "pdflatex"
+  "main7-blx.aux" 1754979318.95379 1053 e6b89d682684a45e0941c418e7047485 "pdflatex"
   (generated)
   "main7-blx.bbl"
   "main7-blx.blg"
   (rewritten before read)
-["bibtex main8-blx"] 1754873633.8642 "main8-blx.aux" "main8-blx.bbl" "main8-blx" 1754954240.01347 0
-  "./main-blx.bib" 1754954236.2539 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+["bibtex main8-blx"] 1754873633.8642 "main8-blx.aux" "main8-blx.bbl" "main8-blx" 1754979321.20846 0
+  "./main-blx.bib" 1754979317.52998 342 2dbb6e07439b0a5db817a74b892f0d17 ""
   "./refs/tickets.bib" 1754541950.79053 3749 706a663d5d7aabee368a56ac7035012e ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main8-blx.aux" 1754954237.82754 330 24a1f573b8162fb483e1382b26c65c34 "pdflatex"
+  "main8-blx.aux" 1754979319.0061 330 24a1f573b8162fb483e1382b26c65c34 "pdflatex"
   (generated)
   "main8-blx.bbl"
   "main8-blx.blg"
   (rewritten before read)
-["pdflatex"] 1754954235.28126 "main.tex" "main.pdf" "main" 1754954240.01416 0
+["pdflatex"] 1754979316.51888 "main.tex" "main.pdf" "main" 1754979321.20912 0
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc" 1593726333 2906 e61ee539f72040515b8ad56a2123a2e2 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_dejuay.enc" 1593726333 3468 93e41a270f0caf09a496cd6a6afc40ac ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_g53n3i.enc" 1593726333 3291 2ba24908314abf560869392ff5b578b7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_ivhnor.enc" 1593726333 2908 5132b10db74281cae0e8816be7d1f21e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc" 1593726333 2915 a82682c1efed9ed1ef6281f80d9dfa31 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_oiqgfb.enc" 1593726333 3230 ca593a990d5abdb352b4bf0c48ef1c58 ""
@@ -107,10 +109,14 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Bold-tlf-t1.tfm" 1593379312 22388 dd76306199648f518d87e498d0dcd0e8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Italic-tlf-t1--base.tfm" 1593379312 2032 6a288b718c26718501c16530e3c75803 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Italic-tlf-t1.tfm" 1593379312 15124 1149048633e10a67cf4ed54798258f20 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Italic-tlf-ts1--base.tfm" 1593726333 1556 86db9f0af7ac0ae52569fcb607c25b47 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Italic-tlf-ts1.tfm" 1593726333 1560 e5a98d56be29b1272971859f0373c735 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-sc-t1--base.tfm" 1593379312 1636 1f839dc6fdbd70cd58717c6bb0187f55 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-sc-t1.tfm" 1593379312 27072 80a042bfc1ad7132b5f0b32306ef214a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-t1--base.tfm" 1593379312 1684 ab0a899f6b80cbe4a3e093eb1e3a4e1a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-t1.tfm" 1593379312 22608 5ab84fc7e98df2a12c13e73be95d86f5 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-ts1--base.tfm" 1593726333 1532 f3ba2d7ff303c4e572d6ddff093e0549 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fbb/fbb-Regular-tlf-ts1.tfm" 1593726333 1536 d91c6a556f99492c075a761fcef9be3a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1248133631 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
@@ -121,8 +127,10 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb" 1593726333 179175 e668ce76b0322ee38e4f0e384f4e27ec ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/public/fbb/fbb-Bold-tlf-t1.vf" 1593379312 1724 067cad2bbcf2b395d0477e29d35e2ad2 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/public/fbb/fbb-Italic-tlf-t1.vf" 1593379312 1724 e193fd6ba7b28503aed824d34a506899 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/vf/public/fbb/fbb-Italic-tlf-ts1.vf" 1593726333 672 2d84334e10d6e18aa1e036fdbddbb981 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/public/fbb/fbb-Regular-tlf-sc-t1.vf" 1593379312 1800 0c2c584c73a0ff5f0ac59c16f5f37cd2 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/public/fbb/fbb-Regular-tlf-t1.vf" 1593379312 1728 80e04a687820375b4c7265e91f6702b6 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/vf/public/fbb/fbb-Regular-tlf-ts1.vf" 1593726333 908 a2ddaa1e5156ca91910f17cfa8712684 ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
@@ -155,10 +163,12 @@
   "/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex" 1601326656 35249 abd4adf948f960299a4b3d27c5dddf46 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex" 1673816307 22012 81b34a0aa8fa1a6158cc6220b00e4f10 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex" 1601326656 8893 e851de2175338fdf7c17f3e091d94618 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex" 1601326656 15929 463535aa2c4268fead6674a75c0e8266 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex" 1673816307 5628 dc0ee4ba7f3e40acae5600067ce833de ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex" 1601326656 321 cdd11262840e01e25374a2d458f15e99 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex" 1601326656 1319 0b2de5126c6cbc295f0eb77f7344b34d ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex" 1601326656 325 36322b0789619b270aec5993d5a9ed08 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex" 1601326656 3937 3f208572dd82c71103831da976d74f1a ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex" 1608933718 11518 738408f795261b70ce8dd47459171309 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex" 1673816307 186782 af500404a9edec4d362912fe762ded92 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex" 1601326656 8843 5533436db3e30fbad1e0440db6027dac ""
@@ -265,12 +275,14 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1668028059 18450 88279bf67c81e69f8e3f1c1bad1a26c5 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/fbb/T1fbb-TLF.fd" 1593726333 2422 5d081395e4cc3be9be0676e0014b1899 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/fbb/TS1fbb-TLF.fd" 1440451832 1045 0311ec82b3c1c9a79a34a6eba6199131 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/fbb/fbb.sty" 1593726333 5981 700618c52f5379c480455fca9892ff4a ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/fontaxes/fontaxes.sty" 1595539507 14310 41fdb35c51be792ddf00696848d0cfef ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1465944070 1224 978390e9c2234eab29404bc21b268d1e ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def" 1663965824 19448 1e988b341dda20961a6b931bcde55519 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty" 1654720880 7233 e46ce9241d2b2ca2a78155475fdd557a ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty" 1654720880 18387 8f900a490197ebaf93c02ae9476d4b09 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty" 1654720880 8010 a8d949cbdbc5c983593827c9eec252e1 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty" 1654720880 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
@@ -319,37 +331,37 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1738795163.40996 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1738795148 8221440 5e78c95eba245aeb45dc540d47de3ce0 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "format.sty" 1754954208.39447 2518 3800adf4364cdf3e8845f1d0e8456eb7 ""
-  "main.aux" 1754954237.83343 42423 98da1f82ac5f19625233f186317462c8 "pdflatex"
-  "main.bbl" 1754954235.27864 512 242e9db92557ac81f6b30ce4f9334513 "bibtex main"
-  "main.out" 1754954237.83928 1908 1e8a3d792565ce0dff7d99395825a6c5 "pdflatex"
-  "main.run.xml" 1754954237.86623 8969 6b9223057e94ed44ff16c1764cca0350 "pdflatex"
-  "main.tex" 1754954229.8222 1389 20ab6231012213ca204baed410985389 ""
-  "main.toc" 1754954237.86628 2677 cef54f8b94b14348c0b8ed2d3c99208b "pdflatex"
-  "main1-blx.aux" 1754954236.56628 740 8f72fe72d68a17638bc91b3d6ec088c3 "pdflatex"
+  "format.sty" 1754978596.31382 2971 f15e2244bb572c3b2b95b1af01b1a6fb ""
+  "main.aux" 1754979319.01193 42424 1c6e512067332759d098270b089277bd "pdflatex"
+  "main.bbl" 1754979086.19025 512 242e9db92557ac81f6b30ce4f9334513 "bibtex main"
+  "main.out" 1754979319.01799 1908 1e8a3d792565ce0dff7d99395825a6c5 "pdflatex"
+  "main.run.xml" 1754979319.04217 8969 6b9223057e94ed44ff16c1764cca0350 "pdflatex"
+  "main.tex" 1754979315.85775 5595 485ea8d5fc82e4bd8ed99c47387ae327 ""
+  "main.toc" 1754979319.04221 2678 8594d0ab80a65ab48324ac5426a8b501 "pdflatex"
+  "main1-blx.aux" 1754979317.82541 740 8f72fe72d68a17638bc91b3d6ec088c3 "pdflatex"
   "main1-blx.bbl" 1754818592.04476 23278 bd6c0b5034b2d0eaa54bd426ea329b3d "bibtex main1-blx"
-  "main2-blx.aux" 1754954236.75824 1138 4e2bdfc692110c7ce94cab9299858eac "pdflatex"
+  "main2-blx.aux" 1754979318.01225 1138 4e2bdfc692110c7ce94cab9299858eac "pdflatex"
   "main2-blx.bbl" 1754873634.34445 10993 a15e7ec437cde7dc83404b29c5037150 "bibtex main2-blx"
-  "main3-blx.aux" 1754954237.11682 1860 07f56805d491d1051ea199d4e9582226 "pdflatex"
+  "main3-blx.aux" 1754979318.34599 1860 07f56805d491d1051ea199d4e9582226 "pdflatex"
   "main3-blx.bbl" 1754873634.27773 32467 518a487ef53ceb0935e5326e3d236348 "bibtex main3-blx"
-  "main4-blx.aux" 1754954237.1822 327 81a26f4cc02f78edbd3572163a818f70 "pdflatex"
+  "main4-blx.aux" 1754979318.41221 327 81a26f4cc02f78edbd3572163a818f70 "pdflatex"
   "main4-blx.bbl" 1754873634.20657 11573 c6ed094b7c0412dcea40f05e27cbf3b3 "bibtex main4-blx"
-  "main5-blx.aux" 1754954237.52142 1582 5221b318fa69cfb014411c7bf402f3cf "pdflatex"
+  "main5-blx.aux" 1754979318.72646 1582 5221b318fa69cfb014411c7bf402f3cf "pdflatex"
   "main5-blx.bbl" 1754873634.13832 30380 96eeca37146955c878d8a045c2087e19 "bibtex main5-blx"
-  "main6-blx.aux" 1754954237.5862 332 4f1dd40c2dc79d9ca2923efd28ca916b "pdflatex"
+  "main6-blx.aux" 1754979318.78574 332 4f1dd40c2dc79d9ca2923efd28ca916b "pdflatex"
   "main6-blx.bbl" 1754873634.06645 10043 f7bf2e6be9161504f9c96b844026a97a "bibtex main6-blx"
-  "main7-blx.aux" 1754954237.76972 1053 e6b89d682684a45e0941c418e7047485 "pdflatex"
+  "main7-blx.aux" 1754979318.95379 1053 e6b89d682684a45e0941c418e7047485 "pdflatex"
   "main7-blx.bbl" 1754873633.99935 11010 6c8c5ec6ac34c286e13f08706c243313 "bibtex main7-blx"
-  "main8-blx.aux" 1754954237.82754 330 24a1f573b8162fb483e1382b26c65c34 "pdflatex"
+  "main8-blx.aux" 1754979319.0061 330 24a1f573b8162fb483e1382b26c65c34 "pdflatex"
   "main8-blx.bbl" 1754873633.93105 8976 dfaa3689d882c3cc06d6a4a21e989f85 "bibtex main8-blx"
-  "source/american.tex" 1754809588.16009 17168 57ed43db0f48483b325468ce498c9875 ""
-  "source/asymmetry.tex" 1754801803.39569 18288 d318ac003df3444badacdbaebcdf2a9f ""
-  "source/farm.tex" 1754801660.75287 6938 fff4aa9b53421b1659b15d978f3e2e5a ""
-  "source/moral.tex" 1754809089.26799 16268 4b72c602fd0ed7776ee6f448704bc2ce ""
-  "source/rcv.tex" 1754801615.73905 42103 ce2f83ce91e05705b4b2d5e6227e8a34 ""
-  "source/rejection.tex" 1754801682.33608 7746 beba6b6c3c0bb7774bdb48414a7eb3eb ""
-  "source/tickets.tex" 1754809420.40045 7135 c09a46cbd91a6b9fbd9d46a9a37de467 ""
-  "source/washington.tex" 1754801692.54961 8370 86b7b97becfd6c9df52ce3e06c05e1a4 ""
+  "source/american.tex" 1754978978.66432 17190 c683aa68067b6331ea09932cb6d35290 ""
+  "source/asymmetry.tex" 1754979037.24618 18332 f12c7119db8138416d10956c0cca0b51 ""
+  "source/farm.tex" 1754978917.07965 6960 999184f62f29b4dafd812557a4f49b81 ""
+  "source/moral.tex" 1754978896.07232 16290 d954d456fde89bd5a82ec8a84933990e ""
+  "source/rcv.tex" 1754978861.509 42125 f10b1f61c7f45ab75432f45a599c45df ""
+  "source/rejection.tex" 1754979026.51426 7767 b537beed17c907b58573c3d822492bcc ""
+  "source/tickets.tex" 1754979073.79434 7157 13aba55847122c2722da8a297caef433 ""
+  "source/washington.tex" 1754979059.68785 8392 199bce8ff4830662ff5fb954f879ee73 ""
   (generated)
   "main-blx.bib"
   "main.aux"

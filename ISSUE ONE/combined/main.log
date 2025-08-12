@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  11 AUG 2025 16:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  11 AUG 2025 23:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -49,6 +49,10 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count266
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -111,14 +115,14 @@ tered.code.tex
 \pgf@yd=\dimen162
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count266
-\c@pgf@countb=\count267
-\c@pgf@countc=\count268
-\c@pgf@countd=\count269
+\c@pgf@counta=\count267
+\c@pgf@countb=\count268
+\c@pgf@countc=\count269
+\c@pgf@countd=\count270
 \t@pgf@toka=\toks23
 \t@pgf@tokb=\toks24
 \t@pgf@tokc=\toks25
-\pgf@sys@id@count=\count270
+\pgf@sys@id@count=\count271
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
@@ -136,8 +140,8 @@ File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count271
-\pgfsyssoftpath@bigbuffer@items=\count272
+\pgfsyssoftpath@smallbuffer@items=\count272
+\pgfsyssoftpath@bigbuffer@items=\count273
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -167,7 +171,7 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen163
-\pgfmath@count=\count273
+\pgfmath@count=\count274
 \pgfmath@box=\box52
 \pgfmath@toks=\toks26
 \pgfmath@stack@operand=\toks27
@@ -193,7 +197,7 @@ code.tex)
 erarithmetics.code.tex)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count274
+\c@pgfmathroundto@lastzeros=\count275
 )) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
@@ -231,7 +235,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box53
 \pgf@hbox=\box54
 \pgf@layerbox@main=\box55
-\pgf@picture@serial@count=\count275
+\pgf@picture@serial@count=\count276
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
@@ -266,8 +270,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 e.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen187
-\pgf@sys@shading@range@num=\count276
-\pgf@shadingcount=\count277
+\pgf@sys@shading@range@num=\count277
+\pgf@shadingcount=\count278
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -332,7 +336,7 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count278
+\pgf@plot@mark@count=\count279
 \pgfplotmarksize=\dimen192
 )
 \tikz@lastx=\dimen193
@@ -347,24 +351,32 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box59
 \tikz@tempbox=\box60
 \tikz@tempbox@bg=\box61
-\tikztreelevel=\count279
-\tikznumberofchildren=\count280
-\tikznumberofcurrentchild=\count281
-\tikz@fig@count=\count282
+\tikztreelevel=\count280
+\tikznumberofchildren=\count281
+\tikznumberofcurrentchild=\count282
+\tikz@fig@count=\count283
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count283
-\pgfmatrixcurrentcolumn=\count284
-\pgf@matrix@numberofcolumns=\count285
+\pgfmatrixcurrentrow=\count284
+\pgfmatrixcurrentcolumn=\count285
+\pgf@matrix@numberofcolumns=\count286
 )
-\tikz@expandcount=\count286
+\tikz@expandcount=\count287
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/pgfplots/pgfplots.sty
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
 Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
@@ -374,8 +386,8 @@ Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 \t@pgfplots@tokb=\toks32
 \t@pgfplots@tokc=\toks33
 \pgfplots@tmpa=\dimen257
-\c@pgfplots@coordindex=\count287
-\c@pgfplots@scanlineindex=\count288
+\c@pgfplots@coordindex=\count288
+\c@pgfplots@scanlineindex=\count289
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
 .code.tex))
@@ -400,13 +412,13 @@ liststructure.code.tex)
 liststructureext.code.tex)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
 array.code.tex
-\c@pgfplotsarray@tmp=\count289
+\c@pgfplotsarray@tmp=\count290
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
 matrix.code.tex)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
 shared.code.tex
-\c@pgfplotstable@counta=\count290
+\c@pgfplotstable@counta=\count291
 \t@pgfplotstable@a=\toks37
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
@@ -419,7 +431,7 @@ ta.code.tex))
 .code.tex)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
 s.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count291
+\c@pgfplotslibrarysurf@no=\count292
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
 .surfshading.pgfsys-pdftex.def)))
@@ -456,7 +468,7 @@ s.code.tex
 \pgfdecoratedinputsegmentcompleteddistance=\dimen260
 \pgfdecoratedinputsegmentremainingdistance=\dimen261
 \pgf@decorate@distancetomove=\dimen262
-\pgf@decorate@repeatstate=\count292
+\pgf@decorate@repeatstate=\count293
 \pgfdecorationsegmentamplitude=\dimen263
 \pgfdecorationsegmentlength=\dimen264
 )
@@ -472,7 +484,7 @@ s/tikzlibrarydecorations.pathreplacing.code.tex
 brarydecorations.pathreplacing.code.tex))
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplo
 ts.contourlua.code.tex)
-\pgfplots@numplots=\count293
+\pgfplots@numplots=\count294
 \pgfplots@xmin@reg=\dimen265
 \pgfplots@xmax@reg=\dimen266
 \pgfplots@ymin@reg=\dimen267
@@ -541,11 +553,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count294
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count295
+\c@section@level=\count295
 )
 \@linkdim=\dimen271
 \Hy@linkcounter=\count296
@@ -592,7 +600,7 @@ Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
 Package hyperref Info: backreferencing OFF on input line 6078.
-Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring ON on input line 6081.
 Package hyperref Info: Link coloring with OCG OFF on input line 6088.
 Package hyperref Info: PDF/A mode OFF on input line 6093.
 
@@ -1128,68 +1136,64 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidthlast=\dimen279
 \titlewidthfirst=\dimen280
 ))
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
 LaTeX Font Info:    Trying to load font information for T1+fbb-TLF on input lin
-e 6.
+e 8.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fbb/T1fbb-TLF.fd
 File: T1fbb-TLF.fd 2020/07/01 (msharpe) Font definitions for T1/fbb-TLF.
 )
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 6.
+(Font)              scaled to size 12.0pt on input line 8.
 \@quotelevel=\count439
 \@quotereset=\count440
- (./main.aux)
+
+
+LaTeX Warning: Unused global option(s):
+    [letter].
+
+(./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 6.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 6
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 8
 .
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/ly1/ly1ptm.fd
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    ... okay on input line 8.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=452.9679pt
-* \textheight=700.50687pt
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
 * \topmargin=-31.8738pt
@@ -1197,7 +1201,7 @@ LaTeX Font Info:    ... okay on input line 6.
 * \headsep=19.8738pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=88.0pt
+* \marginparwidth=98.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
@@ -1235,26 +1239,26 @@ e
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-Package hyperref Info: Link coloring OFF on input line 6.
+Package hyperref Info: Link coloring ON on input line 8.
 (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 \c@mv@tabular=\count447
 \c@mv@boldtabular=\count448
-LaTeX Info: Redefining \microtypecontext on input line 6.
-Package microtype Info: Applying patch `item' on input line 6.
-Package microtype Info: Applying patch `toc' on input line 6.
-Package microtype Info: Applying patch `eqnum' on input line 6.
-Package microtype Info: Applying patch `footnote' on input line 6.
-Package microtype Info: Applying patch `verbatim' on input line 6.
+LaTeX Info: Redefining \microtypecontext on input line 8.
+Package microtype Info: Applying patch `item' on input line 8.
+Package microtype Info: Applying patch `toc' on input line 8.
+Package microtype Info: Applying patch `eqnum' on input line 8.
+Package microtype Info: Applying patch `footnote' on input line 8.
+Package microtype Info: Applying patch `verbatim' on input line 8.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 6.
+LaTeX Info: Redefining \showhyphens on input line 8.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1809,14 +1813,21 @@ Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                - Invalid format of field 'month'.
 
 )
-Package biblatex Info: Reference section=0 on input line 6.
-Package biblatex Info: Reference segment=0 on input line 6.
-LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 10.
-LaTeX Font Info:    Font shape `T1/fbb-TLF/m/sc' will be
-(Font)              scaled to size 20.74pt on input line 10.
-LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
+Package biblatex Info: Reference section=0 on input line 8.
+Package biblatex Info: Reference segment=0 on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+fbb-TLF on input li
+ne 14.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/fbb/TS1fbb-TLF.fd
+File: TS1fbb-TLF.fd 2015/08/23 (autoinst) Font definitions for TS1/fbb-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/fbb-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 14.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fbb-TLF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 23.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1830,9 +1841,44 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ocal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc}
 
 
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc}{/usr/lo
+cal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_dejuay.enc}]
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 23.
+LaTeX Font Info:    Font shape `T1/fbb-TLF/m/sc' will be
+(Font)              scaled to size 20.74pt on input line 23.
 
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_oiqgfb.enc}{/usr/lo
-cal/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc}] (./main.toc
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2
+
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_oiqgfb.enc}]
+(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 49.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3] (./main.toc
 LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 1.
 )
@@ -1848,15 +1894,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2
+[4
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_ivhnor.enc}]
 \blx@maxsegment@1=\count449
 \blx@sectionciteorder@1=\count450
-Package biblatex Info: Reference section=1 on input line 18.
+Package biblatex Info: Reference section=1 on input line 61.
 \openout4 = `main1-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:1' on input line 18.
+Package biblatex Info: Setting label 'refsection:1' on input line 61.
 
 (./source/binary.tex
 Chapter 1.
@@ -1882,9 +1928,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1894,6 +1937,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
+Underfull \vbox (badness 1152) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1902,16 +1948,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3] (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 61.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 61.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 61.
+[3]
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 61.
 
@@ -1942,11 +1979,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-<lia_mwp-1.png, id=100, 910.602pt x 512.1534pt>
+<lia_mwp-1.png, id=110, 910.602pt x 512.1534pt>
 File: lia_mwp-1.png Graphic file (type png)
 <use lia_mwp-1.png>
 Package pdftex.def Info: lia_mwp-1.png  used on input line 123.
-(pdftex.def)             Requested size: 407.66833pt x 229.28685pt.
+(pdftex.def)             Requested size: 422.77664pt x 237.78157pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1957,11 +1994,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [7 <./lia_mwp-1.png (PNG copy)>]
-<pnas.2108146119fig03.jpg, id=106, 243.7908pt x 340.03035pt>
+<pnas.2108146119fig03.jpg, id=116, 243.7908pt x 340.03035pt>
 File: pnas.2108146119fig03.jpg Graphic file (type jpg)
 <use pnas.2108146119fig03.jpg>
 Package pdftex.def Info: pnas.2108146119fig03.jpg  used on input line 131.
-(pdftex.def)             Requested size: 407.66833pt x 568.61655pt.
+(pdftex.def)             Requested size: 281.85587pt x 393.13318pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1972,10 +2009,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [8 <./pnas.2108146119fig03.jpg>])
-Overfull \hbox (39.99527pt too wide) in paragraph at lines 21--21
+Overfull \hbox (23.20815pt too wide) in paragraph at lines 64--64
 []\T1/fbb-TLF/m/n/12 (-20) Chakraborty, Anu-jit. ``Present Bias''. \T1/fbb-TLF/
 m/it/12 (-20) Econo-met-rica\T1/fbb-TLF/m/n/12 (-20) , vol. 89, no. 4, 2021, pp
-. 1921^^U61. https://doi.org/[]$10 .
+. 1921^^U61. https://doi.org/[][]$10 .
  []
 
 
@@ -1996,12 +2033,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [10]
-Overfull \hbox (9.31631pt too wide) in paragraph at lines 21--21
-\T1/fbb-TLF/m/n/12 (-20) 2030''. \T1/fbb-TLF/m/it/12 (-20) Jour-nal of Ad-vance
-d Mil-i-tary Stud-ies\T1/fbb-TLF/m/n/12 (-20) , vol. 14, no. 1, 2023, pp. 118^^
-U43. https://doi.org/[]$10 .
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2011,10 +2042,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11]
-Overfull \hbox (13.01102pt too wide) in paragraph at lines 21--21
-\T1/fbb-TLF/m/n/12 (-20) CO$[]$ dur-ing Eu-ro-pean Con-quest''. \T1/fbb-TLF/m/i
-t/12 (-20) The Holocene\T1/fbb-TLF/m/n/12 (-20) , vol. 21, 2011, pp. 853^^U64. 
-https://doi.org/[]$10 .
+Overfull \hbox (5.77391pt too wide) in paragraph at lines 64--64
+\T1/fbb-TLF/m/n/12 (-20) https://doi.org/[][]$10 . 3815 / 007543509789745223$[]
+[], [][]$https : / / doi . org / 10 . 3815 / 007543509789745223$[][]. 
  []
 
 
@@ -2026,13 +2056,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12]
-Package biblatex Info: Reference section=0 on input line 22.
+Package biblatex Info: Reference section=0 on input line 65.
 \blx@maxsegment@2=\count451
 \blx@sectionciteorder@2=\count452
-Package biblatex Info: Reference section=2 on input line 24.
+Package biblatex Info: Reference section=2 on input line 67.
 \openout4 = `main2-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:2' on input line 24.
+Package biblatex Info: Setting label 'refsection:2' on input line 67.
  (./source/evaluating.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2044,6 +2074,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [13]
 Chapter 2.
+
+Overfull \hbox (0.46pt too wide) in paragraph at lines 3--4
+[]\T1/fbb-TLF/m/n/12 (-20) In re-cent decades, fake news^^Vwhether spread in-te
+n-tion-ally or un-in-ten-tion-ally^^Vhas emerged
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2064,21 +2100,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
-Overfull \hbox (3.30016pt too wide) in paragraph at lines 28--28
-[]\T1/fbb-TLF/m/n/12 (-20) Demographic Trends and China's Long-Term Growth Pros
-pects. []$https : / / www . federalreserve .
+Overfull \hbox (0.16pt too wide) in paragraph at lines 71--71
+\T1/fbb-TLF/m/n/12 (+19) org / en / News / Articles / 2024 / 02 / 02 / cf -[] c
+hinas -[] real -[] estate -[] sector -[] managing -[] the -[] medium -[]
  []
 
 
-Overfull \hbox (0.12263pt too wide) in paragraph at lines 28--28
-\T1/fbb-TLF/m/n/12 (+12) text = Overall % 20the % 20trade % 20war % 20has ,[] h
-ave % 20since % 20recovered % 20only %
+Overfull \hbox (6.34247pt too wide) in paragraph at lines 71--71
+[]\T1/fbb-TLF/m/n/12 (-20) Diminishing re-turns on real es-tate threaten Chi-ne
+se eco-nomic growth. 2023. [][]$https : / / eastasiaforum .
  []
 
 
-Overfull \hbox (25.3337pt too wide) in paragraph at lines 28--28
-[]\T1/fbb-TLF/m/n/12 (-20) One Child Pol-icy and Sav-ings. []$https : / / econo
-mics . yale . edu / sites / default / ^^\les / tahamaclunch100214 _
+Overfull \hbox (8.54657pt too wide) in paragraph at lines 71--71
+[]\T1/fbb-TLF/m/n/12 (-20) One Child Pol-icy and Sav-ings. [][]$https : / / eco
+nomics . yale . edu / sites / default / ^^\les / tahamaclunch100214 _
  []
 
 
@@ -2090,13 +2126,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [16]
-Package biblatex Info: Reference section=0 on input line 29.
+Package biblatex Info: Reference section=0 on input line 72.
 \blx@maxsegment@3=\count453
 \blx@sectionciteorder@3=\count454
-Package biblatex Info: Reference section=3 on input line 31.
+Package biblatex Info: Reference section=3 on input line 74.
 \openout4 = `main3-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:3' on input line 31.
+Package biblatex Info: Setting label 'refsection:3' on input line 74.
  (./source/critique.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2119,11 +2155,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [18
 
 ])
-Overfull \hbox (0.12004pt too wide) in paragraph at lines 34--34
-\T1/fbb-TLF/m/n/12 (+13) www . goodwinlaw . com / en / insights / blogs / 2024 
-/ 06 / college -[] board -[] settles -[] for -[] 750000 -[]
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2133,18 +2164,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [19]
-Overfull \hbox (3.37848pt too wide) in paragraph at lines 34--34
-[]\T1/fbb-TLF/m/n/12 (-20) White, Scott. ``Is The Col-lege Board Truly A Non-pr
-ofit Or A $1.6 Bil-lion Test-ing Monopoly?''
+Overfull \hbox (2.62538pt too wide) in paragraph at lines 77--77
+[]\T1/fbb-TLF/m/n/12 (-20) Riley, Naomi. ``The Rot-ting of the Col-lege Board''
+. \T1/fbb-TLF/m/it/12 (-20) Com-men-tary\T1/fbb-TLF/m/n/12 (-20) , 2024. [][]$h
+ttps : / / www . commentary .
  []
 
-Package biblatex Info: Reference section=0 on input line 35.
+Package biblatex Info: Reference section=0 on input line 78.
 \blx@maxsegment@4=\count455
 \blx@sectionciteorder@4=\count456
-Package biblatex Info: Reference section=4 on input line 37.
+Package biblatex Info: Reference section=4 on input line 80.
 \openout4 = `main4-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:4' on input line 37.
+Package biblatex Info: Setting label 'refsection:4' on input line 80.
 (./source/fertility.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2185,16 +2217,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [23]
-<fredgraph.png, id=441, 781.92125pt x 466.74374pt>
+<fredgraph.png, id=445, 781.92125pt x 466.74374pt>
 File: fredgraph.png Graphic file (type png)
 <use fredgraph.png>
 Package pdftex.def Info: fredgraph.png  used on input line 29.
-(pdftex.def)             Requested size: 271.7835pt x 162.23036pt.
-<top-600.jpg, id=445, 1204.5pt x 1407.2575pt>
+(pdftex.def)             Requested size: 281.85587pt x 168.24127pt.
+<top-600.jpg, id=449, 1204.5pt x 1407.2575pt>
 File: top-600.jpg Graphic file (type jpg)
 <use top-600.jpg>
 Package pdftex.def Info: top-600.jpg  used on input line 36.
-(pdftex.def)             Requested size: 226.48395pt x 264.59021pt.
+(pdftex.def)             Requested size: 234.8775pt x 274.40337pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2217,13 +2249,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [25 <./top-600.jpg>]
-Package biblatex Info: Reference section=0 on input line 41.
+Package biblatex Info: Reference section=0 on input line 84.
 \blx@maxsegment@5=\count457
 \blx@sectionciteorder@5=\count458
-Package biblatex Info: Reference section=5 on input line 43.
+Package biblatex Info: Reference section=5 on input line 86.
 \openout4 = `main5-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:5' on input line 43.
+Package biblatex Info: Setting label 'refsection:5' on input line 86.
  (./source/racism.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2246,9 +2278,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [27
 
 ]
-Underfull \vbox (badness 4291) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2258,9 +2287,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [28]
-Underfull \vbox (badness 4291) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2279,13 +2305,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
-Package biblatex Info: Reference section=0 on input line 47.
+Package biblatex Info: Reference section=0 on input line 90.
 \blx@maxsegment@6=\count459
 \blx@sectionciteorder@6=\count460
-Package biblatex Info: Reference section=6 on input line 49.
+Package biblatex Info: Reference section=6 on input line 92.
 \openout4 = `main6-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:6' on input line 49.
+Package biblatex Info: Setting label 'refsection:6' on input line 92.
  (./source/china.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2317,9 +2343,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [33]
-Overfull \hbox (11.56357pt too wide) in paragraph at lines 52--52
-[]\T1/fbb-TLF/m/n/12 (-20) Diminishing Re-turns on Real Es-tate Threaten Chi-ne
-se Eco-nomic Growth. []$https : / / eastasiaforum .
+Overfull \hbox (0.64409pt too wide) in paragraph at lines 95--95
+[]\T1/fbb-TLF/m/n/12 (-20) Jiang, Quan-bao, et al. ``China's Pop-u-la-tion Pol-
+icy at the Cross-roads: So-cial Im-pacts and Prospects''.
  []
 
 
@@ -2331,19 +2357,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [34]
-Overfull \hbox (34.41397pt too wide) in paragraph at lines 52--52
-[]$\T1/fbb-TLF/m/n/12 (-20) https : / / apnews . com / article / china -[] trad
-e -[] exports -[] imports -[] b25c21299101d2483f946a0ce264662f$[]. 
- []
-
-Package biblatex Info: Reference section=0 on input line 53.
+Package biblatex Info: Reference section=0 on input line 96.
 \blx@maxsegment@7=\count461
 \blx@sectionciteorder@7=\count462
-Package biblatex Info: Reference section=7 on input line 55.
+Package biblatex Info: Reference section=7 on input line 98.
 \openout4 = `main7-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:7' on input line 55.
-(./source/humility.tex
+Package biblatex Info: Setting label 'refsection:7' on input line 98.
+ (./source/humility.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2374,13 +2395,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [37])
-Package biblatex Info: Reference section=0 on input line 59.
+Package biblatex Info: Reference section=0 on input line 102.
 \blx@maxsegment@8=\count463
 \blx@sectionciteorder@8=\count464
-Package biblatex Info: Reference section=8 on input line 61.
+Package biblatex Info: Reference section=8 on input line 104.
 \openout4 = `main8-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:8' on input line 61.
+Package biblatex Info: Setting label 'refsection:8' on input line 104.
  (./source/campaign.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2406,6 +2427,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Font Info:    Font shape `T1/fbb-TLF/b/it' will be
 (Font)              scaled to size 17.28pt on input line 16.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2415,6 +2439,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [40]
+Underfull \vbox (badness 1024) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2424,9 +2451,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [41]
-Underfull \vbox (badness 1270) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2436,9 +2460,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [42]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2457,8 +2478,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [44]
-Package biblatex Info: Reference section=0 on input line 65.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2467,7 +2486,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[45] (./main.aux)
+[45]
+Overfull \hbox (17.51213pt too wide) in paragraph at lines 107--107
+[]\T1/fbb-TLF/m/n/12 (-20) Vandewalker, Ian. Do Small Donors Cause Po-lit-i-cal
+ Dys-func-tion? 2024. [][]$https : / / www . brennancenter .
+ []
+
+
+Overfull \hbox (0.45789pt too wide) in paragraph at lines 107--107
+\T1/fbb-TLF/m/it/12 (-20) of Pub-lic Ad-min-is-tra-tion Re-search and The-ory\T
+1/fbb-TLF/m/n/12 (-20) , vol. 21, no. 4, 2011, pp. 761^^U78. https://doi.org/[]
+[]$10 .
+ []
+
+Package biblatex Info: Reference section=0 on input line 108.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[46] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -2479,22 +2520,22 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42985 strings out of 474116
- 999079 string characters out of 5743683
- 1979187 words of memory out of 5000000
- 64334 multiletter control sequences out of 15000+600000
- 667029 words of font info for 253 fonts, out of 8000000 for 9000
+ 43033 strings out of 474116
+ 1000020 string characters out of 5743683
+ 1980187 words of memory out of 5000000
+ 64369 multiletter control sequences out of 15000+600000
+ 667363 words of font info for 256 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,107p,4413b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,13n,107p,4413b,2739s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Bold.pfb></usr/
 local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-BoldItalic.pfb></usr/l
 ocal/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></usr/local/
 texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb>
-Output written on main.pdf (47 pages, 1773680 bytes).
+Output written on main.pdf (50 pages, 1781153 bytes).
 PDF statistics:
- 815 PDF objects out of 1000 (max. 8388607)
- 739 compressed objects within 8 object streams
- 73 named destinations out of 1000 (max. 500000)
- 46697 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 826 PDF objects out of 1000 (max. 8388607)
+ 746 compressed objects within 8 object streams
+ 76 named destinations out of 1000 (max. 500000)
+ 50793 words of extra memory for PDF output out of 51595 (max. 10000000)
 
