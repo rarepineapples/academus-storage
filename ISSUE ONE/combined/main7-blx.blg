@@ -22,44 +22,44 @@ Database file #2: refs/humility.bib
 Biblatex version: 3.19
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 13 entries,
+You've used 3 entries,
             6399 wiz_defined-function locations,
-            1275 strings with 11067 characters,
-and the built_in function-call counts, 76080 in all, are:
-= -- 4051
-> -- 4144
-< -- 459
-+ -- 4129
-- -- 3143
-* -- 4444
-:= -- 9018
+            1221 strings with 9363 characters,
+and the built_in function-call counts, 16379 in all, are:
+= -- 1255
+> -- 268
+< -- 82
++ -- 421
+- -- 82
+* -- 1058
+:= -- 1885
 add.period$ -- 0
-call.type$ -- 13
-change.case$ -- 114
-chr.to.int$ -- 331
-cite$ -- 24
-duplicate$ -- 7197
-empty$ -- 6424
-format.name$ -- 567
-if$ -- 13434
+call.type$ -- 3
+change.case$ -- 59
+chr.to.int$ -- 42
+cite$ -- 4
+duplicate$ -- 1597
+empty$ -- 1461
+format.name$ -- 122
+if$ -- 3392
 int.to.chr$ -- 0
-int.to.str$ -- 22
+int.to.str$ -- 8
 missing$ -- 0
-newline$ -- 356
-num.names$ -- 410
-pop$ -- 4074
+newline$ -- 96
+num.names$ -- 127
+pop$ -- 739
 preamble$ -- 1
-purify$ -- 139
+purify$ -- 65
 quote$ -- 0
-skip$ -- 2044
+skip$ -- 510
 stack$ -- 0
-substring$ -- 7487
-swap$ -- 1919
-text.length$ -- 418
-text.prefix$ -- 12
+substring$ -- 2242
+swap$ -- 354
+text.length$ -- 69
+text.prefix$ -- 2
 top$ -- 1
-type$ -- 430
+type$ -- 90
 warning$ -- 0
-while$ -- 931
+while$ -- 250
 width$ -- 0
-write$ -- 344
+write$ -- 94

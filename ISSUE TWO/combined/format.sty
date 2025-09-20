@@ -58,14 +58,14 @@
 
 % --- Odd pages (right-hand pages) ---
 % Header: right, italic: "Book Name <page>"
-\fancyhead[RO]{\itshape Academus Philosophy Journal\quad\thepage}
-% Footer: right, italic: "iss. 1 2025"
+\fancyhead[RO]{\itshape Academus Journal\quad\thepage}
+% Footer: right, italic: "iss. 2 2025"
 \fancyfoot[RO]{\itshape iss. \jissue\quad \jyear}
 
 % --- Even pages (left-hand pages) ---
 % Header: left, italic: "<page> <chapter title>"
 \fancyhead[LE]{\itshape \thepage\ \quad\nouppercase{\leftmark}}
-% Footer: left, italic: "iss. 1 2025"
+% Footer: left, italic: "iss. 2 2025"
 \fancyfoot[LE]{\itshape iss. \jissue \quad \jyear}
 
 % Optional: rules
@@ -78,7 +78,7 @@
 % also use the same fancy layout, now with a doi ---
 \fancypagestyle{plain}{%
   \fancyhf{}
-  \fancyhead[RO]{\itshape Academus Philosophy Journal\quad\thepage}
+  \fancyhead[RO]{\itshape Academus Journal\quad\thepage}
   \fancyhead[LE]{\itshape \thepage\ \quad \nouppercase{\leftmark}}
   \fancyfoot[RO]{\itshape iss. \jissue \quad\jyear}
   \fancyfoot[LO]{\ifdefempty{\doi}{}{\textsc{doi}:\ \url{\doi}}}
