@@ -1,6 +1,6 @@
 # Fdb version 4
-["bibtex main"] 0 "main.aux" "main.bbl" "main" 1758410834.25405 0
-  "./main-blx.bib" 1758410830.35496 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+["bibtex main"] 0 "main.aux" "main.bbl" "main" 1760295062.37133 0
+  "./main-blx.bib" 1760295058.76488 342 2dbb6e07439b0a5db817a74b892f0d17 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
   "main.aux" 0 -1 0 "pdflatex"
   "refs/american.bib" 0 -1 0 ""
@@ -15,79 +15,79 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["bibtex main1-blx"] 1754975301.09538 "main1-blx.aux" "main1-blx.bbl" "main1-blx" 1758410834.25398 0
-  "./main-blx.bib" 1758410830.35496 342 2dbb6e07439b0a5db817a74b892f0d17 ""
-  "./refs/binary.bib" 1758408288.56679 31468 a1ef4e37e16b3a9f45cd110c5c889003 ""
+["bibtex main1-blx"] 1754975301.09538 "main1-blx.aux" "main1-blx.bbl" "main1-blx" 1760295062.37127 0
+  "./main-blx.bib" 1760295058.76488 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+  "./refs/binary.bib" 1760292526.26904 31468 a1ef4e37e16b3a9f45cd110c5c889003 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main1-blx.aux" 1758410831.06843 2701 5b24f1ae9e9a3478e4d0d15e1b682d36 "pdflatex"
+  "main1-blx.aux" 1760295059.40462 2701 5b24f1ae9e9a3478e4d0d15e1b682d36 "pdflatex"
   (generated)
   "main1-blx.bbl"
   "main1-blx.blg"
   (rewritten before read)
-["bibtex main2-blx"] 1754975301.0274 "main2-blx.aux" "main2-blx.bbl" "main2-blx" 1758410834.25393 0
-  "./main-blx.bib" 1758410830.35496 342 2dbb6e07439b0a5db817a74b892f0d17 ""
-  "./refs/evaluating.bib" 1758408288.56744 8071 89c2b5f8fc9d70677d752ffac8ddfd4e ""
+["bibtex main2-blx"] 1754975301.0274 "main2-blx.aux" "main2-blx.bbl" "main2-blx" 1760295062.37121 0
+  "./main-blx.bib" 1760295058.76488 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+  "./refs/evaluating.bib" 1760292526.2696 8071 89c2b5f8fc9d70677d752ffac8ddfd4e ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main2-blx.aux" 1758410831.16895 333 208bc7409d3a20820971e474ed1c0471 "pdflatex"
+  "main2-blx.aux" 1760295059.49683 333 208bc7409d3a20820971e474ed1c0471 "pdflatex"
   (generated)
   "main2-blx.bbl"
   "main2-blx.blg"
   (rewritten before read)
-["bibtex main3-blx"] 1754975300.96014 "main3-blx.aux" "main3-blx.bbl" "main3-blx" 1758410834.25387 0
-  "./main-blx.bib" 1758410830.35496 342 2dbb6e07439b0a5db817a74b892f0d17 ""
-  "./refs/critique.bib" 1758408288.56705 4770 cb8b784c821905c691d41a231e7eb043 ""
+["bibtex main3-blx"] 1754975300.96014 "main3-blx.aux" "main3-blx.bbl" "main3-blx" 1760295062.37116 0
+  "./main-blx.bib" 1760295058.76488 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+  "./refs/critique.bib" 1760292526.26953 4770 cb8b784c821905c691d41a231e7eb043 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main3-blx.aux" 1758410831.25438 431 7c3fe5d7ee05ca033cf4b5c9d213c312 "pdflatex"
+  "main3-blx.aux" 1760295059.58555 431 7c3fe5d7ee05ca033cf4b5c9d213c312 "pdflatex"
   (generated)
   "main3-blx.bbl"
   "main3-blx.blg"
   (rewritten before read)
-["bibtex main4-blx"] 1754975300.88964 "main4-blx.aux" "main4-blx.bbl" "main4-blx" 1758410834.25381 0
-  "./main-blx.bib" 1758410830.35496 342 2dbb6e07439b0a5db817a74b892f0d17 ""
-  "./refs/fertility.bib" 1758408288.56752 7446 8b29f30f45dda0bce0b1ef0955d8b19b ""
+["bibtex main4-blx"] 1754975300.88964 "main4-blx.aux" "main4-blx.bbl" "main4-blx" 1760295062.3711 0
+  "./main-blx.bib" 1760295058.76488 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+  "./refs/fertility.bib" 1760292526.27004 7446 8b29f30f45dda0bce0b1ef0955d8b19b ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main4-blx.aux" 1758410831.48569 1106 836e30a4d3e222e0995318e165311abd "pdflatex"
+  "main4-blx.aux" 1760295059.8082 1106 836e30a4d3e222e0995318e165311abd "pdflatex"
   (generated)
   "main4-blx.bbl"
   "main4-blx.blg"
   (rewritten before read)
-["bibtex main5-blx"] 1754975300.82304 "main5-blx.aux" "main5-blx.bbl" "main5-blx" 1758410834.25375 0
-  "./main-blx.bib" 1758410830.35496 342 2dbb6e07439b0a5db817a74b892f0d17 ""
-  "./refs/racism.bib" 1758408288.56766 4025 56e9d4db1370ce6cd94c7bfac09dce7c ""
+["bibtex main5-blx"] 1754975300.82304 "main5-blx.aux" "main5-blx.bbl" "main5-blx" 1760295062.37105 0
+  "./main-blx.bib" 1760295058.76488 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+  "./refs/racism.bib" 1760292526.27051 4025 56e9d4db1370ce6cd94c7bfac09dce7c ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main5-blx.aux" 1758410831.60781 443 b0804157ae1b888a9affe75447995934 "pdflatex"
+  "main5-blx.aux" 1760295059.90173 443 b0804157ae1b888a9affe75447995934 "pdflatex"
   (generated)
   "main5-blx.bbl"
   "main5-blx.blg"
   (rewritten before read)
-["bibtex main6-blx"] 1754975300.75363 "main6-blx.aux" "main6-blx.bbl" "main6-blx" 1758410834.2537 2
-  "./main-blx.bib" 1758410830.35496 342 2dbb6e07439b0a5db817a74b892f0d17 ""
-  "./refs/china.bib" 1758408288.56698 10432 7730d649866b22e92aadbccccf49d94d ""
+["bibtex main6-blx"] 1754975300.75363 "main6-blx.aux" "main6-blx.bbl" "main6-blx" 1760295062.37099 2
+  "./main-blx.bib" 1760295058.76488 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+  "./refs/china.bib" 1760292526.26946 10432 7730d649866b22e92aadbccccf49d94d ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main6-blx.aux" 1758410831.75802 328 824ec61a26d0f1eeca8cc52f29230df9 "pdflatex"
+  "main6-blx.aux" 1760295060.0181 328 824ec61a26d0f1eeca8cc52f29230df9 "pdflatex"
   (generated)
   "main6-blx.bbl"
   "main6-blx.blg"
   (rewritten before read)
-["bibtex main7-blx"] 1758410819.13107 "main7-blx.aux" "main7-blx.bbl" "main7-blx" 1758410834.25364 0
-  "./main-blx.bib" 1758410830.35496 342 2dbb6e07439b0a5db817a74b892f0d17 ""
-  "./refs/humility.bib" 1758410104.85634 758 9f07c42387a41c3916cae4352c5764d4 ""
+["bibtex main7-blx"] 1758410819.13107 "main7-blx.aux" "main7-blx.bbl" "main7-blx" 1760295062.37093 0
+  "./main-blx.bib" 1760295058.76488 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+  "./refs/humility.bib" 1760292526.27043 758 9f07c42387a41c3916cae4352c5764d4 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main7-blx.aux" 1758410831.7874 331 13670702d91801ceacf7933c3412ab8e "pdflatex"
+  "main7-blx.aux" 1760295060.04206 331 13670702d91801ceacf7933c3412ab8e "pdflatex"
   (generated)
   "main7-blx.bbl"
   "main7-blx.blg"
   (rewritten before read)
-["bibtex main8-blx"] 1754975300.60872 "main8-blx.aux" "main8-blx.bbl" "main8-blx" 1758410834.25352 0
-  "./main-blx.bib" 1758410830.35496 342 2dbb6e07439b0a5db817a74b892f0d17 ""
-  "./refs/campaign.bib" 1758408288.5669 10128 a2f979f34e83d8c47e47b53749e94813 ""
+["bibtex main8-blx"] 1754975300.60872 "main8-blx.aux" "main8-blx.bbl" "main8-blx" 1760295062.37082 0
+  "./main-blx.bib" 1760295058.76488 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+  "./refs/campaign.bib" 1760292526.26936 10128 a2f979f34e83d8c47e47b53749e94813 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main8-blx.aux" 1758410831.94594 331 0e457b808525c6da5fac4c4816295eea "pdflatex"
+  "main8-blx.aux" 1760295060.18321 331 0e457b808525c6da5fac4c4816295eea "pdflatex"
   (generated)
   "main8-blx.bbl"
   "main8-blx.blg"
   (rewritten before read)
-["pdflatex"] 1758410829.29766 "main.tex" "main.pdf" "main" 1758410834.25421 0
+["pdflatex"] 1760295057.7078 "main.tex" "main.pdf" "main" 1760295062.37149 0
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc" 1593726333 2906 e61ee539f72040515b8ad56a2123a2e2 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_dejuay.enc" 1593726333 3468 93e41a270f0caf09a496cd6a6afc40ac ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_ivhnor.enc" 1593726333 2908 5132b10db74281cae0e8816be7d1f21e ""
@@ -327,41 +327,41 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1738795163.40996 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1738795148 8221440 5e78c95eba245aeb45dc540d47de3ce0 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "format.sty" 1758408633.42039 2949 8a7fd6b7022bd54a0469d7d3d186e779 ""
-  "fredgraph.png" 1758408288.55068 54165 a6bbe345f0ebdcc0bfe8d79273f7ad66 ""
-  "lia_mwp-1.png" 1758408288.5517 417498 017248b61e6179721ea584d878fd1b76 ""
-  "main.aux" 1758410831.95359 45886 a23221cfc7349344c982417c54da0a17 "pdflatex"
-  "main.bbl" 1758408288.55213 512 242e9db92557ac81f6b30ce4f9334513 "bibtex main"
-  "main.out" 1758410831.96248 1871 d4b876a26f75e80c537b56644e988e6b "pdflatex"
-  "main.run.xml" 1758410831.98837 9003 77e89896ba009bdc0909268208c0d75b "pdflatex"
-  "main.tex" 1758408816.62442 6090 88c78e77bca59250dfe87a90870c5978 ""
-  "main.toc" 1758410831.98846 1574 5e4a115cb2a72cd18ea3ec189ae3c41e "pdflatex"
-  "main1-blx.aux" 1758410831.06843 2701 5b24f1ae9e9a3478e4d0d15e1b682d36 "pdflatex"
-  "main1-blx.bbl" 1758408288.56276 87372 ffee5638fd7a83793fa94d852bf888fa "bibtex main1-blx"
-  "main2-blx.aux" 1758410831.16895 333 208bc7409d3a20820971e474ed1c0471 "pdflatex"
-  "main2-blx.bbl" 1758408288.56301 13611 e1b5ac92b6f4c8b1be2ed6c47cef0afc "bibtex main2-blx"
-  "main3-blx.aux" 1758410831.25438 431 7c3fe5d7ee05ca033cf4b5c9d213c312 "pdflatex"
-  "main3-blx.bbl" 1758408288.56322 11304 221a14645bd687ae03ac89195bfa3bce "bibtex main3-blx"
-  "main4-blx.aux" 1758410831.48569 1106 836e30a4d3e222e0995318e165311abd "pdflatex"
-  "main4-blx.bbl" 1758408288.56339 22629 cf145618bba7ed987c5847cf75c6d3b8 "bibtex main4-blx"
-  "main5-blx.aux" 1758410831.60781 443 b0804157ae1b888a9affe75447995934 "pdflatex"
-  "main5-blx.bbl" 1758408288.56359 10043 f7bf2e6be9161504f9c96b844026a97a "bibtex main5-blx"
-  "main6-blx.aux" 1758410831.75802 328 824ec61a26d0f1eeca8cc52f29230df9 "pdflatex"
-  "main6-blx.bbl" 1758408288.56402 22713 aeee85ec19432039da881063dbe664bf "bibtex main6-blx"
-  "main7-blx.aux" 1758410831.7874 331 13670702d91801ceacf7933c3412ab8e "pdflatex"
-  "main7-blx.bbl" 1758410819.20172 2510 fba72496b29b3a2e4fe368e82792d89e "bibtex main7-blx"
-  "main8-blx.aux" 1758410831.94594 331 0e457b808525c6da5fac4c4816295eea "pdflatex"
-  "main8-blx.bbl" 1758408288.56458 23107 39cdc51b8ff26c5264cd854626e05fc5 "bibtex main8-blx"
-  "pnas.2108146119fig03.jpg" 1758408288.56637 758181 7cb12e7af00b0c98bd9dc7492a599253 ""
-  "source/binary.tex" 1758408288.56786 18059 a5adde80cfe35112c36191b9310ff093 ""
-  "source/campaign.tex" 1758408288.56796 20651 c3a576cec9d7b357f8b08f0a2700093b ""
-  "source/china.tex" 1758410808.46418 6891 cb11c594cd698c91a66992d87ccf4a8b ""
-  "source/critique.tex" 1758408288.56839 6329 0d5c55bb0645de98e83a8e89e4cc7e3c ""
-  "source/evaluating.tex" 1758408288.56846 7335 ee85e6eaa99a1235f6b842031884c684 ""
-  "source/fertility.tex" 1758408288.56853 8810 0642ce8a2c95ad751d4082e716d8ddc4 ""
-  "source/humility.tex" 1758408288.56877 8408 f2474c942bade0ee2c7f007ea83e9556 ""
-  "source/racism.tex" 1758408288.56886 14653 bf1a5c34a2458843d7bbf58b596082d7 ""
-  "top-600.jpg" 1758408288.56934 224019 f77536c74e19f3c4b3155742b8c2df9b ""
+  "format.sty" 1760292526.25434 2949 8a7fd6b7022bd54a0469d7d3d186e779 ""
+  "fredgraph.png" 1760292526.25451 54165 a6bbe345f0ebdcc0bfe8d79273f7ad66 ""
+  "lia_mwp-1.png" 1760292526.25551 417498 017248b61e6179721ea584d878fd1b76 ""
+  "main.aux" 1760295060.19016 45886 a23221cfc7349344c982417c54da0a17 "pdflatex"
+  "main.bbl" 1760292526.25575 512 242e9db92557ac81f6b30ce4f9334513 "bibtex main"
+  "main.out" 1760295060.1985 1871 d4b876a26f75e80c537b56644e988e6b "pdflatex"
+  "main.run.xml" 1760295060.22235 9003 77e89896ba009bdc0909268208c0d75b "pdflatex"
+  "main.tex" 1760292526.26385 6090 88c78e77bca59250dfe87a90870c5978 ""
+  "main.toc" 1760295060.22241 1574 5e4a115cb2a72cd18ea3ec189ae3c41e "pdflatex"
+  "main1-blx.aux" 1760295059.40462 2701 5b24f1ae9e9a3478e4d0d15e1b682d36 "pdflatex"
+  "main1-blx.bbl" 1760292526.2641 87372 ffee5638fd7a83793fa94d852bf888fa "bibtex main1-blx"
+  "main2-blx.aux" 1760295059.49683 333 208bc7409d3a20820971e474ed1c0471 "pdflatex"
+  "main2-blx.bbl" 1760292526.26513 13611 e1b5ac92b6f4c8b1be2ed6c47cef0afc "bibtex main2-blx"
+  "main3-blx.aux" 1760295059.58555 431 7c3fe5d7ee05ca033cf4b5c9d213c312 "pdflatex"
+  "main3-blx.bbl" 1760292526.26548 11304 221a14645bd687ae03ac89195bfa3bce "bibtex main3-blx"
+  "main4-blx.aux" 1760295059.8082 1106 836e30a4d3e222e0995318e165311abd "pdflatex"
+  "main4-blx.bbl" 1760292526.26568 22629 cf145618bba7ed987c5847cf75c6d3b8 "bibtex main4-blx"
+  "main5-blx.aux" 1760295059.90173 443 b0804157ae1b888a9affe75447995934 "pdflatex"
+  "main5-blx.bbl" 1760292526.26602 10043 f7bf2e6be9161504f9c96b844026a97a "bibtex main5-blx"
+  "main6-blx.aux" 1760295060.0181 328 824ec61a26d0f1eeca8cc52f29230df9 "pdflatex"
+  "main6-blx.bbl" 1760292526.26625 22713 aeee85ec19432039da881063dbe664bf "bibtex main6-blx"
+  "main7-blx.aux" 1760295060.04206 331 13670702d91801ceacf7933c3412ab8e "pdflatex"
+  "main7-blx.bbl" 1760292526.26648 2510 fba72496b29b3a2e4fe368e82792d89e "bibtex main7-blx"
+  "main8-blx.aux" 1760295060.18321 331 0e457b808525c6da5fac4c4816295eea "pdflatex"
+  "main8-blx.bbl" 1760292526.26671 23107 39cdc51b8ff26c5264cd854626e05fc5 "bibtex main8-blx"
+  "pnas.2108146119fig03.jpg" 1760292526.26856 758181 7cb12e7af00b0c98bd9dc7492a599253 ""
+  "source/binary.tex" 1760292526.27071 18059 a5adde80cfe35112c36191b9310ff093 ""
+  "source/campaign.tex" 1760292526.27082 20651 c3a576cec9d7b357f8b08f0a2700093b ""
+  "source/china.tex" 1760292526.27091 6891 cb11c594cd698c91a66992d87ccf4a8b ""
+  "source/critique.tex" 1760292526.27099 6329 0d5c55bb0645de98e83a8e89e4cc7e3c ""
+  "source/evaluating.tex" 1760292526.27105 7335 ee85e6eaa99a1235f6b842031884c684 ""
+  "source/fertility.tex" 1760292526.2714 8810 0642ce8a2c95ad751d4082e716d8ddc4 ""
+  "source/humility.tex" 1760292526.2715 8408 f2474c942bade0ee2c7f007ea83e9556 ""
+  "source/racism.tex" 1760295055.06544 14659 aa2d3933a0c3406de3124db5650424ae ""
+  "top-600.jpg" 1760292526.27206 224019 f77536c74e19f3c4b3155742b8c2df9b ""
   (generated)
   "main-blx.bib"
   "main.aux"
