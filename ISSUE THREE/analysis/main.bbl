@@ -1,0 +1,332 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{AUDA-NEPAD2023WhitePaperAI}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{African Union Development Agency}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \field{title}{{AUDA-NEPAD White Paper}: Regulation and Responsible Adoption of {AI} in Africa towards Achievement of {AU} Agenda 2063}
+    \verb{url}
+    \verb https://dig.watch/resource/auda-nepad-white-paper-regulation-and-resp
+    \verb onsible-adoption-of-ai-in-africa-towards-achievement-of-au-agenda-206
+    \verb 3
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{AghionEtAl2023RegulationInnovation}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=AP}{%
+         family={Aghion},
+         familyi={A\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AP+1}
+    \strng{fullhash}{AP+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1257/aer.20210107
+    \endverb
+    \field{number}{11}
+    \field{pages}{2894\bibrangedash 2936}
+    \field{title}{The Impact of Regulation on Innovation}
+    \verb{url}
+    \verb https://doi.org/10.1257/aer.20210107
+    \endverb
+    \field{volume}{113}
+    \field{journaltitle}{American Economic Review}
+    \field{month}{11}
+    \field{year}{2023}
+  \endentry
+
+  \entry{BaileyThomas2017RegulatingAwayCompetition}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BJB}{%
+         family={Bailey},
+         familyi={B\bibinitperiod},
+         given={James\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=TDW}{%
+         family={Thomas},
+         familyi={T\bibinitperiod},
+         given={Diana\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJBTDW1}
+    \strng{fullhash}{BJBTDW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1007/s11149-017-9343-9
+    \endverb
+    \field{number}{3}
+    \field{pages}{237\bibrangedash 254}
+    \field{title}{Regulating Away Competition: The Effect of Regulation on Entrepreneurship and Employment}
+    \verb{url}
+    \verb https://doi.org/10.1007/s11149-017-9343-9
+    \endverb
+    \field{volume}{52}
+    \field{journaltitle}{Journal of Regulatory Economics}
+    \field{month}{12}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Biden2023EOAI}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BJ}{%
+         family={Biden},
+         familyi={B\bibinitperiod},
+         given={Joe},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJ1}
+    \strng{fullhash}{BJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{Federal Register}
+    \field{title}{Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence}
+    \verb{url}
+    \verb https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-
+    \verb secure-and-trustworthy-development-and-use-of-artificial-intelligence
+    \endverb
+    \field{month}{11}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Bradford2023RaceToRegulateAI}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BA}{%
+         family={Bradford},
+         familyi={B\bibinitperiod},
+         given={Anu},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BA1}
+    \strng{fullhash}{BA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{Foreign Affairs}
+    \field{title}{The Race to Regulate Artificial Intelligence}
+    \verb{url}
+    \verb https://www.foreignaffairs.com/united-states/race-regulate-artificial
+    \verb -intelligence-sam-altman-anu-bradford
+    \endverb
+    \field{month}{06}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Braun2024WhyAINotRegulated}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BD}{%
+         family={Braun},
+         familyi={B\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BD1}
+    \strng{fullhash}{BD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1145/3696010
+    \endverb
+    \field{title}{Why `Artificial Intelligence' Should Not Be Regulated}
+    \verb{url}
+    \verb https://doi.org/10.1145/3696010
+    \endverb
+    \field{journaltitle}{Digital Government: Research and Practice}
+    \field{month}{09}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Carney2012RegulationsProtectEntrenched}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CTP}{%
+         family={Carney},
+         familyi={C\bibinitperiod},
+         given={Timothy\bibnamedelima P.},
+         giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CTP1}
+    \strng{fullhash}{CTP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{American Enterprise Institute (AEI)}
+    \field{title}{Regulations Protect Entrenched Businesses --- and the New York Times Is on It}
+    \verb{url}
+    \verb https://www.aei.org/articles/regulations-protect-entrenched-businesse
+    \verb s-and-the-new-york-times-is-on-it/
+    \endverb
+    \field{month}{12}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Ebers2024RiskBasedEUAIACT}{article}{}
+    \name{author}{1}{}{%
+      {{hash=EM}{%
+         family={Ebers},
+         familyi={E\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EM1}
+    \strng{fullhash}{EM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1017/err.2024.78
+    \endverb
+    \field{pages}{1\bibrangedash 20}
+    \field{title}{Truly Risk-Based Regulation of Artificial Intelligence: How to Implement the {EU}'s {AI} Act}
+    \verb{url}
+    \verb https://doi.org/10.1017/err.2024.78
+    \endverb
+    \field{journaltitle}{European Journal of Risk Regulation}
+    \field{month}{11}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Henman2020ImprovingPublicServicesAI}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HP}{%
+         family={Henman},
+         familyi={H\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HP1}
+    \strng{fullhash}{HP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1080/23276665.2020.1816188
+    \endverb
+    \field{number}{4}
+    \field{pages}{209\bibrangedash 221}
+    \field{title}{Improving Public Services Using Artificial Intelligence: Possibilities, Pitfalls, Governance}
+    \verb{url}
+    \verb https://doi.org/10.1080/23276665.2020.1816188
+    \endverb
+    \field{volume}{42}
+    \field{journaltitle}{Asia Pacific Journal of Public Administration}
+    \field{month}{10}
+    \field{year}{2020}
+  \endentry
+
+  \entry{MarcinekEtAl2024RANDAIActPrimer}{misc}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=MK}{%
+         family={Marcinek},
+         familyi={M\bibinitperiod},
+         given={Krystyna},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MK+1}
+    \strng{fullhash}{MK+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{howpublished}{RAND Corporation}
+    \field{title}{Risk-Based {AI} Regulation: A Primer on the Artificial Intelligence Act of the European Union}
+    \verb{url}
+    \verb https://www.rand.org/pubs/research_reports/RRA3243-3.html
+    \endverb
+    \field{month}{11}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Meltzer2023USShouldRegulateAI}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MJP}{%
+         family={Meltzer},
+         familyi={M\bibinitperiod},
+         given={Joshua\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJP1}
+    \strng{fullhash}{MJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{howpublished}{Brookings}
+    \field{title}{The {US} Government Should Regulate {AI} If It Wants to Lead on International {AI} Governance}
+    \verb{url}
+    \verb https://www.brookings.edu/articles/the-us-government-should-regulate-
+    \verb ai/
+    \endverb
+    \field{month}{05}
+    \field{year}{2023}
+  \endentry
+\enddatalist
+\endinput

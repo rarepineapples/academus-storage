@@ -1,0 +1,376 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{AgrawalGansGoldfarb2023LessAutomation}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AA}{%
+         family={Agrawal},
+         familyi={A\bibinitperiod},
+         given={Ajay},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GJS}{%
+         family={Gans},
+         familyi={G\bibinitperiod},
+         given={Joshua\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Goldfarb},
+         familyi={G\bibinitperiod},
+         given={Avi},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AA+1}
+    \strng{fullhash}{AAGJSGA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1126/science.adh9429
+    \endverb
+    \field{number}{6654}
+    \field{pages}{155\bibrangedash 158}
+    \field{title}{Do We Want Less Automation?}
+    \verb{url}
+    \verb https://doi.org/10.1126/science.adh9429
+    \endverb
+    \field{volume}{381}
+    \field{journaltitle}{Science}
+    \field{year}{2023}
+  \endentry
+
+  \entry{BresnahanTrajtenberg1995GPT}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BTF}{%
+         family={Bresnahan},
+         familyi={B\bibinitperiod},
+         given={Timothy\bibnamedelima F.},
+         giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Trajtenberg},
+         familyi={T\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BTFTM1}
+    \strng{fullhash}{BTFTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1016/0304-4076(94)01598-T
+    \endverb
+    \field{number}{1}
+    \field{pages}{83\bibrangedash 108}
+    \field{title}{General Purpose Technologies `Engines of Growth'?}
+    \verb{url}
+    \verb https://doi.org/10.1016/0304-4076(94)01598-T
+    \endverb
+    \field{volume}{65}
+    \field{journaltitle}{Journal of Econometrics}
+    \field{year}{1995}
+  \endentry
+
+  \entry{BrynjolfssonRockSyverson2017AIModernProductivityParadox}{report}{}
+    \name{author}{3}{}{%
+      {{hash=BE}{%
+         family={Brynjolfsson},
+         familyi={B\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Rock},
+         familyi={R\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Syverson},
+         familyi={S\bibinitperiod},
+         given={Chad},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BE+1}
+    \strng{fullhash}{BERDSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.3386/w24001
+    \endverb
+    \field{number}{24001}
+    \field{series}{Working Paper Series}
+    \field{title}{Artificial Intelligence and the Modern Productivity Paradox: A Clash of Expectations and Statistics}
+    \verb{url}
+    \verb https://doi.org/10.3386/w24001
+    \endverb
+    \list{institution}{1}{%
+      {National Bureau of Economic Research}%
+    }
+    \field{type}{techreport}
+    \field{month}{11}
+    \field{year}{2017}
+  \endentry
+
+  \entry{BrynjolfssonRockSyverson2018ProductivityJCurve}{report}{}
+    \name{author}{3}{}{%
+      {{hash=BE}{%
+         family={Brynjolfsson},
+         familyi={B\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Rock},
+         familyi={R\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Syverson},
+         familyi={S\bibinitperiod},
+         given={Chad},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BE+1}
+    \strng{fullhash}{BERDSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.3386/w25148
+    \endverb
+    \field{number}{25148}
+    \field{series}{Working Paper Series}
+    \field{title}{The Productivity J-Curve: How Intangibles Complement General Purpose Technologies}
+    \verb{url}
+    \verb https://doi.org/10.3386/w25148
+    \endverb
+    \list{institution}{1}{%
+      {National Bureau of Economic Research}%
+    }
+    \field{type}{techreport}
+    \field{month}{10}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Crafts2021AIasGPT}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CN}{%
+         family={Crafts},
+         familyi={C\bibinitperiod},
+         given={Nicholas},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CN1}
+    \strng{fullhash}{CN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1093/oxrep/grab012
+    \endverb
+    \field{number}{3}
+    \field{pages}{521\bibrangedash 536}
+    \field{title}{Artificial Intelligence as a General-Purpose Technology: An Historical Perspective}
+    \verb{url}
+    \verb https://doi.org/10.1093/oxrep/grab012
+    \endverb
+    \field{volume}{37}
+    \field{journaltitle}{Oxford Review of Economic Policy}
+    \field{year}{2021}
+  \endentry
+
+  \entry{David1989ComputerAndDynamo}{report}{}
+    \name{author}{1}{}{%
+      {{hash=DPA}{%
+         family={David},
+         familyi={D\bibinitperiod},
+         given={P.\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DPA1}
+    \strng{fullhash}{DPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{series}{The Warwick Economics Research Paper Series (TWERPS)}
+    \field{title}{Computer And Dynamo: The Modern Productivity Paradox In A Not-Too Distant Mirror}
+    \verb{url}
+    \verb https://ideas.repec.org//p/wrk/warwec/339.html
+    \endverb
+    \list{institution}{1}{%
+      {University of Warwick}%
+    }
+    \field{type}{techreport}
+    \field{year}{1989}
+  \endentry
+
+  \entry{ErdilBesiroglu2023ExplosiveGrowthAIAutomation}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=EE}{%
+         family={Erdil},
+         familyi={E\bibinitperiod},
+         given={Ege},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Besiroglu},
+         familyi={B\bibinitperiod},
+         given={Tamay},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EEBT1}
+    \strng{fullhash}{EEBT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.48550/arXiv.2309.11690
+    \endverb
+    \verb{eprint}
+    \verb 2309.11690
+    \endverb
+    \field{howpublished}{arXiv}
+    \field{title}{Explosive Growth from AI Automation: A Review of the Arguments}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2309.11690
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{year}{2023}
+  \endentry
+
+  \entry{FilippucciGalLaengleSchief2025OECDG7ProductivityGainsAI}{report}{}
+    \name{author}{4}{}{%
+      {{hash=FF}{%
+         family={Filippucci},
+         familyi={F\bibinitperiod},
+         given={Francesco},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Gal},
+         familyi={G\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LK}{%
+         family={Laengle},
+         familyi={L\bibinitperiod},
+         given={Katharina},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Schief},
+         familyi={S\bibinitperiod},
+         given={Matthias},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FF+1}
+    \strng{fullhash}{FFGPLKSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{series}{OECD Artificial Intelligence Papers}
+    \field{title}{Macroeconomic Productivity Gains from Artificial Intelligence in G7 Economies}
+    \verb{url}
+    \verb https://www.oecd.org/en/publications/macroeconomic-productivity-gains
+    \verb -from-artificial-intelligence-in-g7-economies_a5319ab5-en.html
+    \endverb
+    \list{institution}{1}{%
+      {OECD}%
+    }
+    \field{type}{techreport}
+    \field{year}{2025}
+  \endentry
+
+  \entry{Soroushian2024PastWavesAutomationTeachAI}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Soroushian},
+         familyi={S\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{Bipartisan Policy Center}
+    \field{title}{What Past Waves of Automation Can Teach Us About AI}
+    \verb{url}
+    \verb https://bipartisanpolicy.org/blog/what-past-waves-of-automation-can-t
+    \verb each-us-about-ai/
+    \endverb
+    \field{month}{07}
+    \field{year}{2024}
+  \endentry
+
+  \entry{UKParliamentFactoryAct1833}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{UK Parliament}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \field{note}{Accessed: 2025-08-16}
+    \field{title}{The 1833 Factory Act}
+    \verb{url}
+    \verb https://www.parliament.uk/about/living-heritage/transformingsociety/l
+    \verb ivinglearning/19thcentury/overview/factoryact/
+    \endverb
+  \endentry
+\enddatalist
+\endinput

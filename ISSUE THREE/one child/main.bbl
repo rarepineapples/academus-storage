@@ -1,0 +1,2580 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{ClubOfRomeAbout}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \field{howpublished}{Club of Rome}
+    \field{note}{Accessed: 2024-07-16}
+    \field{title}{About Us}
+    \verb{url}
+    \verb https://www.clubofrome.org/about-us/
+    \endverb
+  \endentry
+
+  \entry{ArthurMcNicoll1975}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AWB}{%
+         family={Arthur},
+         familyi={A\bibinitperiod},
+         given={W.\bibnamedelima Brian},
+         giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=MG}{%
+         family={McNicoll},
+         familyi={M\bibinitperiod},
+         given={Geoffrey},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AWBMG1}
+    \strng{fullhash}{AWBMG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \field{issn}{0098-7921}
+    \field{number}{2}
+    \field{pages}{251\bibrangedash 265}
+    \field{title}{Large-Scale Simulation Models in Population and Development: What Use to Planners?}
+    \field{volume}{1}
+    \field{journaltitle}{Population and Development Review}
+    \field{year}{1975}
+  \endentry
+
+  \entry{Bacaer2011}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BN}{%
+         family={Baca{\"e}r},
+         familyi={B\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Verlag}%
+    }
+    \strng{namehash}{BN1}
+    \strng{fullhash}{BN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-08-15}
+    \field{title}{A Short History of Mathematical Population Dynamics}
+    \verb{url}
+    \verb https://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx
+    \verb ?p=5555115
+    \endverb
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{2011}
+  \endentry
+
+  \entry{Banister1987}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BJ}{%
+         family={Banister},
+         familyi={B\bibinitperiod},
+         given={Judith},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Stanford University Press}%
+    }
+    \strng{namehash}{BJ1}
+    \strng{fullhash}{BJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{title}{China's Changing Population}
+    \field{year}{1987}
+  \endentry
+
+  \entry{Bernstein1997HiddenChineseFamine}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BR}{%
+         family={Bernstein},
+         familyi={B\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BR1}
+    \strng{fullhash}{BR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{note}{Books section. Accessed: 2024-09-19}
+    \field{title}{Horror of a Hidden Chinese Famine}
+    \verb{url}
+    \verb https://www.nytimes.com/1997/02/05/books/horror-of-a-hidden-chinese-f
+    \verb amine.html
+    \endverb
+    \field{journaltitle}{The New York Times}
+    \field{month}{02}
+    \field{year}{1997}
+  \endentry
+
+  \entry{BongaartsGreenhalgh1985}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BJ}{%
+         family={Bongaarts},
+         familyi={B\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Greenhalgh},
+         familyi={G\bibinitperiod},
+         given={Susan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJGS1}
+    \strng{fullhash}{BJGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-06-10}
+    \field{number}{4}
+    \field{pages}{585\bibrangedash 617}
+    \field{title}{An Alternative to the One-Child Policy in China}
+    \verb{url}
+    \verb https://www.jstor.org/stable/1973456
+    \endverb
+    \field{volume}{11}
+    \field{journaltitle}{Population and Development Review}
+    \field{year}{1985}
+  \endentry
+
+  \entry{CaidenWildavsky1980}{book}{}
+    \name{author}{2}{}{%
+      {{hash=CN}{%
+         family={Caiden},
+         familyi={C\bibinitperiod},
+         given={Naomi},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=WAB}{%
+         family={Wildavsky},
+         familyi={W\bibinitperiod},
+         given={Aaron\bibnamedelima B.},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Transaction Books}%
+    }
+    \strng{namehash}{CNWAB1}
+    \strng{fullhash}{CNWAB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{Planning and Budgeting in Poor Countries}
+    \field{year}{1980}
+  \endentry
+
+  \entry{CameronMengZhang2018}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=CL}{%
+         family={Cameron},
+         familyi={C\bibinitperiod},
+         given={Lisa},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MX}{%
+         family={Meng},
+         familyi={M\bibinitperiod},
+         given={Xin},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=ZDd}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Dan-dan},
+         giveni={D\bibinithyphendelim d\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CL+1}
+    \strng{fullhash}{CLMXZDd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{Institute for Family Studies}
+    \field{note}{Last modified: 2018-09-10. Accessed: 2024-09-14}
+    \field{title}{China's One-Child Policy: Effects on the Sex Ratio and Crime}
+    \verb{url}
+    \verb https://ifstudies.org/blog/chinas-one-child-policy-effects-on-the-sex
+    \verb -ratio-and-crime
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{ChenYixin2015}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CY}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Yixin},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CY1}
+    \strng{fullhash}{CY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{number}{1}
+    \field{pages}{13\bibrangedash 25}
+    \field{title}{The Study of China's Great Leap Forward Famine in the West}
+    \verb{url}
+    \verb https://web.archive.org/web/20210517052743/http://ww2.usc.cuhk.edu.hk
+    \verb /PaperCollection/webmanager/wkfiles/2012/201503_38_paper.pdf
+    \endverb
+    \field{volume}{17}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Chung2002}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CYJ}{%
+         family={Chung},
+         familyi={C\bibinitperiod},
+         given={Yuehtsen\bibnamedelima Juliette},
+         giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Psychology Press}%
+    }
+    \strng{namehash}{CYJ1}
+    \strng{fullhash}{CYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{Struggle for National Survival: Eugenics in Sino-Japanese Contexts, 1896-1945}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Clowes2004KissingerReport}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CB}{%
+         family={Clowes},
+         familyi={C\bibinitperiod},
+         given={Brian},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CB1}
+    \strng{fullhash}{CB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-08-16}
+    \field{title}{Kissinger Report}
+    \verb{url}
+    \verb https://www.academia.edu/56022473/Kissinger_Report
+    \endverb
+    \field{year}{2004}
+  \endentry
+
+  \entry{ColeEtAl1973}{book}{}
+    \name{editor}{4}{}{%
+      {{hash=CHSD}{%
+         family={Cole},
+         familyi={C\bibinitperiod},
+         given={H.\bibnamedelima S.\bibnamedelima D.},
+         giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=FC}{%
+         family={Freeman},
+         familyi={F\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jahoda},
+         familyi={J\bibinitperiod},
+         given={Marie},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PK}{%
+         family={Pavitt},
+         familyi={P\bibinitperiod},
+         given={Keith},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Universe Books}%
+    }
+    \strng{namehash}{CHSD+1}
+    \strng{fullhash}{CHSDFCJMPK1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{Models of Doom: A Critique of {The Limits to Growth}}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{1973}
+  \endentry
+
+  \entry{Fengqi2021DengRichFirst}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{howpublished}{Shanghai Fengqi}
+    \field{note}{Last modified: 2021-07-29. Accessed: 2024-08-12}
+    \field{title}{Deng Xiaoping: Let Part of People Get Rich First}
+    \verb{url}
+    \verb https://web.archive.org/web/20210729211603/http://www.fengqi.sh.cn/en
+    \verb /news/knowledge9.html
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{DesrochersHoffbauer2009}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DP}{%
+         family={Desrochers},
+         familyi={D\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hoffbauer},
+         familyi={H\bibinitperiod},
+         given={Christine},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DPHC1}
+    \strng{fullhash}{DPHC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-07-09}
+    \field{number}{3}
+    \field{pages}{73}
+    \field{title}{The Post War Intellectual Roots of the Population Bomb: Fairfield Osborn's ``Our Plundered Planet'' and William Vogt's ``Road to Survival'' in Retrospect}
+    \verb{url}
+    \verb https://geog.utm.utoronto.ca/desrochers/wp-content/uploads/2020/06/Th
+    \verb e_Population_Bomb.pdf#page=79
+    \endverb
+    \field{volume}{1}
+    \field{journaltitle}{The Electronic Journal of Sustainable Development}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Dong2016ElderRights}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DX}{%
+         family={Dong},
+         familyi={D\bibinitperiod},
+         given={XinQi},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DX1}
+    \strng{fullhash}{DX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-08-03}
+    \field{number}{10}
+    \field{pages}{1429\bibrangedash 1430}
+    \field{title}{Elder Rights in China}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7422934/
+    \endverb
+    \field{volume}{176}
+    \field{journaltitle}{JAMA Internal Medicine}
+    \field{month}{10}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Dreyer2007ChineseForeignPolicy}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DJT}{%
+         family={Dreyer},
+         familyi={D\bibinitperiod},
+         given={June\bibnamedelima T.},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJT1}
+    \strng{fullhash}{DJT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{howpublished}{Foreign Policy Research Institute}
+    \field{note}{Last modified: 2007-02-12. Accessed: 2024-07-15}
+    \field{title}{Chinese Foreign Policy}
+    \verb{url}
+    \verb https://www.fpri.org/article/2007/02/chinese-foreign-policy/
+    \endverb
+    \field{year}{2007}
+  \endentry
+
+  \entry{Dutton1998}{book}{}
+    \name{author}{1}{}{%
+      {{hash=DMR}{%
+         family={Dutton},
+         familyi={D\bibinitperiod},
+         given={Michael\bibnamedelima Robert},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{DMR1}
+    \strng{fullhash}{DMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{title}{Streetlife China}
+    \field{year}{1998}
+  \endentry
+
+  \entry{Easterlin1987}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ERA}{%
+         family={Easterlin},
+         familyi={E\bibinitperiod},
+         given={Richard\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{ERA1}
+    \strng{fullhash}{ERA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-07-16}
+    \field{title}{Birth and Fortune: The Impact of Numbers on Personal Welfare}
+    \verb{url}
+    \verb https://press.uchicago.edu/ucp/books/book/chicago/B/bo3633710.html
+    \endverb
+    \list{location}{1}{%
+      {Chicago, IL}%
+    }
+    \field{year}{1987}
+  \endentry
+
+  \entry{Ehrlich1971PopulationBomb}{book}{}
+    \name{author}{1}{}{%
+      {{hash=EPR}{%
+         family={Ehrlich},
+         familyi={E\bibinitperiod},
+         given={Paul\bibnamedelima R.},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Ballantine Books}%
+    }
+    \strng{namehash}{EPR1}
+    \strng{fullhash}{EPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \true{singletitle}
+    \field{title}{The Population Bomb}
+    \field{year}{1971}
+  \endentry
+
+  \entry{Engels1972}{book}{}
+    \name{author}{1}{}{%
+      {{hash=EF}{%
+         family={Engels},
+         familyi={E\bibinitperiod},
+         given={Friedrich},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {International Publishers Co}%
+    }
+    \strng{namehash}{EF1}
+    \strng{fullhash}{EF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \true{singletitle}
+    \field{edition}{First Edition}
+    \field{title}{The Origin of the Family, Private Property, and the State}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{1972}
+  \endentry
+
+  \entry{EntwisleHenderson2000}{book}{}
+    \name{author}{2}{}{%
+      {{hash=EB}{%
+         family={Entwisle},
+         familyi={E\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Henderson},
+         familyi={H\bibinitperiod},
+         given={Gail},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of California Press}%
+    }
+    \strng{namehash}{EBHG1}
+    \strng{fullhash}{EBHG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \true{singletitle}
+    \field{title}{Re-Drawing Boundaries: Work, Households, and Gender in China}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Fan2022MrScience}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FFt}{%
+         family={Fan},
+         familyi={F\bibinitperiod},
+         given={Fa-ti},
+         giveni={F\bibinithyphendelim t\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FFt1}
+    \strng{fullhash}{FFt1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1080/18752160.2022.2095099
+    \endverb
+    \field{note}{Accessed: 2024-07-18}
+    \field{number}{3}
+    \field{pages}{279\bibrangedash 304}
+    \field{title}{``Mr. Science'', May Fourth, and the Global History of Science}
+    \field{volume}{16}
+    \field{journaltitle}{East Asian Science, Technology and Society: An International Journal}
+    \field{month}{07}
+    \field{year}{2022}
+  \endentry
+
+  \entry{FangChen2018VoxEU}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=FH}{%
+         family={Fang},
+         familyi={F\bibinitperiod},
+         given={Hanming},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Yi},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FHCY1}
+    \strng{fullhash}{FHCY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{howpublished}{CEPR VoxEU}
+    \field{note}{Last modified: 2018-10-03. Accessed: 2024-06-18}
+    \field{title}{How Family Planning Policies Reshape the Life of the Chinese Elderly}
+    \verb{url}
+    \verb https://cepr.org/voxeu/columns/how-family-planning-policies-reshape-l
+    \verb ife-chinese-elderly
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{FengCaiGu2013}{article}{}
+    \name{author}{3}{}{%
+      {{hash=FW}{%
+         family={Feng},
+         familyi={F\bibinitperiod},
+         given={Wang},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Cai},
+         familyi={C\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Gu},
+         familyi={G\bibinitperiod},
+         given={Baochang},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FW+1}
+    \strng{fullhash}{FWCYGB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{Accessed: 2024-06-09}
+    \field{pages}{115\bibrangedash 129}
+    \field{title}{Population, Policy, and Politics: How Will History Judge China's One-Child Policy?}
+    \verb{url}
+    \verb https://www.jstor.org/stable/23655290
+    \endverb
+    \field{volume}{38}
+    \field{journaltitle}{Population and Development Review}
+    \field{year}{2013}
+  \endentry
+
+  \entry{FengGuCai2016}{article}{}
+    \name{author}{3}{}{%
+      {{hash=FW}{%
+         family={Feng},
+         familyi={F\bibinitperiod},
+         given={Wang},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Gu},
+         familyi={G\bibinitperiod},
+         given={Baochang},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Cai},
+         familyi={C\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FW+1}
+    \strng{fullhash}{FWGBCY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{Accessed: 2024-06-11}
+    \field{number}{1}
+    \field{pages}{83\bibrangedash 86}
+    \field{title}{The End of China's One-Child Policy}
+    \verb{url}
+    \verb https://www.jstor.org/stable/24720399
+    \endverb
+    \field{volume}{47}
+    \field{journaltitle}{Studies in Family Planning}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Fitzpatrick2009TimeOneChild}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FL}{%
+         family={Fitzpatrick},
+         familyi={F\bibinitperiod},
+         given={Laura},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FL1}
+    \strng{fullhash}{FL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{howpublished}{TIME}
+    \field{note}{Last modified: 2009-07-27. Accessed: 2024-06-18}
+    \field{title}{China's One-Child Policy}
+    \verb{url}
+    \verb https://time.com/archive/6947470/chinas-one-child-policy/
+    \endverb
+    \field{year}{2009}
+  \endentry
+
+  \entry{Fong2016OneChild}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FM}{%
+         family={Fong},
+         familyi={F\bibinitperiod},
+         given={Mei},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Houghton Mifflin Harcourt}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{title}{One Child: The Story of China's Most Radical Experiment}
+    \field{year}{2016}
+  \endentry
+
+  \entry{FongWang2022HRW}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=FM}{%
+         family={Fong},
+         familyi={F\bibinitperiod},
+         given={Mei},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Yaqiu},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FMWY1}
+    \strng{fullhash}{FMWY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{howpublished}{Human Rights Watch}
+    \field{note}{Last modified: 2022-07-05. Accessed: 2024-06-19}
+    \field{title}{How to Fix China's Population Crisis: Say Sorry to Women}
+    \verb{url}
+    \verb https://www.hrw.org/news/2022/07/05/how-fix-chinas-population-crisis-
+    \verb say-sorry-women
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{Gieryn1999}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GTF}{%
+         family={Gieryn},
+         familyi={G\bibinitperiod},
+         given={Thomas\bibnamedelima F.},
+         giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{GTF1}
+    \strng{fullhash}{GTF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{title}{Cultural Boundaries of Science: Credibility on the Line}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Goldsmith1972}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GE}{%
+         family={Goldsmith},
+         familyi={G\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Penguin}%
+    }
+    \strng{namehash}{GE1}
+    \strng{fullhash}{GE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{title}{A Blueprint for Survival}
+    \field{year}{1972}
+  \endentry
+
+  \entry{GonzalesEtAl1992NoScalpel}{misc}{}
+    \name{author}{4}{}{%
+      {{hash=GB}{%
+         family={Gonzales},
+         familyi={G\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MaS}{%
+         family={Marston-ainley},
+         familyi={M\bibinithyphendelim a\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=VG}{%
+         family={Vansintejan},
+         familyi={V\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LPS}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={P.\bibnamedelima S.},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GB+1}
+    \strng{fullhash}{GBMaSVGLPS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-08-02}
+    \field{title}{No-Scalpel Vasectomy: An Illustrated Guide for Surgeons.}
+    \verb{url}
+    \verb https://www.semanticscholar.org/paper/No-scalpel-vasectomy%3A-an-illu
+    \verb strated-guide-for-Gonzales-Marston-ainley/749bb57fcd42ccdae0b48bb3110
+    \verb 1cf3e528b8088
+    \endverb
+    \field{year}{1992}
+  \endentry
+
+  \entry{Britannica2024GreatLeapForward}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{howpublished}{Encyclop{\ae}dia Britannica}
+    \field{note}{Published: 2024-02-26. Accessed: 2024-07-13}
+    \field{title}{Great Leap Forward}
+    \verb{url}
+    \verb https://www.britannica.com/event/Great-Leap-Forward
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Greenhalgh2008JustOneChild}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GS}{%
+         family={Greenhalgh},
+         familyi={G\bibinitperiod},
+         given={Susan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of California Press}%
+    }
+    \strng{namehash}{GS1}
+    \strng{fullhash}{GS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{title}{Just One Child: Science and Policy in Deng's China}
+    \field{year}{2008}
+  \endentry
+
+  \entry{GreenhalghWinckler2005}{book}{}
+    \name{author}{2}{}{%
+      {{hash=GS}{%
+         family={Greenhalgh},
+         familyi={G\bibinitperiod},
+         given={Susan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WEA}{%
+         family={Winckler},
+         familyi={W\bibinitperiod},
+         given={Edwin\bibnamedelima A.},
+         giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Stanford University Press}%
+    }
+    \strng{namehash}{GSWEA1}
+    \strng{fullhash}{GSWEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{title}{Governing China's Population: From Leninist to Neoliberal Biopolitics}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Grimes1998ReproductiveRights}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GS}{%
+         family={Grimes},
+         familyi={G\bibinitperiod},
+         given={Seamus},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GS2}
+    \strng{fullhash}{GS2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1080/01436599814307
+    \endverb
+    \field{note}{Accessed: 2024-10-30}
+    \field{number}{3}
+    \field{pages}{375\bibrangedash 394}
+    \field{title}{From Population Control to `Reproductive Rights': Ideological Influences in Population Policy}
+    \field{volume}{19}
+    \field{journaltitle}{Third World Quarterly}
+    \field{month}{09}
+    \field{year}{1998}
+  \endentry
+
+  \entry{Hodges2024HousingMarket}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HP}{%
+         family={Hodges},
+         familyi={H\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HP1}
+    \strng{fullhash}{HP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{howpublished}{Chemicals and the Economy (ICIS)}
+    \field{note}{Published: 2024-05-19. Accessed: 2024-09-14}
+    \field{title}{China's Housing Market Moves from Boom to Bust}
+    \verb{url}
+    \verb https://www.icis.com/chemicals-and-the-economy/2024/05/chinas-housing
+    \verb -market-moves-from-boom-to-bust/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{SCMP2022WorkerShortages}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{howpublished}{South China Morning Post}
+    \field{note}{Last modified: 2022-01-13. Accessed: 2024-08-03}
+    \field{title}{How Age-Old Prejudice Is Fuelling Worker Shortages in China's Factories}
+    \verb{url}
+    \verb https://www.scmp.com/economy/china-economy/article/3163097/chinas-fac
+    \verb tories-are-wrestling-labour-shortages-age-old
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{HuangSilverPew2022}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=HLS}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Laura\bibnamedelima Silver},
+         giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Silver},
+         familyi={S\bibinitperiod},
+         given={Christine},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HLSSC1}
+    \strng{fullhash}{HLSSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{howpublished}{Pew Research Center}
+    \field{note}{Published: 2022-12-05. Accessed: 2024-08-02}
+    \field{title}{Key Facts about China's Declining Population}
+    \verb{url}
+    \verb https://www.pewresearch.org/short-reads/2022/12/05/key-facts-about-ch
+    \verb inas-declining-population/
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{Hui2005}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HVTb}{%
+         family={Hui},
+         familyi={H\bibinitperiod},
+         given={Victoria Tin-bor},
+         giveni={V\bibinitperiod\bibinitdelim T\bibinithyphendelim b\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{HVTb1}
+    \strng{fullhash}{HVTb1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-07-23}
+    \field{title}{War and State Formation in Ancient China and Early Modern Europe}
+    \verb{url}
+    \verb https://www.cambridge.org/core/books/war-and-state-formation-in-ancie
+    \verb nt-china-and-early-modern-europe/F81552218F82BDF65C54DF0BC08759D0
+    \endverb
+    \list{location}{1}{%
+      {Cambridge}%
+    }
+    \field{year}{2005}
+  \endentry
+
+  \entry{Jenner1980HundredFlowers}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JWJF}{%
+         family={Jenner},
+         familyi={J\bibinitperiod},
+         given={W.\bibnamedelima J.\bibnamedelima F.},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JWJF1}
+    \strng{fullhash}{JWJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1080/03064228008533016
+    \endverb
+    \field{note}{Accessed: 2024-07-25}
+    \field{number}{1}
+    \field{pages}{7\bibrangedash 12}
+    \field{title}{The Hundred Flowers}
+    \field{volume}{9}
+    \field{journaltitle}{Index on Censorship}
+    \field{month}{02}
+    \field{year}{1980}
+  \endentry
+
+  \entry{MaJian2013Guardian}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=JM}{%
+         family={Jian},
+         familyi={J\bibinitperiod},
+         given={Ma},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JM1}
+    \strng{fullhash}{JM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \true{singletitle}
+    \field{howpublished}{The Guardian}
+    \field{note}{Published: 2013-05-06. Books section. Accessed: 2024-06-19}
+    \field{title}{China's Barbaric One-Child Policy}
+    \verb{url}
+    \verb https://www.theguardian.com/books/2013/may/06/chinas-barbaric-one-chi
+    \verb ld-policy
+    \endverb
+    \field{year}{2013}
+  \endentry
+
+  \entry{JiangSanchezBarricarte2011}{article}{}
+    \name{author}{2}{}{%
+      {{hash=JQ}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Quanbao},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=SBJJ}{%
+         family={S{\'a}nchez-Barricarte},
+         familyi={S\bibinithyphendelim B\bibinitperiod},
+         given={Jes{\'u}s\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JQSBJJ1}
+    \strng{fullhash}{JQSBJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-08-03}
+    \field{number}{2}
+    \field{pages}{119}
+    \field{title}{The 4-2-1 Family Structure in China: A Survival Analysis Based on Life Tables}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5547295/
+    \endverb
+    \field{volume}{8}
+    \field{journaltitle}{European Journal of Ageing}
+    \field{month}{05}
+    \field{year}{2011}
+  \endentry
+
+  \entry{JisenMa1998PoliticsPopulationGrowth}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JM}{%
+         family={Jisen},
+         familyi={J\bibinitperiod},
+         given={Ma},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JM2}
+    \strng{fullhash}{JM2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-06-19}
+    \field{number}{1}
+    \field{pages}{35\bibrangedash 52}
+    \field{title}{The Politics of China's Population Growth}
+    \verb{url}
+    \verb https://www.jstor.org/stable/42704155
+    \endverb
+    \field{volume}{22}
+    \field{journaltitle}{Asian Perspective}
+    \field{year}{1998}
+  \endentry
+
+  \entry{KungLin2003GreatLeapFamine}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KJKs}{%
+         family={Kung},
+         familyi={K\bibinitperiod},
+         given={James Kai-sing},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinithyphendelim s\bibinitperiod},
+      }}%
+      {{hash=LJY}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Justin\bibnamedelima Yifu},
+         giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KJKsLJY1}
+    \strng{fullhash}{KJKsLJY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-07-13}
+    \field{number}{1}
+    \field{pages}{51\bibrangedash 73}
+    \field{title}{The Causes of China's Great Leap Famine, 1959--1961}
+    \verb{url}
+    \verb https://www.jstor.org/stable/10.1086/380584
+    \endverb
+    \field{volume}{52}
+    \field{journaltitle}{Economic Development and Cultural Change}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Kwakernaak1977}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=KH}{%
+         family={Kwakernaak},
+         familyi={K\bibinitperiod},
+         given={Huibert},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=BA}{%
+         family={Bensoussan},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LJL}{%
+         family={Lions},
+         familyi={L\bibinitperiod},
+         given={J.\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{KH1}
+    \strng{fullhash}{KH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{booktitle}{New Trends in Systems Analysis}
+    \field{pages}{357\bibrangedash 378}
+    \field{title}{Application of Control Theory to Population Policy}
+    \list{location}{1}{%
+      {Berlin, Heidelberg}%
+    }
+    \field{year}{1977}
+  \endentry
+
+  \entry{Latour1987}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LB}{%
+         family={Latour},
+         familyi={L\bibinitperiod},
+         given={Bruno},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard University Press}%
+    }
+    \strng{namehash}{LB1}
+    \strng{fullhash}{LB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{title}{Science in Action: How to Follow Scientists and Engineers through Society}
+    \field{year}{1987}
+  \endentry
+
+  \entry{Lee1987IronHouse}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LLOf}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Leo Ou-fan},
+         giveni={L\bibinitperiod\bibinitdelim O\bibinithyphendelim f\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Indiana University Press}%
+    }
+    \strng{namehash}{LLOf1}
+    \strng{fullhash}{LLOf1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{series}{Studies in Chinese literature and society}
+    \field{title}{Voices from the Iron House: A Study of Lu Xun}
+    \list{location}{1}{%
+      {Bloomington}%
+    }
+    \field{year}{1987}
+  \endentry
+
+  \entry{LiNan2018ThirdPlenumCommunique}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LN}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Nan},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LN1}
+    \strng{fullhash}{LN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{note}{Last modified: 2018-06-26. Accessed: 2024-08-12}
+    \field{title}{Communique of the Third Plenary Session of the 11th Central Committee of the Communist Party of China}
+    \verb{url}
+    \verb https://www.bjreview.com/Special_Reports/2018/40th_Anniversary_of_Ref
+    \verb orm_and_Opening_up/Timeline/201806/t20180626_800133641.html
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{LiShuhua2012IChing}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LS}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Shuhua},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LS1}
+    \strng{fullhash}{LS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{note}{Translated by Zhao Kuang. Last modified: 2012-07-06. Accessed: 2024-06-20}
+    \field{title}{Natural Philosophy of I Ching and Life Practice}
+    \verb{url}
+    \verb https://philo.nju.edu.cn/f4/54/c4692a128084/page.htm
+    \endverb
+    \field{year}{2012}
+  \endentry
+
+  \entry{LiXiaorong2015LicenseToCoerce}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LX}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Xiaorong},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LX1}
+    \strng{fullhash}{LX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{howpublished}{Yale Journal of Law \& Feminism}
+    \field{note}{Published: 2015-10-23. Accessed: 2024-07-12}
+    \field{title}{License To Coerce: Violence Against Women, State Responsibility, and Legal Failures in China's Family-Planning Program}
+    \verb{url}
+    \verb https://openyls.law.yale.edu/handle/20.500.13051/7212
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{LinYang1998AgriculturalCrisis}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LJY}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Justin\bibnamedelima Yifu},
+         giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=YDT}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Dennis\bibnamedelima Tao},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJYYDT1}
+    \strng{fullhash}{LJYYDT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{note}{China's Great Famine special issue. Accessed: 2024-07-13}
+    \field{number}{2}
+    \field{pages}{125\bibrangedash 140}
+    \field{title}{On the Causes of China's Agricultural Crisis and the Great Leap Famine}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S1043951X99800108
+    \endverb
+    \field{volume}{9}
+    \field{journaltitle}{China Economic Review}
+    \field{year}{1998}
+  \endentry
+
+  \entry{LinZhibo2007}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LZ}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Zhibo},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LZ1}
+    \strng{fullhash}{LZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{note}{Last modified: 2007-05-08. Accessed: 2024-06-15}
+    \field{title}{究竟什么是基本国策？}
+    \verb{url}
+    \verb https://web.archive.org/web/20160304092646/http://politics.people.com
+    \verb .cn/GB/30178/10013649.html
+    \endverb
+    \field{year}{2007}
+  \endentry
+
+  \entry{Lu2020RhetoricCulturalRevolution}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LX}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Xing},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of South Carolina Press}%
+    }
+    \strng{namehash}{LX2}
+    \strng{fullhash}{LX2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{title}{Rhetoric of the Chinese Cultural Revolution: The Impact on Chinese Thought, Culture, and Communication}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Malthus1999}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MTR}{%
+         family={Malthus},
+         familyi={M\bibinitperiod},
+         given={Thomas\bibnamedelima Robert},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{MTR1}
+    \strng{fullhash}{MTR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{title}{An Essay on the Principle of Population}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Mann2018Smithsonian}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MCC}{%
+         family={Mann},
+         familyi={M\bibinitperiod},
+         given={Charles\bibnamedelima C.},
+         giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MCC1}
+    \strng{fullhash}{MCC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{howpublished}{Smithsonian Magazine}
+    \field{note}{Last modified: 2018-01. Accessed: 2024-07-09}
+    \field{title}{The Book That Incited a Worldwide Fear of Overpopulation}
+    \verb{url}
+    \verb https://www.smithsonianmag.com/innovation/book-incited-worldwide-fear
+    \verb -overpopulation-180967499/
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{Masini2001}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MEB}{%
+         family={Masini},
+         familyi={M\bibinitperiod},
+         given={Eleonora\bibnamedelima Barbieri},
+         giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MEB1}
+    \strng{fullhash}{MEB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-07-16}
+    \field{number}{1}
+    \field{pages}{21\bibrangedash 26}
+    \field{title}{Futures Studies in Italy and {The Limits to Growth}}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0016328700000501
+    \endverb
+    \field{volume}{33}
+    \field{journaltitle}{Futures}
+    \field{month}{02}
+    \field{year}{2001}
+  \endentry
+
+  \entry{MeadowsEtAl1976}{book}{}
+    \name{author}{4}{}{%
+      {{hash=MDH}{%
+         family={Meadows},
+         familyi={M\bibinitperiod},
+         given={Donella\bibnamedelima H.},
+         giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=MDL}{%
+         family={Meadows},
+         familyi={M\bibinitperiod},
+         given={Dennis\bibnamedelima L.},
+         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Randers},
+         familyi={R\bibinitperiod},
+         given={Jorgen},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BIWW}{%
+         family={Behrens\bibnamedelima III},
+         familyi={B\bibinitperiod\bibinitdelim I\bibinitperiod},
+         given={William\bibnamedelima W.},
+         giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Universe Books}%
+    }
+    \strng{namehash}{MDH+1}
+    \strng{fullhash}{MDHMDLRJBIWW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{edition}{2}
+    \field{title}{The Limits to Growth: A Report for the Club of Rome's Project on the Predicament of Mankind}
+    \field{year}{1976}
+  \endentry
+
+  \entry{MenciusLeggeWikisource}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={Mencius},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{note}{Translated by James Legge. Accessed: 2024-06-20}
+    \field{title}{The Works of Mencius}
+    \verb{url}
+    \verb https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Work
+    \verb s_of_Mencius/chapter07
+    \endverb
+  \endentry
+
+  \entry{Minami2024PeoplesDiplomacy}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MK}{%
+         family={Minami},
+         familyi={M\bibinitperiod},
+         given={Kazushi},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cornell University Press}%
+    }
+    \strng{namehash}{MK1}
+    \strng{fullhash}{MK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{title}{People's Diplomacy: How Americans and Chinese Transformed US-China Relations during the Cold War}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Moffatt2020ThoughtCo}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MM}{%
+         family={Moffatt},
+         familyi={M\bibinitperiod},
+         given={Mike},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MM1}
+    \strng{fullhash}{MM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{howpublished}{ThoughtCo}
+    \field{note}{Last modified: 2020-01-27. Accessed: 2024-07-18}
+    \field{title}{The Cause Behind the Post-War Economic Housing Boom After WWII}
+    \verb{url}
+    \verb https://www.thoughtco.com/the-post-war-us-economy-1945-to-1960-114815
+    \verb 3
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{Nordhaus1973}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NWD}{%
+         family={Nordhaus},
+         familyi={N\bibinitperiod},
+         given={William\bibnamedelima D.},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NWD1}
+    \strng{fullhash}{NWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \true{singletitle}
+    \field{number}{332}
+    \field{pages}{1156\bibrangedash 1183}
+    \field{title}{World Dynamics: Measurement Without Data}
+    \field{volume}{83}
+    \field{journaltitle}{The Economic Journal}
+    \field{month}{12}
+    \field{year}{1973}
+  \endentry
+
+  \entry{OTA1982ChinaBirthPlanning}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=O}{%
+         family={{Office of Technology Assessment}},
+         familyi={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Congress of the U.S., Office of Technology Assessment}%
+    }
+    \strng{namehash}{O1}
+    \strng{fullhash}{O1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \true{singletitle}
+    \field{booktitle}{World Population and Fertility Planning Technologies: The Next 20 Years}
+    \field{pages}{205\bibrangedash 219}
+    \field{title}{Evolution of China's Birth Planning Policy}
+    \field{year}{1982}
+  \endentry
+
+  \entry{Phillips2016GuardianCulturalRevolution}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PT}{%
+         family={Phillips},
+         familyi={P\bibinitperiod},
+         given={Tom},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PT1}
+    \strng{fullhash}{PT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \field{howpublished}{The Guardian}
+    \field{note}{Published: 2016-05-11. Accessed: 2024-07-15}
+    \field{title}{The Cultural Revolution: All You Need to Know about China's Political Convulsion}
+    \verb{url}
+    \verb https://www.theguardian.com/world/2016/may/11/the-cultural-revolution
+    \verb -50-years-on-all-you-need-to-know-about-chinas-political-convulsion
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{Qian1983ChinaPopulationNewsletter}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=QXZ}{%
+         family={Qian},
+         familyi={Q\bibinitperiod},
+         given={X.\bibnamedelima Z.},
+         giveni={X\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{QXZ1}
+    \strng{fullhash}{QXZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Q}
+    \field{sortinithash}{Q}
+    \true{singletitle}
+    \field{howpublished}{China Population Newsletter}
+    \field{number}{1}
+    \field{pages}{8\bibrangedash 13}
+    \field{title}{Implementation of China's Population Policy}
+    \field{volume}{1}
+    \field{month}{05}
+    \field{year}{1983}
+  \endentry
+
+  \entry{Remais2023BerkeleyPublicHealth}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RJ}{%
+         family={Remais},
+         familyi={R\bibinitperiod},
+         given={Justin},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJ1}
+    \strng{fullhash}{RJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{howpublished}{Berkeley Public Health}
+    \field{note}{Last modified: 2023-09-28. Accessed: 2024-07-13}
+    \field{title}{Berkeley Study: Historic Famine Leaves Multiple Generations Vulnerable to Infectious Disease}
+    \verb{url}
+    \verb https://publichealth.berkeley.edu/news-media/research-highlights/hist
+    \verb oric-famine-leaves-multiple-generations-vulnerable-to-infectious-dise
+    \verb ase
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{Revelle1971}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RR}{%
+         family={Revelle},
+         familyi={R\bibinitperiod},
+         given={Roger},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RR1}
+    \strng{fullhash}{RR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{note}{Edited by Paul R. Ehrlich, Anne H. Ehrlich, and W. H. Freeman. Accessed: 2024-07-16}
+    \field{number}{2}
+    \field{pages}{66\bibrangedash 70}
+    \field{title}{Paul Ehrlich: New High Priest of Ecocatastrophe}
+    \verb{url}
+    \verb https://www.jstor.org/stable/2134034
+    \endverb
+    \field{volume}{3}
+    \field{journaltitle}{Family Planning Perspectives}
+    \field{year}{1971}
+  \endentry
+
+  \entry{Sanderson1994SimulationModels}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SWC}{%
+         family={Sanderson},
+         familyi={S\bibinitperiod},
+         given={Warren\bibnamedelima C.},
+         giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=LW}{%
+         family={Lutz},
+         familyi={L\bibinitperiod},
+         given={Wolfgang},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{SWC1}
+    \strng{fullhash}{SWC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{booktitle}{Population --- Development --- Environment}
+    \field{pages}{33\bibrangedash 71}
+    \field{title}{Simulation Models of Demographic, Economic, and Environmental Interactions}
+    \list{location}{1}{%
+      {Berlin, Heidelberg}%
+    }
+    \field{year}{1994}
+  \endentry
+
+  \entry{ShaShangzhi2020}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SS}{%
+         family={Sha},
+         familyi={S\bibinitperiod},
+         given={Shangzhi},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SS1}
+    \strng{fullhash}{SS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{note}{Last modified: 2020-11-25. Accessed: 2024-07-25}
+    \field{title}{从反右运动看中国特色的政治斗争}
+    \verb{url}
+    \verb https://web.archive.org/web/20201125014337/http://www.yhcqw.com/36/89
+    \verb 45.html
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{ShortZhai1998}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SSE}{%
+         family={Short},
+         familyi={S\bibinitperiod},
+         given={Susan\bibnamedelima E.},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=ZF}{%
+         family={Zhai},
+         familyi={Z\bibinitperiod},
+         given={Fengying},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SSEZF1}
+    \strng{fullhash}{SSEZF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-06-09}
+    \field{number}{4}
+    \field{pages}{373\bibrangedash 387}
+    \field{title}{Looking Locally at China's One-Child Policy}
+    \verb{url}
+    \verb https://www.jstor.org/stable/172250
+    \endverb
+    \field{volume}{29}
+    \field{journaltitle}{Studies in Family Planning}
+    \field{year}{1998}
+  \endentry
+
+  \entry{Smil1999GreatFamine}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SV}{%
+         family={Smil},
+         familyi={S\bibinitperiod},
+         given={Vaclav},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SV1}
+    \strng{fullhash}{SV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-07-13}
+    \field{number}{7225}
+    \field{pages}{1619\bibrangedash 1621}
+    \field{title}{China's Great Famine: 40 Years Later}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1127087/
+    \endverb
+    \field{volume}{319}
+    \field{journaltitle}{BMJ: British Medical Journal}
+    \field{month}{12}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Song1985SystemsScienceReforms}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{note}{IFAC/IFORS Symposium on Control Science and Technology for Development, Beijing, PRC, 20--22 August 1985. Accessed: 2024-06-17}
+    \field{number}{9}
+    \field{pages}{1\bibrangedash 7}
+    \field{title}{Systems Science and China's Economic Reforms}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S1474667017602520
+    \endverb
+    \field{volume}{18}
+    \field{journaltitle}{IFAC Proceedings Volumes}
+    \field{year}{1985}
+  \endentry
+
+  \entry{SongTuanYu1985}{book}{}
+    \name{author}{3}{}{%
+      {{hash=SJ}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TCH}{%
+         family={Tuan},
+         familyi={T\bibinitperiod},
+         given={Chi-Hsien},
+         giveni={C\bibinithyphendelim H\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Jingyuan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Praeger}%
+    }
+    \strng{namehash}{SJ+1}
+    \strng{fullhash}{SJTCHYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Population Control in China: Theory and Applications}
+    \field{year}{1985}
+  \endentry
+
+  \entry{SongKongYu1988}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SJ}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Kong},
+         familyi={K\bibinitperiod},
+         given={Deyong},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Jingyuan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ+1}
+    \strng{fullhash}{SJKDYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Accessed: 2024-06-17}
+    \field{pages}{11\bibrangedash 16}
+    \field{title}{Population System Control}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/0895717788904438
+    \endverb
+    \field{volume}{11}
+    \field{journaltitle}{Mathematical and Computer Modelling}
+    \field{year}{1988}
+  \endentry
+
+  \entry{SJSUWatkinsCulturalRevolutionSite}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-07-14}
+    \field{title}{The Great Proletarian Cultural Revolution in China, 1966-1976}
+    \verb{url}
+    \verb https://www.sjsu.edu/faculty/watkins/cultrev.htm
+    \endverb
+  \endentry
+
+  \entry{Tien1981DemographyInChina}{article}{}
+    \name{author}{1}{}{%
+      {{hash=THY}{%
+         family={Tien},
+         familyi={T\bibinitperiod},
+         given={H.\bibnamedelima Yuan},
+         giveni={H\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{THY1}
+    \strng{fullhash}{THY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{note}{Accessed: 2024-07-25}
+    \field{number}{4}
+    \field{pages}{683\bibrangedash 710}
+    \field{title}{Demography in China: From Zero to Now}
+    \verb{url}
+    \verb https://www.jstor.org/stable/2736034
+    \endverb
+    \field{volume}{47}
+    \field{journaltitle}{Population Index}
+    \field{year}{1981}
+  \endentry
+
+  \entry{Tien1980WanXiShao}{article}{}
+    \name{author}{1}{}{%
+      {{hash=THY}{%
+         family={Tien},
+         familyi={T\bibinitperiod},
+         given={H.\bibnamedelima Yuan},
+         giveni={H\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{THY1}
+    \strng{fullhash}{THY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{note}{Accessed: 2024-06-10}
+    \field{number}{2}
+    \field{pages}{65\bibrangedash 70}
+    \field{title}{Wan, Xi, Shao: How China Meets Its Population Problem}
+    \verb{url}
+    \verb https://www.jstor.org/stable/2947873
+    \endverb
+    \field{volume}{6}
+    \field{journaltitle}{International Family Planning Perspectives}
+    \field{year}{1980}
+  \endentry
+
+  \entry{Uberoi1968Scientism}{article}{}
+    \name{author}{1}{}{%
+      {{hash=UP}{%
+         family={Uberoi},
+         familyi={U\bibinitperiod},
+         given={Patricia},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{UP1}
+    \strng{fullhash}{UP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1177/000944556800400209
+    \endverb
+    \field{note}{Accessed: 2024-06-17}
+    \field{number}{2}
+    \field{pages}{33\bibrangedash 35}
+    \field{title}{Chinese Conversion To Scientism: Scientism in Chinese Thought}
+    \verb{url}
+    \verb http://journals.sagepub.com/doi/10.1177/000944556800400209
+    \endverb
+    \field{volume}{4}
+    \field{journaltitle}{China Report}
+    \field{month}{03}
+    \field{year}{1968}
+  \endentry
+
+  \entry{AIT2010UNRes2758}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \field{howpublished}{American Institute in Taiwan (archived)}
+    \field{note}{Last modified: 2010-06-07. Accessed: 2024-07-14}
+    \field{title}{U.N. Resolution 2758 (U.N. Voted to Admit Communist China, Expel Nationalist Delegates.)}
+    \verb{url}
+    \verb https://web-archive-2017.ait.org.tw/en/un-res-2758-voted-to-admit-com
+    \verb miunist-china.html
+    \endverb
+    \field{year}{2010}
+  \endentry
+
+  \entry{Xinhua2020Xiaokang}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \field{howpublished}{Xinhua}
+    \field{note}{Last modified: 2020-05-24. Accessed: 2024-08-12}
+    \field{title}{Understanding the Two Sessions: What Is Xiaokang?}
+    \verb{url}
+    \verb http://www.xinhuanet.com/english/2020-05/24/c_139083861.htm
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{UN2017PostWarReconstruction}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{United Nations}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-07-16}
+    \field{pages}{23\bibrangedash 48}
+    \field{title}{Post-War Reconstruction and Development in the Golden Age of Capitalism}
+    \verb{url}
+    \verb https://www.un-ilibrary.org/content/books/9789210605984c009/read
+    \endverb
+    \field{month}{07}
+    \field{year}{2017}
+  \endentry
+
+  \entry{PDR1983UNPopAward}{article}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-06-20}
+    \field{number}{4}
+    \field{pages}{747\bibrangedash 753}
+    \field{title}{United Nations Population Award to Indira Gandhi and Qian Xinzhong}
+    \verb{url}
+    \verb https://www.jstor.org/stable/1973563
+    \endverb
+    \field{volume}{9}
+    \field{journaltitle}{Population and Development Review}
+    \field{year}{1983}
+  \endentry
+
+  \entry{Vidal2016AntiRightist}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=VC}{%
+         family={Vidal},
+         familyi={V\bibinitperiod},
+         given={Christine},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VC1}
+    \strng{fullhash}{VC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \true{singletitle}
+    \field{howpublished}{CCJ-Occasional-Papers}
+    \field{note}{Published: 2016-04-25. Accessed: 2024-07-25}
+    \field{title}{The 1957-1958 Anti-Rightist Campaign in China: History and Memory (1978-2014)}
+    \verb{url}
+    \verb https://shs.hal.science/halshs-01306892
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{WangYouqin2001StudentAttacks}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Youqin},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WY1}
+    \strng{fullhash}{WY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{note}{Journal/source not specified in citation}
+    \field{pages}{29\bibrangedash 79}
+    \field{title}{Student Attacks against Teachers: The Revolution of 1966}
+    \field{month}{03}
+    \field{year}{2001}
+  \endentry
+
+  \entry{WangEtAl2016AJS}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WZ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Zhihe},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=YM}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Ming},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Jiaming},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Chang},
+         familyi={C\bibinitperiod},
+         given={Jiang},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WZ+1}
+    \strng{fullhash}{WZYMZJCJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-06-19}
+    \field{number}{4}
+    \field{pages}{929\bibrangedash 979}
+    \field{title}{Ending an Era of Population Control in China: Was the One-Child Policy Ever Needed?}
+    \verb{url}
+    \verb https://www.jstor.org/stable/45129326
+    \endverb
+    \field{volume}{75}
+    \field{journaltitle}{The American Journal of Economics and Sociology}
+    \field{year}{2016}
+  \endentry
+
+  \entry{WeiZhangLiu2017}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WSJ}{%
+         family={Wei},
+         familyi={W\bibinitperiod},
+         given={Shang-Jin},
+         giveni={S\bibinithyphendelim J\bibinitperiod},
+      }}%
+      {{hash=ZX}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Xiaobo},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Yin},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WSJ+1}
+    \strng{fullhash}{WSJZXLY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-09-14}
+    \field{pages}{169\bibrangedash 186}
+    \field{title}{Home Ownership as Status Competition: Some Theory and Evidence}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0304387816301006
+    \endverb
+    \field{volume}{127}
+    \field{journaltitle}{Journal of Development Economics}
+    \field{month}{07}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Britannica2021GoalsCulturalRevolution}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{howpublished}{Encyclop{\ae}dia Britannica}
+    \field{note}{Last modified: 2021-11-30. Accessed: 2024-07-13}
+    \field{title}{What Were the Goals of the Cultural Revolution?}
+    \verb{url}
+    \verb https://www.britannica.com/question/What-were-the-goals-of-the-Cultur
+    \verb al-Revolution
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{White2016PopulationPolicyContext}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=WT}{%
+         family={White},
+         familyi={W\bibinitperiod},
+         given={Tyrene},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=SR}{%
+         family={Solinger},
+         familyi={S\bibinitperiod},
+         given={Rickie},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Nakachi},
+         familyi={N\bibinitperiod},
+         given={Mie},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{WT1}
+    \strng{fullhash}{WT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{booktitle}{Reproductive States: Global Perspectives on the Invention and Implementation of Population Policy}
+    \verb{doi}
+    \verb 10.1093/acprof:oso/9780199311071.003.0011
+    \endverb
+    \field{note}{Accessed: 2024-06-19}
+    \field{title}{China's Population Policy in Historical Context}
+    \field{year}{2016}
+  \endentry
+
+  \entry{WhyteWangCai2015}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WMK}{%
+         family={Whyte},
+         familyi={W\bibinitperiod},
+         given={Martin\bibnamedelima King},
+         giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Feng},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Cai},
+         familyi={C\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WMK+1}
+    \strng{fullhash}{WMKWFCY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-06-10}
+    \field{number}{74}
+    \field{pages}{144\bibrangedash 159}
+    \field{title}{Challenging Myths About China's One-Child Policy}
+    \verb{url}
+    \verb https://www.jstor.org/stable/10.1086/681664
+    \endverb
+    \field{journaltitle}{The China Journal}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Xinhua2013BackgroundBirthPolicy}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=X}{%
+         family={{Xinhua News Agency}},
+         familyi={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{X1}
+    \strng{fullhash}{X1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{X}
+    \field{sortinithash}{X}
+    \true{singletitle}
+    \field{note}{Last modified: 2013-12-28. Accessed: 2024-06-19}
+    \field{title}{新闻背景：我国生育政策在实践中逐渐完善}
+    \verb{url}
+    \verb https://www.gov.cn/jrzg/2013-12/28/content_2556489.htm
+    \endverb
+    \field{year}{2013}
+  \endentry
+
+  \entry{YiFuxian2013}{book}{}
+    \name{author}{1}{}{%
+      {{hash=YF}{%
+         family={Yi},
+         familyi={Y\bibinitperiod},
+         given={Fuxian},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {中国发展出版社}%
+    }
+    \strng{namehash}{YF1}
+    \strng{fullhash}{YF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \true{singletitle}
+    \field{title}{大国空巢: 反思中国计划生育政策}
+    \field{year}{2013}
+  \endentry
+
+  \entry{ZhangYangLiang2001}{book}{}
+    \name{author}{3}{}{%
+      {{hash=ZF}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Fan},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=YK}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Kuixue},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Jimin},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {中国人口出版社}%
+    }
+    \strng{namehash}{ZF+1}
+    \strng{fullhash}{ZFYKLJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \true{singletitle}
+    \field{title}{中国人口与计划生育大事要览}
+    \field{year}{2001}
+  \endentry
+
+  \entry{RenminArchive2016ScienceTechMeeting}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{�}
+    \field{sortinithash}{�}
+    \true{singletitle}
+    \field{howpublished}{人民日报 (archived)}
+    \field{note}{Last modified: 2016-02-14. Accessed: 2024-08-12}
+    \field{title}{在上海市举行的科学技术工作会议上 周总理阐述科学技术现代化的重大意义}
+    \verb{url}
+    \verb https://web.archive.org/web/20160214201234/http://rmrbw.net/read.php?
+    \verb tid=302475
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{GovCN2009HundredFlowersPolicy}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{�}
+    \field{sortinithash}{�}
+    \true{singletitle}
+    \field{howpublished}{gov.cn}
+    \field{note}{Last modified: 2009-08-27. Accessed: 2024-07-25}
+    \field{title}{新中国档案：‘百花齐放、百家争鸣’方针的提出}
+    \verb{url}
+    \verb https://www.gov.cn/test/2009-08/27/content_1402513.htm
+    \endverb
+    \field{year}{2009}
+  \endentry
+\enddatalist
+\endinput

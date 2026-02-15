@@ -1,0 +1,1308 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{ArmyAirForces1942DoolittleReport}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{Army Air Forces}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \field{title}{General Doolittle's Report on Japanese Raid}
+    \verb{url}
+    \verb https://www.ibiblio.org/hyperwar/AAF/rep/Doolittle/Report.html#12
+    \endverb
+    \field{month}{07}
+    \field{year}{1942}
+  \endentry
+
+  \entry{CannonEtAl2009IB20thCenturyWorldHistory}{book}{}
+    \name{author}{8}{}{%
+      {{hash=CM}{%
+         family={Cannon},
+         familyi={C\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mamaux},
+         familyi={M\bibinitperiod},
+         given={Alexis},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PG}{%
+         family={Pope},
+         familyi={P\bibinitperiod},
+         given={Giles},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=JNR}{%
+         family={Jones-Nerzic},
+         familyi={J\bibinithyphendelim N\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Aiden},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Keys},
+         familyi={K\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {OUP Oxford}%
+    }
+    \strng{namehash}{CM+1}
+    \strng{fullhash}{CMMAMMPGJNRWASDKD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{20th Century World History: {IB} Diploma Programme}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Carter2023ComplexLegacyDoolittleRaid}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Carter},
+         familyi={C\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{The China Project (blog)}
+    \field{title}{The Complex Legacy of the Doolittle Raid and {U.S.}-China Allyship}
+    \verb{url}
+    \verb https://thechinaproject.com/2023/04/19/the-complex-legacy-of-the-dool
+    \verb ittle-raid-and-u-s-china-allyship/
+    \endverb
+    \field{month}{04}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Carus2017ShortHistoryBioWarfare}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CWS}{%
+         family={Carus},
+         familyi={C\bibinitperiod},
+         given={W.\bibnamedelima Seth},
+         giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Government Printing Office}%
+    }
+    \strng{namehash}{CWS1}
+    \strng{fullhash}{CWS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{A Short History of Biological Warfare: From Pre-History to the 21st Century}
+    \field{year}{2017}
+  \endentry
+
+  \entry{ChevrierEtAl2006BTWCProceedings}{book}{}
+    \name{author}{6}{}{%
+      {{hash=CMI}{%
+         family={Chevrier},
+         familyi={C\bibinitperiod},
+         given={Marie\bibnamedelima Isabelle},
+         giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Chomiczewski},
+         familyi={C\bibinitperiod},
+         given={Krzysztof},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=GH}{%
+         family={Garrigue},
+         familyi={G\bibinitperiod},
+         given={Henri},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=GG}{%
+         family={Granaszt{\'o}i},
+         familyi={G\bibinitperiod},
+         given={Gyorgy},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=DMR}{%
+         family={Dando},
+         familyi={D\bibinitperiod},
+         given={Malcolm\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=PGS}{%
+         family={Pearson},
+         familyi={P\bibinitperiod},
+         given={G.\bibnamedelima S.},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Science \& Business Media}%
+    }
+    \strng{namehash}{CMI+1}
+    \strng{fullhash}{CMICKGHGGDMRPGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{The Implementation of Legally Binding Measures to Strengthen the Biological and Toxin Weapons Convention: Proceedings of the {NATO} Advanced Study Institute, Held in Budapest, Hungary, 2001}
+    \field{year}{2006}
+  \endentry
+
+  \entry{ChinaDaily2015VillagersHelpedSavePilots}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{China Daily}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{Chinese Villagers Helped Save {US} Pilots during {WWII}}
+    \verb{url}
+    \verb https://www.chinadaily.com.cn/world/2015victoryanniv/2015-08/12/conte
+    \verb nt_21573741.htm
+    \endverb
+    \field{month}{08}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Chun2006DoolittleRaid}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CC}{%
+         family={Chun},
+         familyi={C\bibinitperiod},
+         given={Clayton},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Osprey Publishing}%
+    }
+    \strng{namehash}{CC1}
+    \strng{fullhash}{CC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{The Doolittle Raid 1942}
+    \verb{url}
+    \verb http://archive.org/details/doolittleraid19400chun
+    \endverb
+    \field{year}{2006}
+  \endentry
+
+  \entry{Correll2009DoolittlesRaid}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Correll},
+         familyi={C\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJ2}
+    \strng{fullhash}{CJ2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{howpublished}{Air \& Space Forces Magazine}
+    \field{title}{Doolittle's Raid}
+    \verb{url}
+    \verb https://www.airandspaceforces.com/article/0409doolittle/
+    \endverb
+    \field{month}{04}
+    \field{year}{2009}
+  \endentry
+
+  \entry{CravenCate1948AAFWW2Vol1}{book}{}
+    \name{editor}{2}{}{%
+      {{hash=CWF}{%
+         family={Craven},
+         familyi={C\bibinitperiod},
+         given={Wesley\bibnamedelima Frank},
+         giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=CJL}{%
+         family={Cate},
+         familyi={C\bibinitperiod},
+         given={James\bibnamedelima Lea},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{CWFCJL1}
+    \strng{fullhash}{CWFCJL1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{The Army Air Forces in World War {II}: Vol 1 - Plans and Early Operations; Jan 1939- Aug 1942}
+    \field{year}{1948}
+  \endentry
+
+  \entry{Doolittle1942GeneralReportJapaneseRaid}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DJ}{%
+         family={Doolittle},
+         familyi={D\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJ1}
+    \strng{fullhash}{DJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{title}{{GENERAL DOOLITTLE's REPORT ON JAPANESE RAID}}
+    \verb{url}
+    \verb https://www.ibiblio.org/hyperwar/AAF/rep/Doolittle/Report.html#12
+    \endverb
+    \field{month}{04}
+    \field{year}{1942}
+  \endentry
+
+  \entry{DoolittleGlines1995ICouldNeverBeSoLuckyAgain}{book}{}
+    \name{author}{2}{}{%
+      {{hash=DJ}{%
+         family={Doolittle},
+         familyi={D\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Glines},
+         familyi={G\bibinitperiod},
+         given={Carroll},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Schiffer Military/Aviation History}%
+    }
+    \strng{namehash}{DJGC1}
+    \strng{fullhash}{DJGC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{title}{I Could Never Be so Lucky Again: An Autobiography}
+    \list{location}{1}{%
+      {Atglen, PA}%
+    }
+    \field{year}{1995}
+  \endentry
+
+  \entry{Doubek2021FlyingTigersNPR}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DJ}{%
+         family={Doubek},
+         familyi={D\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJ2}
+    \strng{fullhash}{DJ2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{howpublished}{NPR}
+    \field{note}{History section}
+    \field{title}{The Flying Tigers: How a Group of Americans Ended up Fighting for China in {WWII}}
+    \verb{url}
+    \verb https://www.npr.org/2021/12/19/1062091832/flying-tigers-americans-chi
+    \verb na-world-war-ii-history-japan
+    \endverb
+    \field{month}{12}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Feis1950RoadToPearlHarbor}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FH}{%
+         family={Feis},
+         familyi={F\bibinitperiod},
+         given={Herbert},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Princeton University Press}%
+    }
+    \strng{namehash}{FH1}
+    \strng{fullhash}{FH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{title}{The Road to Pearl Harbor}
+    \verb{url}
+    \verb http://archive.org/details/roadtopearlharbo0000herb_n3s7
+    \endverb
+    \field{year}{1950}
+  \endentry
+
+  \entry{Felling2007CronkiteHoffa}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FM}{%
+         family={Felling},
+         familyi={F\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \true{singletitle}
+    \field{howpublished}{CBS News}
+    \field{title}{From The Vault: Cronkite \& Hoffa}
+    \verb{url}
+    \verb https://www.cbsnews.com/news/from-the-vault-cronkite-hoffa/
+    \endverb
+    \field{month}{09}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Glines1988DoolittleRaid}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GJCV}{%
+         family={Glines},
+         familyi={G\bibinitperiod},
+         suffix={Carroll\bibnamedelima V.},
+         suffixi={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+         given={Jr.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Orion Books}%
+    }
+    \strng{namehash}{GCVJ1}
+    \strng{fullhash}{GCVJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{title}{The Doolittle Raid}
+    \verb{url}
+    \verb http://archive.org/details/doolittleraidame00glin
+    \endverb
+    \field{year}{1988}
+  \endentry
+
+  \entry{Hotz1949WayOfAFighter}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HR}{%
+         family={Hotz},
+         familyi={H\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HR1}
+    \strng{fullhash}{HR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{note}{Digitized copy}
+    \field{title}{Way Of A Fighter: The Memoirs Of Claire Lee Chennault}
+    \verb{url}
+    \verb http://archive.org/details/in.ernet.dli.2015.506335
+    \endverb
+    \field{year}{1949}
+  \endentry
+
+  \entry{Leng2023DoolittleFriendshipGlobalTimes}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LS}{%
+         family={Leng},
+         familyi={L\bibinitperiod},
+         given={Shumei},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LS1}
+    \strng{fullhash}{LS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{howpublished}{Global Times}
+    \field{title}{Why Doolittle Raid a Testimony of Enduring Friendship between Chinese and American People?}
+    \verb{url}
+    \verb https://www.globaltimes.cn/page/202311/1302384.shtml
+    \endverb
+    \field{month}{11}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Liverpool2008KnightsOfBushido}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LEFLRBRo}{%
+         family={Liverpool},
+         familyi={L\bibinitperiod},
+         given={Edward Frederick Langley Russell Baron Russell\bibnamedelima of},
+         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim o\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Skyhorse Publishing Inc.}%
+    }
+    \strng{namehash}{LEFLRBRo1}
+    \strng{fullhash}{LEFLRBRo1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{title}{The Knights of Bushido: A History of Japanese War Crimes During World War {II}}
+    \field{year}{2008}
+  \endentry
+
+  \entry{MeltzerMensch2023NaziConspiracy}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MB}{%
+         family={Meltzer},
+         familyi={M\bibinitperiod},
+         given={Brad},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Mensch},
+         familyi={M\bibinitperiod},
+         given={Josh},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Bonnier Books UK}%
+    }
+    \strng{namehash}{MBMJ1}
+    \strng{fullhash}{MBMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{title}{The Nazi Conspiracy: The Secret Plot to Kill Churchill, Roosevelt and Stalin}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Mitter2013ForgottenAlly}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={Mitter},
+         familyi={M\bibinitperiod},
+         given={Rana},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Houghton Mifflin Harcourt}%
+    }
+    \strng{namehash}{MR1}
+    \strng{fullhash}{MR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{title}{Forgotten Ally: China's World War {II}, 1937--1945}
+    \verb{url}
+    \verb http://archive.org/details/forgottenallychi0000mitt
+    \endverb
+    \list{location}{1}{%
+      {Boston}%
+    }
+    \field{year}{2013}
+  \endentry
+
+  \entry{MolotovMatsuokaTatekawa1941NeutralityPactText}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=MV}{%
+         family={Molotov},
+         familyi={M\bibinitperiod},
+         given={Vyacheslav},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=MY}{%
+         family={Matsuoka},
+         familyi={M\bibinitperiod},
+         given={Y{\=o}suke},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=TY}{%
+         family={Tatekawa},
+         familyi={T\bibinitperiod},
+         given={Yoshitsugu},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MV+1}
+    \strng{fullhash}{MVMYTY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{title}{{PACT OF NEUTRALITY BETWEEN UNION OF SOVIET SOCIALIST REPUBLICS AND JAPAN}}
+    \verb{url}
+    \verb https://avalon.law.yale.edu/wwii/s1.asp
+    \endverb
+    \field{month}{04}
+    \field{year}{1941}
+  \endentry
+
+  \entry{PacificWarMuseum2024ChinaIncidentWarMedal}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={{National Museum of the Pacific War}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-06-04}
+    \field{title}{The Impact: China Incident War Medal}
+    \verb{url}
+    \verb https://www.pacificwarmuseum.org/visit/exhibits/artifacts/ciwm
+    \endverb
+  \endentry
+
+  \entry{StateHistorian2013AmericanIsolationism}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=O}{%
+         family={{Office of the Historian}},
+         familyi={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{O1}
+    \strng{fullhash}{O1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \true{singletitle}
+    \field{title}{Milestones in the History of {U.S.} Foreign Relations}
+    \verb{url}
+    \verb https://history.state.gov/milestones/1937-1945/american-isolationism
+    \endverb
+    \field{year}{2013}
+  \endentry
+
+  \entry{PacificAtrocities2024BacteriologicalWarfareChina}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{Pacific Atrocities Education}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-06-15}
+    \field{title}{The Bacteriological Warfare on China}
+    \verb{url}
+    \verb https://www.pacificatrocities.org/the-bacteriological-warfare-on-chin
+    \verb a.html
+    \endverb
+  \endentry
+
+  \entry{PBS2024ShiroIshii}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{PBS}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P2}
+    \strng{fullhash}{P2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \true{singletitle}
+    \field{howpublished}{American Experience}
+    \field{note}{Accessed: 2024-06-15}
+    \field{title}{Shiro Ishii}
+    \verb{url}
+    \verb https://www.pbs.org/wgbh/americanexperience/features/weapon-biography
+    \verb -shiro-ishii/
+    \endverb
+  \endentry
+
+  \entry{RogersNDInnovationDoolittleBlackMonday}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RJD}{%
+         family={Rogers},
+         familyi={R\bibinitperiod},
+         given={J.\bibnamedelima David},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJD1}
+    \strng{fullhash}{RJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{note}{n.d., p.~25}
+    \field{title}{Doolittle, Black Monday, and Innovation}
+  \endentry
+
+  \entry{Roosevelt1941FreezingJapaneseAssets}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RFD}{%
+         family={Roosevelt},
+         familyi={R\bibinitperiod},
+         given={Franklin\bibnamedelima D.},
+         giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RFD1}
+    \strng{fullhash}{RFD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{title}{The Command Freezing Japanese Assets on July 25}
+    \verb{url}
+    \verb https://www.jacar.archives.go.jp/das/image-en/B02030753200
+    \endverb
+    \field{month}{08}
+    \field{year}{1941}
+  \endentry
+
+  \entry{Schoppa2011SeaOfBitterness}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SRK}{%
+         family={Schoppa},
+         familyi={S\bibinitperiod},
+         given={R.\bibnamedelima Keith},
+         giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard University Press}%
+    }
+    \strng{namehash}{SRK1}
+    \strng{fullhash}{SRK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{title}{In a Sea of Bitterness: Refugees during the Sino-Japanese War}
+    \list{location}{1}{%
+      {Cambridge, Mass}%
+    }
+    \field{year}{2011}
+  \endentry
+
+  \entry{Scott2015TargetTokyo}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Scott},
+         familyi={S\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {W. W. Norton \& Company}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Target Tokyo: Jimmy Doolittle and the Raid That Avenged Pearl Harbor}
+    \verb{url}
+    \verb http://archive.org/details/targettokyojimmy0000scot
+    \endverb
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{2015}
+  \endentry
+
+  \entry{Scott2018MilitaryTimesRipples}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Scott},
+         familyi={S\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{howpublished}{Military Times}
+    \field{title}{The Doolittle Raid Generated More Ripples than Once Thought}
+    \verb{url}
+    \verb https://www.militarytimes.com/off-duty/military-culture/2018/04/18/th
+    \verb e-doolittle-raid-generated-more-ripples-than-once-thought/
+    \endverb
+    \field{month}{04}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Scott2015SmithsonianUntoldStory}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Scott},
+         familyi={S\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{howpublished}{Smithsonian Magazine}
+    \field{title}{The Untold Story of the Vengeful Japanese Attack After the Doolittle Raid}
+    \verb{url}
+    \verb https://www.smithsonianmag.com/history/untold-story-vengeful-japanese
+    \verb -attack-doolittle-raid-180955001/
+    \endverb
+    \field{month}{04}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Sherry1996ChinaDefensive}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SMD}{%
+         family={Sherry},
+         familyi={S\bibinitperiod},
+         given={Mark\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Government Printing Office}%
+    }
+    \strng{namehash}{SMD1}
+    \strng{fullhash}{SMD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{title}{China Defensive}
+    \field{year}{1996}
+  \endentry
+
+  \entry{Tanaka1996HiddenHorrors}{book}{}
+    \name{author}{1}{}{%
+      {{hash=TT}{%
+         family={Tanaka},
+         familyi={T\bibinitperiod},
+         given={Toshiyuki},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Westview Press}%
+    }
+    \strng{namehash}{TT1}
+    \strng{fullhash}{TT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{title}{Hidden Horrors: Japanese War Crimes in World War {II}}
+    \verb{url}
+    \verb http://archive.org/details/hiddenhorrorsjap0000tana
+    \endverb
+    \list{location}{1}{%
+      {Boulder, Colo.}%
+    }
+    \field{year}{1996}
+  \endentry
+
+  \entry{Taylor2009Generalissimo}{book}{}
+    \name{author}{1}{}{%
+      {{hash=TJ}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={Jay},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard University Press}%
+    }
+    \strng{namehash}{TJ1}
+    \strng{fullhash}{TJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{title}{The Generalissimo: Chiang Kai-Shek and the Struggle for Modern China, With a New Postscript}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Britannica2024DoolittleRaid}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{The Editors of Encyclopaedia Britannica}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Doolittle Raid}
+    \verb{url}
+    \verb https://www.britannica.com/event/Doolittle-Raid
+    \endverb
+    \field{month}{04}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Britannica2024JamesHDoolittle}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{The Editors of Encyclopaedia Britannica}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{James H. Doolittle | World War {II}, Medal of Honor, Aviation Pioneer | Britannica}
+    \verb{url}
+    \verb https://www.britannica.com/biography/James-H-Doolittle
+    \endverb
+    \field{month}{05}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Britannica2023TripartitePact}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{The Editors of Encyclopaedia Britannica}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Tripartite Pact | Definition, History, Significance, \& Facts | Britannica}
+    \verb{url}
+    \verb https://www.britannica.com/topic/Tripartite-Pact
+    \endverb
+    \field{month}{09}
+    \field{year}{2023}
+  \endentry
+
+  \entry{TAMUCC2024PearlHarborMotives}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{The Mary and Jeff Bell Library and Texas A\&M University-Corpus Christi}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T2}
+    \strng{fullhash}{T2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{note}{Accessed: 2024-06-05}
+    \field{title}{Pearl Harbor: Japanese Military Motives}
+    \verb{url}
+    \verb https://www.tamucc.edu/library/exhibits/s/hist4350/page/Pearl_Harbor_
+    \verb Japanese_Military_Motives
+    \endverb
+  \endentry
+
+  \entry{WWIIMuseum2019PacificStrategy}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{The National WWII Museum}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T3}
+    \strng{fullhash}{T3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{title}{The Pacific Strategy, 1941--1944}
+    \verb{url}
+    \verb https://www.nationalww2museum.org/war/articles/pacific-strategy-1941-
+    \verb 1944
+    \endverb
+    \field{year}{2019}
+  \endentry
+
+  \entry{NYT1942ChineseCampaign}{article}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{The New York Times}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T4}
+    \strng{fullhash}{T4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{note}{Newspaper article (details not fully specified)}
+    \field{title}{{THE CHINESE CAMPAIGN}}
+    \field{month}{06}
+    \field{year}{1942}
+  \endentry
+
+  \entry{Tohmatsu2010StrategicCorrelation}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=TH}{%
+         family={Tohmatsu},
+         familyi={T\bibinitperiod},
+         given={Haruo},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Stanford University Press}%
+    }
+    \strng{namehash}{TH1}
+    \strng{fullhash}{TH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \field{booktitle}{The Battle for China}
+    \verb{doi}
+    \verb 10.1515/9781503627338-030
+    \endverb
+    \field{pages}{423\bibrangedash 445}
+    \field{title}{The Strategic Correlation between the Sino-Japanese and Pacific Wars}
+    \verb{url}
+    \verb https://doi.org/10.1515/9781503627338-030
+    \endverb
+    \field{year}{2010}
+  \endentry
+
+  \entry{WrightNelson1939AmericanAttitudes}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WQ}{%
+         family={Wright},
+         familyi={W\bibinitperiod},
+         given={Quincy},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=NCJ}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={Carl\bibnamedelima J.},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WQNCJ1}
+    \strng{fullhash}{WQNCJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \true{singletitle}
+    \field{number}{1}
+    \field{pages}{46\bibrangedash 62}
+    \field{title}{American Attitudes Toward Japan and China, 1937--38}
+    \field{volume}{3}
+    \field{journaltitle}{The Public Opinion Quarterly}
+    \field{year}{1939}
+  \endentry
+
+  \entry{XiongZhou2000GreatDictionaryMilitary}{book}{}
+    \name{author}{2}{}{%
+      {{hash=XW}{%
+         family={Xiong},
+         familyi={X\bibinitperiod},
+         given={Wuyi},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Jiafa},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=ZM}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Mingxin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Xinguang},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=XJ}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Jichang},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Great Wall Publishing}%
+    }
+    \strng{namehash}{XWZJ1}
+    \strng{fullhash}{XWZJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{X}
+    \field{sortinithash}{X}
+    \true{singletitle}
+    \field{title}{Great Dictionary: Military Volume}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Yamamoto2000Nanking}{book}{}
+    \name{author}{1}{}{%
+      {{hash=YM}{%
+         family={Yamamoto},
+         familyi={Y\bibinitperiod},
+         given={Masahiro},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Praeger}%
+    }
+    \strng{namehash}{YM1}
+    \strng{fullhash}{YM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \true{singletitle}
+    \field{title}{Nanking: Anatomy of an Atrocity}
+    \list{location}{1}{%
+      {Westport, Conn.}%
+    }
+    \field{year}{2000}
+  \endentry
+
+  \entry{Yin2002RapeOfBiologicalWarfare}{book}{}
+    \name{author}{1}{}{%
+      {{hash=YJ}{%
+         family={Yin},
+         familyi={Y\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=FA}{%
+         family={Fan},
+         familyi={F\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WE}{%
+         family={Wei},
+         familyi={W\bibinitperiod},
+         given={Eugene},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Cisong},
+         familyi={C\bibinitperiod},
+         given={Guo},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Northpole Light Publishing Hou}%
+    }
+    \strng{namehash}{YJ1}
+    \strng{fullhash}{YJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \true{singletitle}
+    \field{title}{The Rape Of Biological Warfare}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Zhao2016LifetimeOfSufferingChinaDaily}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=ZX}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Xu},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZX1}
+    \strng{fullhash}{ZX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \true{singletitle}
+    \field{howpublished}{China Daily}
+    \field{title}{A Lifetime of Suffering}
+    \verb{url}
+    \verb https://www.chinadaily.com.cn/a/201607/15/WS5a2b874fa310eefe3e9a0eb2.
+    \verb html
+    \endverb
+    \field{month}{07}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Zhuang2018AfterTheAirRaidSCMP}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=ZP}{%
+         family={Zhuang},
+         familyi={Z\bibinitperiod},
+         given={Pinghui},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZP1}
+    \strng{fullhash}{ZP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \true{singletitle}
+    \field{howpublished}{South China Morning Post}
+    \field{title}{After the Air Raid: Across Generations, Second World War Ties That Bind}
+    \verb{url}
+    \verb https://www.scmp.com/news/china/society/article/2178147/after-doolitt
+    \verb le-raid-across-generations-second-world-war-ties
+    \endverb
+    \field{month}{12}
+    \field{year}{2018}
+  \endentry
+\enddatalist
+\endinput

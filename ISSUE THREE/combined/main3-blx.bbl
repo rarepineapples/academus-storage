@@ -1,0 +1,1206 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{audi1999self}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AR}{%
+         family={Audi},
+         familyi={A\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AR1}
+    \strng{fullhash}{AR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \true{singletitle}
+    \field{pages}{205\bibrangedash 228}
+    \field{title}{Self-Evidence}
+    \verb{url}
+    \verb https://www.jstor.org/stable/2676103
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{Philosophical Perspectives}
+    \field{year}{1999}
+  \endentry
+
+  \entry{balaguer2016platonism}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=BM}{%
+         family={Balaguer},
+         familyi={B\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=ZEN}{%
+         family={Zalta},
+         familyi={Z\bibinitperiod},
+         given={Edward\bibnamedelima N.},
+         giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Metaphysics Research Lab, Stanford University}%
+    }
+    \strng{namehash}{BM1}
+    \strng{fullhash}{BM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{booktitle}{The Stanford Encyclopedia of Philosophy (Spring 2016
+  Edition)}
+    \field{title}{Platonism in Metaphysics}
+    \verb{url}
+    \verb https://plato.stanford.edu/archives/spr2016/entries/platonism/
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{barrett2016small}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{3}{}{%
+      {{hash=BHC}{%
+         family={Barrett},
+         familyi={B\bibinitperiod},
+         given={H.\bibnamedelima C.},
+         giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bolyanatz},
+         familyi={B\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CAN}{%
+         family={Crittenden},
+         familyi={C\bibinitperiod},
+         given={Alyssa\bibnamedelima N.},
+         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BHC+1}
+    \strng{fullhash}{BHCBACAN+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1073/pnas.1522070113
+    \endverb
+    \field{pages}{4688\bibrangedash 4693}
+    \field{title}{Small-Scale Societies Exhibit Fundamental Variation in the
+  Role of Intentions in Moral Judgment}
+    \verb{url}
+    \verb https://doi.org/10.1073/pnas.1522070113
+    \endverb
+    \field{volume}{113}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{bealer1998intuition}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=BG}{%
+         family={Bealer},
+         familyi={B\bibinitperiod},
+         given={George},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=RW}{%
+         family={Ramsey},
+         familyi={R\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={DePaul},
+         familyi={D\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Rowman}%
+      {Littlefield Publishers, Inc}%
+    }
+    \strng{namehash}{BG1}
+    \strng{fullhash}{BG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{booktitle}{Rethinking Intuition: The Psychology of Intuition and Its
+  Role in Philosophical Inquiry (Studies in Epistemology and Cognitive Theory)}
+    \field{title}{Intuition and the Autonomy of Philosophy}
+    \field{year}{1998}
+  \endentry
+
+  \entry{bengson2013experimental}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BJ}{%
+         family={Bengson},
+         familyi={B\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJ1}
+    \strng{fullhash}{BJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1111/j.1933-1592.2012.00578.x
+    \endverb
+    \field{number}{3}
+    \field{pages}{495\bibrangedash 532}
+    \field{title}{Experimental Attacks on Intuitions and Answers}
+    \verb{url}
+    \verb https://doi.org/10.1111/j.1933-1592.2012.00578.x
+    \endverb
+    \field{volume}{86}
+    \field{journaltitle}{Philosophy and Phenomenological Research}
+    \field{year}{2013}
+  \endentry
+
+  \entry{cecchini2024reliability}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CD}{%
+         family={Cecchini},
+         familyi={C\bibinitperiod},
+         given={Dario},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CD1}
+    \strng{fullhash}{CD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1007/s12152-024-09566-1
+    \endverb
+    \field{number}{2}
+    \field{pages}{32}
+    \field{title}{The Reliability Challenge to Moral Intuitions}
+    \verb{url}
+    \verb https://doi.org/10.1007/s12152-024-09566-1
+    \endverb
+    \field{volume}{17}
+    \field{journaltitle}{Neuroethics}
+    \field{year}{2024}
+  \endentry
+
+  \entry{chudnoff2013intuition}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CE}{%
+         family={Chudnoff},
+         familyi={C\bibinitperiod},
+         given={Elijah},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {OUP Oxford}%
+    }
+    \strng{namehash}{CE1}
+    \strng{fullhash}{CE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{Intuition}
+    \field{year}{2013}
+  \endentry
+
+  \entry{cuneo2010normative}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CT}{%
+         family={Cuneo},
+         familyi={C\bibinitperiod},
+         given={Terence},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{CT1}
+    \strng{fullhash}{CT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \true{singletitle}
+    \field{title}{The Normative Web: An Argument for Moral Realism}
+    \field{year}{2010}
+  \endentry
+
+  \entry{danziger2011extraneous}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DS}{%
+         family={Danziger},
+         familyi={D\bibinitperiod},
+         given={Shai},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Levav},
+         familyi={L\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=APL}{%
+         family={Avnaim-Pesso},
+         familyi={A\bibinithyphendelim P\bibinitperiod},
+         given={Liora},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DS+1}
+    \strng{fullhash}{DSLJAPL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1073/pnas.1018033108
+    \endverb
+    \field{number}{17}
+    \field{pages}{6889\bibrangedash 6892}
+    \field{title}{Extraneous Factors in Judicial Decisions}
+    \verb{url}
+    \verb https://doi.org/10.1073/pnas.1018033108
+    \endverb
+    \field{volume}{108}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2011}
+  \endentry
+
+  \entry{destefano2014reliability}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DM}{%
+         family={DeStefano},
+         familyi={D\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DM1}
+    \strng{fullhash}{DM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{howpublished}{Theses}
+    \field{title}{The Reliability and Nature of Philosophical Intuitions}
+    \verb{url}
+    \verb https://irl.umsl.edu/thesis/256
+    \endverb
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{dunning2011kruger}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=DD}{%
+         family={Dunning},
+         familyi={D\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Academic Press}%
+    }
+    \strng{namehash}{DD1}
+    \strng{fullhash}{DD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \true{singletitle}
+    \field{booktitle}{Advances in Experimental Social Psychology, Vol 44}
+    \verb{doi}
+    \verb 10.1016/B978-0-12-385522-0.00005-6
+    \endverb
+    \field{title}{The Dunning-Kruger Effect: On Being Ignorant of One’s Own
+  Ignorance}
+    \verb{url}
+    \verb https://doi.org/10.1016/B978-0-12-385522-0.00005-6
+    \endverb
+    \field{year}{2011}
+  \endentry
+
+  \entry{ethics2024moral}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=E}{%
+         family={{Ethics Unwrapped}},
+         familyi={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{E1}
+    \strng{fullhash}{E1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \true{singletitle}
+    \field{howpublished}{University of Texas at Austin}
+    \field{title}{Moral Philosophy}
+    \verb{url}
+    \verb https://ethicsunwrapped.utexas.edu/glossary/moral-philosophy
+    \endverb
+    \field{year}{2024}
+    \field{urlday}{29}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{goldman2022right}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GAH}{%
+         family={Goldman},
+         familyi={G\bibinitperiod},
+         given={Alan\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GAH1}
+    \strng{fullhash}{GAH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1111/theo.12401
+    \endverb
+    \field{number}{4}
+    \field{pages}{850\bibrangedash 867}
+    \field{title}{The Right Argument from Moral Disagreement}
+    \verb{url}
+    \verb https://doi.org/10.1111/theo.12401
+    \endverb
+    \field{volume}{88}
+    \field{journaltitle}{Theoria}
+    \field{year}{2022}
+  \endentry
+
+  \entry{hayward2019immoral}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HMK}{%
+         family={Hayward},
+         familyi={H\bibinitperiod},
+         given={Max\bibnamedelima Khan},
+         giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HMK1}
+    \strng{fullhash}{HMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1007/s11098-018-1218-0
+    \endverb
+    \field{number}{4}
+    \field{pages}{897\bibrangedash 914}
+    \field{title}{Immoral Realism}
+    \verb{url}
+    \verb https://doi.org/10.1007/s11098-018-1218-0
+    \endverb
+    \field{volume}{176}
+    \field{journaltitle}{Philosophical Studies}
+    \field{year}{2019}
+  \endentry
+
+  \entry{huemer2005ethical}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HM}{%
+         family={Huemer},
+         familyi={H\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Palgrave Macmillan}%
+    }
+    \strng{namehash}{HM1}
+    \strng{fullhash}{HM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \true{singletitle}
+    \field{title}{Ethical Intuitionism}
+    \field{year}{2005}
+  \endentry
+
+  \entry{joyce2007evolution}{book}{}
+    \name{author}{1}{}{%
+      {{hash=JR}{%
+         family={Joyce},
+         familyi={J\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press}%
+    }
+    \strng{namehash}{JR1}
+    \strng{fullhash}{JR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \true{singletitle}
+    \field{title}{The Evolution of Morality}
+    \field{year}{2007}
+  \endentry
+
+  \entry{koriat2012self}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KA}{%
+         family={Koriat},
+         familyi={K\bibinitperiod},
+         given={Asher},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KA1}
+    \strng{fullhash}{KA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1037/a0025648
+    \endverb
+    \field{number}{1}
+    \field{pages}{80\bibrangedash 113}
+    \field{title}{The Self-Consistency Model of Subjective Confidence}
+    \verb{url}
+    \verb https://doi.org/10.1037/a0025648
+    \endverb
+    \field{volume}{119}
+    \field{journaltitle}{Psychological Review}
+    \field{year}{2012}
+  \endentry
+
+  \entry{lillehammer2019queerness}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=LH}{%
+         family={Lillehammer},
+         familyi={L\bibinitperiod},
+         given={Hallvard},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=LH}{%
+         family={LaFollette},
+         familyi={L\bibinitperiod},
+         given={Hugh},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
+    }
+    \strng{namehash}{LH1}
+    \strng{fullhash}{LH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \true{singletitle}
+    \field{booktitle}{The International Encyclopedia of Ethics}
+    \verb{doi}
+    \verb 10.1002/9781444367072.wbiee060.pub3
+    \endverb
+    \field{title}{The Argument from Queerness}
+    \verb{url}
+    \verb https://doi.org/10.1002/9781444367072.wbiee060.pub3
+    \endverb
+    \field{year}{2019}
+  \endentry
+
+  \entry{mackie1978ethics}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MJL}{%
+         family={Mackie},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Penguin Books}%
+    }
+    \strng{namehash}{MJL1}
+    \strng{fullhash}{MJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{title}{Ethics: Inventing Right and Wrong}
+    \verb{url}
+    \verb http://archive.org/details/ethicsinventingr00mack
+    \endverb
+    \list{location}{1}{%
+      {Harmondsworth, Middlesex}%
+    }
+    \field{year}{1978}
+  \endentry
+
+  \entry{merriam2024desert}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={{Merriam-Webster}},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \field{title}{Desert}
+    \verb{url}
+    \verb https://www.merriam-webster.com/dictionary/desert
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{morton2016new}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MJ}{%
+         family={Morton},
+         familyi={M\bibinitperiod},
+         given={Justin},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJ1}
+    \strng{fullhash}{MJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1017/apa.2016.14
+    \endverb
+    \field{number}{2}
+    \field{pages}{233\bibrangedash 253}
+    \field{title}{A New Evolutionary Debunking Argument Against Moral Realism}
+    \verb{url}
+    \verb https://doi.org/10.1017/apa.2016.14
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{Journal of the American Philosophical Association}
+    \field{year}{2016}
+  \endentry
+
+  \entry{nisan1987moral}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NM}{%
+         family={Nisan},
+         familyi={N\bibinitperiod},
+         given={Mordecai},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NM1}
+    \strng{fullhash}{NM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1037/0012-1649.23.5.719
+    \endverb
+    \field{number}{5}
+    \field{pages}{719\bibrangedash 725}
+    \field{title}{Moral Norms and Social Conventions: A Cross-Cultural
+  Comparison}
+    \verb{url}
+    \verb https://doi.org/10.1037/0012-1649.23.5.719
+    \endverb
+    \field{volume}{23}
+    \field{journaltitle}{Developmental Psychology}
+    \field{year}{1987}
+  \endentry
+
+  \entry{ogar2016critique}{article}{}
+    \name{author}{3}{}{%
+      {{hash=OJ}{%
+         family={Ogar},
+         familyi={O\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ANM}{%
+         family={Anyim},
+         familyi={A\bibinitperiod},
+         given={Nwachukwu\bibnamedelima M.},
+         giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=OTE}{%
+         family={Ogar},
+         familyi={O\bibinitperiod},
+         given={Tom\bibnamedelima E.},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OJ+1}
+    \strng{fullhash}{OJANMOTE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \true{singletitle}
+    \field{number}{1}
+    \field{pages}{8\bibrangedash 12}
+    \field{title}{A Critique of Ethical Intuitionism as the Foundation of
+  Knowledge}
+    \field{volume}{4}
+    \field{journaltitle}{African Educational Research Journal}
+    \field{year}{2016}
+  \endentry
+
+  \entry{olson2014moral}{book}{}
+    \name{author}{1}{}{%
+      {{hash=OJ}{%
+         family={Olson},
+         familyi={O\bibinitperiod},
+         given={Jonas},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{OJ1}
+    \strng{fullhash}{OJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1093/acprof:oso/9780198701934.001.0001
+    \endverb
+    \field{title}{Moral Error Theory: History, Critique, Defence}
+    \verb{url}
+    \verb https://doi.org/10.1093/acprof:oso/9780198701934.001.0001
+    \endverb
+    \field{year}{2014}
+  \endentry
+
+  \entry{rutten2010parity}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RE}{%
+         family={Rutten},
+         familyi={R\bibinitperiod},
+         given={Emanuel},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RE1}
+    \strng{fullhash}{RE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.2139/ssrn.1876406
+    \endverb
+    \field{title}{On Cuneo’s Defence of The Parity Premise}
+    \verb{url}
+    \verb https://doi.org/10.2139/ssrn.1876406
+    \endverb
+    \field{year}{2010}
+  \endentry
+
+  \entry{scholl2015defense}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SJA}{%
+         family={Scholl},
+         familyi={S\bibinitperiod},
+         given={Joshua\bibnamedelima Adrian},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJA1}
+    \strng{fullhash}{SJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{title}{A Defense of Mackie’s Moral Error Theory: Essays on the
+  Argument from Queerness and Formulation Problems}
+    \verb{url}
+    \verb https://hdl.handle.net/10657/6547
+    \endverb
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{shaferlandau2004good}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SLR}{%
+         family={Shafer-Landau},
+         familyi={S\bibinithyphendelim L\bibinitperiod},
+         given={Russ},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{SLR1}
+    \strng{fullhash}{SLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{title}{Whatever Happened to Good and Evil?}
+    \field{year}{2004}
+  \endentry
+
+  \entry{sidgwick1907methods}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SH}{%
+         family={Sidgwick},
+         familyi={S\bibinitperiod},
+         given={Henry},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Macmillan}%
+    }
+    \strng{namehash}{SH1}
+    \strng{fullhash}{SH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{title}{The Methods of Ethics}
+    \verb{url}
+    \verb http://archive.org/details/methodsofethics00sidguoft
+    \endverb
+    \list{location}{1}{%
+      {London}%
+    }
+    \field{year}{1907}
+  \endentry
+
+  \entry{singer2009ethics}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SP}{%
+         family={Singer},
+         familyi={S\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=RM}{%
+         family={Ruse},
+         familyi={R\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Princeton University Press}%
+    }
+    \strng{namehash}{SP1}
+    \strng{fullhash}{SP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{booktitle}{Philosophy After Darwin: Classic and Contemporary
+  Readings}
+    \field{title}{Ethics and Intuitions}
+    \field{year}{2009}
+  \endentry
+
+  \entry{sinnott2006moral}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SAW}{%
+         family={Sinnott-Armstrong},
+         familyi={S\bibinithyphendelim A\bibinitperiod},
+         given={Walter},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=HT}{%
+         family={Horgan},
+         familyi={H\bibinitperiod},
+         given={Terry},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Timmons},
+         familyi={T\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{SAW1}
+    \strng{fullhash}{SAW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{booktitle}{Metaethics after Moore}
+    \verb{doi}
+    \verb 10.1093/acprof:oso/9780199269914.003.0016
+    \endverb
+    \field{title}{Moral Intuitionism Meets Empirical Psychology}
+    \verb{url}
+    \verb https://doi.org/10.1093/acprof:oso/9780199269914.003.0016
+    \endverb
+    \field{year}{2006}
+  \endentry
+
+  \entry{smith2010sinnott}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{number}{1}
+    \field{pages}{75\bibrangedash 88}
+    \field{title}{On Sinnott-Armstrong’s Case Against Moral Intuitionism}
+    \verb{url}
+    \verb https://www.jstor.org/stable/27764635
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{Ethical Theory and Moral Practice}
+    \field{year}{2010}
+  \endentry
+
+  \entry{stratton2014intuitionism}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SLP}{%
+         family={Stratton-Lake},
+         familyi={S\bibinithyphendelim L\bibinitperiod},
+         given={Philip},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SLP1}
+    \strng{fullhash}{SLP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{title}{Intuitionism in Ethics}
+    \verb{url}
+    \verb http://plato.stanford.edu/archives/sum2020/entries/intuitionism-ethic
+    \verb s/
+    \endverb
+    \field{year}{2014}
+  \endentry
+
+  \entry{street2006darwinian}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SS}{%
+         family={Street},
+         familyi={S\bibinitperiod},
+         given={Sharon},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SS1}
+    \strng{fullhash}{SS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{pages}{109\bibrangedash 166}
+    \field{title}{A Darwinian Dilemma for Realist Theories of Value}
+    \verb{url}
+    \verb https://www.jstor.org/stable/4321684
+    \endverb
+    \field{volume}{127}
+    \field{journaltitle}{Philosophical Studies}
+    \field{year}{2006}
+  \endentry
+
+  \entry{swain2008instability}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SS}{%
+         family={Swain},
+         familyi={S\bibinitperiod},
+         given={Stacey},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Alexander},
+         familyi={A\bibinitperiod},
+         given={Joshua},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WJM}{%
+         family={Weinberg},
+         familyi={W\bibinitperiod},
+         given={Jonathan\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SS+1}
+    \strng{fullhash}{SSAJWJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{number}{1}
+    \field{pages}{138\bibrangedash 155}
+    \field{title}{The Instability of Philosophical Intuitions: Running Hot and
+  Cold on Truetemp}
+    \verb{url}
+    \verb https://www.jstor.org/stable/40041155
+    \endverb
+    \field{volume}{76}
+    \field{journaltitle}{Philosophy and Phenomenological Research}
+    \field{year}{2008}
+  \endentry
+
+  \entry{tao2022effects}{article}{}
+    \name{author}{6}{}{%
+      {{hash=TD}{%
+         family={Tao},
+         familyi={T\bibinitperiod},
+         given={Dan},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Leng},
+         familyi={L\bibinitperiod},
+         given={Yue},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Huo},
+         familyi={H\bibinitperiod},
+         given={Jiamin},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Peng},
+         familyi={P\bibinitperiod},
+         given={Suhao},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=XJ}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Jing},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DH}{%
+         family={Deng},
+         familyi={D\bibinitperiod},
+         given={Huihua},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TD+1}
+    \strng{fullhash}{TDLYHJPSXJDH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.3389/fpsyg.2022.806784
+    \endverb
+    \field{title}{Effects of Core Disgust and Moral Disgust on Moral Judgment:
+  An Event-Related Potential Study}
+    \verb{url}
+    \verb https://doi.org/10.3389/fpsyg.2022.806784
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{Frontiers in Psychology}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{britannica2024intuition}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{The Editors of Encyclopaedia Britannica}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{howpublished}{Encyclop{\ae}dia Britannica}
+    \field{title}{Intuition}
+    \verb{url}
+    \verb https://www.britannica.com/topic/intuition
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{britannica2024tautology}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{The Editors of Encyclopaedia Britannica}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{howpublished}{Encyclopaedia Britannica}
+    \field{title}{Tautology}
+    \verb{url}
+    \verb https://www.britannica.com/topic/tautology
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{zucchelli2019intentionality}{article}{}
+    \name{author}{5}{}{%
+      {{hash=ZMM}{%
+         family={Zucchelli},
+         familyi={Z\bibinitperiod},
+         given={Micaela\bibnamedelima Maria},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Starita},
+         familyi={S\bibinitperiod},
+         given={Francesca},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Bertini},
+         familyi={B\bibinitperiod},
+         given={Caterina},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=GF}{%
+         family={Giusberti},
+         familyi={G\bibinitperiod},
+         given={Fiorella},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CE}{%
+         family={Ciaramelli},
+         familyi={C\bibinitperiod},
+         given={Elisa},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZMM+1}
+    \strng{fullhash}{ZMMSFBCGFCE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1016/j.cognition.2019.05.015
+    \endverb
+    \field{pages}{103978}
+    \field{title}{Intentionality Attribution and Emotion: The Knobe Effect in
+  Alexithymia}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.cognition.2019.05.015
+    \endverb
+    \field{volume}{191}
+    \field{journaltitle}{Cognition}
+    \field{year}{2019}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
+\endinput
