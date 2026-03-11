@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1771190803.54741 "main.aux" "main.bbl" "main" 1771190805.10822 0
-  "./main-blx.bib" 1771190804.88014 342 2dbb6e07439b0a5db817a74b892f0d17 ""
-  "./refs.bib" 1771190457.3073 22053 eff5cead7884a9f0c989d17340b8538a ""
+["bibtex main"] 1771190803.54741 "main.aux" "main.bbl" "main" 1773250886.6936 0
+  "./main-blx.bib" 1773250886.25511 342 2dbb6e07439b0a5db817a74b892f0d17 ""
+  "./refs.bib" 1773249972.06337 22053 eff5cead7884a9f0c989d17340b8538a ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "main.aux" 1771190804.87143 19012 03e545a436dad6dc177a9c8013af04dd "pdflatex"
+  "main.aux" 1773250886.23864 19012 03e545a436dad6dc177a9c8013af04dd "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1771190803.62654 "main.tex" "main.pdf" "main" 1771190805.10837 0
+["pdflatex"] 1773250883.85119 "main.tex" "main.pdf" "main" 1773250886.6939 0
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_4zjlsx.enc" 1593726333 2906 e61ee539f72040515b8ad56a2123a2e2 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_ivhnor.enc" 1593726333 2908 5132b10db74281cae0e8816be7d1f21e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fbb/fbb_jc4ywh.enc" 1593726333 2915 a82682c1efed9ed1ef6281f80d9dfa31 ""
@@ -128,15 +128,15 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1738795163.40996 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1738795148 8221440 5e78c95eba245aeb45dc540d47de3ce0 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "format.sty" 1770708172.56942 1424 af2eff2b2aa6f519dfeec2f8c1a3c7a2 ""
-  "images/fighters.jpg" 1771190309.93725 120330 ba16c483a9241f6f02627ec22ae11d82 ""
-  "images/madame.jpg" 1771190416.32008 83527 cd1855d1c89ca9fdb9c7ecb591ebc3f8 ""
-  "images/map.jpg" 1771190353.34254 94298 6cad5d647099ccd9748dbee8585fc094 ""
-  "main.aux" 1771190804.87143 19012 03e545a436dad6dc177a9c8013af04dd "pdflatex"
-  "main.bbl" 1771190803.62464 36425 96d206ffd8518143931f15e03109f7ad "bibtex main"
-  "main.out" 1771190804.14521 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1771190804.88062 2641 f56af8bab0377668be5f757d353270fe "pdflatex"
-  "main.tex" 1771190800.11609 17777 84903b512e6688dbd54b94acbd7309b7 ""
+  "format.sty" 1773249972.05562 1424 af2eff2b2aa6f519dfeec2f8c1a3c7a2 ""
+  "images/fighters.jpg" 1773249972.05695 120330 ba16c483a9241f6f02627ec22ae11d82 ""
+  "images/madame.jpg" 1773249972.05777 83527 cd1855d1c89ca9fdb9c7ecb591ebc3f8 ""
+  "images/map.jpg" 1773249972.0584 94298 6cad5d647099ccd9748dbee8585fc094 ""
+  "main.aux" 1773250886.23864 19012 03e545a436dad6dc177a9c8013af04dd "pdflatex"
+  "main.bbl" 1773249972.05893 36425 96d206ffd8518143931f15e03109f7ad "bibtex main"
+  "main.out" 1773250884.86391 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1773250886.2562 2641 f56af8bab0377668be5f757d353270fe "pdflatex"
+  "main.tex" 1773250883.30639 17797 b2e320d13e81803f8952398b56ac5ab2 ""
   (generated)
   "main-blx.bib"
   "main.aux"
