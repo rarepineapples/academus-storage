@@ -1,0 +1,15 @@
+cd desktop
+ls
+cd academus-storage
+git branch
+git checkout -b bro
+git branch
+git diff
+git add -A
+git commit -m 'test'
+git fetch origin
+git diff
+git rebase origin/main
+git push
+git push -u origin bro
+exit
