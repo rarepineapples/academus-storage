@@ -17,379 +17,541 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
-  \entry{allen2024}{article}{}
-    \true{moreauthor}
-    \true{morelabelname}
-    \name{author}{1}{}{%
-      {{hash=AKA}{%
-         family={Allen},
+  \entry{AgrawalGansGoldfarb2023LessAutomation}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AA}{%
+         family={Agrawal},
          familyi={A\bibinitperiod},
-         given={Kelly-Ann},
-         giveni={K\bibinithyphendelim A\bibinitperiod},
+         given={Ajay},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GJS}{%
+         family={Gans},
+         familyi={G\bibinitperiod},
+         given={Joshua\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Goldfarb},
+         familyi={G\bibinitperiod},
+         given={Avi},
+         giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{AKA+1}
-    \strng{fullhash}{AKA+1}
+    \strng{namehash}{AA+1}
+    \strng{fullhash}{AAGJSGA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{A}
     \field{sortinithash}{A}
     \true{singletitle}
     \verb{doi}
-    \verb 10.1007/s12310-023-09626-6
+    \verb 10.1126/science.adh9429
     \endverb
-    \field{number}{1}
-    \field{pages}{149\bibrangedash 160}
-    \field{title}{Adolescent School Belonging and Mental Health Outcomes in
-  Young Adulthood: Findings from a Multi-wave Prospective Cohort Study}
+    \field{number}{6654}
+    \field{pages}{155\bibrangedash 158}
+    \field{title}{Do We Want Less Automation?}
     \verb{url}
-    \verb https://doi.org/10.1007/s12310-023-09626-6
+    \verb https://doi.org/10.1126/science.adh9429
     \endverb
-    \field{volume}{16}
-    \field{journaltitle}{School Mental Health}
-    \field{year}{2024}
-    \field{urlday}{15}
-    \field{urlmonth}{12}
-    \field{urlyear}{2024}
-    \warn{\item Invalid format of field 'month'}
+    \field{volume}{381}
+    \field{journaltitle}{Science}
+    \field{year}{2023}
   \endentry
 
-  \entry{almroth2019}{thesis}{}
-    \name{author}{1}{}{%
-      {{hash=AM}{%
-         family={Almroth},
+  \entry{AndreBetinGalPeltier2025OECDIndicatorsAIMarkets}{report}{}
+    \name{author}{4}{}{%
+      {{hash=AC}{%
+         family={Andr{\'e}},
          familyi={A\bibinitperiod},
-         given={Melody},
+         given={Christophe},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={B{\'e}tin},
+         familyi={B\bibinitperiod},
+         given={Manuel},
          giveni={M\bibinitperiod},
       }}%
+      {{hash=GP}{%
+         family={Gal},
+         familyi={G\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Peltier},
+         familyi={P\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
     }
-    \strng{namehash}{AM1}
-    \strng{fullhash}{AM1}
+    \strng{namehash}{AC+1}
+    \strng{fullhash}{ACBMGPPP1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{A}
     \field{sortinithash}{A}
     \true{singletitle}
-    \field{note}{Abstract}
-    \field{title}{Adolescents' Future Academic Prospects: Predictors and Mental
-  Health Outcomes}
-    \verb{url}
-    \verb https://www.proquest.com/dissertations-theses/adolescents-future-acad
-    \verb emic-prospects-predictors/docview/2494255388/se-2?accountid=5245
+    \verb{doi}
+    \verb 10.1787/9302bf46-en
     \endverb
-    \list{location}{1}{%
-      {Sweden}%
-    }
+    \field{number}{37}
+    \field{series}{OECD Artificial Intelligence Papers}
+    \field{title}{Developments in Artificial Intelligence Markets: New Indicators Based on Model Characteristics, Prices and Providers}
+    \verb{url}
+    \verb https://doi.org/10.1787/9302bf46-en
+    \endverb
     \list{institution}{1}{%
-      {Karolinska Institutet}%
+      {OECD}%
     }
-    \field{type}{PhD dissertation}
-    \field{year}{2019}
+    \field{type}{techreport}
+    \field{year}{2025}
   \endentry
 
-  \entry{boness2021}{article}{}
-    \true{moreauthor}
-    \true{morelabelname}
+  \entry{BankOfEngland2018TFPGUKA}{misc}{}
     \name{author}{1}{}{%
-      {{hash=BCL}{%
-         family={Boness},
+      {{hash=B}{%
+         family={{Bank of England}},
          familyi={B\bibinitperiod},
-         given={Cassandra\bibnamedelima L.},
-         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
       }}%
     }
-    \strng{namehash}{BCL+1}
-    \strng{fullhash}{BCL+1}
+    \strng{namehash}{B1}
+    \strng{fullhash}{B1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \true{singletitle}
+    \field{howpublished}{Federal Reserve Bank of St. Louis (FRED), series TFPGUKA}
+    \field{title}{Total Factor Productivity Growth in the United Kingdom}
+    \verb{url}
+    \verb https://fred.stlouisfed.org/series/TFPGUKA
+    \endverb
+    \field{month}{03}
+    \field{year}{2018}
+  \endentry
+
+  \entry{BresnahanTrajtenberg1995GPT}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BTF}{%
+         family={Bresnahan},
+         familyi={B\bibinitperiod},
+         given={Timothy\bibnamedelima F.},
+         giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Trajtenberg},
+         familyi={T\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BTFTM1}
+    \strng{fullhash}{BTFTM1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \true{singletitle}
     \verb{doi}
-    \verb 10.1111/hsc.13325
+    \verb 10.1016/0304-4076(94)01598-T
     \endverb
-    \field{number}{3}
-    \field{pages}{738\bibrangedash 745}
-    \field{title}{Crisis Line Services: A 12‐month Descriptive Analysis of
-  Callers, Call Content, and Referrals}
+    \field{number}{1}
+    \field{pages}{83\bibrangedash 108}
+    \field{title}{General Purpose Technologies `Engines of Growth'?}
     \verb{url}
-    \verb https://doi.org/10.1111/hsc.13325
+    \verb https://doi.org/10.1016/0304-4076(94)01598-T
     \endverb
-    \field{volume}{29}
-    \field{journaltitle}{Health \& Social Care in the Community}
-    \field{year}{2021}
-    \warn{\item Invalid format of field 'month'}
+    \field{volume}{65}
+    \field{journaltitle}{Journal of Econometrics}
+    \field{year}{1995}
   \endentry
 
-  \entry{chen2024}{article}{}
-    \true{moreauthor}
-    \true{morelabelname}
-    \name{author}{1}{}{%
-      {{hash=CB}{%
-         family={Chen},
-         familyi={C\bibinitperiod},
-         given={Baoling},
-         giveni={B\bibinitperiod},
+  \entry{BrynjolfssonRockSyverson2017AIModernProductivityParadox}{report}{}
+    \name{author}{3}{}{%
+      {{hash=BE}{%
+         family={Brynjolfsson},
+         familyi={B\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
       }}%
-    }
-    \strng{namehash}{CB+1}
-    \strng{fullhash}{CB+1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{C}
-    \field{sortinithash}{C}
-    \true{singletitle}
-    \verb{doi}
-    \verb 10.1186/s12888-024-05506-8
-    \endverb
-    \field{pages}{1\bibrangedash 14}
-    \field{title}{The Relationship between Academic Stress and Depression among
-  College Students during the COVID-19 Pandemic: A Cross-sectional Study from
-  China}
-    \verb{url}
-    \verb https://doi.org/10.1186/s12888-024-05506-8
-    \endverb
-    \field{volume}{24}
-    \field{journaltitle}{BMC Psychiatry}
-    \field{year}{2024}
-  \endentry
-
-  \entry{claney2023}{misc}{}
-    \name{editor}{1}{}{%
-      {{hash=CC}{%
-         family={Claney},
-         familyi={C\bibinitperiod},
-         given={Carly},
+      {{hash=RD}{%
+         family={Rock},
+         familyi={R\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Syverson},
+         familyi={S\bibinitperiod},
+         given={Chad},
          giveni={C\bibinitperiod},
       }}%
     }
-    \strng{namehash}{CC1}
-    \strng{fullhash}{CC1}
-    \field{labelnamesource}{editor}
+    \strng{namehash}{BE+1}
+    \strng{fullhash}{BERDSC1}
+    \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{C}
-    \field{sortinithash}{C}
-    \true{singletitle}
-    \field{title}{Relational Psych}
-    \verb{url}
-    \verb https://www.relationalpsych.group/articles/exploring-the-impact-of-sc
-    \verb hool-stress-on-teens-emotional-well-being
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.3386/w24001
     \endverb
-    \field{year}{2023}
-    \field{urlday}{16}
-    \field{urlmonth}{01}
-    \field{urlyear}{2025}
-    \warn{\item Invalid format of field 'month'}
+    \field{number}{24001}
+    \field{series}{Working Paper Series}
+    \field{title}{Artificial Intelligence and the Modern Productivity Paradox: A Clash of Expectations and Statistics}
+    \verb{url}
+    \verb https://doi.org/10.3386/w24001
+    \endverb
+    \list{institution}{1}{%
+      {National Bureau of Economic Research}%
+    }
+    \field{type}{techreport}
+    \field{month}{11}
+    \field{year}{2017}
   \endentry
 
-  \entry{cordovaolivera2023}{article}{}
-    \true{moreauthor}
-    \true{morelabelname}
-    \name{author}{1}{}{%
-      {{hash=COP}{%
-         family={C{\'o}rdova\bibnamedelima Olivera},
-         familyi={C\bibinitperiod\bibinitdelim O\bibinitperiod},
-         given={Pamela},
-         giveni={P\bibinitperiod},
+  \entry{BrynjolfssonRockSyverson2018ProductivityJCurve}{report}{}
+    \name{author}{3}{}{%
+      {{hash=BE}{%
+         family={Brynjolfsson},
+         familyi={B\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Rock},
+         familyi={R\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Syverson},
+         familyi={S\bibinitperiod},
+         given={Chad},
+         giveni={C\bibinitperiod},
       }}%
     }
-    \strng{namehash}{COP+1}
-    \strng{fullhash}{COP+1}
+    \strng{namehash}{BE+1}
+    \strng{fullhash}{BERDSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.3386/w25148
+    \endverb
+    \field{number}{25148}
+    \field{series}{Working Paper Series}
+    \field{title}{The Productivity J-Curve: How Intangibles Complement General Purpose Technologies}
+    \verb{url}
+    \verb https://doi.org/10.3386/w25148
+    \endverb
+    \list{institution}{1}{%
+      {National Bureau of Economic Research}%
+    }
+    \field{type}{techreport}
+    \field{month}{10}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Crafts2021AIasGPT}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CN}{%
+         family={Crafts},
+         familyi={C\bibinitperiod},
+         given={Nicholas},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CN1}
+    \strng{fullhash}{CN1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \true{singletitle}
     \verb{doi}
-    \verb 10.1080/2331186x.2023.2232686
+    \verb 10.1093/oxrep/grab012
     \endverb
-    \field{number}{2}
-    \field{title}{Academic Stress as a Predictor of Mental Health in University
-  Students}
+    \field{number}{3}
+    \field{pages}{521\bibrangedash 536}
+    \field{title}{Artificial Intelligence as a General-Purpose Technology: An Historical Perspective}
     \verb{url}
-    \verb https://doi.org/10.1080/2331186x.2023.2232686
+    \verb https://doi.org/10.1093/oxrep/grab012
     \endverb
-    \field{volume}{10}
-    \field{journaltitle}{Cogent Education}
-    \field{year}{2023}
-    \warn{\item Invalid format of field 'month'}
+    \field{volume}{37}
+    \field{journaltitle}{Oxford Review of Economic Policy}
+    \field{year}{2021}
   \endentry
 
-  \entry{duan2016}{article}{}
+  \entry{David1989ComputerAndDynamo}{report}{}
     \name{author}{1}{}{%
-      {{hash=DW}{%
-         family={Duan},
+      {{hash=DPA}{%
+         family={David},
          familyi={D\bibinitperiod},
-         given={Wenjie},
-         giveni={W\bibinitperiod},
+         given={P.\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{DW1}
-    \strng{fullhash}{DW1}
+    \strng{namehash}{DPA1}
+    \strng{fullhash}{DPA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \true{singletitle}
-    \field{number}{11}
-    \field{pages}{2879\bibrangedash 2888}
-    \field{title}{The Benefits of Personal Strengths in Mental Health of
-  Stressed Students: A Longitudinal Investigation}
+    \field{series}{The Warwick Economics Research Paper Series (TWERPS)}
+    \field{title}{Computer And Dynamo: The Modern Productivity Paradox In A Not-Too Distant Mirror}
     \verb{url}
-    \verb https://www.jstor.org/stable/44852735
+    \verb https://ideas.repec.org//p/wrk/warwec/339.html
     \endverb
-    \field{volume}{25}
-    \field{journaltitle}{Quality of Life Research}
-    \field{year}{2016}
-    \field{urlday}{15}
-    \field{urlmonth}{12}
-    \field{urlyear}{2024}
+    \list{institution}{1}{%
+      {University of Warwick}%
+    }
+    \field{type}{techreport}
+    \field{year}{1989}
   \endentry
 
-  \entry{mcleod2012}{article}{}
-    \true{moreauthor}
-    \true{morelabelname}
-    \name{author}{1}{}{%
-      {{hash=MJD}{%
-         family={McLeod},
-         familyi={M\bibinitperiod},
-         given={Jane\bibnamedelima D.},
-         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+  \entry{ErdilBesiroglu2023ExplosiveGrowthAIAutomation}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=EE}{%
+         family={Erdil},
+         familyi={E\bibinitperiod},
+         given={Ege},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Besiroglu},
+         familyi={B\bibinitperiod},
+         given={Tamay},
+         giveni={T\bibinitperiod},
       }}%
     }
-    \strng{namehash}{MJD+1}
-    \strng{fullhash}{MJD+1}
+    \strng{namehash}{EEBT1}
+    \strng{fullhash}{EEBT1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
     \true{singletitle}
-    \field{number}{4}
-    \field{pages}{482\bibrangedash 497}
-    \field{title}{Adolescent Mental Health, Behavior Problems, and Academic
-  Achievement}
-    \verb{url}
-    \verb https://www.jstor.org/stable/41725233
+    \verb{doi}
+    \verb 10.48550/arXiv.2309.11690
     \endverb
-    \field{volume}{53}
-    \field{journaltitle}{Journal of Health and Social Behavior}
-    \field{year}{2012}
-    \field{urlday}{15}
-    \field{urlmonth}{12}
-    \field{urlyear}{2024}
-  \endentry
-
-  \entry{sha2023}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=SW}{%
-         family={Sha},
-         familyi={S\bibinitperiod},
-         given={William},
-         giveni={W\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=LSS}{%
-         family={Labott-Smith},
-         familyi={L\bibinithyphendelim S\bibinitperiod},
-         given={Susan},
-         giveni={S\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{SW1}
-    \strng{fullhash}{SW1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{S}
-    \field{sortinithash}{S}
-    \true{singletitle}
-    \field{howpublished}{American Psychological Association}
-    \field{title}{Stress effects on the body}
-    \verb{url}
-    \verb https://www.apa.org/topics/stress/body
+    \verb{eprint}
+    \verb 2309.11690
     \endverb
+    \field{howpublished}{arXiv}
+    \field{title}{Explosive Growth from AI Automation: A Review of the Arguments}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2309.11690
+    \endverb
+    \field{eprinttype}{arXiv}
     \field{year}{2023}
-    \field{urlday}{22}
-    \field{urlmonth}{01}
-    \field{urlyear}{2025}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
-  \entry{apa2014stress}{misc}{}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{S}
-    \field{sortinithash}{S}
-    \true{singletitle}
-    \field{howpublished}{American Psychological Association}
-    \field{title}{Stress and Exercise}
-    \verb{url}
-    \verb https://www.apa.org/news/press/releases/stress/2013/exercise
-    \endverb
-    \field{year}{2014}
-    \field{urlday}{05}
-    \field{urlmonth}{02}
-    \field{urlyear}{2025}
-  \endentry
-
-  \entry{versteeg2022}{article}{}
-    \true{moreauthor}
-    \true{morelabelname}
-    \name{author}{1}{}{%
-      {{hash=VM}{%
-         family={Versteeg},
-         familyi={V\bibinitperiod},
-         given={Melissa},
+  \entry{FilippucciGalLaengleSchief2025OECDG7ProductivityGainsAI}{report}{}
+    \name{author}{4}{}{%
+      {{hash=FF}{%
+         family={Filippucci},
+         familyi={F\bibinitperiod},
+         given={Francesco},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Gal},
+         familyi={G\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LK}{%
+         family={Laengle},
+         familyi={L\bibinitperiod},
+         given={Katharina},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Schief},
+         familyi={S\bibinitperiod},
+         given={Matthias},
          giveni={M\bibinitperiod},
       }}%
     }
-    \strng{namehash}{VM+1}
-    \strng{fullhash}{VM+1}
+    \strng{namehash}{FF+1}
+    \strng{fullhash}{FFGPLKSM1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{V}
-    \field{sortinithash}{V}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
     \true{singletitle}
-    \verb{doi}
-    \verb 10.3389/fpubh.2022.849594
-    \endverb
-    \field{number}{3}
-    \field{pages}{738\bibrangedash 745}
-    \field{title}{Predicting Student Engagement: The Role of Academic
-  Belonging, Social Integration, and Resilience during COVID-19 Emergency
-  Remote Teaching}
+    \field{series}{OECD Artificial Intelligence Papers}
+    \field{title}{Macroeconomic Productivity Gains from Artificial Intelligence in G7 Economies}
     \verb{url}
-    \verb https://doi.org/10.3389/fpubh.2022.849594
+    \verb https://www.oecd.org/en/publications/macroeconomic-productivity-gains
+    \verb -from-artificial-intelligence-in-g7-economies_a5319ab5-en.html
     \endverb
-    \field{volume}{10}
-    \field{journaltitle}{Frontiers in Public Health}
-    \field{year}{2022}
-    \warn{\item Invalid format of field 'month'}
+    \list{institution}{1}{%
+      {OECD}%
+    }
+    \field{type}{techreport}
+    \field{year}{2025}
   \endentry
 
-  \entry{wfu2025}{misc}{}
+  \entry{NationalArchives2021ShermanAntitrustAct}{misc}{}
     \name{author}{1}{}{%
-      {{hash=W}{%
-         family={{Wake Forest University}},
-         familyi={W\bibinitperiod},
+      {{hash=N}{%
+         family={{National Archives}},
+         familyi={N\bibinitperiod},
       }}%
     }
-    \strng{namehash}{W1}
-    \strng{fullhash}{W1}
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{W}
-    \field{sortinithash}{W}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
     \true{singletitle}
-    \field{title}{School Stress Management: Tips and Strategies for Students of
-  All Ages}
+    \field{title}{Sherman Anti-Trust Act (1890)}
     \verb{url}
-    \verb https://counseling.online.wfu.edu/blog/school-stress-management-for-s
-    \verb tudents/
+    \verb https://www.archives.gov/milestone-documents/sherman-anti-trust-act
     \endverb
+    \field{month}{09}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Nordhaus2021EconomicSingularity}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NWD}{%
+         family={Nordhaus},
+         familyi={N\bibinitperiod},
+         given={William\bibnamedelima D.},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NWD1}
+    \strng{fullhash}{NWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1257/mac.20170105
+    \endverb
+    \field{number}{1}
+    \field{pages}{299\bibrangedash 332}
+    \field{title}{Are We Approaching an Economic Singularity? Information Technology and the Future of Economic Growth}
+    \verb{url}
+    \verb https://doi.org/10.1257/mac.20170105
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{American Economic Journal: Macroeconomics}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Smiley2004USEconomy1920s}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SG}{%
+         family={Smiley},
+         familyi={S\bibinitperiod},
+         given={Gene},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=WR}{%
+         family={Whaples},
+         familyi={W\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SG1}
+    \strng{fullhash}{SG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{booktitle}{EH.Net Encyclopedia}
+    \field{title}{The U.S. Economy in the 1920s}
+    \verb{url}
+    \verb https://eh.net/encyclopedia/the-u-s-economy-in-the-1920s/
+    \endverb
+    \field{month}{06}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Soroushian2024PastWavesAutomationTeachAI}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Soroushian},
+         familyi={S\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{howpublished}{Bipartisan Policy Center}
+    \field{title}{What Past Waves of Automation Can Teach Us About AI}
+    \verb{url}
+    \verb https://bipartisanpolicy.org/blog/what-past-waves-of-automation-can-t
+    \verb each-us-about-ai/
+    \endverb
+    \field{month}{07}
+    \field{year}{2024}
+  \endentry
+
+  \entry{UKParliamentFactoryAct1833}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{UK Parliament}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \field{note}{Accessed: 2025-08-16}
+    \field{title}{The 1833 Factory Act}
+    \verb{url}
+    \verb https://www.parliament.uk/about/living-heritage/transformingsociety/l
+    \verb ivinglearning/19thcentury/overview/factoryact/
+    \endverb
+  \endentry
+
+  \entry{BLS2025OPHNFB}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{U.S. Bureau of Labor Statistics}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U2}
+    \strng{fullhash}{U2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \true{singletitle}
+    \field{howpublished}{Federal Reserve Bank of St. Louis (FRED), series OPHNFB}
+    \field{title}{Nonfarm Business Sector: Labor Productivity (Output Per Hour) for All Workers}
+    \verb{url}
+    \verb https://fred.stlouisfed.org/series/OPHNFB
+    \endverb
+    \field{month}{08}
     \field{year}{2025}
-    \field{urlday}{23}
-    \field{urlmonth}{01}
-    \field{urlyear}{2025}
   \endentry
 \enddatalist
 \endinput

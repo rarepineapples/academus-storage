@@ -18,48 +18,48 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: main-blx.bib
-Database file #2: refs/asymmetry.bib
+Database file #2: refs/expert.bib
 Biblatex version: 3.19
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 35 entries,
+You've used 2 entries,
             6399 wiz_defined-function locations,
-            1433 strings with 15502 characters,
-and the built_in function-call counts, 219091 in all, are:
-= -- 15743
-> -- 4615
-< -- 1113
-+ -- 6251
-- -- 2270
-* -- 14985
-:= -- 23075
+            1209 strings with 9119 characters,
+and the built_in function-call counts, 6808 in all, are:
+= -- 447
+> -- 180
+< -- 55
++ -- 169
+- -- 52
+* -- 318
+:= -- 797
 add.period$ -- 0
-call.type$ -- 35
-change.case$ -- 579
-chr.to.int$ -- 169
-cite$ -- 68
-duplicate$ -- 22865
-empty$ -- 20158
-format.name$ -- 2073
-if$ -- 44465
+call.type$ -- 2
+change.case$ -- 41
+chr.to.int$ -- 42
+cite$ -- 2
+duplicate$ -- 620
+empty$ -- 588
+format.name$ -- 54
+if$ -- 1484
 int.to.chr$ -- 0
-int.to.str$ -- 89
+int.to.str$ -- 4
 missing$ -- 0
-newline$ -- 1095
-num.names$ -- 1673
-pop$ -- 11832
+newline$ -- 46
+num.names$ -- 76
+pop$ -- 383
 preamble$ -- 1
-purify$ -- 690
+purify$ -- 43
 quote$ -- 0
-skip$ -- 6292
+skip$ -- 327
 stack$ -- 0
-substring$ -- 27894
-swap$ -- 5140
-text.length$ -- 904
-text.prefix$ -- 34
+substring$ -- 659
+swap$ -- 152
+text.length$ -- 45
+text.prefix$ -- 1
 top$ -- 1
-type$ -- 1177
+type$ -- 56
 warning$ -- 0
-while$ -- 2744
+while$ -- 118
 width$ -- 0
-write$ -- 1061
+write$ -- 45
