@@ -1,15 +1,17 @@
-cd desktop
-ls
-cd academus-storage
+vim /Users/jaspersun/Desktop/academus-storage/ISSUE\ THREE/alternative/main.tex 
+git fetch bro
 git branch
-git checkout -b bro
+cd desktop/academus-journal
+cd desktop/academus_journal
+cd desktop/academus-storage
 git branch
 git diff
+vim /Users/jaspersun/Desktop/academus-storage/ISSUE\ THREE/GPT/main.tex 
+vim /Users/jaspersun/Desktop/academus-storage/ISSUE\ THREE/zhejiang/main.tex 
+vim /Users/jaspersun/Desktop/academus-storage/ISSUE\ THREE/one\ child/main.tex 
 git add -A
-git commit -m 'test'
-git fetch origin
-git diff
+git commit 'added names and dois'
+git commit -m 'added names and dois'
 git rebase origin/main
 git push
-git push -u origin bro
 exit

@@ -1,8 +1,10 @@
-\documentclass[12pt, a4paper, openany]{book}
+\documentclass[12pt, letterpaper, openany]{book}
 \usepackage{format}
 
-\newcommand{\jissue}{2}
-\newcommand{\jyear}{2025}
+\newcommand{\jissue}{3}
+\newcommand{\jyear}{2026}
+
+\usepackage{CJKutf8}
 
 \begin{document}
 
@@ -54,53 +56,37 @@ Finally, I want to mention that we’re indebted to the teachers, mentors, and r
 
 \mainmatter
 
-\begin{refsection}[refs/rcv]
-\input{source/rcv}
+\begin{refsection}[refs/alternative]
+\input{source/alternative}
 \nocite{*}
 \printbibliography[title={References}, heading=subbibliography]
 \end{refsection}
 
-\begin{refsection}[refs/american]
-\input{source/american}
+\begin{refsection}[refs/GPT]
+\input{source/GPT}
 \nocite{*}
-\printbibliography[title=References,
-heading=subbibliography]
+\printbibliography[title={References}, heading=subbibliography]
 \end{refsection}
 
-\begin{refsection}[refs/moralint]
-\input{source/moral}
+\begin{refsection}[refs/zhejiang]
+\input{source/zhejiang}
 \nocite{*}
-\printbibliography[title=References, heading=subbibliography]
+\printbibliography[title={References}, heading=subbibliography]
 \end{refsection}
 
-\begin{refsection}[refs/farm]
-\input{source/farm}
+\begin{refsection}[refs/whyonechild]
+\input{source/whyonechild}
 \nocite{*}
-\printbibliography[title=References,heading=subbibliography]
+\begin{CJK}{UTF8}{gbsn}
+\printbibliography[title={References}, heading=subbibliography]
+\end{CJK}
 \end{refsection}
 
-\begin{refsection}[refs/asymmetry]
-\input{source/asymmetry}
+\begin{refsection}[refs/expert]
+\input{source/expert}
 \nocite{*}
-\printbibliography[title=References,heading=subbibliography]
+\printbibliography[title={References}, heading=subbibliography]
 \end{refsection}
 
-\begin{refsection}[refs/rejection]
-\input{source/rejection}
-\nocite{*}
-\printbibliography[title=References,heading=subbibliography]
-\end{refsection}
-
-\begin{refsection}[refs/washington]
-\input{source/washington}
-\nocite{*}
-\printbibliography[title=References,heading=subbibliography]
-\end{refsection}
-
-\begin{refsection}[refs/tickets]
-\input{source/tickets}
-\nocite{*}
-\printbibliography[title=References,heading=subbibliography]
-\end{refsection}
 
 \end{document}

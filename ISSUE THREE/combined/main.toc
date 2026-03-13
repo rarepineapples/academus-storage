@@ -1,32 +1,28 @@
 \contentsline {chapter}{Editor's Note}{ii}{chapter*.1}%
-\contentsline {chapter}{\numberline {1}Ranked Choice Voting's Electoral Reform}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Literature Review}{2}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}The Issues of Plurality Voting}{2}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Ranked Choice Voting as an Electoral Reform in the U.S.}{3}{subsection.1.2.2}%
-\contentsline {section}{\numberline {1.3}Case Studies}{5}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Alaska}{5}{subsection.1.3.1}%
-\contentsline {subsubsection}{2022 Gubernatorial Election}{5}{subsection.1.3.1}%
-\contentsline {subsubsection}{2022 General Elections}{6}{table.1.1}%
-\contentsline {subsection}{\numberline {1.3.2}San Francisco}{10}{subsection.1.3.2}%
-\contentsline {subsubsection}{2018 Mayoral Election}{10}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.3.3}Oakland}{11}{subsection.1.3.3}%
-\contentsline {section}{\numberline {1.4}Conclusion}{12}{section.1.4}%
-\contentsline {chapter}{\numberline {2}The American Dream's Flawed Promise of Education}{15}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Against Moral Intuitionism}{21}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{21}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Argument From Unreliability}{21}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Argument from Disagreement}{22}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Argument from Queerness}{23}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Conclusion}{25}{section.3.5}%
-\contentsline {chapter}{\numberline {4}The Political Economy of Farm Subsidies}{28}{chapter.4}%
-\contentsline {chapter}{\numberline {5}The Asymmetry of Moral Obligations}{31}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{31}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Justifying a Meta-Ethical Approach}{31}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Minimal Morality}{32}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Applying Multilevel Social Contract Theory}{33}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Implications for Policy Making}{34}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Conclusion}{35}{section.5.6}%
-\contentsline {chapter}{\numberline {6}Rejection of Cognitivism}{39}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Washington's Neutrality Proclaimation}{42}{chapter.7}%
-\contentsline {chapter}{\numberline {8}A Study of Ticket Scalping}{45}{chapter.8}%
+\contentsline {chapter}{\numberline {1}An Alternative Approach to Regulating Artificial Intelligence}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Artificial Intelligence as GPT}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Context \& Analytical Framework}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Comparative Analysis}{6}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Adoption Speed}{6}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Economic Impacts}{6}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Conclusion}{8}{section.2.4}%
+\contentsline {chapter}{\numberline {3}The Zhejiang-Jiangxi Campaign}{10}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Why One Child?}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{20}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Historical Circumstance}{21}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Mao's China}{21}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Malthusian Crisis}{23}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Scientism in China}{24}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}A History of Family Planning in China}{24}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Family Planning in Ancient China}{24}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Family Planning in 20th Cenutry China}{25}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}``Longer, Later Fewer'' \& the One-Child Policy}{26}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Radicality Defined}{27}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Radicality Explained}{29}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Deng's New China}{29}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Scientism in Politics}{30}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Scientistic Methodology}{31}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}The West in China}{32}{subsection.4.5.4}%
+\contentsline {section}{\numberline {4.6}Conclusion}{34}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Skepticism about Expert Identification}{41}{chapter.5}%
