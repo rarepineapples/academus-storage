@@ -420,6 +420,11 @@ INPUT ./main5-blx.bbl
 INPUT ./main5-blx.bbl
 INPUT ./main5-blx.bbl
 INPUT main5-blx.bbl
+INPUT main6-blx.bbl
+INPUT ./main6-blx.bbl
+INPUT ./main6-blx.bbl
+INPUT ./main6-blx.bbl
+INPUT main6-blx.bbl
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fbb/TS1fbb-TLF.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fbb/TS1fbb-TLF.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fbb/TS1fbb-TLF.fd
@@ -607,6 +612,13 @@ INPUT ./source/expert.tex
 INPUT ./source/expert.tex
 INPUT ./source/expert.tex
 INPUT source/expert.tex
+INPUT main6-blx.aux
+OUTPUT main6-blx.aux
+INPUT ./source/incompat.tex
+INPUT ./source/incompat.tex
+INPUT ./source/incompat.tex
+INPUT ./source/incompat.tex
+INPUT source/incompat.tex
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

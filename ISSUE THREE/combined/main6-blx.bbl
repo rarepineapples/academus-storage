@@ -1,0 +1,116 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{Gettier1963JTBK}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GEL}{%
+         family={Gettier},
+         familyi={G\bibinitperiod},
+         given={E.\bibnamedelima L.},
+         giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GEL1}
+    \strng{fullhash}{GEL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1093/analys/23.6.121
+    \endverb
+    \field{number}{6}
+    \field{pages}{121\bibrangedash 123}
+    \field{title}{Is Justified True Belief Knowledge?}
+    \verb{url}
+    \verb https://doi.org/10.1093/analys/23.6.121
+    \endverb
+    \field{volume}{23}
+    \field{journaltitle}{Analysis}
+    \field{month}{06}
+    \field{year}{1963}
+  \endentry
+
+  \entry{Orozco2011EpistemicLuck}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OJ}{%
+         family={Orozco},
+         familyi={O\bibinitperiod},
+         given={Joshue},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Blackwell Publishing Ltd}%
+    }
+    \strng{namehash}{OJ1}
+    \strng{fullhash}{OJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.1111/j.1747-9991.2010.00365.x
+    \endverb
+    \field{number}{1}
+    \field{pages}{11\bibrangedash 21}
+    \field{title}{Epistemic Luck}
+    \verb{url}
+    \verb https://doi.org/10.1111/j.1747-9991.2010.00365.x
+    \endverb
+    \field{volume}{6}
+    \field{journaltitle}{Philosophy Compass}
+    \field{month}{01}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Zagzebski1994Inescapability}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ZL}{%
+         family={Zagzebski},
+         familyi={Z\bibinitperiod},
+         given={Linda},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZL1}
+    \strng{fullhash}{ZL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \true{singletitle}
+    \verb{doi}
+    \verb 10.2307/2220147
+    \endverb
+    \field{number}{174}
+    \field{pages}{65}
+    \field{title}{The Inescapability of Gettier Problems}
+    \verb{url}
+    \verb https://doi.org/10.2307/2220147
+    \endverb
+    \field{volume}{44}
+    \field{journaltitle}{The Philosophical Quarterly}
+    \field{month}{01}
+    \field{year}{1994}
+  \endentry
+\enddatalist
+\endinput

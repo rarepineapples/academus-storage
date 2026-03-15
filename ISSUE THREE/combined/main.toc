@@ -26,3 +26,4 @@
 \contentsline {subsection}{\numberline {4.5.4}The West in China}{32}{subsection.4.5.4}%
 \contentsline {section}{\numberline {4.6}Conclusion}{34}{section.4.6}%
 \contentsline {chapter}{\numberline {5}Skepticism about Expert Identification}{41}{chapter.5}%
+\contentsline {chapter}{\numberline {6}The Incompatibility of Luck and Knowledge}{44}{chapter.6}%

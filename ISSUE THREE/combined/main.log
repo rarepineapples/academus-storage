@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  12 MAR 2026 21:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  15 MAR 2026 10:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1188,6 +1188,8 @@ Package biblatex Info: ... file 'main4-blx.bbl' found.
  (./main4-blx.bbl)
 Package biblatex Info: ... file 'main5-blx.bbl' found.
  (./main5-blx.bbl)
+Package biblatex Info: ... file 'main6-blx.bbl' found.
+ (./main6-blx.bbl)
 Package biblatex Info: Reference section=0 on input line 9.
 Package biblatex Info: Reference segment=0 on input line 9.
 LaTeX Font Info:    Trying to load font information for TS1+fbb-TLF on input line 15.
@@ -1270,7 +1272,7 @@ Chapter 2.
 [4
 
 ]
-<images/graph1.jpg, id=112, 1027.84pt x 770.88pt>
+<images/graph1.jpg, id=117, 1027.84pt x 770.88pt>
 File: images/graph1.jpg Graphic file (type jpg)
 <use images/graph1.jpg>
 Package pdftex.def Info: images/graph1.jpg  used on input line 15.
@@ -1280,7 +1282,7 @@ LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 25.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 25.
-<images/graph2.jpg, id=118, 1027.84pt x 770.88pt>
+<images/graph2.jpg, id=123, 1027.84pt x 770.88pt>
 File: images/graph2.jpg Graphic file (type jpg)
 <use images/graph2.jpg>
 Package pdftex.def Info: images/graph2.jpg  used on input line 33.
@@ -1308,12 +1310,12 @@ Chapter 3.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11] [12] [13]
-<images/fighters.jpg, id=194, 1027.84pt x 770.88pt>
+<images/fighters.jpg, id=199, 1027.84pt x 770.88pt>
 File: images/fighters.jpg Graphic file (type jpg)
 <use images/fighters.jpg>
 Package pdftex.def Info: images/fighters.jpg  used on input line 49.
 (pdftex.def)             Requested size: 328.82707pt x 246.61606pt.
-<images/map.jpg, id=197, 1027.84pt x 770.88pt>
+<images/map.jpg, id=202, 1027.84pt x 770.88pt>
 File: images/map.jpg Graphic file (type jpg)
 <use images/map.jpg>
 Package pdftex.def Info: images/map.jpg  used on input line 56.
@@ -1322,7 +1324,7 @@ Package pdftex.def Info: images/map.jpg  used on input line 56.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/madame.jpg, id=198, 1027.84pt x 770.88pt>
+<images/madame.jpg, id=203, 1027.84pt x 770.88pt>
 File: images/madame.jpg Graphic file (type jpg)
 <use images/madame.jpg>
 Package pdftex.def Info: images/madame.jpg  used on input line 63.
@@ -1420,7 +1422,19 @@ Chapter 5.
 
 ]) [42]
 Package biblatex Info: Reference section=0 on input line 89.
- [43] (./main.aux)
+\blx@maxsegment@6=\count459
+\blx@sectionciteorder@6=\count460
+Package biblatex Info: Reference section=6 on input line 91.
+\openout4 = `main6-blx.aux'.
+
+Package biblatex Info: Setting label 'refsection:6' on input line 91.
+ (./source/incompat.tex [43]
+Chapter 6.
+) [44
+
+]
+Package biblatex Info: Reference section=0 on input line 95.
+ [45] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1433,26 +1447,26 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 5671B2B09BC815DE49526E2AA47F94D6;1235.
+(rerunfilecheck)             Checksum: B52FD4EA614EB8E73FC115093E02774E;1498.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44579 strings out of 474116
- 1024302 string characters out of 5743683
+ 44628 strings out of 474116
+ 1025617 string characters out of 5743683
  1964187 words of memory out of 5000000
- 65707 multiletter control sequences out of 15000+600000
+ 65747 multiletter control sequences out of 15000+600000
  700225 words of font info for 346 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,13n,107p,2594b,2842s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fbb/fbb-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4e.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4f.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu51.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu52.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu53.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu54.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu55.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu57.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu59.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu61.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb></usr/local/texl
 ive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu74.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu75.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu76.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu77.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu79.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu82.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu88.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu89.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8d.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu91.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu94.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu95.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu96.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9e.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9f.pfb></usr/local/texlive/2024/texmf-dist/fonts/typ
 e1/arphic/gbsnu/gbsnuff.pfb>
-Output written on main.pdf (47 pages, 922641 bytes).
+Output written on main.pdf (49 pages, 928263 bytes).
 PDF statistics:
- 940 PDF objects out of 1000 (max. 8388607)
- 713 compressed objects within 8 object streams
- 89 named destinations out of 1000 (max. 500000)
- 62750 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 963 PDF objects out of 1000 (max. 8388607)
+ 734 compressed objects within 8 object streams
+ 92 named destinations out of 1000 (max. 500000)
+ 62758 words of extra memory for PDF output out of 74296 (max. 10000000)
 
